@@ -2,6 +2,7 @@
 
 namespace App\Http\Controllers\Public;
 
+use App\Enums\InstitutionStatus;
 use App\Http\Controllers\Controller;
 use App\Models\District;
 use App\Models\Institution;
@@ -9,7 +10,9 @@ use App\Models\InstitutionCategory;
 use App\Models\InstitutionType;
 use App\Models\Municipality;
 use App\Models\Province;
+use Illuminate\Contracts\Pagination\LengthAwarePaginator;
 use Illuminate\Http\Request;
+use Illuminate\Pagination\LengthAwarePaginator as Paginator;
 use Illuminate\View\View;
 
 class DirectoryController extends Controller
@@ -117,7 +120,7 @@ class DirectoryController extends Controller
     public function provinces(): View
     {
         return view('public.places.provinces', [
-            'provinces' => Province::query()->active()->withCount('districts')->orderBy('code')->get(),
+            'provinces' => Province::query()->active()->withDirectoryCounts()->orderBy('code')->get(),
         ]);
     }
 
@@ -125,9 +128,22 @@ class DirectoryController extends Controller
     {
         abort_unless($province->is_active, 404);
 
+        $listed = $this->listedInstitutions(provinceId: $province->id);
+        $province->loadCount('universities');
+        $typeIds = InstitutionType::query()->whereIn('slug', ['school', 'college'])->pluck('id', 'slug');
+
         return view('public.places.province', [
             'province' => $province,
-            'districts' => $province->districts()->active()->withCount('municipalities')->orderBy('name')->get(),
+            'districts' => $province->districts()->active()->withCount([
+                'municipalities',
+                'universities',
+                'institutions as schools_count' => fn ($query) => $query->where('status', InstitutionStatus::Published)->where('institution_type_id', $typeIds->get('school') ?? 0),
+                'institutions as colleges_count' => fn ($query) => $query->where('status', InstitutionStatus::Published)->where('institution_type_id', $typeIds->get('college') ?? 0),
+            ])->orderBy('name')->get(),
+            'schoolCount' => $listed['schoolCount'],
+            'collegeCount' => $listed['collegeCount'],
+            'schools' => $listed['schools'],
+            'colleges' => $listed['colleges'],
         ]);
     }
 
@@ -136,9 +152,15 @@ class DirectoryController extends Controller
         abort_unless($district->is_active, 404);
         $district->load('province');
 
+        $listed = $this->listedInstitutions(districtId: $district->id);
+
         return view('public.places.district', [
             'district' => $district,
             'municipalities' => $district->municipalities()->active()->orderBy('name')->get(),
+            'schoolCount' => $listed['schoolCount'],
+            'collegeCount' => $listed['collegeCount'],
+            'schools' => $listed['schools'],
+            'colleges' => $listed['colleges'],
         ]);
     }
 
@@ -160,10 +182,48 @@ class DirectoryController extends Controller
         ]);
     }
 
+    /**
+     * @return array{schoolCount: int, collegeCount: int, schools: LengthAwarePaginator, colleges: LengthAwarePaginator}
+     */
+    private function listedInstitutions(?int $provinceId = null, ?int $districtId = null): array
+    {
+        $typeIds = InstitutionType::query()->whereIn('slug', ['school', 'college'])->pluck('id', 'slug');
+
+        $base = Institution::query()->published()
+            ->when($provinceId, fn ($query) => $query->where('province_id', $provinceId))
+            ->when($districtId, fn ($query) => $query->where('district_id', $districtId));
+
+        $page = function (string $slug, string $pageName) use ($base, $typeIds) {
+            return (clone $base)
+                ->when($typeIds->get($slug), fn ($query, $typeId) => $query->where('institution_type_id', $typeId))
+                ->with(['type', 'district', 'municipality'])
+                ->orderBy('name')
+                ->paginate(12, ['*'], $pageName)
+                ->withQueryString();
+        };
+
+        return [
+            'schoolCount' => (clone $base)->when($typeIds->get('school'), fn ($query, $typeId) => $query->where('institution_type_id', $typeId))->count(),
+            'collegeCount' => (clone $base)->when($typeIds->get('college'), fn ($query, $typeId) => $query->where('institution_type_id', $typeId))->count(),
+            'schools' => $page('school', 'schools_page'),
+            'colleges' => $page('college', 'colleges_page'),
+        ];
+    }
+
     public function show(Institution $institution): View
     {
         abort_unless($institution->status->value === 'published', 404);
-        $institution->load(['type', 'categories', 'province', 'district', 'municipality', 'ward']);
+        $institution->load([
+            'type',
+            'categories',
+            'province',
+            'district',
+            'municipality',
+            'ward',
+            'contacts',
+            'affiliations.university',
+            'programs.university',
+        ]);
 
         return view('public.institutions.show', [
             'institution' => $institution,
@@ -195,16 +255,25 @@ class DirectoryController extends Controller
         return view('public.contact');
     }
 
-    public function blog(): View
+    public function blog(Request $request): View
     {
         $filePath = base_path('data/blogs.json');
-        $blogs = [];
+        $posts = [];
 
         if (file_exists($filePath)) {
-            $blogs = json_decode(file_get_contents($filePath), true) ?: [];
+            $posts = json_decode(file_get_contents($filePath), true) ?: [];
         }
 
-        $categories = collect($blogs)->pluck('category')->unique()->sort()->values();
+        $categories = collect($posts)->pluck('category')->unique()->sort()->values();
+        $perPage = 9;
+        $page = max(1, $request->integer('page', 1));
+        $blogs = new Paginator(
+            array_slice($posts, ($page - 1) * $perPage, $perPage),
+            count($posts),
+            $perPage,
+            $page,
+            ['path' => $request->url(), 'query' => $request->query()],
+        );
 
         return view('public.blog', [
             'blogs' => $blogs,

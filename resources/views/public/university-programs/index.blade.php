@@ -21,7 +21,7 @@
 </section>
 
 <div class="mx-auto max-w-6xl px-4 py-10">
-    <form method="get" class="mb-8 grid gap-3 rounded-2xl border border-slate-200 bg-white p-4 shadow-sm md:grid-cols-3">
+    <form method="get" class="mb-8 grid items-end gap-3 rounded-2xl border border-slate-200 bg-white p-4 shadow-sm lg:grid-cols-6">
         <label class="block text-sm font-semibold text-slate-700">
             Search
             <input type="search" name="q" value="{{ request('q') }}" placeholder="Program or subject" class="mt-1 w-full rounded-lg border border-slate-300 px-3 py-2 text-sm font-normal">
@@ -54,18 +54,24 @@
                 @endif
             </select>
         </label>
-        <select name="province" class="rounded-lg border border-slate-300 px-3 py-2 text-sm">
-            <option value="">All provinces</option>
-            @foreach ($provinces as $province)
-                <option value="{{ $province->id }}" @selected(request('province') == $province->id)>{{ $province->name }}</option>
-            @endforeach
-        </select>
-        <select name="level" class="rounded-lg border border-slate-300 px-3 py-2 text-sm">
-            <option value="">All degree levels</option>
-            @foreach ($levels as $level)
-                <option value="{{ $level->id }}" @selected(request('level') == $level->id)>{{ $level->name }}</option>
-            @endforeach
-        </select>
+        <label class="block text-sm font-semibold text-slate-700">
+            Province
+            <select name="province" class="mt-1 w-full rounded-lg border border-slate-300 bg-white px-3 py-2 text-sm font-normal">
+                <option value="">All provinces</option>
+                @foreach ($provinces as $province)
+                    <option value="{{ $province->id }}" @selected(request('province') == $province->id)>{{ $province->name }}</option>
+                @endforeach
+            </select>
+        </label>
+        <label class="block text-sm font-semibold text-slate-700">
+            Degree
+            <select name="level" class="mt-1 w-full rounded-lg border border-slate-300 bg-white px-3 py-2 text-sm font-normal">
+                <option value="">All degree levels</option>
+                @foreach ($levels as $level)
+                    <option value="{{ $level->id }}" @selected(request('level') == $level->id)>{{ $level->name }}</option>
+                @endforeach
+            </select>
+        </label>
         <button class="rounded-lg bg-brand-700 px-4 py-2 text-sm font-semibold text-white">Search</button>
     </form>
 

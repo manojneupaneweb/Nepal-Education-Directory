@@ -369,6 +369,7 @@
                     <p class="mt-3 text-sm font-semibold text-white/70">
                         {{ number_format($province->districts_count) }} {{ Str::plural('district', $province->districts_count) }}
                     </p>
+                    <p class="mt-1 text-xs text-white/80">{{ number_format($province->universities_count) }} universities · {{ number_format($province->schools_count) }} schools · {{ number_format($province->colleges_count) }} colleges</p>
                     <span class="mt-3 inline-flex items-center gap-1 text-xs font-semibold text-white/60 transition group-hover:gap-2 group-hover:text-white">
                         Explore <svg class="h-3 w-3" fill="none" viewBox="0 0 24 24" stroke-width="2.5" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" d="M13.5 4.5 21 12m0 0-7.5 7.5M21 12H3"/></svg>
                     </span>

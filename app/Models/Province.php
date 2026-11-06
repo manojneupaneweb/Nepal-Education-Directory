@@ -2,6 +2,7 @@
 
 namespace App\Models;
 
+use App\Enums\InstitutionStatus;
 use Database\Factories\ProvinceFactory;
 use Illuminate\Database\Eloquent\Attributes\Fillable;
 use Illuminate\Database\Eloquent\Builder;
@@ -43,5 +44,41 @@ class Province extends Model
     public function districts(): HasMany
     {
         return $this->hasMany(District::class);
+    }
+
+    public function universities(): HasMany
+    {
+        return $this->hasMany(University::class);
+    }
+
+    public function institutions(): HasMany
+    {
+        return $this->hasMany(Institution::class);
+    }
+
+    /**
+     * @param  Builder<Province>  $query
+     * @return Builder<Province>
+     */
+    public function scopeWithDirectoryCounts(Builder $query): Builder
+    {
+        $typeIds = InstitutionType::query()->whereIn('slug', ['school', 'college'])->pluck('id', 'slug');
+
+        return $query->withCount([
+            'districts',
+            'universities',
+            'institutions as schools_count' => function (Builder $institutions) use ($typeIds) {
+                $institutions->where('status', InstitutionStatus::Published);
+                if ($typeIds->get('school')) {
+                    $institutions->where('institution_type_id', $typeIds->get('school'));
+                }
+            },
+            'institutions as colleges_count' => function (Builder $institutions) use ($typeIds) {
+                $institutions->where('status', InstitutionStatus::Published);
+                if ($typeIds->get('college')) {
+                    $institutions->where('institution_type_id', $typeIds->get('college'));
+                }
+            },
+        ]);
     }
 }

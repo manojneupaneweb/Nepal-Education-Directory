@@ -21,5 +21,9 @@
                 </li>
             @endforeach
         </ul>
+        @include('public.places.partials.institutions', [
+            'placeName' => $district->name,
+            'schoolsUrl' => route('schools.index', ['province' => $district->province_id, 'district' => $district->id]),
+        ])
     </section>
 @endsection

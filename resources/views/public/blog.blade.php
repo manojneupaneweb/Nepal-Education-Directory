@@ -21,7 +21,7 @@
         {{-- Stats strip --}}
         <div class="mt-10 flex flex-wrap gap-6">
             <div class="rounded-xl border border-white/20 bg-white/10 px-5 py-3 text-center backdrop-blur">
-                <p class="text-2xl font-extrabold">{{ count($blogs) }}</p>
+                <p class="text-2xl font-extrabold">{{ number_format($blogs->total()) }}</p>
                 <p class="mt-0.5 text-xs font-semibold text-brand-100">Articles</p>
             </div>
             <div class="rounded-xl border border-white/20 bg-white/10 px-5 py-3 text-center backdrop-blur">
@@ -123,6 +123,8 @@
             @endforeach
 
         </div>
+
+        <div class="mt-8">{{ $blogs->links() }}</div>
 
         {{-- Empty state --}}
         <div id="no-results" class="hidden py-20 text-center">

@@ -49,4 +49,14 @@ class District extends Model
     {
         return $this->hasMany(Municipality::class);
     }
+
+    public function universities(): HasMany
+    {
+        return $this->hasMany(University::class);
+    }
+
+    public function institutions(): HasMany
+    {
+        return $this->hasMany(Institution::class);
+    }
 }

@@ -16,7 +16,7 @@ class HomeController extends Controller
     public function index(): View
     {
         return view('public.home', [
-            'provinces' => Province::query()->active()->withCount('districts')->orderBy('code')->get(),
+            'provinces' => Province::query()->active()->withDirectoryCounts()->orderBy('code')->get(),
             'types' => InstitutionType::query()->active()->orderBy('sort_order')->get(),
             'featuredTypes' => InstitutionType::query()
                 ->active()

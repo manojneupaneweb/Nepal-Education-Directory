@@ -14,6 +14,7 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', [HomeController::class, 'index'])->name('home');
 Route::get('/schools', [DirectoryController::class, 'schools'])->name('schools.index');
 Route::get('/universities', [UniversityController::class, 'index'])->name('universities.index');
+Route::get('/universities/{university}/colleges', [UniversityController::class, 'colleges'])->name('universities.colleges');
 Route::get('/universities/{university}', [UniversityController::class, 'show'])->name('universities.show');
 Route::get('/university-programs', [UniversityProgramController::class, 'index'])->name('university-programs.index');
 Route::get('/university-programs/{university}/programs', [UniversityProgramController::class, 'university'])->name('university-programs.university');

@@ -51,7 +51,7 @@ class PublicDirectoryTest extends TestCase
         $province = Province::factory()->create(['name' => 'Synthetic Province Page', 'slug' => 'synthetic-province-page']);
         $type = InstitutionType::factory()->create(['name' => 'Synthetic Type Page', 'slug' => 'synthetic-type-page']);
 
-        $this->get(route('provinces.show', $province))->assertOk()->assertSee('Synthetic Province Page');
+        $this->get(route('provinces.show', $province))->assertOk()->assertSee('Synthetic Province Page')->assertSee('Schools')->assertSee('Colleges');
         $this->get(route('types.show', $type))->assertOk()->assertSee('No published synthetic type page records yet.');
     }
 }

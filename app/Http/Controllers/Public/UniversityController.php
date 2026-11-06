@@ -2,6 +2,7 @@
 
 namespace App\Http\Controllers\Public;
 
+use App\Enums\InstitutionStatus;
 use App\Http\Controllers\Controller;
 use App\Models\University;
 use Illuminate\Http\Request;
@@ -52,11 +53,26 @@ class UniversityController extends Controller
             'sources',
             'programs.educationLevel',
             'programs.faculty',
-            'institutions',
         ]);
+        $university->loadCount('institutions');
 
         return view('public.universities.show', [
             'university' => $university,
+        ]);
+    }
+
+    public function colleges(University $university): View
+    {
+        $colleges = $university->institutions()
+            ->where('institutions.status', InstitutionStatus::Published)
+            ->with(['district', 'municipality', 'province'])
+            ->orderBy('name')
+            ->paginate(24)
+            ->withQueryString();
+
+        return view('public.universities.colleges', [
+            'university' => $university,
+            'colleges' => $colleges,
         ]);
     }
 }

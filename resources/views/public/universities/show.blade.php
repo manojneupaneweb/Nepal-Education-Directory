@@ -94,57 +94,18 @@
     </div>
 </section>
 
-<div class="mx-auto max-w-6xl space-y-8 px-4 py-10">
-
-    <section class="grid gap-3 sm:grid-cols-2">
-        @if ($place)
-            <div class="flex gap-3 rounded-2xl border border-slate-200 bg-white p-4 shadow-sm">
-                <svg class="mt-0.5 h-5 w-5 shrink-0 text-brand-700" fill="none" viewBox="0 0 24 24" stroke-width="1.8" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M15 10.5a3 3 0 1 1-6 0 3 3 0 0 1 6 0Z"/><path stroke-linecap="round" stroke-linejoin="round" d="M19.5 10.5c0 7.142-7.5 11.25-7.5 11.25S4.5 17.642 4.5 10.5a7.5 7.5 0 1 1 15 0Z"/></svg>
-                <div>
-                    <p class="text-xs font-semibold uppercase tracking-wide text-slate-500">Address</p>
-                    <p class="mt-1 text-sm text-slate-800">{{ $place }}</p>
-                </div>
-            </div>
-        @endif
-        @if ($university->phone)
-            <div class="flex gap-3 rounded-2xl border border-slate-200 bg-white p-4 shadow-sm">
-                <svg class="mt-0.5 h-5 w-5 shrink-0 text-brand-700" fill="none" viewBox="0 0 24 24" stroke-width="1.8" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M2.25 6.75c0 8.284 6.716 15 15 15h1.5a1.5 1.5 0 0 0 1.5-1.5v-2.1a1.5 1.5 0 0 0-1.17-1.46l-3.18-.64a1.5 1.5 0 0 0-1.54.62l-.7 1.05a12 12 0 0 1-5.3-5.3l1.05-.7a1.5 1.5 0 0 0 .62-1.54l-.64-3.18A1.5 1.5 0 0 0 6.6 4.5H4.5A1.5 1.5 0 0 0 3 6v.75Z"/></svg>
-                <div>
-                    <p class="text-xs font-semibold uppercase tracking-wide text-slate-500">Phone</p>
-                    <p class="mt-1 text-sm text-slate-800">{{ $university->phone }}</p>
-                </div>
-            </div>
-        @endif
-        @if ($university->email)
-            <div class="flex gap-3 rounded-2xl border border-slate-200 bg-white p-4 shadow-sm">
-                <svg class="mt-0.5 h-5 w-5 shrink-0 text-brand-700" fill="none" viewBox="0 0 24 24" stroke-width="1.8" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M21.75 6.75v10.5a2.25 2.25 0 0 1-2.25 2.25h-15a2.25 2.25 0 0 1-2.25-2.25V6.75m19.5 0A2.25 2.25 0 0 0 19.5 4.5h-15a2.25 2.25 0 0 0-2.25 2.25m19.5 0v.243a2.25 2.25 0 0 1-1.07 1.916l-7.5 4.615a2.25 2.25 0 0 1-2.36 0L3.32 8.91a2.25 2.25 0 0 1-1.07-1.916V6.75"/></svg>
-                <div>
-                    <p class="text-xs font-semibold uppercase tracking-wide text-slate-500">Email</p>
-                    <a class="mt-1 block text-sm font-semibold text-brand-700" href="mailto:{{ $university->email }}">{{ $university->email }}</a>
-                </div>
-            </div>
-        @endif
-        @if ($university->university_type || $university->ownership)
-            <div class="flex gap-3 rounded-2xl border border-slate-200 bg-white p-4 shadow-sm">
-                <svg class="mt-0.5 h-5 w-5 shrink-0 text-brand-700" fill="none" viewBox="0 0 24 24" stroke-width="1.8" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M3.75 21h16.5M4.5 21V6.75A2.25 2.25 0 0 1 6.75 4.5h10.5a2.25 2.25 0 0 1 2.25 2.25V21M9 9.75h.008v.008H9V9.75Zm0 3.75h.008v.008H9v-.008Zm0 3.75h.008v.008H9v-.008Zm4.5-7.5h.008v.008h-.008V9.75Zm0 3.75h.008v.008h-.008v-.008Zm0 3.75h.008v.008h-.008v-.008Z"/></svg>
-                <div>
-                    <p class="text-xs font-semibold uppercase tracking-wide text-slate-500">Type</p>
-                    <p class="mt-1 text-sm text-slate-800">{{ $university->university_type }}@if ($university->ownership) · {{ ucfirst($university->ownership) }}@endif</p>
-                </div>
-            </div>
-        @endif
-    </section>
-
+<div class="mx-auto grid max-w-6xl items-start gap-8 px-4 py-10 lg:grid-cols-3">
+    <div class="space-y-8 lg:col-span-2">
     @if (filled($university->history))
-        <section>
+        <section class="rounded-2xl border border-slate-200 bg-white p-5 shadow-sm">
             <h2 class="flex items-center gap-3 text-xl font-bold text-slate-900"><span class="h-6 w-4 rounded bg-brand-700" aria-hidden="true"></span>About</h2>
-            <ul class="mt-3 grid gap-3 sm:grid-cols-2">
+            <div class="mt-3 space-y-3 text-sm leading-relaxed text-slate-700">
                 @foreach (preg_split("/\r\n|\n/", $university->history) as $line)
                     @if (filled(trim($line)))
-                        <li class="rounded-2xl border border-slate-200 bg-white p-4 text-sm leading-relaxed text-slate-700 shadow-sm">{{ trim($line) }}</li>
+                        <p>{{ trim($line) }}</p>
                     @endif
                 @endforeach
-            </ul>
+            </div>
         </section>
     @endif
     @include('public.universities.partials.section', ['title' => 'Vision and mission', 'body' => collect([$university->vision, $university->mission, $university->objectives])->filter()->implode("\n\n")])
@@ -204,17 +165,23 @@
         @endif
     </section>
 
-    @if ($university->institutions->isNotEmpty() || $university->ugc_constituent_colleges || $university->ugc_affiliated_colleges)
+    @if ($university->institutions_count || $university->ugc_constituent_colleges || $university->ugc_affiliated_colleges)
         <section>
             <h2 class="flex items-center gap-3 text-xl font-bold text-slate-900"><span class="h-6 w-4 rounded bg-brand-700" aria-hidden="true"></span>Campuses and colleges</h2>
-            @if ($university->ugc_constituent_colleges || $university->ugc_affiliated_colleges || $university->ugc_community_colleges)
-                <p class="mt-2 text-sm text-slate-600">UGC counts: {{ $university->ugc_constituent_colleges ?? 'not stated' }} constituent, {{ $university->ugc_affiliated_colleges ?? 'not stated' }} affiliated, {{ $university->ugc_community_colleges ?? 'not stated' }} community.</p>
+            @php
+                $collegeCounts = collect([
+                    $university->ugc_constituent_colleges ? $university->ugc_constituent_colleges.' constituent' : null,
+                    $university->ugc_affiliated_colleges ? $university->ugc_affiliated_colleges.' affiliated' : null,
+                    $university->ugc_community_colleges ? $university->ugc_community_colleges.' community' : null,
+                ])->filter();
+            @endphp
+            @if ($collegeCounts->isNotEmpty())
+                <p class="mt-2 text-sm text-slate-600">UGC count on file: {{ $collegeCounts->implode(', ') }}.</p>
             @endif
-            <ul class="mt-3 grid gap-2 sm:grid-cols-2">
-                @foreach ($university->institutions as $institution)
-                    <li><a class="text-sm font-semibold text-brand-700" href="{{ route('institutions.show', $institution) }}">{{ $institution->name }}</a></li>
-                @endforeach
-            </ul>
+            <p class="mt-2 text-sm text-slate-600">{{ number_format($university->institutions_count) }} colleges in this directory name {{ $university->name }}.</p>
+            @if ($university->institutions_count)
+                <a href="{{ route('universities.colleges', $university) }}" class="mt-4 inline-flex items-center rounded-lg bg-brand-700 px-4 py-2 text-sm font-semibold text-white">View campuses and colleges</a>
+            @endif
         </section>
     @endif
 
@@ -238,5 +205,41 @@
             </ul>
         </section>
     @endif
+    </div>
+    <aside class="h-fit rounded-2xl border border-slate-200 bg-white p-5 shadow-sm lg:sticky lg:top-24">
+        <h2 class="text-sm font-bold uppercase tracking-wide text-slate-500">At a glance</h2>
+        <dl class="mt-4 space-y-4 text-sm">
+            @if ($place)
+                <div>
+                    <dt class="font-semibold text-slate-500">Address</dt>
+                    <dd class="mt-1 text-slate-900">{{ $place }}</dd>
+                </div>
+            @endif
+            @if ($university->phone)
+                <div>
+                    <dt class="font-semibold text-slate-500">Phone</dt>
+                    <dd class="mt-1 text-slate-900">{{ $university->phone }}</dd>
+                </div>
+            @endif
+            @if ($university->email)
+                <div>
+                    <dt class="font-semibold text-slate-500">Email</dt>
+                    <dd class="mt-1"><a class="font-semibold text-brand-700" href="mailto:{{ $university->email }}">{{ $university->email }}</a></dd>
+                </div>
+            @endif
+            @if ($university->university_type)
+                <div>
+                    <dt class="font-semibold text-slate-500">Type</dt>
+                    <dd class="mt-1 text-slate-900">{{ $university->university_type }}@if ($university->ownership) · {{ ucfirst($university->ownership) }}@endif</dd>
+                </div>
+            @endif
+            @if ($university->official_website)
+                <div>
+                    <dt class="font-semibold text-slate-500">Website</dt>
+                    <dd class="mt-1 break-all"><a class="font-semibold text-brand-700" href="{{ $university->official_website }}" target="_blank" rel="noopener noreferrer">{{ parse_url($university->official_website, PHP_URL_HOST) }}</a></dd>
+                </div>
+            @endif
+        </dl>
+    </aside>
 </div>
 @endsection

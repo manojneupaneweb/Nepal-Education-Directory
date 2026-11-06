@@ -12,6 +12,9 @@
                     <p class="text-sm font-semibold text-brand-700">Code {{ $province->code }}</p>
                     <h2 class="mt-1 text-xl font-bold">{{ $province->name }}</h2>
                     <p class="mt-2 text-sm text-slate-600">{{ number_format($province->districts_count) }} districts</p>
+                    <p class="mt-2 text-sm text-slate-700">{{ number_format($province->universities_count) }} universities</p>
+                    <p class="text-sm text-slate-700">{{ number_format($province->schools_count) }} schools</p>
+                    <p class="text-sm text-slate-700">{{ number_format($province->colleges_count) }} colleges</p>
                 </a>
             @empty
                 <p class="text-slate-600">No provinces are available. Import the geographic dataset first.</p>

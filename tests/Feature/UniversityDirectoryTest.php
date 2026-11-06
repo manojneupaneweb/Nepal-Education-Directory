@@ -2,7 +2,9 @@
 
 namespace Tests\Feature;
 
+use App\Enums\InstitutionStatus;
 use App\Enums\ResearchVerificationStatus;
+use App\Models\Institution;
 use App\Models\Program;
 use App\Models\University;
 use App\Models\UniversityFaculty;
@@ -42,6 +44,31 @@ class UniversityDirectoryTest extends TestCase
 
         $this->get(route('university-programs.index'))->assertOk();
         $this->get(route('sitemap'))->assertOk();
+    }
+
+    public function test_university_colleges_page_lists_linked_colleges(): void
+    {
+        $university = University::factory()->create([
+            'name' => 'Synthetic Campus University',
+            'slug' => 'synthetic-campus-university',
+        ]);
+        $college = Institution::factory()->create([
+            'name' => 'Synthetic Affiliated College',
+            'status' => InstitutionStatus::Published,
+        ]);
+        $university->institutions()->attach($college->id, [
+            'affiliation_type' => 'affiliated',
+            'status' => 'pending',
+        ]);
+
+        $this->get(route('universities.show', $university))
+            ->assertOk()
+            ->assertSee('View campuses and colleges')
+            ->assertSee(route('universities.colleges', $university), false);
+
+        $this->get(route('universities.colleges', $university))
+            ->assertOk()
+            ->assertSee('Synthetic Affiliated College');
     }
 
     public function test_research_fills_only_empty_contact_fields_from_the_official_page(): void
