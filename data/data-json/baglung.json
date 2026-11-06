@@ -1,0 +1,73 @@
+{
+  "district": "Baglung",
+  "slug": "baglung",
+  "code": 411,
+  "province": {
+    "code": 4,
+    "name_en": "Gandaki Province",
+    "name_ne": "गण्डकी प्रदेश"
+  },
+  "total_municipalities": 10,
+  "municipalities": [
+    {
+      "code": 41101,
+      "name_en": "Baglung Urban Municipality",
+      "name_ne": "बाग्लुङ्ग नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 41102,
+      "name_en": "Kathekhola Rural Municipality",
+      "name_ne": "काठेखोला गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 41103,
+      "name_en": "Tarakhola Rural Municipality",
+      "name_ne": "ताराखोला गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 41104,
+      "name_en": "Tamankhola Rural Municipality",
+      "name_ne": "तमानखोला गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 41105,
+      "name_en": "Dhorpatan Urban Municipality",
+      "name_ne": "ढोरपाटन नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 41106,
+      "name_en": "Nisikhola Rural Municipality",
+      "name_ne": "निसीखोला गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 41107,
+      "name_en": "Badigad Rural Municipality",
+      "name_ne": "बडिगाड गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 41108,
+      "name_en": "Galkot Urban Municipality",
+      "name_ne": "गल्कोट नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 41109,
+      "name_en": "Bareng Rural Municipality",
+      "name_ne": "बरेङ गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 41110,
+      "name_en": "Jaimuni Urban Municipality",
+      "name_ne": "जैमुनी नगरपालिका",
+      "type": "Municipality"
+    }
+  ]
+}

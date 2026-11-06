@@ -1,0 +1,67 @@
+{
+  "district": "Sindhuli",
+  "slug": "sindhuli",
+  "code": 311,
+  "province": {
+    "code": 3,
+    "name_en": "Bagmati Province",
+    "name_ne": "बागमती प्रदेश"
+  },
+  "total_municipalities": 9,
+  "municipalities": [
+    {
+      "code": 31101,
+      "name_en": "Dudhouli Urban Municipality",
+      "name_ne": "दुधौली नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 31102,
+      "name_en": "Phikkal Rural Municipality",
+      "name_ne": "फिक्कल गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 31103,
+      "name_en": "Tinpatan Rural Municipality",
+      "name_ne": "तीनपाटन गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 31104,
+      "name_en": "Golanjor Rural Municipality",
+      "name_ne": "गोलन्जोर गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 31105,
+      "name_en": "Kamalamai Urban Municipality",
+      "name_ne": "कमलामाई नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 31106,
+      "name_en": "Sunkoshi Rural Municipality",
+      "name_ne": "सुनकोशी गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 31107,
+      "name_en": "Ghyanglekha Rural Municipality",
+      "name_ne": "ध्याङलेख गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 31108,
+      "name_en": "Marin Rural Municipality",
+      "name_ne": "मरिण गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 31109,
+      "name_en": "Hariharpurgaghi Rural Municipality",
+      "name_ne": "हरिहरपुरगढी गाउँपालिका",
+      "type": "Rural Municipality"
+    }
+  ]
+}

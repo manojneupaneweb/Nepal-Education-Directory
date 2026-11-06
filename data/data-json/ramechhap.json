@@ -1,0 +1,61 @@
+{
+  "district": "Ramechhap",
+  "slug": "ramechhap",
+  "code": 310,
+  "province": {
+    "code": 3,
+    "name_en": "Bagmati Province",
+    "name_ne": "बागमती प्रदेश"
+  },
+  "total_municipalities": 8,
+  "municipalities": [
+    {
+      "code": 31001,
+      "name_en": "Umakunda Rural Municipality",
+      "name_ne": "उमाकुण्ड गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 31002,
+      "name_en": "Gokulganga Rural Municipality",
+      "name_ne": "गोकुलगङ्गा गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 31003,
+      "name_en": "Likhu Tamakoshi Rural Municipality",
+      "name_ne": "लिखु तामाकोशी गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 31004,
+      "name_en": "Ramechhap Urban Municipality",
+      "name_ne": "रामेछाप नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 31005,
+      "name_en": "Manthali  Urban Municipality",
+      "name_ne": "मन्थली नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 31006,
+      "name_en": "Khandadevi Rural Municipality",
+      "name_ne": "खाँडादेवी गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 31007,
+      "name_en": "Doramba Rural Municipality",
+      "name_ne": "दोरम्बा गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 31008,
+      "name_en": "Sunapati Rural Municipality",
+      "name_ne": "सुनापती गाउँपालिका",
+      "type": "Rural Municipality"
+    }
+  ]
+}

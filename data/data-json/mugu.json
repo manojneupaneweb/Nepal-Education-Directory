@@ -1,0 +1,37 @@
+{
+  "district": "Mugu",
+  "slug": "mugu",
+  "code": 602,
+  "province": {
+    "code": 6,
+    "name_en": "Karnali Province",
+    "name_ne": "कर्णाली प्रदेश"
+  },
+  "total_municipalities": 4,
+  "municipalities": [
+    {
+      "code": 60201,
+      "name_en": "Mugumakarmarog Rural Municipality",
+      "name_ne": "मुगुमकार्मारोग गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 60202,
+      "name_en": "Chhayanath Rara Urban Municipality",
+      "name_ne": "छायाँनाथ रारा नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 60203,
+      "name_en": "Soru Rural Municipality",
+      "name_ne": "सोरु गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 60204,
+      "name_en": "Khatyad Rural Municipality",
+      "name_ne": "खत्याड गाउँपालिका",
+      "type": "Rural Municipality"
+    }
+  ]
+}

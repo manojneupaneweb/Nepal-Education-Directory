@@ -1,0 +1,67 @@
+{
+  "district": "Kalikot",
+  "slug": "kalikot",
+  "code": 605,
+  "province": {
+    "code": 6,
+    "name_en": "Karnali Province",
+    "name_ne": "कर्णाली प्रदेश"
+  },
+  "total_municipalities": 9,
+  "municipalities": [
+    {
+      "code": 60501,
+      "name_en": "Palata Rural Municipality",
+      "name_ne": "पलाता गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 60502,
+      "name_en": "Pachal Jharana Rural Municipality",
+      "name_ne": "पचाल झरना गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 60503,
+      "name_en": "Raskot Urban Municipality",
+      "name_ne": "रास्कोट नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 60504,
+      "name_en": "Sanni Tribeni Rural Municipality",
+      "name_ne": "सान्नी त्रिवेणी गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 60505,
+      "name_en": "Naraharinath Rural Municipality",
+      "name_ne": "नरहरिनाथ गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 60506,
+      "name_en": "Khandachakra Urban Municipality",
+      "name_ne": "खाँडाचक्र नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 60507,
+      "name_en": "Tilagupha Urban Municipality",
+      "name_ne": "तिलागुफा नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 60508,
+      "name_en": "Mahawai Rural Municipality",
+      "name_ne": "महावै गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 60509,
+      "name_en": "Shuva Kalika Rural Municipality",
+      "name_ne": "शुभ कालीका गाउँपालिका",
+      "type": "Rural Municipality"
+    }
+  ]
+}

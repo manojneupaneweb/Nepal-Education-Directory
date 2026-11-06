@@ -1,0 +1,79 @@
+{
+  "district": "Syangja",
+  "slug": "syangja",
+  "code": 409,
+  "province": {
+    "code": 4,
+    "name_en": "Gandaki Province",
+    "name_ne": "गण्डकी प्रदेश"
+  },
+  "total_municipalities": 11,
+  "municipalities": [
+    {
+      "code": 40901,
+      "name_en": "Putalibazar Urban Municipality",
+      "name_ne": "पुतलीबजार नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 40902,
+      "name_en": "Phedikhola Rural Municipality",
+      "name_ne": "फेदीखोला गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 40903,
+      "name_en": "Aandhikhola Rural Municipality",
+      "name_ne": "आँधिखोला गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 40904,
+      "name_en": "Arjun Choupari Rural Municipality",
+      "name_ne": "अर्जुनचौपारी गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 40905,
+      "name_en": "Bhirkot Urban Municipality",
+      "name_ne": "भीरकोट नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 40906,
+      "name_en": "Biruwa Rural Municipality",
+      "name_ne": "बिरुवा गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 40907,
+      "name_en": "Harinas Rural Municipality",
+      "name_ne": "हरिनास गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 40908,
+      "name_en": "Chapakot Urban Municipality",
+      "name_ne": "चापाकोट नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 40909,
+      "name_en": "Walling Urban Municipality",
+      "name_ne": "वालिङ्ग नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 40910,
+      "name_en": "Galyang Urban Municipality",
+      "name_ne": "गल्याङ नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 40911,
+      "name_en": "Kaligandaki Rural Municipality",
+      "name_ne": "कालीगण्डकी गाउँपालिका",
+      "type": "Rural Municipality"
+    }
+  ]
+}

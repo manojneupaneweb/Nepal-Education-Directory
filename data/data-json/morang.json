@@ -1,0 +1,115 @@
+{
+  "district": "Morang",
+  "slug": "morang",
+  "code": 112,
+  "province": {
+    "code": 1,
+    "name_en": "Koshi Province",
+    "name_ne": "कोशी प्रदेश"
+  },
+  "total_municipalities": 17,
+  "municipalities": [
+    {
+      "code": 11201,
+      "name_en": "Miklajung Rural Municipality",
+      "name_ne": "मिक्लाजुङ गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 11202,
+      "name_en": "Letang Urban Municipality",
+      "name_ne": "लेटाङ नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 11203,
+      "name_en": "Kerabari Rural Municipality",
+      "name_ne": "केराबारी गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 11204,
+      "name_en": "Sundarharaicha Urban Municipality",
+      "name_ne": "सुन्दरहरैंचा नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 11205,
+      "name_en": "Belbari Urban Municipality",
+      "name_ne": "बेलबारी नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 11206,
+      "name_en": "Kanepokhari Rural Municipality",
+      "name_ne": "कानेपोखरी गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 11207,
+      "name_en": "Pathari Shanishchare Urban Municipality",
+      "name_ne": "पथरी शनिश्चरे नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 11208,
+      "name_en": "Urlabari Urban Municipality",
+      "name_ne": "उर्लाबारी नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 11209,
+      "name_en": "Ratuwamai Urban Municipality",
+      "name_ne": "रतुवामाई नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 11210,
+      "name_en": "Sunwarshi Urban Municipality",
+      "name_ne": "सुनवर्षी नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 11211,
+      "name_en": "Rangeli Urban Municipality",
+      "name_ne": "रंगेली नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 11212,
+      "name_en": "Gramthan Rural Municipality",
+      "name_ne": "ग्रामथान गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 11213,
+      "name_en": "Budhiganga Rural Municipality",
+      "name_ne": "बुढीगंगा गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 11214,
+      "name_en": "Biratnagar Metropolitian City",
+      "name_ne": "बिराटनगर महानगरपालिका",
+      "type": "Metropolitan City"
+    },
+    {
+      "code": 11215,
+      "name_en": "Katahari Rural Municipality",
+      "name_ne": "कटहरी गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 11216,
+      "name_en": "Dhanapalthan Rural Municipality",
+      "name_ne": "धनपालथान गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 11217,
+      "name_en": "Jahada Rural Municipality",
+      "name_ne": "जहदा गाउँपालिका",
+      "type": "Rural Municipality"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "district": "Solukhumbu",
+  "slug": "solukhumbu",
+  "code": 103,
+  "province": {
+    "code": 1,
+    "name_en": "Koshi Province",
+    "name_ne": "कोशी प्रदेश"
+  },
+  "total_municipalities": 8,
+  "municipalities": [
+    {
+      "code": 10301,
+      "name_en": "Khumbu Pasanglhamu Rural Municipality",
+      "name_ne": "खुम्बु पासाङल्हामु गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 10302,
+      "name_en": "Mahakulung Rural Municipality",
+      "name_ne": "माहाकुलुङ गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 10303,
+      "name_en": "Sotang Rural Municipality",
+      "name_ne": "सोताङ गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 10304,
+      "name_en": "Mapya Dudhkoshi Rural Municipality",
+      "name_ne": "माप्य दुधकोशी गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 10305,
+      "name_en": "Thulung Dudhkoshi Rural Municipality",
+      "name_ne": "थुलुङ दुधकोशी गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 10306,
+      "name_en": "Necha Salyan Rural Municipality",
+      "name_ne": "नेचासल्यान गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 10307,
+      "name_en": "Solu Dhudhakunda Urban Municipality",
+      "name_ne": "सोलुदुधकुण्ड नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 10308,
+      "name_en": "Likhu Pike Rural Municipality",
+      "name_ne": "लिखु पिके गाउँपालिका",
+      "type": "Rural Municipality"
+    }
+  ]
+}

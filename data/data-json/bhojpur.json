@@ -1,0 +1,67 @@
+{
+  "district": "Bhojpur",
+  "slug": "bhojpur",
+  "code": 106,
+  "province": {
+    "code": 1,
+    "name_en": "Koshi Province",
+    "name_ne": "कोशी प्रदेश"
+  },
+  "total_municipalities": 9,
+  "municipalities": [
+    {
+      "code": 10601,
+      "name_en": "Shadananda Urban Municipality",
+      "name_ne": "षडानन्द नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 10602,
+      "name_en": "Salpa Silichho Rural Municipality",
+      "name_ne": "साल्पासिलिछो गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 10603,
+      "name_en": "Temkemaiyum Rural Municipality",
+      "name_ne": "टेम्केमैयुङ गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 10604,
+      "name_en": "Bhojpur Urban Municipality",
+      "name_ne": "भोजपुर नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 10605,
+      "name_en": "Arun Rural Municipality",
+      "name_ne": "अरुण गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 10606,
+      "name_en": "Pauwa Dunma Rural Municipality",
+      "name_ne": "पौवा दुङ्मा गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 10607,
+      "name_en": "Ramprasad Rai Rural Municipality",
+      "name_ne": "रामप्रसाद राई गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 10608,
+      "name_en": "Hatuwagadhi Rural Municipality",
+      "name_ne": "हतुवागढी गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 10609,
+      "name_en": "Aamchowk Rural Municipality",
+      "name_ne": "आमचोक गाउँपालिका",
+      "type": "Rural Municipality"
+    }
+  ]
+}

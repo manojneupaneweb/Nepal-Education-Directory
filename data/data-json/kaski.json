@@ -1,0 +1,43 @@
+{
+  "district": "Kaski",
+  "slug": "kaski",
+  "code": 405,
+  "province": {
+    "code": 4,
+    "name_en": "Gandaki Province",
+    "name_ne": "गण्डकी प्रदेश"
+  },
+  "total_municipalities": 5,
+  "municipalities": [
+    {
+      "code": 40501,
+      "name_en": "Madi Rural Municipality",
+      "name_ne": "मादी गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 40502,
+      "name_en": "Machhapuchchhre Rural Municipality",
+      "name_ne": "माछापुच्छ्र्े गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 40503,
+      "name_en": "Annapurna Rural Municipality",
+      "name_ne": "अन्नपूर्ण गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 40504,
+      "name_en": "Pokhara Metropolitian City",
+      "name_ne": "पोखरा महानगरपालिका",
+      "type": "Metropolitan City"
+    },
+    {
+      "code": 40505,
+      "name_en": "Rupa Rural Municipality",
+      "name_ne": "रूपा गाउँपालिका",
+      "type": "Rural Municipality"
+    }
+  ]
+}

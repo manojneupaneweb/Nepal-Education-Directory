@@ -1,0 +1,91 @@
+{
+  "district": "Kavrepalanchok",
+  "slug": "kavrepalanchok",
+  "code": 309,
+  "province": {
+    "code": 3,
+    "name_en": "Bagmati Province",
+    "name_ne": "बागमती प्रदेश"
+  },
+  "total_municipalities": 13,
+  "municipalities": [
+    {
+      "code": 30901,
+      "name_en": "Chauri Deurali Rural Municipality",
+      "name_ne": "चौरीदेउराली गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 30902,
+      "name_en": "Bhumlu Rural Municipality",
+      "name_ne": "भुम्लु गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 30903,
+      "name_en": "Mandan Deupur Urban Municipality",
+      "name_ne": "मण्डन देउपुर नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 30904,
+      "name_en": "Banepa Urban Municipality",
+      "name_ne": "बनेपा नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 30905,
+      "name_en": "Dhulikhel Urban Municipality",
+      "name_ne": "धुलिखेल नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 30906,
+      "name_en": "Panchkhal Urban Municipality",
+      "name_ne": "पाँचखाल नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 30907,
+      "name_en": "Temal Rural Municipality",
+      "name_ne": "तेमाल गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 30908,
+      "name_en": "Namobuddha Urban Municipality",
+      "name_ne": "नमोबुद्ध नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 30909,
+      "name_en": "Panauti Urban Municipality",
+      "name_ne": "पनौती नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 30910,
+      "name_en": "Bethanchowk Rural Municipality",
+      "name_ne": "बेथानचोक गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 30911,
+      "name_en": "Roshi Rural Municipality",
+      "name_ne": "रोशी गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 30912,
+      "name_en": "Mahabharat Rural Municipality",
+      "name_ne": "महाभारत गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 30913,
+      "name_en": "Khanikhola Rural Municipality",
+      "name_ne": "खानीखोला गाउँपालिका",
+      "type": "Rural Municipality"
+    }
+  ]
+}

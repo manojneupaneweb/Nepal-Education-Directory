@@ -1,0 +1,79 @@
+{
+  "district": "Gorkha",
+  "slug": "gorkha",
+  "code": 401,
+  "province": {
+    "code": 4,
+    "name_en": "Gandaki Province",
+    "name_ne": "गण्डकी प्रदेश"
+  },
+  "total_municipalities": 11,
+  "municipalities": [
+    {
+      "code": 40101,
+      "name_en": "Chumanubri Rural Municipality",
+      "name_ne": "चुमनुब्री गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 40102,
+      "name_en": "Ajirkot Rural Municipality",
+      "name_ne": "अजिरकोट गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 40103,
+      "name_en": "Barpak Sulikot Rural Municipality",
+      "name_ne": "बारपाक सुलिकोट गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 40104,
+      "name_en": "Dharche Rural Municipality",
+      "name_ne": "धार्चे गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 40105,
+      "name_en": "Aarughat Rural Municipality",
+      "name_ne": "आरुघाट गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 40106,
+      "name_en": "Bhimsenthapa Rural Municipality",
+      "name_ne": "भिमसेनथापा गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 40107,
+      "name_en": "Siranchowk Rural Municipality",
+      "name_ne": "सिरानचोक गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 40108,
+      "name_en": "Palungtar Urban Municipality",
+      "name_ne": "पालुङ्गटार नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 40109,
+      "name_en": "Gorkha Urban Municipality",
+      "name_ne": "गोरखा नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 40110,
+      "name_en": "Shahid Lakhan Rural Municipality",
+      "name_ne": "शहीद लखन गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 40111,
+      "name_en": "Gandaki Rural Municipality",
+      "name_ne": "गण्डकी गाउँपालिका",
+      "type": "Rural Municipality"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "district": "Dadeldhura",
+  "slug": "dadeldhura",
+  "code": 705,
+  "province": {
+    "code": 7,
+    "name_en": "Sudurpashchim Province",
+    "name_ne": "सुदूरपश्चिम प्रदेश"
+  },
+  "total_municipalities": 7,
+  "municipalities": [
+    {
+      "code": 70501,
+      "name_en": "Nawadurga Rural Municipality",
+      "name_ne": "नवदुर्गा गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 70502,
+      "name_en": "Amargadhi Urban Municipality",
+      "name_ne": "अमरगढी नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 70503,
+      "name_en": "Ajayameru Rural Municipality",
+      "name_ne": "अजयमेरु गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 70504,
+      "name_en": "Bhageshwor Rural Municipality",
+      "name_ne": "भागेश्वर गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 70505,
+      "name_en": "Parashuram Urban Municipality",
+      "name_ne": "परशुराम नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 70506,
+      "name_en": "Aalital Rural Municipality",
+      "name_ne": "आलिताल गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 70507,
+      "name_en": "Ganyapdhura Rural Municipality",
+      "name_ne": "गन्यापधुरा गाउँपालिका",
+      "type": "Rural Municipality"
+    }
+  ]
+}

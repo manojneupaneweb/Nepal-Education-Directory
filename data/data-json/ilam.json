@@ -1,0 +1,73 @@
+{
+  "district": "Ilam",
+  "slug": "ilam",
+  "code": 110,
+  "province": {
+    "code": 1,
+    "name_en": "Koshi Province",
+    "name_ne": "कोशी प्रदेश"
+  },
+  "total_municipalities": 10,
+  "municipalities": [
+    {
+      "code": 11001,
+      "name_en": "Mai Jogmai Rural Municipality",
+      "name_ne": "माई जोगमाई गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 11002,
+      "name_en": "Sandakpur Rural Municipality",
+      "name_ne": "सन्दकपुर गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 11003,
+      "name_en": "Illam Urban Municipality",
+      "name_ne": "ईलाम नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 11004,
+      "name_en": "Deumai Urban Municipality",
+      "name_ne": "देउमाई नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 11005,
+      "name_en": "Fakfokathum Rural Municipality",
+      "name_ne": "फाकफोकथुम गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 11006,
+      "name_en": "Mangsebung Rural Municipality",
+      "name_ne": "माङसेबुङ गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 11007,
+      "name_en": "Chulachuli Rural Municipality",
+      "name_ne": "चुलाचुली गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 11008,
+      "name_en": "Mai Urban Municipality",
+      "name_ne": "माई नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 11009,
+      "name_en": "Suryodaya Urban Municipality",
+      "name_ne": "सूर्योदय नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 11010,
+      "name_en": "Rong Rural Municipality",
+      "name_ne": "रोङ गाउँपालिका",
+      "type": "Rural Municipality"
+    }
+  ]
+}

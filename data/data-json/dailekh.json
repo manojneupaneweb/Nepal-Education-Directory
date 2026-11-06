@@ -1,0 +1,79 @@
+{
+  "district": "Dailekh",
+  "slug": "dailekh",
+  "code": 606,
+  "province": {
+    "code": 6,
+    "name_en": "Karnali Province",
+    "name_ne": "कर्णाली प्रदेश"
+  },
+  "total_municipalities": 11,
+  "municipalities": [
+    {
+      "code": 60601,
+      "name_en": "Naumule Rural Municipality",
+      "name_ne": "नौमुले गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 60602,
+      "name_en": "Mahabu Rural Municipality",
+      "name_ne": "महाबु गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 60603,
+      "name_en": "Bhairabi Rural Municipality",
+      "name_ne": "भैरवी गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 60604,
+      "name_en": "Thantikandh Rural Municipality",
+      "name_ne": "ठाँटीकाँध गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 60605,
+      "name_en": "Aathbis Urban Municipality",
+      "name_ne": "आठबीस नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 60606,
+      "name_en": "Chamunda Bindrasaini Urban Municipality",
+      "name_ne": "चामुण्डा बिन्द्रासैनी नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 60607,
+      "name_en": "Dullu Urban Municipality",
+      "name_ne": "दुल्लु नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 60608,
+      "name_en": "Narayan Urban Municipality",
+      "name_ne": "नारायण नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 60609,
+      "name_en": "Bhagawatimai Rural Municipality",
+      "name_ne": "भगवतीमाई गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 60610,
+      "name_en": "Dungeshwor Rural Municipality",
+      "name_ne": "डुङ्गेश्वर गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 60611,
+      "name_en": "Gurans Rural Municipality",
+      "name_ne": "गुराँस गाउँपालिका",
+      "type": "Rural Municipality"
+    }
+  ]
+}

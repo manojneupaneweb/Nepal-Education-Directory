@@ -1,0 +1,90 @@
+### 1. Koshi Province — 14 districts
+1. Bhojpur  
+2. Dhankuta  
+3. Ilam  
+4. Jhapa  
+5. Khotang  
+6. Morang  
+7. Okhaldhunga  
+8. Panchthar  
+9. Sankhuwasabha  
+10. Solukhumbu  
+11. Sunsari  
+12. Taplejung  
+13. Terhathum  
+14. Udayapur  
+
+### 2. Madhesh Province — 8 districts
+1. Saptari  
+2. Siraha  
+3. Dhanusha  
+4. Mahottari  
+5. Sarlahi  
+6. Rautahat  
+7. Bara  
+8. Parsa  
+
+### 3. Bagmati Province — 13 districts
+1. Kathmandu  
+2. Lalitpur  
+3. Bhaktapur  
+4. Kavrepalanchok  
+5. Sindhupalchok  
+6. Nuwakot  
+7. Rasuwa  
+8. Dhading  
+9. Makwanpur  
+10. Chitwan  
+11. Ramechhap  
+12. Dolakha  
+13. Sindhuli  
+
+### 4. Gandaki Province — 11 districts
+1. Baglung  
+2. Gorkha  
+3. Kaski  
+4. Lamjung  
+5. Manang  
+6. Mustang  
+7. Myagdi  
+8. Nawalpur  
+9. Parbat  
+10. Syangja  
+11. Tanahun  
+
+### 5. Lumbini Province — 12 districts
+1. Arghakhanchi  
+2. Banke  
+3. Bardiya  
+4. Dang  
+5. Eastern Rukum  
+6. Gulmi  
+7. Kapilvastu  
+8. Parasi  
+9. Palpa  
+10. Pyuthan  
+11. Rolpa  
+12. Rupandehi  
+
+### 6. Karnali Province — 10 districts
+1. Surkhet  
+2. Dailekh  
+3. Jajarkot  
+4. Dolpa  
+5. Humla  
+6. Jumla  
+7. Kalikot  
+8. Mugu  
+9. Salyan  
+10. Western Rukum  
+
+### 7. Sudurpashchim Province — 9 districts
+1. Kailali  
+2. Kanchanpur  
+3. Dadeldhura  
+4. Baitadi  
+5. Darchula  
+6. Achham  
+7. Doti  
+8. Bajura  
+9. Bajhang  

@@ -1,0 +1,61 @@
+{
+  "district": "Udayapur",
+  "slug": "udayapur",
+  "code": 114,
+  "province": {
+    "code": 1,
+    "name_en": "Koshi Province",
+    "name_ne": "कोशी प्रदेश"
+  },
+  "total_municipalities": 8,
+  "municipalities": [
+    {
+      "code": 11401,
+      "name_en": "Belaka Urban Municipality",
+      "name_ne": "बेलका नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 11402,
+      "name_en": "Chaudandigadhi Urban Municipality",
+      "name_ne": "चौदण्डीगढी नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 11403,
+      "name_en": "Triyuga Urban Municipality",
+      "name_ne": "त्रियुगा नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 11404,
+      "name_en": "Rautamai Rural Municipality",
+      "name_ne": "रौतामाई गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 11405,
+      "name_en": "Limchungbung Rural Municipality",
+      "name_ne": "लिम्चुङबुङ  गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 11406,
+      "name_en": "Tapli Rural Municipality",
+      "name_ne": "ताप्ली गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 11407,
+      "name_en": "Katari Urban Municipality",
+      "name_ne": "कटारी नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 11408,
+      "name_en": "Udayapurgadhi Rural Municipality",
+      "name_ne": "उदयपुरगढी गाउँपालिका",
+      "type": "Rural Municipality"
+    }
+  ]
+}

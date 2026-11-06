@@ -1,0 +1,61 @@
+{
+  "district": "Banke",
+  "slug": "banke",
+  "code": 511,
+  "province": {
+    "code": 5,
+    "name_en": "Lumbini Province",
+    "name_ne": "लुम्बिनी प्रदेश"
+  },
+  "total_municipalities": 8,
+  "municipalities": [
+    {
+      "code": 51101,
+      "name_en": "Rapti Sonari Rural Municipality",
+      "name_ne": "राप्ती सोनारी गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 51102,
+      "name_en": "Kohalpur Urban Municipality",
+      "name_ne": "कोहलपुर नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 51103,
+      "name_en": "Baijanath Rural Municipality",
+      "name_ne": "बैजनाथ गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 51104,
+      "name_en": "Khajura Rural Municipality",
+      "name_ne": "खजुरा गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 51105,
+      "name_en": "Janaki Rural Municipality",
+      "name_ne": "जानकी गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 51106,
+      "name_en": "Nepalganj Sub-Metropolitian City",
+      "name_ne": "नेपालगञ्ज उपमहानगरपालिका",
+      "type": "Sub-Metropolitan City"
+    },
+    {
+      "code": 51107,
+      "name_en": "Duduwa Rural Municipality",
+      "name_ne": "डुडुवा गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 51108,
+      "name_en": "Narainapur Rural Municipality",
+      "name_ne": "नरैनापुर गाउँपालिका",
+      "type": "Rural Municipality"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+    "key": "nso-geographical-codes-local-unit",
+    "name": "Geographical codes for provinces, districts and local units",
+    "organization": "National Statistics Office, Nepal (coding scheme prepared by the former Central Bureau of Statistics)",
+    "source_url": "https://nsonepal.gov.np/content/7694/7694-geographical-codes-map-provi/",
+    "file_url": "https://giwmscdnone.gov.np/media/app/public/36/posts/1695378470_83.xls",
+    "version": "Spreadsheet 1695378470_83.xls, last saved 2023-09-22",
+    "reference_period": "2017 local-level structure published in the NSO geographic code file",
+    "retrieved_on": "2026-11-04",
+    "levels": ["province", "district", "municipality"],
+    "notes": "The workbook's province labels are State 1 through State 7. Its province and district Nepali columns are legacy font bytes, not Unicode, so they are not imported. Local-unit Nepali names are Unicode. The workbook spells six metropolitan names as Metropolitian. No ward list is included."
+}

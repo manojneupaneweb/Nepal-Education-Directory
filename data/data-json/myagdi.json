@@ -1,0 +1,49 @@
+{
+  "district": "Myagdi",
+  "slug": "myagdi",
+  "code": 404,
+  "province": {
+    "code": 4,
+    "name_en": "Gandaki Province",
+    "name_ne": "गण्डकी प्रदेश"
+  },
+  "total_municipalities": 6,
+  "municipalities": [
+    {
+      "code": 40401,
+      "name_en": "Annapurna Rural Municipality",
+      "name_ne": "अन्नपूर्ण गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 40402,
+      "name_en": "Raghuganga Rural Municipality",
+      "name_ne": "रघुगंगा गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 40403,
+      "name_en": "Dhawalagiri Rural Municipality",
+      "name_ne": "धवलागिरी गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 40404,
+      "name_en": "Malika Rural Municipality",
+      "name_ne": "मालिका गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 40405,
+      "name_en": "Mangala Rural Municipality",
+      "name_ne": "मंगला गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 40406,
+      "name_en": "Beni Urban Municipality",
+      "name_ne": "बेनी नगरपालिका",
+      "type": "Municipality"
+    }
+  ]
+}

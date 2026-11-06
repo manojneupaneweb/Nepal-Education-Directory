@@ -1,0 +1,11 @@
+{
+    "key": "synthetic-geography",
+    "name": "Synthetic geography fixture",
+    "organization": "ShikshaKhoj tests",
+    "source_url": "https://example.test/synthetic-geography",
+    "version": "test",
+    "reference_period": "test",
+    "retrieved_on": "2026-11-04",
+    "levels": ["province", "district", "municipality", "ward"],
+    "notes": "Synthetic records for automated tests. Not official Nepal data."
+}

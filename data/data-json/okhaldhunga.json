@@ -1,0 +1,61 @@
+{
+  "district": "Okhaldhunga",
+  "slug": "okhaldhunga",
+  "code": 104,
+  "province": {
+    "code": 1,
+    "name_en": "Koshi Province",
+    "name_ne": "कोशी प्रदेश"
+  },
+  "total_municipalities": 8,
+  "municipalities": [
+    {
+      "code": 10401,
+      "name_en": "Chishankhu Gadhi Rural Municipality",
+      "name_ne": "चिशंखुगढी गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 10402,
+      "name_en": "Siddhicharan Urban Municipality",
+      "name_ne": "सिद्धिचरण नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 10403,
+      "name_en": "Molung Rural Municipality",
+      "name_ne": "मोलुङ्ग गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 10404,
+      "name_en": "Khiji Demba Rural Municipality",
+      "name_ne": "खिजीदेम्बा गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 10405,
+      "name_en": "Likhu Rural Municipality",
+      "name_ne": "लिखु गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 10406,
+      "name_en": "Champadevi Rural Municipality",
+      "name_ne": "चम्पादेवी गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 10407,
+      "name_en": "Sunkoshi Rural Municipality",
+      "name_ne": "सुनकोशी गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 10408,
+      "name_en": "Manebhanjyang Rural Municipality",
+      "name_ne": "मानेभन्ज्याङ्ग गाउँपालिका",
+      "type": "Rural Municipality"
+    }
+  ]
+}

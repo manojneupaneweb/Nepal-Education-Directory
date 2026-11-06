@@ -1,0 +1,67 @@
+{
+  "district": "Pyuthan",
+  "slug": "pyuthan",
+  "code": 503,
+  "province": {
+    "code": 5,
+    "name_en": "Lumbini Province",
+    "name_ne": "लुम्बिनी प्रदेश"
+  },
+  "total_municipalities": 9,
+  "municipalities": [
+    {
+      "code": 50301,
+      "name_en": "Gaumukhi Rural Municipality",
+      "name_ne": "गौमुखी गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 50302,
+      "name_en": "Naubahini Rural Municipality",
+      "name_ne": "नौबहिनी गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 50303,
+      "name_en": "Jhimaruk Rural Municipality",
+      "name_ne": "झिमरुक गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 50304,
+      "name_en": "Pyuthan Urban Municipality",
+      "name_ne": "प्यूठान नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 50305,
+      "name_en": "Sworgadwari Urban Municipality",
+      "name_ne": "स्वर्गद्धारी नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 50306,
+      "name_en": "Mandavi Rural Municipality",
+      "name_ne": "माण्डवी गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 50307,
+      "name_en": "Mallarani Rural Municipality",
+      "name_ne": "मल्लरानी गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 50308,
+      "name_en": "Aairawati Rural Municipality",
+      "name_ne": "ऐरावती गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 50309,
+      "name_en": "Sarumarani Rural Municipality",
+      "name_ne": "सरुमारानी गाउँपालिका",
+      "type": "Rural Municipality"
+    }
+  ]
+}

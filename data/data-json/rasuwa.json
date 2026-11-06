@@ -1,0 +1,43 @@
+{
+  "district": "Rasuwa",
+  "slug": "rasuwa",
+  "code": 303,
+  "province": {
+    "code": 3,
+    "name_en": "Bagmati Province",
+    "name_ne": "बागमती प्रदेश"
+  },
+  "total_municipalities": 5,
+  "municipalities": [
+    {
+      "code": 30301,
+      "name_en": "Gosaikunda Rural Municipality",
+      "name_ne": "गोसाईकुण्ड गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 30302,
+      "name_en": "Aamachhodingmo Rural Municipality",
+      "name_ne": "आमाछोदिङमो गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 30303,
+      "name_en": "Uttargaya Rural Municipality",
+      "name_ne": "उत्तरगया गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 30304,
+      "name_en": "Shuva Kalika Rural Municipality",
+      "name_ne": "शुभ कालीका गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 30305,
+      "name_en": "Naukunda Rural Municipality",
+      "name_ne": "नौकुण्ड गाउँपालिका",
+      "type": "Rural Municipality"
+    }
+  ]
+}

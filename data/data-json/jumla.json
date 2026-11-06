@@ -1,0 +1,61 @@
+{
+  "district": "Jumla",
+  "slug": "jumla",
+  "code": 604,
+  "province": {
+    "code": 6,
+    "name_en": "Karnali Province",
+    "name_ne": "कर्णाली प्रदेश"
+  },
+  "total_municipalities": 8,
+  "municipalities": [
+    {
+      "code": 60401,
+      "name_en": "Patarasi Rural Municipality",
+      "name_ne": "पातारासी गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 60402,
+      "name_en": "Kanaka Sundari Rural Municipality",
+      "name_ne": "कनका सुन्दरी गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 60403,
+      "name_en": "Sinja Rural Municipality",
+      "name_ne": "सिंजा गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 60404,
+      "name_en": "Chandannath Urban Municipality",
+      "name_ne": "चन्दननाथ नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 60405,
+      "name_en": "Guthichaur Rural Municipality",
+      "name_ne": "गुठिचौर गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 60406,
+      "name_en": "Tatopani Rural Municipality",
+      "name_ne": "तातोपानी गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 60407,
+      "name_en": "Tila Rural Municipality",
+      "name_ne": "तिला गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 60408,
+      "name_en": "Hima Rural Municipality",
+      "name_ne": "हिमा गाउँपालिका",
+      "type": "Rural Municipality"
+    }
+  ]
+}

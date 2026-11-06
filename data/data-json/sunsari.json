@@ -1,0 +1,85 @@
+{
+  "district": "Sunsari",
+  "slug": "sunsari",
+  "code": 113,
+  "province": {
+    "code": 1,
+    "name_en": "Koshi Province",
+    "name_ne": "कोशी प्रदेश"
+  },
+  "total_municipalities": 12,
+  "municipalities": [
+    {
+      "code": 11301,
+      "name_en": "Dharan Sub-Metropolitian City",
+      "name_ne": "धरान उपमहानगरपालिका",
+      "type": "Sub-Metropolitan City"
+    },
+    {
+      "code": 11302,
+      "name_en": "Barahachhetra Urban Municipality",
+      "name_ne": "बराहक्षेत्र नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 11303,
+      "name_en": "Koshi Rural Municipality",
+      "name_ne": "कोशी गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 11304,
+      "name_en": "Bhokraha Narsingh Rural Municipality",
+      "name_ne": "भोक्राहा नरसिंह गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 11305,
+      "name_en": "Ramdhuni Urban Municipality",
+      "name_ne": "रामधुनी नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 11306,
+      "name_en": "Itahari Sub-Metropolitian City",
+      "name_ne": "ईटहरी उपमहानगरपालिका",
+      "type": "Sub-Metropolitan City"
+    },
+    {
+      "code": 11307,
+      "name_en": "Duhabi Urban Municipality",
+      "name_ne": "दुहबी नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 11308,
+      "name_en": "Gadhi Rural Municipality",
+      "name_ne": "गढी गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 11309,
+      "name_en": "Inaruwa Urban Municipality",
+      "name_ne": "इनरुवा नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 11310,
+      "name_en": "Harinagar Rural Municipality",
+      "name_ne": "हरिनगर गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 11311,
+      "name_en": "Dewangunj Rural Municipality",
+      "name_ne": "देवानगन्ज गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 11312,
+      "name_en": "Barju Rural Municipality",
+      "name_ne": "बर्जु गाउँपालिका",
+      "type": "Rural Municipality"
+    }
+  ]
+}

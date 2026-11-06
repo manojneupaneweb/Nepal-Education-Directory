@@ -1,0 +1,103 @@
+{
+  "district": "Jhapa",
+  "slug": "jhapa",
+  "code": 111,
+  "province": {
+    "code": 1,
+    "name_en": "Koshi Province",
+    "name_ne": "कोशी प्रदेश"
+  },
+  "total_municipalities": 15,
+  "municipalities": [
+    {
+      "code": 11101,
+      "name_en": "Mechinagar Urban Municipality",
+      "name_ne": "मेचीनगर नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 11102,
+      "name_en": "Buddhashanti Rural Municipality",
+      "name_ne": "बुद्धशान्ति गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 11103,
+      "name_en": "Arjundhara Urban Municipality",
+      "name_ne": "अर्जुनधारा नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 11104,
+      "name_en": "Kankai Urban Municipality",
+      "name_ne": "कन्काई नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 11105,
+      "name_en": "Shivasatakshi Urban Municipality",
+      "name_ne": "शिवसताक्षी नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 11106,
+      "name_en": "Kamal Rural Municipality",
+      "name_ne": "कमल गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 11107,
+      "name_en": "Damak Urban Municipality",
+      "name_ne": "दमक नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 11108,
+      "name_en": "Gauradaha Urban Municipality",
+      "name_ne": "गौरादह नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 11109,
+      "name_en": "Gauriganj Rural Municipality",
+      "name_ne": "गौरिगञ्ज गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 11110,
+      "name_en": "Jhapa Rural Municipality",
+      "name_ne": "झापा गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 11111,
+      "name_en": "Barhadashi Rural Municipality",
+      "name_ne": "बाह्रदशी गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 11112,
+      "name_en": "Birtamod Urban Municipality",
+      "name_ne": "बिर्तामोड नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 11113,
+      "name_en": "Haldibari Rural Municipality",
+      "name_ne": "हल्दीबारी गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 11114,
+      "name_en": "Bhadrapur Urban Municipality",
+      "name_ne": "भद्रपुर नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 11115,
+      "name_en": "Kachanakawal Rural Municipality",
+      "name_ne": "कचनकवल गाउँपालिका",
+      "type": "Rural Municipality"
+    }
+  ]
+}

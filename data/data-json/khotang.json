@@ -1,0 +1,73 @@
+{
+  "district": "Khotang",
+  "slug": "khotang",
+  "code": 105,
+  "province": {
+    "code": 1,
+    "name_en": "Koshi Province",
+    "name_ne": "कोशी प्रदेश"
+  },
+  "total_municipalities": 10,
+  "municipalities": [
+    {
+      "code": 10501,
+      "name_en": "Kepilasgadhi Rural Municipality",
+      "name_ne": "केपिलासगढी गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 10502,
+      "name_en": "Aiselukharka Rural Municipality",
+      "name_ne": "ऐसेलुखर्क गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 10503,
+      "name_en": "Rawa Besi Rural Municipality",
+      "name_ne": "रावा बेसी गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 10504,
+      "name_en": "Halesi Tuwachung Urban Municipality",
+      "name_ne": "हलेसी तुवाचुङ नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 10505,
+      "name_en": "Diktel Rupakot Majhuwagadhi Urban Municipality",
+      "name_ne": "दिक्तेल रुपाकोट मझुवागढी नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 10506,
+      "name_en": "Sakela Rural Municipality",
+      "name_ne": "साकेला गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 10507,
+      "name_en": "Diprung Chuichumma Rural Municipality",
+      "name_ne": "दिप्रुङ चुइचुम्मा गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 10508,
+      "name_en": "Khotehang Rural Municipality",
+      "name_ne": "खोटेहाङ गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 10509,
+      "name_en": "Jante Dhunga Rural Municipality",
+      "name_ne": "जन्तेढुङ्गा गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 10510,
+      "name_en": "Baraha Pokhari Rural Municipality",
+      "name_ne": "बराहपोखरी गाउँपालिका",
+      "type": "Rural Municipality"
+    }
+  ]
+}

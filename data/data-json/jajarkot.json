@@ -1,0 +1,55 @@
+{
+  "district": "Jajarkot",
+  "slug": "jajarkot",
+  "code": 607,
+  "province": {
+    "code": 6,
+    "name_en": "Karnali Province",
+    "name_ne": "कर्णाली प्रदेश"
+  },
+  "total_municipalities": 7,
+  "municipalities": [
+    {
+      "code": 60701,
+      "name_en": "Barekot Rural Municipality",
+      "name_ne": "बारेकोट गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 60702,
+      "name_en": "Kushe Rural Municipality",
+      "name_ne": "कुशे गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 60703,
+      "name_en": "Junichande Rural Municipality",
+      "name_ne": "जुनीचाँदे गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 60704,
+      "name_en": "Chhedagad Urban Municipality",
+      "name_ne": "छेडागाड नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 60705,
+      "name_en": "Shivalaya Rural Municipality",
+      "name_ne": "शिवालय गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 60706,
+      "name_en": "Bheri Malika Urban Municipality",
+      "name_ne": "भेरीमालिका नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 60707,
+      "name_en": "Nalgad Urban Municipality",
+      "name_ne": "नलगाड नगरपालिका",
+      "type": "Municipality"
+    }
+  ]
+}

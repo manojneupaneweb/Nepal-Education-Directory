@@ -1,0 +1,85 @@
+{
+  "district": "Gulmi",
+  "slug": "gulmi",
+  "code": 504,
+  "province": {
+    "code": 5,
+    "name_en": "Lumbini Province",
+    "name_ne": "लुम्बिनी प्रदेश"
+  },
+  "total_municipalities": 12,
+  "municipalities": [
+    {
+      "code": 50401,
+      "name_en": "Kali Gandaki Rural Municipality",
+      "name_ne": "कालिगण्डकी गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 50402,
+      "name_en": "Satyawoti Rural Municipality",
+      "name_ne": "सत्यवती गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 50403,
+      "name_en": "Chandrakot Rural Municipality",
+      "name_ne": "चन्द्रकोट गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 50404,
+      "name_en": "Musikot Urban Municipality",
+      "name_ne": "मुसिकोट नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 50405,
+      "name_en": "Isma Rural Municipality",
+      "name_ne": "ईस्मा गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 50406,
+      "name_en": "Malika Rural Municipality",
+      "name_ne": "मालिका गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 50407,
+      "name_en": "Madane Rural Municipality",
+      "name_ne": "मदाने गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 50408,
+      "name_en": "Dhurkot Rural Municipality",
+      "name_ne": "धुर्कोट गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 50409,
+      "name_en": "Resunga Urban Municipality",
+      "name_ne": "रेसुङ्गा नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 50410,
+      "name_en": "Gulmi Durbar Rural Municipality",
+      "name_ne": "गुल्मी दरबार गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 50411,
+      "name_en": "Chhatrakot Rural Municipality",
+      "name_ne": "छत्रकोट गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 50412,
+      "name_en": "Ruruchhetra Rural Municipality",
+      "name_ne": "रुरुक्षेत्र गाउँपालिका",
+      "type": "Rural Municipality"
+    }
+  ]
+}

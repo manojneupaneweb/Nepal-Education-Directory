@@ -1,0 +1,49 @@
+{
+  "district": "Lalitpur",
+  "slug": "lalitpur",
+  "code": 308,
+  "province": {
+    "code": 3,
+    "name_en": "Bagmati Province",
+    "name_ne": "बागमती प्रदेश"
+  },
+  "total_municipalities": 6,
+  "municipalities": [
+    {
+      "code": 30801,
+      "name_en": "Mahalaxmi Urban Municipality",
+      "name_ne": "महालक्ष्मी नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 30802,
+      "name_en": "Lalitpur Metropolitian City",
+      "name_ne": "ललितपुर महानगरपालिका",
+      "type": "Metropolitan City"
+    },
+    {
+      "code": 30803,
+      "name_en": "Godawari Urban Municipality",
+      "name_ne": "गोदावरी नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 30804,
+      "name_en": "Konjyosom Rural Municipality",
+      "name_ne": "कोन्ज्योसोम गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 30805,
+      "name_en": "Mahankal Rural Municipality",
+      "name_ne": "महाङ्काल गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 30806,
+      "name_en": "Bagmati Rural Municipality",
+      "name_ne": "बाग्मती गाउँपालिका",
+      "type": "Rural Municipality"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "district": "Kapilvastu",
+  "slug": "kapilvastu",
+  "code": 509,
+  "province": {
+    "code": 5,
+    "name_en": "Lumbini Province",
+    "name_ne": "लुम्बिनी प्रदेश"
+  },
+  "total_municipalities": 10,
+  "municipalities": [
+    {
+      "code": 50901,
+      "name_en": "Banganga Urban Municipality",
+      "name_ne": "बाणगंगा नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 50902,
+      "name_en": "Buddhabhumi Urban Municipality",
+      "name_ne": "बुद्धभूमी नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 50903,
+      "name_en": "Shivaraj Urban Municipality",
+      "name_ne": "शिवराज नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 50904,
+      "name_en": "Bijayanagar Rural Municipality",
+      "name_ne": "बिजयनगर गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 50905,
+      "name_en": "Krishnanagar Urban Municipality",
+      "name_ne": "कृष्णनगर नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 50906,
+      "name_en": "Maharajganj Urban Municipality",
+      "name_ne": "महाराजगन्ज नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 50907,
+      "name_en": "Kapilbastu Urban Municipality",
+      "name_ne": "कपिलबस्तु नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 50908,
+      "name_en": "Yasodhara Rural Municipality",
+      "name_ne": "यसोधरा गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 50909,
+      "name_en": "Mayadevi Rural Municipality",
+      "name_ne": "मायादेवी गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 50910,
+      "name_en": "Shuddhodhan Rural Municipality",
+      "name_ne": "शुद्धोधन गाउँपालिका",
+      "type": "Rural Municipality"
+    }
+  ]
+}

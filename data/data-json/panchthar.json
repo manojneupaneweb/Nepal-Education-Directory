@@ -1,0 +1,61 @@
+{
+  "district": "Panchthar",
+  "slug": "panchthar",
+  "code": 109,
+  "province": {
+    "code": 1,
+    "name_en": "Koshi Province",
+    "name_ne": "कोशी प्रदेश"
+  },
+  "total_municipalities": 8,
+  "municipalities": [
+    {
+      "code": 10901,
+      "name_en": "Yangbarak Rural Municipality",
+      "name_ne": "याङवरक गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 10902,
+      "name_en": "Hilihan Rural Municipality",
+      "name_ne": "हिलिहाङ्ग गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 10903,
+      "name_en": "Falelung Rural Municipality",
+      "name_ne": "फालेलुङ  गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 10904,
+      "name_en": "Phidim Urban Municipality",
+      "name_ne": "फिदिम नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 10905,
+      "name_en": "Falgunanda Rural Municipality",
+      "name_ne": "फाल्गुनन्द गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 10906,
+      "name_en": "Kummayak Rural Municipality",
+      "name_ne": "कुम्मायक गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 10907,
+      "name_en": "Tumbewa Rural Municipality",
+      "name_ne": "तुम्बेवा गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 10908,
+      "name_en": "Miklajung Rural Municipality",
+      "name_ne": "मिक्लाजुङ गाउँपालिका",
+      "type": "Rural Municipality"
+    }
+  ]
+}

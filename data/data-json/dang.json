@@ -1,0 +1,73 @@
+{
+  "district": "Dang",
+  "slug": "dang",
+  "code": 510,
+  "province": {
+    "code": 5,
+    "name_en": "Lumbini Province",
+    "name_ne": "लुम्बिनी प्रदेश"
+  },
+  "total_municipalities": 10,
+  "municipalities": [
+    {
+      "code": 51001,
+      "name_en": "Bangalachuli Rural Municipality",
+      "name_ne": "बंगलाचुली गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 51002,
+      "name_en": "Ghorahi Sub-Metropolitian City",
+      "name_ne": "घोराही उपमहानगरपालिका",
+      "type": "Sub-Metropolitan City"
+    },
+    {
+      "code": 51003,
+      "name_en": "Tulsipur Sub-Metropolitian City",
+      "name_ne": "तुल्सीपुर उपमहानगरपालिका",
+      "type": "Sub-Metropolitan City"
+    },
+    {
+      "code": 51004,
+      "name_en": "Shantinagar Rural Municipality",
+      "name_ne": "शान्तिनगर गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 51005,
+      "name_en": "Babai Rural Municipality",
+      "name_ne": "बबई गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 51006,
+      "name_en": "Dangisharan Rural Municipality",
+      "name_ne": "दंगीशरण गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 51007,
+      "name_en": "Lamahi Urban Municipality",
+      "name_ne": "लमही नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 51008,
+      "name_en": "Rapti Rural Municipality",
+      "name_ne": "राप्ती गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 51009,
+      "name_en": "Gadhawa Rural Municipality",
+      "name_ne": "गढवा गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 51010,
+      "name_en": "Rajpur Rural Municipality",
+      "name_ne": "राजपुर गाउँपालिका",
+      "type": "Rural Municipality"
+    }
+  ]
+}

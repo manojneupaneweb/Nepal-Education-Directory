@@ -1,0 +1,67 @@
+{
+  "district": "Surkhet",
+  "slug": "surkhet",
+  "code": 610,
+  "province": {
+    "code": 6,
+    "name_en": "Karnali Province",
+    "name_ne": "कर्णाली प्रदेश"
+  },
+  "total_municipalities": 9,
+  "municipalities": [
+    {
+      "code": 61001,
+      "name_en": "Simta Rural Municipality",
+      "name_ne": "सिम्ता गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 61002,
+      "name_en": "Chingad Rural Municipality",
+      "name_ne": "चिङ्गगाड गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 61003,
+      "name_en": "Lekabeshi Urban Municipality",
+      "name_ne": "लेकबेशी नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 61004,
+      "name_en": "Gurbhakot Urban Municipality",
+      "name_ne": "गुर्भाकोट नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 61005,
+      "name_en": "Bheriganga Urban Municipality",
+      "name_ne": "भेरीगंगा नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 61006,
+      "name_en": "Birendranagar Urban Municipality",
+      "name_ne": "बीरेन्द्रनगर नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 61007,
+      "name_en": "Barahatal Rural Municipality",
+      "name_ne": "बराहताल गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 61008,
+      "name_en": "Panchapuri Urban Municipality",
+      "name_ne": "पञ्चपुरी नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 61009,
+      "name_en": "Chaukune Rural Municipality",
+      "name_ne": "चौकुने गाउँपालिका",
+      "type": "Rural Municipality"
+    }
+  ]
+}

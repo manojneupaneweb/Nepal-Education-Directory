@@ -1,0 +1,37 @@
+{
+  "district": "Bhaktapur",
+  "slug": "bhaktapur",
+  "code": 307,
+  "province": {
+    "code": 3,
+    "name_en": "Bagmati Province",
+    "name_ne": "बागमती प्रदेश"
+  },
+  "total_municipalities": 4,
+  "municipalities": [
+    {
+      "code": 30701,
+      "name_en": "Changunarayan Urban Municipality",
+      "name_ne": "चाँगुनारायण नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 30702,
+      "name_en": "Bhaktapur Urban Municipality",
+      "name_ne": "भक्तपुर नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 30703,
+      "name_en": "Madhyapur Thimi Urban Municipality",
+      "name_ne": "मध्यपुर थिमी नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 30704,
+      "name_en": "Suryabinayak Urban Municipality",
+      "name_ne": "सूर्यविनायक नगरपालिका",
+      "type": "Municipality"
+    }
+  ]
+}

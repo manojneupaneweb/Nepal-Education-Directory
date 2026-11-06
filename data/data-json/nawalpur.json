@@ -1,0 +1,61 @@
+{
+  "district": "Nawalpur",
+  "slug": "nawalpur",
+  "code": 408,
+  "province": {
+    "code": 4,
+    "name_en": "Gandaki Province",
+    "name_ne": "गण्डकी प्रदेश"
+  },
+  "total_municipalities": 8,
+  "municipalities": [
+    {
+      "code": 40801,
+      "name_en": "Gaidakot Urban Municipality",
+      "name_ne": "गैडाकोट नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 40802,
+      "name_en": "Bulingtar Rural Municipality",
+      "name_ne": "बुलिङ्गटार गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 40803,
+      "name_en": "Baudikali Rural Municipality",
+      "name_ne": "बौदीकाली गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 40804,
+      "name_en": "Hupsekot Rural Municipality",
+      "name_ne": "हुप्सेकोट गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 40805,
+      "name_en": "Devchuli Urban Municipality",
+      "name_ne": "देवचुली नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 40806,
+      "name_en": "Kawasoti Urban Municipality",
+      "name_ne": "कावासोती नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 40807,
+      "name_en": "Madhya Bindu Urban Municipality",
+      "name_ne": "मध्यबिन्दु नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 40808,
+      "name_en": "Binayi Tribeni Rural Municipality",
+      "name_ne": "बिनयी त्रिवेणी गाउँपालिका",
+      "type": "Rural Municipality"
+    }
+  ]
+}

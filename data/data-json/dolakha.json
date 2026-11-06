@@ -1,0 +1,67 @@
+{
+  "district": "Dolakha",
+  "slug": "dolakha",
+  "code": 301,
+  "province": {
+    "code": 3,
+    "name_en": "Bagmati Province",
+    "name_ne": "बागमती प्रदेश"
+  },
+  "total_municipalities": 9,
+  "municipalities": [
+    {
+      "code": 30101,
+      "name_en": "Gaurishankar Rural Municipality",
+      "name_ne": "गौरिशंकर गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 30102,
+      "name_en": "Bigu Rural Municipality",
+      "name_ne": "बिगु गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 30103,
+      "name_en": "Kalinchowk Rural Municipality",
+      "name_ne": "कालिन्चोक गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 30104,
+      "name_en": "Baiteshwor Rural Municipality",
+      "name_ne": "बैतेश्वर  गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 30105,
+      "name_en": "Jiri Urban Municipality",
+      "name_ne": "जिरी नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 30106,
+      "name_en": "Tamakoshi Rural Municipality",
+      "name_ne": "तामाकोशी गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 30107,
+      "name_en": "Melung Rural Municipality",
+      "name_ne": "मेलुङ्ग गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 30108,
+      "name_en": "Shailung Rural Municipality",
+      "name_ne": "शैलुड० गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 30109,
+      "name_en": "Bhimeshwor Urban Municipality",
+      "name_ne": "भिमेश्वर नगरपालिका",
+      "type": "Municipality"
+    }
+  ]
+}

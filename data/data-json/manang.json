@@ -1,0 +1,37 @@
+{
+  "district": "Manang",
+  "slug": "manang",
+  "code": 402,
+  "province": {
+    "code": 4,
+    "name_en": "Gandaki Province",
+    "name_ne": "गण्डकी प्रदेश"
+  },
+  "total_municipalities": 4,
+  "municipalities": [
+    {
+      "code": 40201,
+      "name_en": "Narpa Bhumi Rural Municipality",
+      "name_ne": "नार्पा भूमि गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 40202,
+      "name_en": "Manang Ngisyang Rural Municipality",
+      "name_ne": "मनाङ ङिस्याङ गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 40203,
+      "name_en": "Chame Rural Municipality",
+      "name_ne": "चामे गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 40204,
+      "name_en": "Nason Rural Municipality",
+      "name_ne": "नासोँ गाउँपालिका",
+      "type": "Rural Municipality"
+    }
+  ]
+}

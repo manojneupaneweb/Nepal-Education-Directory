@@ -1,0 +1,109 @@
+{
+  "district": "Rupandehi",
+  "slug": "rupandehi",
+  "code": 508,
+  "province": {
+    "code": 5,
+    "name_en": "Lumbini Province",
+    "name_ne": "लुम्बिनी प्रदेश"
+  },
+  "total_municipalities": 16,
+  "municipalities": [
+    {
+      "code": 50801,
+      "name_en": "Devdaha Urban Municipality",
+      "name_ne": "देबदह नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 50802,
+      "name_en": "Butwal Sub-Metropolitian City",
+      "name_ne": "बुटवल उपमहानगरपालिका",
+      "type": "Sub-Metropolitan City"
+    },
+    {
+      "code": 50803,
+      "name_en": "Sainamaina Urban Municipality",
+      "name_ne": "सैनामैना नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 50804,
+      "name_en": "Kanchan Rural Municipality",
+      "name_ne": "कञ्चन गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 50805,
+      "name_en": "Gaidahawa Rural Municipality",
+      "name_ne": "गैडहवा गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 50806,
+      "name_en": "Suddhodhan Rural Municipality",
+      "name_ne": "सुद्धोधन गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 50807,
+      "name_en": "Siyari Rural Municipality",
+      "name_ne": "सियारी गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 50808,
+      "name_en": "Tilottama Urban Municipality",
+      "name_ne": "तिलोत्तमा नगरापालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 50809,
+      "name_en": "Om Satiya Rural Municipality",
+      "name_ne": "ओमसतिया गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 50810,
+      "name_en": "Rohini Rural Municipality",
+      "name_ne": "रोहिणी गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 50811,
+      "name_en": "Siddharthanagar Urban Municipality",
+      "name_ne": "सिद्धार्थनगर नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 50812,
+      "name_en": "Mayadevi Rural Municipality",
+      "name_ne": "मायादेवी गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 50813,
+      "name_en": "Lumbini Sanskritik Urban Municipality",
+      "name_ne": "लुम्बिनी साँस्कृतिक नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 50814,
+      "name_en": "Kotahimai Rural Municipality",
+      "name_ne": "कोटहीमाई गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 50815,
+      "name_en": "Sammarimai Rural Municipality",
+      "name_ne": "सम्मरीमाई गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 50816,
+      "name_en": "Marchawari Rural Municipality",
+      "name_ne": "मर्चवारी गाउँपालिका",
+      "type": "Rural Municipality"
+    }
+  ]
+}

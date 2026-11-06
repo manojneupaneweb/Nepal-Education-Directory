@@ -1,0 +1,55 @@
+{
+  "district": "Chitwan",
+  "slug": "chitwan",
+  "code": 313,
+  "province": {
+    "code": 3,
+    "name_en": "Bagmati Province",
+    "name_ne": "बागमती प्रदेश"
+  },
+  "total_municipalities": 7,
+  "municipalities": [
+    {
+      "code": 31301,
+      "name_en": "Rapti Urban Municipality",
+      "name_ne": "राप्ती नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 31302,
+      "name_en": "Kalika Urban Municipality",
+      "name_ne": "कालिका नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 31303,
+      "name_en": "Ichchha Kamana Rural Municipality",
+      "name_ne": "इच्छाकामना गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 31304,
+      "name_en": "Bharatpur Metropolitian City",
+      "name_ne": "भरतपुर महानगरपालिका",
+      "type": "Metropolitan City"
+    },
+    {
+      "code": 31305,
+      "name_en": "Ratnanagar Urban Municipality",
+      "name_ne": "रत्ननगर नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 31306,
+      "name_en": "Khairahani Urban Municipality",
+      "name_ne": "खैरहनी नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 31307,
+      "name_en": "Madi Urban Municipality",
+      "name_ne": "मादी नगरपालिका",
+      "type": "Municipality"
+    }
+  ]
+}

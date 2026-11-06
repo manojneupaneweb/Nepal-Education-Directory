@@ -1,0 +1,55 @@
+{
+  "district": "Dhankuta",
+  "slug": "dhankuta",
+  "code": 107,
+  "province": {
+    "code": 1,
+    "name_en": "Koshi Province",
+    "name_ne": "कोशी प्रदेश"
+  },
+  "total_municipalities": 7,
+  "municipalities": [
+    {
+      "code": 10701,
+      "name_en": "Mahalaxmi Urban Municipality",
+      "name_ne": "महालक्ष्मी नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 10702,
+      "name_en": "Pakhribas Urban Municipality",
+      "name_ne": "पाख्रिबास नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 10703,
+      "name_en": "Chhathar Jorpati Rural Municipality",
+      "name_ne": "छथर जोरपाटी गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 10704,
+      "name_en": "Dhankuta Urban Municipality",
+      "name_ne": "धनकुटा नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 10705,
+      "name_en": "Shahidbhumi Rural Municipality",
+      "name_ne": "सहिदभूमि गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 10706,
+      "name_en": "Sangurigadhi Rural Municipality",
+      "name_ne": "साँगुरीगढी गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 10707,
+      "name_en": "Chaubise Rural Municipality",
+      "name_ne": "चौविसे गाउँपालिका",
+      "type": "Rural Municipality"
+    }
+  ]
+}

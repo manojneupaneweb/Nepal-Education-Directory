@@ -1,0 +1,49 @@
+{
+  "district": "Western Rukum",
+  "slug": "western_rukum",
+  "code": 608,
+  "province": {
+    "code": 6,
+    "name_en": "Karnali Province",
+    "name_ne": "कर्णाली प्रदेश"
+  },
+  "total_municipalities": 6,
+  "municipalities": [
+    {
+      "code": 60801,
+      "name_en": "Aathabisakot Urban Municipality",
+      "name_ne": "आठबिसकोट नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 60802,
+      "name_en": "Sanibheri Rural Municipality",
+      "name_ne": "सानीभेरी गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 60803,
+      "name_en": "Banphikot Rural Municipality",
+      "name_ne": "बाँफिकोट गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 60804,
+      "name_en": "Musikot Urban Municipality",
+      "name_ne": "मुसिकोट नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 60805,
+      "name_en": "Tribeni Rural Municipality",
+      "name_ne": "त्रिवेणी गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 60806,
+      "name_en": "Chaurjahari Urban Municipality",
+      "name_ne": "चौरजहारी नगरपालिका",
+      "type": "Municipality"
+    }
+  ]
+}

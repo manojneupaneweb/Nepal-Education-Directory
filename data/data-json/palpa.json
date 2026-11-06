@@ -1,0 +1,73 @@
+{
+  "district": "Palpa",
+  "slug": "palpa",
+  "code": 506,
+  "province": {
+    "code": 5,
+    "name_en": "Lumbini Province",
+    "name_ne": "लुम्बिनी प्रदेश"
+  },
+  "total_municipalities": 10,
+  "municipalities": [
+    {
+      "code": 50601,
+      "name_en": "Rampur Urban Municipality",
+      "name_ne": "रामपुर नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 50602,
+      "name_en": "Purbakhola Rural Municipality",
+      "name_ne": "पुर्वखोला गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 50603,
+      "name_en": "Rambha Rural Municipality",
+      "name_ne": "रम्भा गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 50604,
+      "name_en": "Baganaskali Rural Municipality",
+      "name_ne": "बगनासकाली गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 50605,
+      "name_en": "Tansen Urban Municipality",
+      "name_ne": "तानसेन नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 50606,
+      "name_en": "Ribdikot Rural Municipality",
+      "name_ne": "रिब्दीकोट गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 50607,
+      "name_en": "Rainadevi Chhahara Rural Municipality",
+      "name_ne": "रैनादेवी छहरा गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 50608,
+      "name_en": "Tinau Rural Municipality",
+      "name_ne": "तिनाउ गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 50609,
+      "name_en": "Mathagadhi Rural Municipality",
+      "name_ne": "माथागढी गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 50610,
+      "name_en": "Nisdi Rural Municipality",
+      "name_ne": "निस्दी गाउँपालिका",
+      "type": "Rural Municipality"
+    }
+  ]
+}

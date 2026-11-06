@@ -1,0 +1,49 @@
+{
+  "district": "Arghakhanchi",
+  "slug": "arghakhanchi",
+  "code": 505,
+  "province": {
+    "code": 5,
+    "name_en": "Lumbini Province",
+    "name_ne": "लुम्बिनी प्रदेश"
+  },
+  "total_municipalities": 6,
+  "municipalities": [
+    {
+      "code": 50501,
+      "name_en": "Chhatradev Rural Municipality",
+      "name_ne": "छत्रदेव गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 50502,
+      "name_en": "Malarani Rural Municipality",
+      "name_ne": "मालारानी गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 50503,
+      "name_en": "Bhumikasthan Urban Municipality",
+      "name_ne": "भुमिकास्थान नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 50504,
+      "name_en": "Sandhikharka Urban Municipality",
+      "name_ne": "सन्धिखर्क नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 50505,
+      "name_en": "Panini Rural Municipality",
+      "name_ne": "पाणिनी गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 50506,
+      "name_en": "Shitaganga Urban Municipality",
+      "name_ne": "शितगंगा नगरपालिका",
+      "type": "Municipality"
+    }
+  ]
+}

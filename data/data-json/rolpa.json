@@ -1,0 +1,73 @@
+{
+  "district": "Rolpa",
+  "slug": "rolpa",
+  "code": 502,
+  "province": {
+    "code": 5,
+    "name_en": "Lumbini Province",
+    "name_ne": "लुम्बिनी प्रदेश"
+  },
+  "total_municipalities": 10,
+  "municipalities": [
+    {
+      "code": 50201,
+      "name_en": "Sunchhahari Rural Municipality",
+      "name_ne": "सुनछहरी गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 50202,
+      "name_en": "Thawang Rural Municipality",
+      "name_ne": "थबाङ्ग गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 50203,
+      "name_en": "Pariwartan Rural Municipality",
+      "name_ne": "परिवर्तन गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 50204,
+      "name_en": "Gangadev Rural Municipality",
+      "name_ne": "गंगादेव गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 50205,
+      "name_en": "Madi Rural Municipality",
+      "name_ne": "मादी गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 50206,
+      "name_en": "Tribeni Rural Municipality",
+      "name_ne": "त्रिवेणी गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 50207,
+      "name_en": "Rolpa Urban Municipality",
+      "name_ne": "रोल्पा नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 50208,
+      "name_en": "Runtigadhi Rural Municipality",
+      "name_ne": "रुन्टीगढी गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 50209,
+      "name_en": "Sunil Smriti Rural Municipality",
+      "name_ne": "सुनिल स्मृति गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 50210,
+      "name_en": "Lungri Rural Municipality",
+      "name_ne": "लुङ्ग्री गाउँपालिका",
+      "type": "Rural Municipality"
+    }
+  ]
+}

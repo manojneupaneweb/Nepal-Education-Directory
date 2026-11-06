@@ -1,0 +1,73 @@
+{
+  "district": "Baitadi",
+  "slug": "baitadi",
+  "code": 704,
+  "province": {
+    "code": 7,
+    "name_en": "Sudurpashchim Province",
+    "name_ne": "सुदूरपश्चिम प्रदेश"
+  },
+  "total_municipalities": 10,
+  "municipalities": [
+    {
+      "code": 70401,
+      "name_en": "Dilasaini Rural Municipality",
+      "name_ne": "डीलासैनी गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 70402,
+      "name_en": "Dogada Kedar Rural Municipality",
+      "name_ne": "दोगडाकेदार गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 70403,
+      "name_en": "Puchaundi Urban Municipality",
+      "name_ne": "पुचौंडी नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 70404,
+      "name_en": "Surnaya Rural Municipality",
+      "name_ne": "सुर्नया गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 70405,
+      "name_en": "Dasharathchand Urban Municipality",
+      "name_ne": "दशरथचन्द नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 70406,
+      "name_en": "Pancheshwor Rural Municipality",
+      "name_ne": "पन्चेश्वर गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 70407,
+      "name_en": "Shivanath Rural Municipality",
+      "name_ne": "शिवनाथ गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 70408,
+      "name_en": "Melauli Urban Municipality",
+      "name_ne": "मेलौली नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 70409,
+      "name_en": "Patan Urban Municipality",
+      "name_ne": "पाटन नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 70410,
+      "name_en": "Sigas Rural Municipality",
+      "name_ne": "सिगास गाउँपालिका",
+      "type": "Rural Municipality"
+    }
+  ]
+}

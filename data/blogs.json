@@ -1,0 +1,223 @@
+[
+    {
+        "id": 1,
+        "slug": "education-system-overview-nepal",
+        "title": "Understanding Nepal's Education System: A Complete Overview",
+        "excerpt": "Nepal's education system spans from Early Childhood Development to higher education, governed by the Ministry of Education, Science and Technology. Learn how the structure works and what reforms are shaping its future.",
+        "category": "Overview",
+        "author": "Shiksha Link Team",
+        "published_at": "2026-10-15",
+        "read_time": 6,
+        "image_emoji": "🏫"
+    },
+    {
+        "id": 2,
+        "slug": "top-universities-nepal-2026",
+        "title": "Top Universities in Nepal for 2026: Rankings & Programs",
+        "excerpt": "From Tribhuvan University — the oldest and largest — to newer specialized institutions like Manmohan Technical University, we rank Nepal's top universities by programs offered, campus count, and research output.",
+        "category": "Universities",
+        "author": "Shiksha Link Team",
+        "published_at": "2026-10-10",
+        "read_time": 8,
+        "image_emoji": "🎓"
+    },
+    {
+        "id": 3,
+        "slug": "community-vs-private-schools-nepal",
+        "title": "Community vs Private Schools in Nepal: Which Is Right for Your Child?",
+        "excerpt": "Nepal has 25,623 community schools and 8,941 private institutional schools. We break down the differences in curriculum, fees, teacher quality, and outcomes to help parents make an informed decision.",
+        "category": "Schools",
+        "author": "Shiksha Link Team",
+        "published_at": "2026-10-05",
+        "read_time": 7,
+        "image_emoji": "👨‍👩‍👧"
+    },
+    {
+        "id": 4,
+        "slug": "tribhuvan-university-guide",
+        "title": "Tribhuvan University: Nepal's Largest University Explained",
+        "excerpt": "With over 1,100 affiliated campuses across Nepal, Tribhuvan University is the backbone of higher education. This guide covers faculties, admission, fees, and what students can expect.",
+        "category": "Universities",
+        "author": "Shiksha Link Team",
+        "published_at": "2026-09-28",
+        "read_time": 9,
+        "image_emoji": "🏛️"
+    },
+    {
+        "id": 5,
+        "slug": "school-admission-process-nepal",
+        "title": "How to Get Admission in a School in Nepal: Step-by-Step Guide",
+        "excerpt": "Navigating the school admission process in Nepal can be confusing. We walk you through the documentation required, enrollment windows, age criteria, and tips for securing a spot in popular schools.",
+        "category": "Schools",
+        "author": "Shiksha Link Team",
+        "published_at": "2026-09-20",
+        "read_time": 5,
+        "image_emoji": "📋"
+    },
+    {
+        "id": 6,
+        "slug": "nepal-literacy-rate-province-wise",
+        "title": "Literacy Rate in Nepal: Province-by-Province Breakdown",
+        "excerpt": "Nepal's national literacy rate has climbed to over 76%, but there are significant gaps between provinces. Bagmati leads while Karnali and Sudurpashchim lag behind. Here's what the data tells us.",
+        "category": "Data & Statistics",
+        "author": "Shiksha Link Team",
+        "published_at": "2026-09-15",
+        "read_time": 6,
+        "image_emoji": "📊"
+    },
+    {
+        "id": 7,
+        "slug": "kathmandu-university-programs",
+        "title": "Kathmandu University: Programs, Fees, and Admission 2026",
+        "excerpt": "Known for its quality engineering and medical programs, Kathmandu University in Dhulikhel offers a research-focused education. Find out about its schools, fees structure, and entrance requirements.",
+        "category": "Universities",
+        "author": "Shiksha Link Team",
+        "published_at": "2026-09-08",
+        "read_time": 7,
+        "image_emoji": "🔬"
+    },
+    {
+        "id": 8,
+        "slug": "teaching-license-nepal-guide",
+        "title": "How to Get a Teaching License in Nepal: Full Guide 2026",
+        "excerpt": "The Teacher Service Commission (TSC) mandates a teaching license for all school teachers in Nepal. We explain the exam pattern, eligibility criteria, syllabus, and how to prepare effectively.",
+        "category": "Teachers",
+        "author": "Shiksha Link Team",
+        "published_at": "2026-08-30",
+        "read_time": 8,
+        "image_emoji": "📝"
+    },
+    {
+        "id": 9,
+        "slug": "scholarship-opportunities-nepal-students",
+        "title": "Top 10 Scholarship Opportunities for Nepali Students in 2026",
+        "excerpt": "From government scholarships under MoEST to international programs like Fulbright and Erasmus+, we compile the best scholarship opportunities available to Nepali students studying at home and abroad.",
+        "category": "Scholarships",
+        "author": "Shiksha Link Team",
+        "published_at": "2026-08-22",
+        "read_time": 10,
+        "image_emoji": "💰"
+    },
+    {
+        "id": 10,
+        "slug": "see-exam-preparation-tips",
+        "title": "SEE Exam 2026: Preparation Tips & Strategies for Grade 10 Students",
+        "excerpt": "The Secondary Education Examination (SEE) is a critical milestone for Nepali students. We share subject-wise preparation strategies, time management tips, and resources to help you score higher.",
+        "category": "Exams",
+        "author": "Shiksha Link Team",
+        "published_at": "2026-08-15",
+        "read_time": 7,
+        "image_emoji": "✏️"
+    },
+    {
+        "id": 11,
+        "slug": "religious-gurukul-schools-nepal",
+        "title": "Traditional and Religious Schools in Nepal: Preserving Heritage Education",
+        "excerpt": "Nepal has 1,387 traditional and religious schools including Gumbas, Madrasas, and Gurukuls. These institutions blend spiritual teaching with modern subjects, keeping ancient traditions alive.",
+        "category": "Schools",
+        "author": "Shiksha Link Team",
+        "published_at": "2026-08-05",
+        "read_time": 6,
+        "image_emoji": "🕌"
+    },
+    {
+        "id": 12,
+        "slug": "pokhara-university-overview",
+        "title": "Pokhara University: Gandaki Province's Hub of Higher Education",
+        "excerpt": "Pokhara University, located in the tourism capital of Nepal, offers programs in engineering, management, science, and health sciences. Explore its affiliated colleges, fee structures, and campus life.",
+        "category": "Universities",
+        "author": "Shiksha Link Team",
+        "published_at": "2026-07-28",
+        "read_time": 6,
+        "image_emoji": "⛰️"
+    },
+    {
+        "id": 13,
+        "slug": "neb-exam-grading-system",
+        "title": "NEB Grading System Explained: How Your +2 Marks Are Calculated",
+        "excerpt": "The National Examination Board (NEB) uses a GPA-based grading system for Grade 11 and 12 results. We explain the letter grades, GPA calculations, and what your score means for university admission.",
+        "category": "Exams",
+        "author": "Shiksha Link Team",
+        "published_at": "2026-07-20",
+        "read_time": 5,
+        "image_emoji": "📈"
+    },
+    {
+        "id": 14,
+        "slug": "study-abroad-from-nepal-guide",
+        "title": "Studying Abroad from Nepal: Countries, Visas & Preparation Tips",
+        "excerpt": "Thousands of Nepali students head abroad each year for higher education. We cover the most popular destinations — Australia, USA, UK, Japan, and India — with visa requirements and cost estimates.",
+        "category": "Study Abroad",
+        "author": "Shiksha Link Team",
+        "published_at": "2026-07-10",
+        "read_time": 11,
+        "image_emoji": "✈️"
+    },
+    {
+        "id": 15,
+        "slug": "vocational-training-nepal",
+        "title": "Vocational & Technical Education in Nepal: Opportunities and Institutions",
+        "excerpt": "CTEVT-affiliated vocational training centers offer practical skills that lead directly to employment. We explore the best programs in IT, construction, hospitality, and healthcare across Nepal.",
+        "category": "Vocational",
+        "author": "Shiksha Link Team",
+        "published_at": "2026-06-30",
+        "read_time": 7,
+        "image_emoji": "🔧"
+    },
+    {
+        "id": 16,
+        "slug": "purbanchal-university-eastern-nepal",
+        "title": "Purbanchal University: Driving Higher Education in Eastern Nepal",
+        "excerpt": "Based in Gothgaun, Morang, Purbanchal University serves Koshi and Madhesh provinces with over 100 affiliated campuses. Learn about its faculties, affiliated colleges, and research activities.",
+        "category": "Universities",
+        "author": "Shiksha Link Team",
+        "published_at": "2026-06-20",
+        "read_time": 6,
+        "image_emoji": "🌄"
+    },
+    {
+        "id": 17,
+        "slug": "open-learning-nepal-digital-education",
+        "title": "Digital & Open Learning in Nepal: The Rise of Online Education",
+        "excerpt": "Nepal Open University and various EdTech platforms are transforming how Nepalis access education. We review the best online courses, degrees, and resources available to students across all provinces.",
+        "category": "Digital Education",
+        "author": "Shiksha Link Team",
+        "published_at": "2026-06-10",
+        "read_time": 8,
+        "image_emoji": "💻"
+    },
+    {
+        "id": 18,
+        "slug": "school-dropout-nepal-causes-solutions",
+        "title": "School Dropout Crisis in Nepal: Causes, Data & Solutions",
+        "excerpt": "Despite progress, school dropout rates remain a challenge in rural Nepal. Poverty, early marriage, and lack of infrastructure are key drivers. We examine what schools, NGOs, and the government are doing.",
+        "category": "Data & Statistics",
+        "author": "Shiksha Link Team",
+        "published_at": "2026-05-30",
+        "read_time": 9,
+        "image_emoji": "📉"
+    },
+    {
+        "id": 19,
+        "slug": "nepal-medical-education-mbbs-guide",
+        "title": "MBBS in Nepal: Colleges, Entrance Exams, Fees & Admission 2026",
+        "excerpt": "Nepal has several medical colleges affiliated with Tribhuvan, Kathmandu, and Purbanchal universities. We cover the entrance exam (MECEE), seat allocation, fees, and bond requirements for 2026.",
+        "category": "Medical",
+        "author": "Shiksha Link Team",
+        "published_at": "2026-05-18",
+        "read_time": 10,
+        "image_emoji": "🏥"
+    },
+    {
+        "id": 20,
+        "slug": "education-budget-nepal-2026",
+        "title": "Nepal's Education Budget 2026: Where the Money Goes",
+        "excerpt": "Education receives roughly 11% of Nepal's national budget. We analyze how funds are allocated across school education, higher education, and technical/vocational training — and where gaps remain.",
+        "category": "Policy",
+        "author": "Shiksha Link Team",
+        "published_at": "2026-05-05",
+        "read_time": 7,
+        "image_emoji": "🏛️"
+    }
+]
+

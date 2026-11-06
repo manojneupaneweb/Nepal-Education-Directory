@@ -1,0 +1,67 @@
+{
+  "district": "Bajura",
+  "slug": "bajura",
+  "code": 701,
+  "province": {
+    "code": 7,
+    "name_en": "Sudurpashchim Province",
+    "name_ne": "सुदूरपश्चिम प्रदेश"
+  },
+  "total_municipalities": 9,
+  "municipalities": [
+    {
+      "code": 70101,
+      "name_en": "Himali Rural Municipality",
+      "name_ne": "हिमाली गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 70102,
+      "name_en": "Gaumul Rural Municipality",
+      "name_ne": "गौमुल गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 70103,
+      "name_en": "Budhinanda Urban Municipality",
+      "name_ne": "बुढीनन्दा नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 70104,
+      "name_en": "Swamikartik Khapar Rural Municipality",
+      "name_ne": "स्वामीकार्तिक खापर गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 70105,
+      "name_en": "Jagannath Rural Municipality",
+      "name_ne": "जगन्‍नाथ गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 70106,
+      "name_en": "Badimalika Urban Municipality",
+      "name_ne": "बडिमालिका नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 70107,
+      "name_en": "Khaptad Chhededaha Rural Municipality",
+      "name_ne": "खप्तड छेडेदह गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 70108,
+      "name_en": "Budhiganga Urban Municipality",
+      "name_ne": "बुढीगंगा नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 70109,
+      "name_en": "Tribeni Urban Municipality",
+      "name_ne": "त्रिवेणी नगरपालिका",
+      "type": "Municipality"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "district": "Makwanpur",
+  "slug": "makwanpur",
+  "code": 312,
+  "province": {
+    "code": 3,
+    "name_en": "Bagmati Province",
+    "name_ne": "बागमती प्रदेश"
+  },
+  "total_municipalities": 10,
+  "municipalities": [
+    {
+      "code": 31201,
+      "name_en": "Indrasarowar Rural Municipality",
+      "name_ne": "ईन्द्रसरोवर गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 31202,
+      "name_en": "Thaha Urban Municipality",
+      "name_ne": "थाहा नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 31203,
+      "name_en": "Kailash Rural Municipality",
+      "name_ne": "कैलाश गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 31204,
+      "name_en": "Raksirang Rural Municipality",
+      "name_ne": "राक्सिराङ्ग गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 31205,
+      "name_en": "Manahari Rural Municipality",
+      "name_ne": "मनहरी गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 31206,
+      "name_en": "Hetauda Sub-Metropolitian City",
+      "name_ne": "हेटौडा उपमहानगरपालिका",
+      "type": "Sub-Metropolitan City"
+    },
+    {
+      "code": 31207,
+      "name_en": "Bhimphedi Rural Municipality",
+      "name_ne": "भिमफेदी गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 31208,
+      "name_en": "Makawanpurgadhi Rural Municipality",
+      "name_ne": "मकवानपुरगढी गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 31209,
+      "name_en": "Bakaiya Rural Municipality",
+      "name_ne": "बकैया गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 31210,
+      "name_en": "Bagmati Rural Municipality",
+      "name_ne": "बाग्मती गाउँपालिका",
+      "type": "Rural Municipality"
+    }
+  ]
+}

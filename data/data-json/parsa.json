@@ -1,0 +1,97 @@
+{
+  "district": "Parsa",
+  "slug": "parsa",
+  "code": 208,
+  "province": {
+    "code": 2,
+    "name_en": "Madhesh Province",
+    "name_ne": "मधेश प्रदेश"
+  },
+  "total_municipalities": 14,
+  "municipalities": [
+    {
+      "code": 20801,
+      "name_en": "Thori Rural Municipality",
+      "name_ne": "ठोरी (सुवर्णपुर) गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 20802,
+      "name_en": "Jirabhawani Rural Municipality",
+      "name_ne": "जिराभवानी गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 20803,
+      "name_en": "Jagarnathpur Rural Municipality",
+      "name_ne": "जगरनाथपुर गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 20804,
+      "name_en": "Paterwa Sugauli Rural Municipality",
+      "name_ne": "पटेर्वा सुगौली गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 20805,
+      "name_en": "Sakhuwa Prasauni Rural Municipality",
+      "name_ne": "सखुवा प्रसौनी गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 20806,
+      "name_en": "Parsagadhi Urban Municipality",
+      "name_ne": "पर्सागढी नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 20807,
+      "name_en": "Birgunj Metropolitian City",
+      "name_ne": "बिरगन्ज महानगरपालिका",
+      "type": "Metropolitan City"
+    },
+    {
+      "code": 20808,
+      "name_en": "Bahudarmai Urban Municipality",
+      "name_ne": "बहुदरमाई नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 20809,
+      "name_en": "Pokhariya Urban Municipality",
+      "name_ne": "पोखरिया नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 20810,
+      "name_en": "Kalikamai Rural Municipality",
+      "name_ne": "कालिकामाई गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 20811,
+      "name_en": "Dhobini Rural Municipality",
+      "name_ne": "धोबीनी गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 20812,
+      "name_en": "Chhipaharmai Rural Municipality",
+      "name_ne": "छिपहरमाई गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 20813,
+      "name_en": "Pakaha Mainpur Rural Municipality",
+      "name_ne": "पकाहा मैनपुर गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 20814,
+      "name_en": "Bindabasini Rural Municipality",
+      "name_ne": "बिन्दवासिनी गाउँपालिका",
+      "type": "Rural Municipality"
+    }
+  ]
+}

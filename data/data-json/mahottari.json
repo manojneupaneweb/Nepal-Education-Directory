@@ -1,0 +1,103 @@
+{
+  "district": "Mahottari",
+  "slug": "mahottari",
+  "code": 204,
+  "province": {
+    "code": 2,
+    "name_en": "Madhesh Province",
+    "name_ne": "मधेश प्रदेश"
+  },
+  "total_municipalities": 15,
+  "municipalities": [
+    {
+      "code": 20401,
+      "name_en": "Bardibas Urban Municipality",
+      "name_ne": "बर्दिबास नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 20402,
+      "name_en": "Gaushala Urban Municipality",
+      "name_ne": "गौशाला नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 20403,
+      "name_en": "Sonama Rural Municipality",
+      "name_ne": "सोनमा गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 20404,
+      "name_en": "Aurahi Urban Municipality",
+      "name_ne": "औरही नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 20405,
+      "name_en": "Bhangaha Urban Municipality",
+      "name_ne": "भँगाहा नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 20406,
+      "name_en": "Loharpatti Urban Municipality",
+      "name_ne": "लोहरपट्टी नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 20407,
+      "name_en": "Balawa Urban Municipality",
+      "name_ne": "बलवा नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 20408,
+      "name_en": "Ram Gopalpur Urban Municipality",
+      "name_ne": "राम गोपालपुर नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 20409,
+      "name_en": "Samsi Rural Municipality",
+      "name_ne": "साम्सी गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 20410,
+      "name_en": "Manara Shisawa Urban Municipality",
+      "name_ne": "मनरा शिसवा नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 20411,
+      "name_en": "Ekadara Rural Municipality",
+      "name_ne": "एकडारा गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 20412,
+      "name_en": "Mahottari Rural Municipality",
+      "name_ne": "महोत्तरी गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 20413,
+      "name_en": "Pipara Rural Municipality",
+      "name_ne": "पिपरा गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 20414,
+      "name_en": "Matihani Urban Municipality",
+      "name_ne": "मटिहानी नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 20415,
+      "name_en": "Jaleshwor Urban Municipality",
+      "name_ne": "जलेश्वर नगरपालिका",
+      "type": "Municipality"
+    }
+  ]
+}

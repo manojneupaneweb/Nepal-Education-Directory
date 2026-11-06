@@ -1,0 +1,73 @@
+{
+  "district": "Sankhuwasabha",
+  "slug": "sankhuwasabha",
+  "code": 102,
+  "province": {
+    "code": 1,
+    "name_en": "Koshi Province",
+    "name_ne": "कोशी प्रदेश"
+  },
+  "total_municipalities": 10,
+  "municipalities": [
+    {
+      "code": 10201,
+      "name_en": "Bhotkhola Rural Municipality",
+      "name_ne": "भोटखोला गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 10202,
+      "name_en": "Makalu Rural Municipality",
+      "name_ne": "मकालु गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 10203,
+      "name_en": "Silichong Rural Municipality",
+      "name_ne": "सिलीचोङ गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 10204,
+      "name_en": "Chichila Rural Municipality",
+      "name_ne": "चिचिला गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 10205,
+      "name_en": "Sabhapokhari Rural Municipality",
+      "name_ne": "सभापोखरी गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 10206,
+      "name_en": "Khandabari Urban Municipality",
+      "name_ne": "खाँदबारी नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 10207,
+      "name_en": "Panchakhapan Urban Municipality",
+      "name_ne": "पाँचखपन नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 10208,
+      "name_en": "Chainapur Urban Municipality",
+      "name_ne": "चैनपुर नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 10209,
+      "name_en": "Madi Urban Municipality",
+      "name_ne": "मादी नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 10210,
+      "name_en": "Dharmadevi Urban Municipality",
+      "name_ne": "धर्मदेवी नगरपालिका",
+      "type": "Municipality"
+    }
+  ]
+}

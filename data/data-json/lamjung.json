@@ -1,0 +1,61 @@
+{
+  "district": "Lamjung",
+  "slug": "lamjung",
+  "code": 406,
+  "province": {
+    "code": 4,
+    "name_en": "Gandaki Province",
+    "name_ne": "गण्डकी प्रदेश"
+  },
+  "total_municipalities": 8,
+  "municipalities": [
+    {
+      "code": 40601,
+      "name_en": "Dordi Rural Municipality",
+      "name_ne": "दोर्दी गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 40602,
+      "name_en": "Marshyangdi Rural Municipality",
+      "name_ne": "मस्र्याङ्गदी गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 40603,
+      "name_en": "Kwhola Sothar Rural Municipality",
+      "name_ne": "क्ब्होलासोथार गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 40604,
+      "name_en": "Madhya Nepal Urban Municipality",
+      "name_ne": "मध्यनेपाल नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 40605,
+      "name_en": "Bensi Shahar Urban Municipality",
+      "name_ne": "बेंसीशहर नगरापालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 40606,
+      "name_en": "Sundarbazar Urban Municipality",
+      "name_ne": "सुन्दरबजार नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 40607,
+      "name_en": "Rainas Urban Municipality",
+      "name_ne": "राईनास नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 40608,
+      "name_en": "Dudhapokhari Rural Municipality",
+      "name_ne": "दुधपोखरी गाउँपालिका",
+      "type": "Rural Municipality"
+    }
+  ]
+}

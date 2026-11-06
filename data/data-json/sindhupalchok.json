@@ -1,0 +1,85 @@
+{
+  "district": "Sindhupalchok",
+  "slug": "sindhupalchok",
+  "code": 302,
+  "province": {
+    "code": 3,
+    "name_en": "Bagmati Province",
+    "name_ne": "बागमती प्रदेश"
+  },
+  "total_municipalities": 12,
+  "municipalities": [
+    {
+      "code": 30201,
+      "name_en": "Bhotekoshi Rural Municipality",
+      "name_ne": "भोटेकोशी गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 30202,
+      "name_en": "Jugal Rural Municipality",
+      "name_ne": "जुगल गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 30203,
+      "name_en": "Panchpokhari Thangpal Rural Municipality",
+      "name_ne": "पाँचपोखरी थाड०पाल गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 30204,
+      "name_en": "Helambu Rural Municipality",
+      "name_ne": "हेलम्बु गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 30205,
+      "name_en": "Melanchi Urban Municipality",
+      "name_ne": "मेलम्ची नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 30206,
+      "name_en": "Indrawoti Rural Municipality",
+      "name_ne": "ईन्द्रावती गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 30207,
+      "name_en": "Choutara Sangachowkgadhi Urban Municipality",
+      "name_ne": "चौतारा साँगाचोकगढी नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 30208,
+      "name_en": "Balephi Rural Municipality",
+      "name_ne": "बलेफी गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 30209,
+      "name_en": "Bahrabise Urban Municipality",
+      "name_ne": "बाह्रबिसे नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 30210,
+      "name_en": "Tripurasundari Rural Municipality",
+      "name_ne": "त्रिपुरासुन्दरी गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 30211,
+      "name_en": "Lisankhu Pakhar Rural Municipality",
+      "name_ne": "लिसंखु पाखर गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 30212,
+      "name_en": "Sunkoshi Rural Municipality",
+      "name_ne": "सुनकोशी गाउँपालिका",
+      "type": "Rural Municipality"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "district": "Salyan",
+  "slug": "salyan",
+  "code": 609,
+  "province": {
+    "code": 6,
+    "name_en": "Karnali Province",
+    "name_ne": "कर्णाली प्रदेश"
+  },
+  "total_municipalities": 10,
+  "municipalities": [
+    {
+      "code": 60901,
+      "name_en": "Darma Rural Municipality",
+      "name_ne": "दार्मा गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 60902,
+      "name_en": "Kumakh Rural Municipality",
+      "name_ne": "कुमाख गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 60903,
+      "name_en": "Banagad Kupinde Urban Municipality",
+      "name_ne": "बनगाड कुपिण्डे नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 60904,
+      "name_en": "Siddha Kumakh Rural Municipality",
+      "name_ne": "सिद्ध कुमाख गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 60905,
+      "name_en": "Bagachour Urban Municipality",
+      "name_ne": "बागचौर नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 60906,
+      "name_en": "Chhatreshwori Rural Municipality",
+      "name_ne": "छत्रेश्वरी गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 60907,
+      "name_en": "Sharada Urban Municipality",
+      "name_ne": "शारदा नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 60908,
+      "name_en": "Kalimati Rural Municipality",
+      "name_ne": "कालिमाटी गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 60909,
+      "name_en": "Tribeni Rural Municipality",
+      "name_ne": "त्रिवेणी गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 60910,
+      "name_en": "Kapurkot Rural Municipality",
+      "name_ne": "कपुरकोट गाउँपालिका",
+      "type": "Rural Municipality"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "district": "Kanchanpur",
+  "slug": "kanchanpur",
+  "code": 709,
+  "province": {
+    "code": 7,
+    "name_en": "Sudurpashchim Province",
+    "name_ne": "सुदूरपश्चिम प्रदेश"
+  },
+  "total_municipalities": 9,
+  "municipalities": [
+    {
+      "code": 70901,
+      "name_en": "Krishnapur Urban Municipality",
+      "name_ne": "कृष्णपुर नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 70902,
+      "name_en": "Shuklaphanta Urban Municipality",
+      "name_ne": "शुक्लाफाँटा नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 70903,
+      "name_en": "Bedkot Urban Municipality",
+      "name_ne": "बेदकोट नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 70904,
+      "name_en": "Bhimdatta Urban Municipality",
+      "name_ne": "भिमदत्त नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 70905,
+      "name_en": "Mahakali Urban Municipality",
+      "name_ne": "महाकाली नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 70906,
+      "name_en": "Laljhadi Rural Municipality",
+      "name_ne": "लालझाडी गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 70907,
+      "name_en": "Punarbas Urban Municipality",
+      "name_ne": "पुनर्वास नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 70908,
+      "name_en": "Belouri Urban Municipality",
+      "name_ne": "बेलौरी नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 70909,
+      "name_en": "Beldandi Rural Municipality",
+      "name_ne": "बेलडाँडी गाउँपालिका",
+      "type": "Rural Municipality"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "district": "Kathmandu",
+  "slug": "kathmandu",
+  "code": 306,
+  "province": {
+    "code": 3,
+    "name_en": "Bagmati Province",
+    "name_ne": "बागमती प्रदेश"
+  },
+  "total_municipalities": 11,
+  "municipalities": [
+    {
+      "code": 30601,
+      "name_en": "Shankharapur Urban Municipality",
+      "name_ne": "शंङ्खरापुर नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 30602,
+      "name_en": "Kageshwori Manahara Urban Municipality",
+      "name_ne": "कागेश्वरी मनहरा नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 30603,
+      "name_en": "Gokarneshwor Urban Municipality",
+      "name_ne": "गोकर्णेश्वर नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 30604,
+      "name_en": "Budhanilkhantha Urban Municipality",
+      "name_ne": "बुढानिलकण्ठ नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 30605,
+      "name_en": "Tokha Urban Municipality",
+      "name_ne": "टोखा नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 30606,
+      "name_en": "Tarakeshwor Urban Municipality",
+      "name_ne": "तारकेश्वर नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 30607,
+      "name_en": "Nagarjun Urban Municipality",
+      "name_ne": "नागार्जुन नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 30608,
+      "name_en": "Kathmandu Metropolitian City",
+      "name_ne": "काठमाण्डौ महानगरपालिका",
+      "type": "Metropolitan City"
+    },
+    {
+      "code": 30609,
+      "name_en": "Kirtipur Urban Municipality",
+      "name_ne": "किर्तिपुर नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 30610,
+      "name_en": "Chandragiri Urban Municipality",
+      "name_ne": "चन्द्रागिरी नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 30611,
+      "name_en": "Dakshinkali Urban Municipality",
+      "name_ne": "दक्षिणकाली नगरपालिका",
+      "type": "Municipality"
+    }
+  ]
+}

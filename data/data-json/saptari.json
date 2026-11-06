@@ -1,0 +1,121 @@
+{
+  "district": "Saptari",
+  "slug": "saptari",
+  "code": 201,
+  "province": {
+    "code": 2,
+    "name_en": "Madhesh Province",
+    "name_ne": "मधेश प्रदेश"
+  },
+  "total_municipalities": 18,
+  "municipalities": [
+    {
+      "code": 20101,
+      "name_en": "Saptakoshi Urban Municipality",
+      "name_ne": "सप्तकोशी नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 20102,
+      "name_en": "Kanchanrup Urban Municipality",
+      "name_ne": "कन्चनरुप नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 20103,
+      "name_en": "Agnisair Krishna Sabaran Rural Municipality",
+      "name_ne": "अग्निसाइर कृष्ण सवरन गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 20104,
+      "name_en": "Rupani Rural Municipality",
+      "name_ne": "रुपनी गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 20105,
+      "name_en": "Shambhunath Urban Municipality",
+      "name_ne": "शम्भुनाथ नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 20106,
+      "name_en": "Khadak Urban Municipality",
+      "name_ne": "खडक नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 20107,
+      "name_en": "Surunga Urban Municipality",
+      "name_ne": "सुरुङ्गा नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 20108,
+      "name_en": "Balan-Bihul Rural Municipality",
+      "name_ne": "बलान बिहुल गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 20109,
+      "name_en": "Bode Barsain Urban Municipality",
+      "name_ne": "बोदेबरसाईन नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 20110,
+      "name_en": "Dakneshwori Urban Municipality",
+      "name_ne": "डाक्नेश्वरी नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 20111,
+      "name_en": "Rajgadh Rural Municipality",
+      "name_ne": "राजगढ गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 20112,
+      "name_en": "Bishnupur Rural Municipality",
+      "name_ne": "बिष्णुपुर गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 20113,
+      "name_en": "Rajbiraj Urban Municipality",
+      "name_ne": "राजविराज नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 20114,
+      "name_en": "Mahadewa Rural Municipality",
+      "name_ne": "महादेवा गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 20115,
+      "name_en": "Tirahut Rural Municipality",
+      "name_ne": "तिरहुत गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 20116,
+      "name_en": "Hanumannagar Kankalini Urban Municipality",
+      "name_ne": "हनुमाननगर कङ्कालिनी नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 20117,
+      "name_en": "Tilathi Koiladi Rural Municipality",
+      "name_ne": "तिलाठी कोईलाडी गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 20118,
+      "name_en": "Chhinnamasta Rural Municipality",
+      "name_ne": "छिन्नमस्ता गाउँपालिका",
+      "type": "Rural Municipality"
+    }
+  ]
+}

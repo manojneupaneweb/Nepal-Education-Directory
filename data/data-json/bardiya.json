@@ -1,0 +1,61 @@
+{
+  "district": "Bardiya",
+  "slug": "bardiya",
+  "code": 512,
+  "province": {
+    "code": 5,
+    "name_en": "Lumbini Province",
+    "name_ne": "लुम्बिनी प्रदेश"
+  },
+  "total_municipalities": 8,
+  "municipalities": [
+    {
+      "code": 51201,
+      "name_en": "Bansgadhi Urban Municipality",
+      "name_ne": "बाँसगढी नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 51202,
+      "name_en": "Barbardiya Urban Municipality",
+      "name_ne": "बारबर्दिया नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 51203,
+      "name_en": "Thakurbaba Urban Municipality",
+      "name_ne": "ठाकुरबाबा नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 51204,
+      "name_en": "Geruwa Rural Municipality",
+      "name_ne": "गेरुवा गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 51205,
+      "name_en": "Rajapur Urban Municipality",
+      "name_ne": "राजापुर नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 51206,
+      "name_en": "Madhuwan Urban Municipality",
+      "name_ne": "मधुवन नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 51207,
+      "name_en": "Gulariya Urban Municipality",
+      "name_ne": "गुलरीया नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 51208,
+      "name_en": "Badhaiyatal Rural Municipality",
+      "name_ne": "बढैयाताल गाउँपालिका",
+      "type": "Rural Municipality"
+    }
+  ]
+}

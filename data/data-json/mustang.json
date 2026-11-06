@@ -1,0 +1,43 @@
+{
+  "district": "Mustang",
+  "slug": "mustang",
+  "code": 403,
+  "province": {
+    "code": 4,
+    "name_en": "Gandaki Province",
+    "name_ne": "गण्डकी प्रदेश"
+  },
+  "total_municipalities": 5,
+  "municipalities": [
+    {
+      "code": 40301,
+      "name_en": "Lo Ghekar Damodarkunda Rural Municipality",
+      "name_ne": "लो-घेकर दामोदरकुण्ड गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 40302,
+      "name_en": "Gharpajhong Rural Municipality",
+      "name_ne": "घरपझोङ गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 40303,
+      "name_en": "Varagung Muktichhetra Rural Municipality",
+      "name_ne": "वारागुङ मुक्तिक्षेत्र गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 40304,
+      "name_en": "Lomanthang Rural Municipality",
+      "name_ne": "लोमन्थाङ गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 40305,
+      "name_en": "Thasang Rural Municipality",
+      "name_ne": "थासाङ गाउँपालिका",
+      "type": "Rural Municipality"
+    }
+  ]
+}

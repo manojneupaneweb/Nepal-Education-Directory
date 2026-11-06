@@ -1,0 +1,85 @@
+{
+  "district": "Nuwakot",
+  "slug": "nuwakot",
+  "code": 305,
+  "province": {
+    "code": 3,
+    "name_en": "Bagmati Province",
+    "name_ne": "बागमती प्रदेश"
+  },
+  "total_municipalities": 12,
+  "municipalities": [
+    {
+      "code": 30501,
+      "name_en": "Dupcheshwor Rural Municipality",
+      "name_ne": "दुप्चेश्वर गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 30502,
+      "name_en": "Tadi Rural Municipality",
+      "name_ne": "तादी गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 30503,
+      "name_en": "Suryagadhi Rural Municipality",
+      "name_ne": "सुर्यगढी गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 30504,
+      "name_en": "Bidur Urban Municipality",
+      "name_ne": "बिदुर नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 30505,
+      "name_en": "Kispang Rural Municipality",
+      "name_ne": "किस्पाङ्ग गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 30506,
+      "name_en": "Myagang Rural Municipality",
+      "name_ne": "म्यगङ गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 30507,
+      "name_en": "Tarakeshwor Rural Municipality",
+      "name_ne": "तारकेश्वर गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 30508,
+      "name_en": "Belkotgadhi Urban Municipality",
+      "name_ne": "बेलकोटगढी नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 30509,
+      "name_en": "Likhu Rural Municipality",
+      "name_ne": "लिखु गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 30510,
+      "name_en": "Panchakanya Rural Municipality",
+      "name_ne": "पन्चकन्या गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 30511,
+      "name_en": "Shivapuri Rural Municipality",
+      "name_ne": "शिवपुरी गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 30512,
+      "name_en": "Kakani Rural Municipality",
+      "name_ne": "ककनी गाउँपालिका",
+      "type": "Rural Municipality"
+    }
+  ]
+}

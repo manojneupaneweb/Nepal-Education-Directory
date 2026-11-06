@@ -1,0 +1,67 @@
+{
+  "district": "Taplejung",
+  "slug": "taplejung",
+  "code": 101,
+  "province": {
+    "code": 1,
+    "name_en": "Koshi Province",
+    "name_ne": "कोशी प्रदेश"
+  },
+  "total_municipalities": 9,
+  "municipalities": [
+    {
+      "code": 10101,
+      "name_en": "Phaktanlung Rural Municipality",
+      "name_ne": "फक्ताङ्लुङ्ग गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 10102,
+      "name_en": "Mikwakhola Rural Municipality",
+      "name_ne": "मिक्वाखोला गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 10103,
+      "name_en": "Meringden Rural Municipality",
+      "name_ne": "मेरिङ्गदेन गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 10104,
+      "name_en": "Maiwakhola Rural Municipality",
+      "name_ne": "मैवाखोला गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 10105,
+      "name_en": "Aatharai Tribeni Rural Municipality",
+      "name_ne": "आठराई त्रिवेणी गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 10106,
+      "name_en": "Phungling Urban Municipality",
+      "name_ne": "फुङलिङ्ग नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 10107,
+      "name_en": "Pathivara Yangwarak Rural Municipality",
+      "name_ne": "पाथीभरा याङवरक गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 10108,
+      "name_en": "Sirijanga Rural Municipality",
+      "name_ne": "सिरीजङ्गा गाउंपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 10109,
+      "name_en": "Sidingba Rural Municipality",
+      "name_ne": "सिदिङ्गवा गाउँपालिका",
+      "type": "Rural Municipality"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "district": "Terhathum",
+  "slug": "terhathum",
+  "code": 108,
+  "province": {
+    "code": 1,
+    "name_en": "Koshi Province",
+    "name_ne": "कोशी प्रदेश"
+  },
+  "total_municipalities": 6,
+  "municipalities": [
+    {
+      "code": 10801,
+      "name_en": "Aatharai Rural Municipality",
+      "name_ne": "आठराई गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 10802,
+      "name_en": "Phedap Rural Municipality",
+      "name_ne": "फेदाप गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 10803,
+      "name_en": "Menchhayayem Rural Municipality",
+      "name_ne": "मेन्छयायेम गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 10804,
+      "name_en": "Myanglung Urban Municipality",
+      "name_ne": "म्याङ्गलुङ्ग नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 10805,
+      "name_en": "Laligurans Urban Municipality",
+      "name_ne": "लालीगुराँस नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 10806,
+      "name_en": "Chhathar Rural Municipality",
+      "name_ne": "छथर गाउँपालिका",
+      "type": "Rural Municipality"
+    }
+  ]
+}

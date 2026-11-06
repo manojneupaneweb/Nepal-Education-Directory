@@ -1,0 +1,121 @@
+{
+  "district": "Dhanusha",
+  "slug": "dhanusha",
+  "code": 203,
+  "province": {
+    "code": 2,
+    "name_en": "Madhesh Province",
+    "name_ne": "मधेश प्रदेश"
+  },
+  "total_municipalities": 18,
+  "municipalities": [
+    {
+      "code": 20301,
+      "name_en": "Ganeshman Charnath Urban Municipality",
+      "name_ne": "गणेशमान चारनाथ नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 20302,
+      "name_en": "Dhanushadham Urban Municipality",
+      "name_ne": "धनुषाधाम नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 20303,
+      "name_en": "Mithila Urban Municipality",
+      "name_ne": "मिथिला नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 20304,
+      "name_en": "Bateshwor Rural Municipality",
+      "name_ne": "बटेश्वर गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 20305,
+      "name_en": "Chhireshwornath Urban Municipality",
+      "name_ne": "क्षिरेश्वरनाथ नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 20306,
+      "name_en": "Laxminiya Rural Municipality",
+      "name_ne": "लक्ष्मीनिया गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 20307,
+      "name_en": "Mithila Bihari Urban Municipality",
+      "name_ne": "मिथिला बिहारी नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 20308,
+      "name_en": "Hansapur Urban Municipality",
+      "name_ne": "हंसपुर नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 20309,
+      "name_en": "Sabaila Urban Municipality",
+      "name_ne": "सबैला नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 20310,
+      "name_en": "Shahidnagar Urban Municipality",
+      "name_ne": "शहीदनगर नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 20311,
+      "name_en": "Kamala Urban Municipality",
+      "name_ne": "कमला नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 20312,
+      "name_en": "Janak Nandini Rural Municipality",
+      "name_ne": "जनक नन्दिनी गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 20313,
+      "name_en": "Bideha Urban Municipality",
+      "name_ne": "बिदेह नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 20314,
+      "name_en": "Aurahi Rural Municipality",
+      "name_ne": "औरही गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 20315,
+      "name_en": "Janakpurdham Sub-Metropolitian City",
+      "name_ne": "जनकपुरधाम उपमहानगरपालिका",
+      "type": "Sub-Metropolitan City"
+    },
+    {
+      "code": 20316,
+      "name_en": "Dhanauji Rural Municipality",
+      "name_ne": "धनौजी गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 20317,
+      "name_en": "Nagarain Urban Municipality",
+      "name_ne": "नगराइन नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 20318,
+      "name_en": "Mukhiyapatti Musaharmiya Rural Municipality",
+      "name_ne": "मुखियापट्टी मुसहरमिया गाउँपालिका",
+      "type": "Rural Municipality"
+    }
+  ]
+}

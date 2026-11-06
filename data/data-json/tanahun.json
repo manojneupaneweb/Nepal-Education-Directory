@@ -1,0 +1,73 @@
+{
+  "district": "Tanahun",
+  "slug": "tanahun",
+  "code": 407,
+  "province": {
+    "code": 4,
+    "name_en": "Gandaki Province",
+    "name_ne": "गण्डकी प्रदेश"
+  },
+  "total_municipalities": 10,
+  "municipalities": [
+    {
+      "code": 40701,
+      "name_en": "Bhanu Urban Municipality",
+      "name_ne": "भानु नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 40702,
+      "name_en": "Byas Urban Municipality",
+      "name_ne": "ब्यास नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 40703,
+      "name_en": "Myagde Rural Municipality",
+      "name_ne": "म्याग्दे गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 40704,
+      "name_en": "Shuklagandaki Urban Municipality",
+      "name_ne": "शुक्लागण्डकी नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 40705,
+      "name_en": "Bhimad Urban Municipality",
+      "name_ne": "भिमाद नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 40706,
+      "name_en": "Ghiring Rural Municipality",
+      "name_ne": "घिरिङ्ग गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 40707,
+      "name_en": "Rhishing Rural Municipality",
+      "name_ne": "ऋषिङ्ग गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 40708,
+      "name_en": "Devghat Rural Municipality",
+      "name_ne": "देवघाट गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 40709,
+      "name_en": "Bandipur Rural Municipality",
+      "name_ne": "बन्दिपुर गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 40710,
+      "name_en": "Aanbu Khaireni Rural Municipality",
+      "name_ne": "आँबुखैरेनी गाउँपालिका",
+      "type": "Rural Municipality"
+    }
+  ]
+}

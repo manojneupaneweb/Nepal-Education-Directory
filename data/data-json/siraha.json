@@ -1,0 +1,115 @@
+{
+  "district": "Siraha",
+  "slug": "siraha",
+  "code": 202,
+  "province": {
+    "code": 2,
+    "name_en": "Madhesh Province",
+    "name_ne": "मधेश प्रदेश"
+  },
+  "total_municipalities": 17,
+  "municipalities": [
+    {
+      "code": 20201,
+      "name_en": "Lahan Urban Municipality",
+      "name_ne": "लहान नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 20202,
+      "name_en": "Dhangadhimai Urban Municipality",
+      "name_ne": "धनगढीमाई नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 20203,
+      "name_en": "Golbazar Urban Municipality",
+      "name_ne": "गोलबजार नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 20204,
+      "name_en": "Mirchaiya Urban Municipality",
+      "name_ne": "मिर्चेया नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 20205,
+      "name_en": "Karjanha Urban Municipality",
+      "name_ne": "कर्जन्हा नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 20206,
+      "name_en": "Kalyanpur Urban Municipality",
+      "name_ne": "कल्याणपुर नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 20207,
+      "name_en": "Naraha Rural Municipality",
+      "name_ne": "नरहा गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 20208,
+      "name_en": "Bishnupur Rural Municipality",
+      "name_ne": "बिष्णुपुर गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 20209,
+      "name_en": "Arnama Rural Municipality",
+      "name_ne": "अर्नमा गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 20210,
+      "name_en": "Sukhipur Urban Municipality",
+      "name_ne": "सुखीपुर नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 20211,
+      "name_en": "Laxmipur Patari Rural Municipality",
+      "name_ne": "लक्ष्मीपुर पतारी गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 20212,
+      "name_en": "Sakhuwa Nankarkatti Rural Municipality",
+      "name_ne": "सखुवानान्कारकट्टी गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 20213,
+      "name_en": "Bhagawanpur Rural Municipality",
+      "name_ne": "भगवानपुर गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 20214,
+      "name_en": "Nawarajpur Rural Municipality",
+      "name_ne": "नवराजपुर गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 20215,
+      "name_en": "Bariyarpatti Rural Municipality",
+      "name_ne": "बरियारपट्टी गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 20216,
+      "name_en": "Aurahi Rural Municipality",
+      "name_ne": "औरही गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 20217,
+      "name_en": "Siraha Urban Municipality",
+      "name_ne": "सिराहा नगरपालिका",
+      "type": "Municipality"
+    }
+  ]
+}

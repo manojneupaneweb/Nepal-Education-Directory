@@ -1,0 +1,67 @@
+{
+  "district": "Doti",
+  "slug": "doti",
+  "code": 706,
+  "province": {
+    "code": 7,
+    "name_en": "Sudurpashchim Province",
+    "name_ne": "सुदूरपश्चिम प्रदेश"
+  },
+  "total_municipalities": 9,
+  "municipalities": [
+    {
+      "code": 70601,
+      "name_en": "Purbichouki Rural Municipality",
+      "name_ne": "पुर्विचौकी गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 70602,
+      "name_en": "Sayal Rural Municipality",
+      "name_ne": "सायल गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 70603,
+      "name_en": "Aadarsha Rural Municipality",
+      "name_ne": "आदर्श गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 70604,
+      "name_en": "Shikhar Urban Municipality",
+      "name_ne": "शिखर नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 70605,
+      "name_en": "Dipayal Silgadhi Urban Municipality",
+      "name_ne": "दिपायल सिलगढी नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 70606,
+      "name_en": "K.I. Singh Rural Municipality",
+      "name_ne": "के.आई.सिं. गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 70607,
+      "name_en": "Bogatan Phudsil Rural Municipality",
+      "name_ne": "बोगटान फुड्सिल गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 70608,
+      "name_en": "Badi Kedar Rural Municipality",
+      "name_ne": "बडीकेदार गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 70609,
+      "name_en": "Jorayal Rural Municipality",
+      "name_ne": "जोरायल गाउँपालिका",
+      "type": "Rural Municipality"
+    }
+  ]
+}

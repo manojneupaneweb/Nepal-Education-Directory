@@ -1,0 +1,61 @@
+{
+  "district": "Dolpa",
+  "slug": "dolpa",
+  "code": 601,
+  "province": {
+    "code": 6,
+    "name_en": "Karnali Province",
+    "name_ne": "कर्णाली प्रदेश"
+  },
+  "total_municipalities": 8,
+  "municipalities": [
+    {
+      "code": 60101,
+      "name_en": "Dolpo Buddha Rural Municipality",
+      "name_ne": "डोल्पो बुद्ध गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 60102,
+      "name_en": "Shey Phoksundo Rural Municipality",
+      "name_ne": "शे फोक्सुण्डो गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 60103,
+      "name_en": "Jagadulla Rural Municipality",
+      "name_ne": "जगदुल्ला गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 60104,
+      "name_en": "Mudkechula Rural Municipality",
+      "name_ne": "मुड्केचुला गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 60105,
+      "name_en": "Tripurasundari Urban Municipality",
+      "name_ne": "त्रिपुरासुन्दरी नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 60106,
+      "name_en": "Thulibheri Urban Municipality",
+      "name_ne": "ठुलीभेरी नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 60107,
+      "name_en": "Kaike Rural Municipality",
+      "name_ne": "काइके गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 60108,
+      "name_en": "Chharka Tangsong Rural Municipality",
+      "name_ne": "छार्का ताङसोङ गाउँपालिका",
+      "type": "Rural Municipality"
+    }
+  ]
+}

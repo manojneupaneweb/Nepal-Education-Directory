@@ -1,0 +1,55 @@
+{
+  "district": "Parasi",
+  "slug": "parasi",
+  "code": 507,
+  "province": {
+    "code": 5,
+    "name_en": "Lumbini Province",
+    "name_ne": "लुम्बिनी प्रदेश"
+  },
+  "total_municipalities": 7,
+  "municipalities": [
+    {
+      "code": 50701,
+      "name_en": "Bardaghat Urban Municipality",
+      "name_ne": "बर्दघाट नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 50702,
+      "name_en": "Sunawal Urban Municipality",
+      "name_ne": "सुनवल नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 50703,
+      "name_en": "Ramgram Urban Municipality",
+      "name_ne": "रामग्राम नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 50704,
+      "name_en": "Palhinandan Rural Municipality",
+      "name_ne": "पाल्हीनन्दन गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 50705,
+      "name_en": "Sarawal Rural Municipality",
+      "name_ne": "सरावल गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 50706,
+      "name_en": "Pratapapur Rural Municipality",
+      "name_ne": "प्रतापपुर गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 50707,
+      "name_en": "Susta Rural Municipality",
+      "name_ne": "सुस्ता गाउँपालिका",
+      "type": "Rural Municipality"
+    }
+  ]
+}

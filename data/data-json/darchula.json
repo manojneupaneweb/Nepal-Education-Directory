@@ -1,0 +1,67 @@
+{
+  "district": "Darchula",
+  "slug": "darchula",
+  "code": 703,
+  "province": {
+    "code": 7,
+    "name_en": "Sudurpashchim Province",
+    "name_ne": "सुदूरपश्चिम प्रदेश"
+  },
+  "total_municipalities": 9,
+  "municipalities": [
+    {
+      "code": 70301,
+      "name_en": "Byas Rural Municipality",
+      "name_ne": "ब्याँस गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 70302,
+      "name_en": "Duhun Rural Municipality",
+      "name_ne": "दुहुँ गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 70303,
+      "name_en": "Mahakali Urban Municipality",
+      "name_ne": "महाकाली नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 70304,
+      "name_en": "Naugad  Rural Municipality",
+      "name_ne": "नौगाड गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 70305,
+      "name_en": "Apihimal Rural Municipality",
+      "name_ne": "अपिहिमाल गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 70306,
+      "name_en": "Marma Rural Municipality",
+      "name_ne": "मार्मा गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 70307,
+      "name_en": "Shailyashikhar Urban Municipality",
+      "name_ne": "शैल्यशिखर नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 70308,
+      "name_en": "Malikarjun Rural Municipality",
+      "name_ne": "मालिकार्जुन गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 70309,
+      "name_en": "Lekam Rural Municipality",
+      "name_ne": "लेकम गाउँपालिका",
+      "type": "Rural Municipality"
+    }
+  ]
+}

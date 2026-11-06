@@ -1,0 +1,91 @@
+{
+  "district": "Kailali",
+  "slug": "kailali",
+  "code": 708,
+  "province": {
+    "code": 7,
+    "name_en": "Sudurpashchim Province",
+    "name_ne": "सुदूरपश्चिम प्रदेश"
+  },
+  "total_municipalities": 13,
+  "municipalities": [
+    {
+      "code": 70801,
+      "name_en": "Mohanyal Rural Municipality",
+      "name_ne": "मोहन्याल गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 70802,
+      "name_en": "Chure Rural Municipality",
+      "name_ne": "चुरे गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 70803,
+      "name_en": "Godawari Urban Municipality",
+      "name_ne": "गोदावरी नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 70804,
+      "name_en": "Gauriganga Urban Municipality",
+      "name_ne": "गौरीगंगा नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 70805,
+      "name_en": "Ghodaghodi Urban Municipality",
+      "name_ne": "घोडाघोडी नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 70806,
+      "name_en": "Bardagoriya Rural Municipality",
+      "name_ne": "बर्दगोरिया गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 70807,
+      "name_en": "Lamki Chuha Urban Municipality",
+      "name_ne": "लम्कि चुहा नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 70808,
+      "name_en": "Janaki Rural Municipality",
+      "name_ne": "जानकी गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 70809,
+      "name_en": "Joshipur Rural Municipality",
+      "name_ne": "जोशीपुर गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 70810,
+      "name_en": "Tikapur Urban Municipality",
+      "name_ne": "टिकापुर नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 70811,
+      "name_en": "Bhajani Urban Municipality",
+      "name_ne": "भजनी नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 70812,
+      "name_en": "Kailari Rural Municipality",
+      "name_ne": "कैलारी गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 70813,
+      "name_en": "Dhangadhi Sub-Metropolitian City",
+      "name_ne": "धनगढी उपमहानगरपालिका",
+      "type": "Sub-Metropolitan City"
+    }
+  ]
+}

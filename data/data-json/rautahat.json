@@ -1,0 +1,121 @@
+{
+  "district": "Rautahat",
+  "slug": "rautahat",
+  "code": 206,
+  "province": {
+    "code": 2,
+    "name_en": "Madhesh Province",
+    "name_ne": "मधेश प्रदेश"
+  },
+  "total_municipalities": 18,
+  "municipalities": [
+    {
+      "code": 20601,
+      "name_en": "Chandrapur Urban Municipality",
+      "name_ne": "चन्द्रपुर नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 20602,
+      "name_en": "Gujara Urban Municipality",
+      "name_ne": "गुजरा नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 20603,
+      "name_en": "Phatuwa Bijayapur Urban Municipality",
+      "name_ne": "फतुवा बिजयपुर नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 20604,
+      "name_en": "Katahariya Urban Municipality",
+      "name_ne": "कटहरिया नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 20605,
+      "name_en": "Brindaban Urban Municipality",
+      "name_ne": "बृन्दावन नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 20606,
+      "name_en": "Gadhimai Urban Municipality",
+      "name_ne": "गढीमाई नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 20607,
+      "name_en": "Madhav Narayan Urban Municipality",
+      "name_ne": "माधव नारायण नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 20608,
+      "name_en": "Garuda Urban Municipality",
+      "name_ne": "गरुडा नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 20609,
+      "name_en": "Dewahi Gonahi Urban Municipality",
+      "name_ne": "देवाही गोनाही नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 20610,
+      "name_en": "Maulapur Urban Municipality",
+      "name_ne": "मौलापुर नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 20611,
+      "name_en": "Boudhimai Urban Municipality",
+      "name_ne": "बौधीमाई नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 20612,
+      "name_en": "Paroha Urban Municipality",
+      "name_ne": "परोहा नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 20613,
+      "name_en": "Rajpur Urban Municipality",
+      "name_ne": "राजपुर नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 20614,
+      "name_en": "Yamunamai Rural Municipality",
+      "name_ne": "यमुनामाई गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 20615,
+      "name_en": "Durga Bhagawati Rural Municipality",
+      "name_ne": "दुर्गा भगवती गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 20616,
+      "name_en": "Rajdevi Urban Municipality",
+      "name_ne": "राजदेवी नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 20617,
+      "name_en": "Gaur Urban Municipality",
+      "name_ne": "गौर नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 20618,
+      "name_en": "Ishanath Urban Municipality",
+      "name_ne": "ईशनाथ नगरपालिका",
+      "type": "Municipality"
+    }
+  ]
+}

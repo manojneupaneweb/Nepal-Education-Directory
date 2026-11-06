@@ -1,0 +1,85 @@
+{
+  "district": "Bajhang",
+  "slug": "bajhang",
+  "code": 702,
+  "province": {
+    "code": 7,
+    "name_en": "Sudurpashchim Province",
+    "name_ne": "सुदूरपश्चिम प्रदेश"
+  },
+  "total_municipalities": 12,
+  "municipalities": [
+    {
+      "code": 70201,
+      "name_en": "Saipal Rural Municipality",
+      "name_ne": "साइपाल गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 70202,
+      "name_en": "Bungal Urban Municipality",
+      "name_ne": "बुंगल नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 70203,
+      "name_en": "Surma Rural Municipality",
+      "name_ne": "सूर्मा गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 70204,
+      "name_en": "Talkot Rural Municipality",
+      "name_ne": "तालकोट गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 70205,
+      "name_en": "Masta Rural Municipality",
+      "name_ne": "मष्टा गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 70206,
+      "name_en": "Jayaprithbi Urban Municipality",
+      "name_ne": "जयपृथ्वी नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 70207,
+      "name_en": "Chhabis Pathibhara Rural Municipality",
+      "name_ne": "छबिस पाथिभरा गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 70208,
+      "name_en": "Durgathali Rural Municipality",
+      "name_ne": "दुर्गाथली गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 70209,
+      "name_en": "Kedarsyun Rural Municipality",
+      "name_ne": "केदारस्युँ गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 70210,
+      "name_en": "Bitthadchir Rural Municipality",
+      "name_ne": "बित्थडचिर गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 70211,
+      "name_en": "Thalara Rural Municipality",
+      "name_ne": "थलारा गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 70212,
+      "name_en": "Khaptad Chhanna Rural Municipality",
+      "name_ne": "खप्तडछान्ना गाउँपालिका",
+      "type": "Rural Municipality"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "district": "Achham",
+  "slug": "achham",
+  "code": 707,
+  "province": {
+    "code": 7,
+    "name_en": "Sudurpashchim Province",
+    "name_ne": "सुदूरपश्चिम प्रदेश"
+  },
+  "total_municipalities": 10,
+  "municipalities": [
+    {
+      "code": 70701,
+      "name_en": "Panchdebal Binayak Urban Municipality",
+      "name_ne": "पंचदेवल बिनायक नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 70702,
+      "name_en": "Ramaroshan Rural Municipality",
+      "name_ne": "रामारोशन गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 70703,
+      "name_en": "Mellekh Rural Municipality",
+      "name_ne": "मेल्लेख गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 70704,
+      "name_en": "Sanphebagar Urban Municipality",
+      "name_ne": "साँफेबगर नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 70705,
+      "name_en": "Chaurpati Rural Municipality",
+      "name_ne": "चौरपाटी गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 70706,
+      "name_en": "Mangalsen Urban Municipality",
+      "name_ne": "मंगलसेन नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 70707,
+      "name_en": "Bannigadhi Jayagadh Rural Municipality",
+      "name_ne": "बान्नीगढी जयगढ गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 70708,
+      "name_en": "Kamal bazar Urban Municipality",
+      "name_ne": "कमलबजार नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 70709,
+      "name_en": "Dhakari Rural Municipality",
+      "name_ne": "ढकारी गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 70710,
+      "name_en": "Turmakhand Rural Municipality",
+      "name_ne": "तुर्माखाँद गाउँपालिका",
+      "type": "Rural Municipality"
+    }
+  ]
+}

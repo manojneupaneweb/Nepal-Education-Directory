@@ -1,0 +1,55 @@
+{
+  "district": "Parbat",
+  "slug": "parbat",
+  "code": 410,
+  "province": {
+    "code": 4,
+    "name_en": "Gandaki Province",
+    "name_ne": "गण्डकी प्रदेश"
+  },
+  "total_municipalities": 7,
+  "municipalities": [
+    {
+      "code": 41001,
+      "name_en": "Modi Rural Municipality",
+      "name_ne": "मोदी गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 41002,
+      "name_en": "Jaljala Rural Municipality",
+      "name_ne": "जलजला गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 41003,
+      "name_en": "Kushma Urban Municipality",
+      "name_ne": "कुश्मा नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 41004,
+      "name_en": "Phalebas Urban Municipality",
+      "name_ne": "फलेबास नगरपालिका",
+      "type": "Municipality"
+    },
+    {
+      "code": 41005,
+      "name_en": "Mahashila Rural Municipality",
+      "name_ne": "महाशिला गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 41006,
+      "name_en": "Bihadi Rural Municipality",
+      "name_ne": "बिहादी गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 41007,
+      "name_en": "Paiyu Rural Municipality",
+      "name_ne": "पैयुं गाउँपालिका",
+      "type": "Rural Municipality"
+    }
+  ]
+}

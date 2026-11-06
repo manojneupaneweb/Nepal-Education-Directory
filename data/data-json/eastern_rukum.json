@@ -1,0 +1,31 @@
+{
+  "district": "Eastern Rukum",
+  "slug": "eastern_rukum",
+  "code": 501,
+  "province": {
+    "code": 5,
+    "name_en": "Lumbini Province",
+    "name_ne": "लुम्बिनी प्रदेश"
+  },
+  "total_municipalities": 3,
+  "municipalities": [
+    {
+      "code": 50101,
+      "name_en": "Putha Uttanganga Rural Municipality",
+      "name_ne": "पुथा उत्तरगंगा गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 50102,
+      "name_en": "Sisne Rural Municipality",
+      "name_ne": "सिस्ने गाउँपालिका",
+      "type": "Rural Municipality"
+    },
+    {
+      "code": 50103,
+      "name_en": "Bhoome Rural Municipality",
+      "name_ne": "भूमे गाउँपालिका",
+      "type": "Rural Municipality"
+    }
+  ]
+}
