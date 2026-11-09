@@ -9,6 +9,8 @@
         </p>
         <h1 class="mt-2 text-3xl font-bold">{{ $district->name }}</h1>
         <p class="mt-2 text-sm text-slate-600">Code {{ $district->code }}</p>
+        @php $leader = $municipalities->sortByDesc('schools_count')->first(); @endphp
+        <p class="mt-3 max-w-3xl text-sm leading-relaxed text-slate-700">{{ $district->name }} is in {{ $district->province->name }}. This directory lists {{ number_format($schoolCount) }} published schools and {{ number_format($collegeCount) }} published colleges here.@if ($leader && $leader->schools_count > 0) {{ $leader->name }} has the most listed schools in the district ({{ number_format($leader->schools_count) }}).@endif</p>
         <h2 class="mt-8 text-xl font-bold">Local governments</h2>
         <ul class="mt-4 grid gap-3 sm:grid-cols-2">
             @foreach ($municipalities as $municipality)
@@ -17,6 +19,7 @@
                         <span class="font-semibold">{{ $municipality->name }}</span>
                         @if ($municipality->name_ne)<span class="mt-1 block text-sm text-slate-600">{{ $municipality->name_ne }}</span>@endif
                         <span class="mt-1 block text-sm text-slate-500">{{ str_replace('_', ' ', $municipality->municipality_type->value) }}</span>
+                        <span class="mt-1 block text-sm text-slate-700">{{ number_format($municipality->schools_count) }} schools · {{ number_format($municipality->colleges_count) }} colleges</span>
                     </a>
                 </li>
             @endforeach

@@ -54,6 +54,14 @@
                 <a class="hover:text-blue-800" href="{{ route('home') }}">Home</a>
                 <span aria-hidden="true"> / </span>
                 <a class="hover:text-blue-800" href="{{ $indexRoute }}">{{ $indexLabel }}</a>
+                @if ($institution->district)
+                    <span aria-hidden="true"> / </span>
+                    <a class="hover:text-blue-800" href="{{ route('districts.show', $institution->district) }}">{{ $institution->district->name }}</a>
+                @endif
+                @if ($institution->municipality && $institution->district)
+                    <span aria-hidden="true"> / </span>
+                    <a class="hover:text-blue-800" href="{{ route('municipalities.show', [$institution->district, $institution->municipality]) }}">{{ $institution->municipality->name }}</a>
+                @endif
                 <span aria-hidden="true"> / </span>
                 <span class="text-slate-900">{{ $institution->name }}</span>
             </nav>
@@ -75,10 +83,18 @@
             </div>
 
             <div class="mt-5 flex flex-wrap gap-2 text-sm font-semibold">
-                <a href="#about" class="rounded-full bg-slate-100 px-3 py-1.5 text-slate-700 hover:bg-blue-50 hover:text-blue-800">About</a>
-                <a href="#programs" class="rounded-full bg-slate-100 px-3 py-1.5 text-slate-700 hover:bg-blue-50 hover:text-blue-800">Programs</a>
-                <a href="#gallery" class="rounded-full bg-slate-100 px-3 py-1.5 text-slate-700 hover:bg-blue-50 hover:text-blue-800">Gallery</a>
-                <a href="#contact" class="rounded-full bg-blue-700 px-3 py-1.5 text-white hover:bg-blue-800">Contact</a>
+                @if ($paragraphs->isNotEmpty() || collect($sections->get('about') ?? [])->filter()->isNotEmpty())
+                    <a href="#about" class="rounded-full bg-slate-100 px-3 py-1.5 text-slate-700 hover:bg-blue-50 hover:text-blue-800">About</a>
+                @endif
+                @if ($institution->programs->isNotEmpty() || $offeredPrograms->isNotEmpty())
+                    <a href="#programs" class="rounded-full bg-slate-100 px-3 py-1.5 text-slate-700 hover:bg-blue-50 hover:text-blue-800">Programs</a>
+                @endif
+                @if (collect($sections->get('gallery') ?? [])->filter()->isNotEmpty())
+                    <a href="#gallery" class="rounded-full bg-slate-100 px-3 py-1.5 text-slate-700 hover:bg-blue-50 hover:text-blue-800">Gallery</a>
+                @endif
+                @if ($channels->isNotEmpty() || $institution->official_website)
+                    <a href="#contact" class="rounded-full bg-blue-700 px-3 py-1.5 text-white hover:bg-blue-800">Contact</a>
+                @endif
                 @if ($institution->official_website)
                     <a href="{{ $institution->official_website }}" target="_blank" rel="noopener noreferrer" class="rounded-full border border-slate-300 px-3 py-1.5 text-slate-700 hover:border-blue-300">Official website</a>
                 @endif
@@ -211,7 +227,7 @@
             @endif
 
             @if ($institution->programs->isNotEmpty())
-                <section>
+                <section id="programs">
                     <h2 class="flex items-center gap-3 text-xl font-bold text-slate-900"><span class="h-6 w-4 rounded bg-brand-700" aria-hidden="true"></span>Programs</h2>
                     <div class="mt-3 grid gap-3 sm:grid-cols-2">
                         @foreach ($institution->programs as $program)
@@ -239,6 +255,17 @@
                                     </a>
                                 </li>
                             @endif
+                        @endforeach
+                    </ul>
+                </section>
+            @endif
+
+            @if (($nearbyInstitutions ?? collect())->isNotEmpty() && $institution->type?->slug !== 'college')
+                <section class="rounded-2xl border border-slate-200 bg-white p-5 shadow-sm">
+                    <h2 class="flex items-center gap-3 text-xl font-bold text-slate-900"><span class="h-6 w-4 rounded bg-brand-700" aria-hidden="true"></span>Other {{ strtolower($institution->type?->name ?? 'institutions') }} in {{ $institution->municipality?->name }}</h2>
+                    <ul class="mt-4 space-y-2">
+                        @foreach ($nearbyInstitutions as $nearby)
+                            <li><a class="font-semibold text-brand-800" href="{{ route('institutions.show', $nearby) }}">{{ $nearby->name }}</a></li>
                         @endforeach
                     </ul>
                 </section>
@@ -285,6 +312,9 @@
                     @endif
                     @if ($institution->district)
                         <li><a class="font-semibold text-brand-700" href="{{ route('districts.show', $institution->district) }}">{{ $institution->district->name }}</a></li>
+                    @endif
+                    @if ($institution->municipality && $institution->district)
+                        <li><a class="font-semibold text-brand-700" href="{{ route('municipalities.show', [$institution->district, $institution->municipality]) }}">{{ $institution->municipality->name }}</a></li>
                     @endif
                 </ul>
             </section>

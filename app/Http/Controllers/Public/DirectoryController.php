@@ -242,10 +242,14 @@ class DirectoryController extends Controller
         $district->load('province');
 
         $listed = $this->listedInstitutions(districtId: $district->id);
+        $typeIds = InstitutionType::query()->whereIn('slug', ['school', 'college'])->pluck('id', 'slug');
 
         return view('public.places.district', [
             'district' => $district,
-            'municipalities' => $district->municipalities()->active()->orderBy('name')->get(),
+            'municipalities' => $district->municipalities()->active()->withCount([
+                'institutions as schools_count' => fn ($query) => $query->published()->where('institution_type_id', $typeIds->get('school') ?? 0),
+                'institutions as colleges_count' => fn ($query) => $query->published()->where('institution_type_id', $typeIds->get('college') ?? 0),
+            ])->orderBy('name')->get(),
             'schoolCount' => $listed['schoolCount'],
             'collegeCount' => $listed['collegeCount'],
             'schools' => $listed['schools'],
@@ -259,15 +263,15 @@ class DirectoryController extends Controller
         abort_unless($municipality->district_id === $district->id, 404);
         $district->load('province');
 
+        $typeIds = InstitutionType::query()->whereIn('slug', ['school', 'college'])->pluck('id', 'slug');
+        $base = Institution::query()->published()->where('municipality_id', $municipality->id);
+
         return view('public.places.municipality', [
             'district' => $district,
             'municipality' => $municipality,
-            'institutions' => Institution::query()
-                ->published()
-                ->where('municipality_id', $municipality->id)
-                ->with('type')
-                ->orderBy('name')
-                ->paginate(20),
+            'schoolCount' => (clone $base)->where('institution_type_id', $typeIds->get('school') ?? 0)->count(),
+            'collegeCount' => (clone $base)->where('institution_type_id', $typeIds->get('college') ?? 0)->count(),
+            'institutions' => $base->with('type')->orderBy('name')->paginate(20),
         ]);
     }
 
@@ -319,6 +323,15 @@ class DirectoryController extends Controller
         $universityIds = $institution->affiliations->pluck('university_id')->filter()->unique()->values();
         $similar = collect();
 
+        $nearby = Institution::query()
+            ->published()
+            ->where('institution_type_id', $institution->institution_type_id)
+            ->where('municipality_id', $institution->municipality_id)
+            ->whereKeyNot($institution->id)
+            ->orderBy('name')
+            ->limit(6)
+            ->get();
+
         if ($institution->type?->slug === 'college') {
             $similar = Institution::query()
                 ->where('status', InstitutionStatus::Published)
@@ -343,6 +356,7 @@ class DirectoryController extends Controller
         return view('public.institutions.show', [
             'institution' => $institution,
             'similarColleges' => $similar,
+            'nearbyInstitutions' => $nearby,
         ]);
     }
 

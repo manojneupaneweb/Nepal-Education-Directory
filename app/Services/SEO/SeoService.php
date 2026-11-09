@@ -112,6 +112,7 @@ class SeoService
                 $institution->type?->slug === 'college' ? ['name' => 'Colleges', 'url' => route('colleges.index')] : null,
                 $institution->province ? ['name' => $institution->province->name, 'url' => route('provinces.show', $institution->province)] : null,
                 $institution->district ? ['name' => $institution->district->name, 'url' => route('districts.show', $institution->district)] : null,
+                $institution->municipality && $institution->district ? ['name' => $institution->municipality->name, 'url' => route('municipalities.show', [$institution->district, $institution->municipality])] : null,
                 ['name' => $institution->name, 'url' => $url],
             ])),
             jsonLd: [$this->prune([

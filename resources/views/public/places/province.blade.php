@@ -8,6 +8,11 @@
         <h1 class="mt-2 text-3xl font-bold">{{ $province->name }}</h1>
         <p class="mt-2 text-sm text-slate-600">Code {{ $province->code }}</p>
         <p class="mt-3 text-sm font-semibold text-slate-700">{{ number_format($province->universities_count) }} universities · {{ number_format($schoolCount) }} schools · {{ number_format($collegeCount) }} colleges</p>
+        @php
+            $schoolLeader = $districts->sortByDesc('schools_count')->first();
+            $collegeLeader = $districts->sortByDesc('colleges_count')->first();
+        @endphp
+        <p class="mt-3 max-w-3xl text-sm leading-relaxed text-slate-700">This directory lists {{ number_format($schoolCount) }} published schools and {{ number_format($collegeCount) }} published colleges in {{ $province->name }}. @if ($schoolLeader){{ $schoolLeader->name }} has the most listed schools in the province ({{ number_format($schoolLeader->schools_count) }}). @endif @if ($collegeLeader && $collegeLeader->colleges_count > 0){{ $collegeLeader->name }} has the most listed colleges ({{ number_format($collegeLeader->colleges_count) }}). @endif</p>
         <h2 class="mt-8 text-xl font-bold">Districts</h2>
         <ul class="mt-4 grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
             @foreach ($districts as $district)

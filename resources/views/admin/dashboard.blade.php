@@ -257,6 +257,6 @@
 
     <section class="mt-4 rounded-2xl border border-blue-100 bg-blue-50 p-5">
         <h2 class="font-semibold text-navy">Directory coverage</h2>
-        <p class="mt-2 text-sm text-slate-700">{{ number_format($stats['institutions']) }} institution records across {{ number_format($stats['provinces']) }} provinces, {{ number_format($stats['districts']) }} districts, and {{ number_format($stats['municipalities']) }} local governments. Published information stays free to search.</p>
+        <p class="mt-2 text-sm text-slate-700">{{ number_format($stats['institutions']) }} institution records across {{ number_format($stats['provinces']) }} provinces, {{ number_format($stats['districts']) }} districts, and {{ number_format($stats['municipalities']) }} local governments. {{ number_format($stats['indexable']) }} published profiles currently meet the public index rule. Published information stays free to search.</p>
     </section>
 @endsection

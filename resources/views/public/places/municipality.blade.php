@@ -11,6 +11,12 @@
         <h1 class="mt-2 text-3xl font-bold">{{ $municipality->name }}</h1>
         @if ($municipality->name_ne)<p class="mt-2 text-slate-600">{{ $municipality->name_ne }}</p>@endif
         <p class="mt-2 text-sm text-slate-500">{{ str_replace('_', ' ', $municipality->municipality_type->value) }} · code {{ $municipality->code }}</p>
+        <p class="mt-3 max-w-3xl text-sm leading-relaxed text-slate-700">{{ $municipality->name }} is in {{ $district->name }}, {{ $district->province->name }}. This directory lists {{ number_format($schoolCount) }} published schools and {{ number_format($collegeCount) }} published colleges in this local government.</p>
+        <p class="mt-3 text-sm font-semibold">
+            <a class="text-brand-700" href="{{ route('schools.index', ['province' => $district->province_id, 'district' => $district->id]) }}">Schools in {{ $district->name }}</a>
+            <span aria-hidden="true"> · </span>
+            <a class="text-brand-700" href="{{ route('colleges.index', ['province' => $district->province_id, 'district' => $district->id]) }}">Colleges in {{ $district->name }}</a>
+        </p>
         <h2 class="mt-8 text-xl font-bold">Published institutions</h2>
         @if ($institutions->isEmpty())
             <p class="mt-4 rounded-lg border border-dashed border-slate-300 bg-white px-4 py-8 text-slate-600">No published institutions are linked to this local government yet.</p>

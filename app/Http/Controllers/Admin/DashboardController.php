@@ -28,6 +28,7 @@ class DashboardController extends Controller
             'stats' => [
                 'institutions' => Institution::query()->count(),
                 'published' => $status['published'] ?? 0,
+                'indexable' => Institution::query()->published()->indexable()->count(),
                 'pending' => $status['pending'] ?? 0,
                 'keywords' => SearchKeyword::query()->count(),
                 'messages' => ContactMessage::query()->count(),
