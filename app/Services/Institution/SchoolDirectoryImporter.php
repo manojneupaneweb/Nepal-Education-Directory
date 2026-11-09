@@ -18,11 +18,11 @@ class SchoolDirectoryImporter
     /**
      * @return array{created: int, skipped: int}
      */
-    public function import(string $path): array
+    public function import(string $path, string $typeSlug = 'school'): array
     {
         $created = 0;
         $skipped = 0;
-        $schoolTypeId = InstitutionType::query()->where('slug', 'school')->value('id');
+        $schoolTypeId = InstitutionType::query()->where('slug', $typeSlug)->value('id');
         $handle = fopen($path, 'rb');
         if ($handle === false || $schoolTypeId === null) {
             return ['created' => 0, 'skipped' => 0];
@@ -36,7 +36,7 @@ class SchoolDirectoryImporter
                 continue;
             }
 
-            $imported = $this->importRow($row, (int) $schoolTypeId);
+            $imported = $this->importRow($row, (int) $schoolTypeId, $typeSlug);
             $imported ? $created++ : $skipped++;
         }
 
@@ -48,7 +48,7 @@ class SchoolDirectoryImporter
     /**
      * @param  array<string, mixed>  $row
      */
-    private function importRow(array $row, int $schoolTypeId): bool
+    private function importRow(array $row, int $schoolTypeId, string $typeSlug): bool
     {
         $name = trim((string) ($row['name'] ?? ''));
         $districtName = trim((string) ($row['district'] ?? ''));
@@ -77,7 +77,7 @@ class SchoolDirectoryImporter
         $ownership = OwnershipType::tryFrom((string) ($row['ownership'] ?? '')) ?? OwnershipType::Unknown;
         $slug = trim((string) ($row['slug'] ?? ''));
         if ($slug === '' || Institution::withTrashed()->where('slug', $slug)->exists()) {
-            $slug = $this->slugger->generate($name);
+            $slug = $this->slugger->generate($name.'-'.$typeSlug);
         }
 
         Institution::query()->create([
@@ -93,6 +93,7 @@ class SchoolDirectoryImporter
             'municipality_id' => $municipality->id,
             'address' => $this->nullable($row['address'] ?? null),
             'official_website' => $this->nullable($row['website'] ?? null),
+            'logo_path' => $this->nullable($row['logo'] ?? null),
             'status' => InstitutionStatus::Published,
             'verification_status' => VerificationStatus::Unverified,
             'published_at' => now(),
