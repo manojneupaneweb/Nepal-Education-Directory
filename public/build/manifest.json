@@ -1,0 +1,45 @@
+{
+  "_fonts-BOMqxxBB.css": {
+    "file": "assets/fonts-BOMqxxBB.css",
+    "src": "_fonts-BOMqxxBB.css"
+  },
+  "_source-sans-3-400-normal-DQi5PRDE.woff2": {
+    "file": "assets/source-sans-3-400-normal-DQi5PRDE.woff2",
+    "src": "_source-sans-3-400-normal-DQi5PRDE.woff2"
+  },
+  "_source-sans-3-400-normal-RR2C27NP.woff": {
+    "file": "assets/source-sans-3-400-normal-RR2C27NP.woff",
+    "src": "_source-sans-3-400-normal-RR2C27NP.woff"
+  },
+  "_source-sans-3-600-normal-Ck0n4g8U.woff": {
+    "file": "assets/source-sans-3-600-normal-Ck0n4g8U.woff",
+    "src": "_source-sans-3-600-normal-Ck0n4g8U.woff"
+  },
+  "_source-sans-3-600-normal-DeckBYAU.woff2": {
+    "file": "assets/source-sans-3-600-normal-DeckBYAU.woff2",
+    "src": "_source-sans-3-600-normal-DeckBYAU.woff2"
+  },
+  "_source-sans-3-700-normal-B-h9tW5h.woff": {
+    "file": "assets/source-sans-3-700-normal-B-h9tW5h.woff",
+    "src": "_source-sans-3-700-normal-B-h9tW5h.woff"
+  },
+  "_source-sans-3-700-normal-CkzU-mV9.woff2": {
+    "file": "assets/source-sans-3-700-normal-CkzU-mV9.woff2",
+    "src": "_source-sans-3-700-normal-CkzU-mV9.woff2"
+  },
+  "resources/css/app.css": {
+    "file": "assets/app-B1vlQzSt.css",
+    "name": "app",
+    "names": [
+      "app.css"
+    ],
+    "src": "resources/css/app.css",
+    "isEntry": true
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-CiOV8cDp.js",
+    "name": "app",
+    "src": "resources/js/app.js",
+    "isEntry": true
+  }
+}
