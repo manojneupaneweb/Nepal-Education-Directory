@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Services\Seo;
+namespace App\Services\SEO;
 
 class SeoMeta
 {
