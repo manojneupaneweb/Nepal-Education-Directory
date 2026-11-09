@@ -46,37 +46,6 @@
         : null;
 @endphp
 
-@section('title', $institution->name.' — '.config('app.name'))
-@section('meta_description', $paragraphs->first() ?: $institution->name.' is listed in the '.config('app.name').' education directory.')
-@section('canonical', route('institutions.show', $institution))
-
-@push('meta')
-    <meta property="og:title" content="{{ $institution->name }}">
-    <meta property="og:description" content="{{ $paragraphs->first() }}">
-    <meta property="og:url" content="{{ route('institutions.show', $institution) }}">
-    <meta property="og:type" content="website">
-    @if ($logo)
-        <meta property="og:image" content="{{ $logo }}">
-    @endif
-    <script type="application/ld+json">
-        {!! json_encode([
-            '@context' => 'https://schema.org',
-            '@type' => 'EducationalOrganization',
-            'name' => $institution->name,
-            'description' => $paragraphs->implode(' '),
-            'url' => url()->current(),
-            'logo' => $logo,
-            'address' => [
-                '@type' => 'PostalAddress',
-                'streetAddress' => $institution->address,
-                'addressLocality' => $institution->municipality?->name,
-                'addressRegion' => $institution->district?->name,
-                'addressCountry' => 'NP',
-            ],
-            'sameAs' => $institution->official_website,
-        ], JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE) !!}
-    </script>
-@endpush
 
 @section('content')
     <section class="border-b border-slate-200 bg-white py-8">
@@ -91,7 +60,7 @@
 
             <div class="mt-6 flex flex-col gap-5 sm:flex-row sm:items-center">
                 @if ($logo)
-                    <img src="{{ $logo }}" alt="" class="h-20 w-20 shrink-0 rounded-full border border-slate-200 bg-white object-contain p-1 shadow-sm">
+                    <img src="{{ $logo }}" alt="{{ $institution->name }} logo" width="80" height="80" class="h-20 w-20 shrink-0 rounded-full border border-slate-200 bg-white object-contain p-1 shadow-sm">
                 @else
                     <div class="flex h-20 w-20 shrink-0 items-center justify-center rounded-full bg-blue-50 text-2xl font-black text-blue-900" aria-hidden="true">{{ strtoupper(substr($institution->name, 0, 1)) }}</div>
                 @endif

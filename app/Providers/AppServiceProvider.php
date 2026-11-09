@@ -6,6 +6,7 @@ use App\Models\ContactMessage;
 use App\Models\Institution;
 use App\Models\ProjectError;
 use App\Models\SearchKeyword;
+use App\Services\Seo\SeoService;
 use Illuminate\Support\Facades\View;
 use Illuminate\Support\ServiceProvider;
 
@@ -24,6 +25,14 @@ class AppServiceProvider extends ServiceProvider
      */
     public function boot(): void
     {
+        View::composer('layouts.public', function ($view): void {
+            if ($view->offsetExists('seo')) {
+                return;
+            }
+
+            $view->with('seo', app(SeoService::class)->forView($view->getData(), request()));
+        });
+
         View::composer('layouts.admin', function ($view): void {
             if (auth()->user()?->is_admin !== true) {
                 return;

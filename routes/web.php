@@ -26,7 +26,9 @@ Route::get('/universities/{university}', [UniversityController::class, 'show'])-
 Route::get('/university-programs', [UniversityProgramController::class, 'index'])->name('university-programs.index');
 Route::get('/university-programs/{university}/programs', [UniversityProgramController::class, 'university'])->name('university-programs.university');
 Route::get('/university-programs/{program}', [UniversityProgramController::class, 'show'])->name('university-programs.show');
-Route::get('/sitemap.xml', SitemapController::class)->name('sitemap');
+Route::get('/robots.txt', [SitemapController::class, 'robots'])->name('robots');
+Route::get('/sitemap.xml', [SitemapController::class, 'index'])->name('sitemap');
+Route::get('/sitemaps/{name}.xml', [SitemapController::class, 'section'])->name('sitemap.section');
 Route::get('/search', [SearchController::class, 'index'])->name('search');
 Route::get('/types', [DirectoryController::class, 'types'])->name('types.index');
 Route::get('/types/{institutionType:slug}', [DirectoryController::class, 'type'])->name('types.show');

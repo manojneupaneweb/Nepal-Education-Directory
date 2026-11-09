@@ -39,7 +39,7 @@ class UniversityDirectoryTest extends TestCase
 
         $this->get(route('universities.show', 'tribhuvan-university'))
             ->assertOk()
-            ->assertSee('Visit Official Website')
+            ->assertSee('Visit official website')
             ->assertSee('https://tu.edu.np/', false);
 
         $this->get(route('university-programs.index'))->assertOk();

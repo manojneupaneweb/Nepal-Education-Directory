@@ -3,9 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>@yield('title', config('app.name').' — Nepal Education Directory')</title>
-    <meta name="description" content="@yield('meta_description', 'Search schools, colleges, universities, and training centers across Nepal.')">
-    <link rel="canonical" href="@yield('canonical', url()->current())">
+    <x-seo.meta :seo="$seo" />
     <meta name="theme-color" content="#123B70">
     <link rel="icon" href="{{ asset('favicon.png') }}" type="image/png">
     <link rel="apple-touch-icon" href="{{ asset('apple-touch-icon.png') }}">
