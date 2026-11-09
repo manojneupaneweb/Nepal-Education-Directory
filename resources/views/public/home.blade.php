@@ -92,7 +92,7 @@
                 <h2 class="section-title">Browse by Institution Type</h2>
                 <p class="section-desc">Find schools, colleges, universities, and specialized institutes across Nepal.</p>
             </div>
-            <a href="{{ route('types.index') }}" class="shrink-0 text-sm font-medium text-blue-900 underline-offset-2 hover:underline">View all →</a>
+            <a href="{{ route('types.index') }}" class="shrink-0 text-sm font-medium text-blue-900 underline-offset-2 hover:underline">View all institution types</a>
         </div>
         <div class="mt-8 grid gap-4 sm:grid-cols-3">
             @foreach ($featuredTypes as $type)
@@ -142,7 +142,7 @@
                 <h2 class="section-title">Universities</h2>
                 <p class="section-desc">Nepal's major universities and their affiliated colleges.</p>
             </div>
-            <a href="{{ route('universities.index') }}" class="shrink-0 text-sm font-medium text-blue-900 underline-offset-2 hover:underline">View all →</a>
+            <a href="{{ route('universities.index') }}" class="shrink-0 text-sm font-medium text-blue-900 underline-offset-2 hover:underline">View all universities</a>
         </div>
         <div class="mt-8 grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
             @foreach ($popularUniversities as $university)
@@ -153,7 +153,7 @@
                 @endphp
                 <a href="{{ route('universities.show', $university) }}" class="card group p-5">
                     @if ($logo)
-                        <img src="{{ $logo }}" alt="" class="h-12 w-12 rounded-xl border border-slate-200 bg-white object-contain p-1">
+                        <img src="{{ $logo }}" alt="" width="48" height="48" loading="lazy" decoding="async" class="h-12 w-12 rounded-xl border border-slate-200 bg-white object-contain p-1">
                     @else
                         <span class="flex h-12 w-12 items-center justify-center rounded-xl bg-blue-50 text-sm font-bold text-blue-900">{{ strtoupper(substr($university->abbreviation ?: $university->name, 0, 1)) }}</span>
                     @endif
@@ -184,7 +184,7 @@
                     <a href="{{ route('institutions.show', $college) }}" class="card group flex flex-col p-4">
                         <span class="flex items-center gap-3">
                             @if ($logo)
-                                <img src="{{ $logo }}" alt="" class="h-12 w-12 shrink-0 rounded-lg border border-slate-100 bg-white object-contain p-1">
+                                <img src="{{ $logo }}" alt="" width="48" height="48" loading="lazy" decoding="async" class="h-12 w-12 shrink-0 rounded-lg border border-slate-100 bg-white object-contain p-1">
                             @else
                                 <span class="flex h-12 w-12 shrink-0 items-center justify-center rounded-lg bg-blue-50 text-sm font-bold text-blue-900">{{ strtoupper(substr($college->name, 0, 1)) }}</span>
                             @endif

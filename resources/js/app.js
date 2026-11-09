@@ -11,14 +11,18 @@ document.addEventListener('DOMContentLoaded', () => {
     function openNav() {
         if (!drawer) return;
         drawer.classList.remove('-translate-x-full');
+        drawer.removeAttribute('inert');
         drawer.setAttribute('aria-hidden', 'false');
+        drawerOpen?.setAttribute('aria-expanded', 'true');
         drawerOverlay?.classList.remove('opacity-0', 'pointer-events-none');
         document.body.style.overflow = 'hidden';
     }
     function closeNav() {
         if (!drawer) return;
         drawer.classList.add('-translate-x-full');
+        drawer.setAttribute('inert', '');
         drawer.setAttribute('aria-hidden', 'true');
+        drawerOpen?.setAttribute('aria-expanded', 'false');
         drawerOverlay?.classList.add('opacity-0', 'pointer-events-none');
         document.body.style.overflow = '';
     }

@@ -14,7 +14,8 @@ class FoundationTest extends TestCase
     {
         $this->get(route('home'))
             ->assertOk()
-            ->assertSee('ShikshaKhoj');
+            ->assertSee('ShikshaKhoj')
+            ->assertHeader('X-Frame-Options', 'SAMEORIGIN');
     }
 
     public function test_search_placeholder_is_available(): void

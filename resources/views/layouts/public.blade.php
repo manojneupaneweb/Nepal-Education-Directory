@@ -9,8 +9,6 @@
     <meta name="theme-color" content="#123B70">
     <link rel="icon" href="{{ asset('favicon.png') }}" type="image/png">
     <link rel="apple-touch-icon" href="{{ asset('apple-touch-icon.png') }}">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     @vite(['resources/css/app.css', 'resources/js/app.js'])
     @stack('styles')
 </head>
@@ -21,8 +19,8 @@
 {{-- ── TOP UTILITY BAR ────────────────────────────────────────────────────── --}}
 <div class="border-b border-white/10 bg-navy text-blue-100">
     <div class="section-container flex h-9 items-center justify-between gap-4 text-xs">
-        <a href="mailto:info@shikshyasanjal.com" class="transition hover:text-white hover:underline">info@shikshyasanjal.com</a>
-        <a href="{{ route('suggestions.create') }}" class="text-slate-300 transition hover:text-white hover:underline">Suggest an institution →</a>
+        <a href="mailto:info@shikshyasanjal.com" class="text-white transition hover:underline">info@shikshyasanjal.com</a>
+        <a href="{{ route('suggestions.create') }}" class="text-white transition hover:underline">Suggest an institution →</a>
     </div>
 </div>
 
@@ -32,7 +30,7 @@
 
         {{-- Logo --}}
         <a href="{{ route('home') }}" class="flex shrink-0 items-center" aria-label="{{ config('app.name') }} home">
-            <img src="{{ asset('images/logo.jpg') }}" alt="{{ config('app.name') }}" class="h-12 w-auto sm:h-14 xl:h-16">
+            <img src="{{ asset('images/logo.jpg') }}" alt="{{ config('app.name') }}" width="95" height="48" class="h-12 w-auto sm:h-14 xl:h-16">
         </a>
 
         {{-- Desktop nav --}}
@@ -81,11 +79,11 @@
 <div id="mobile-nav-overlay"
      class="pointer-events-none fixed inset-0 z-40 bg-black/40 opacity-0 transition-opacity duration-200"
      aria-hidden="true"></div>
-<div id="mobile-nav" role="dialog" aria-modal="true" aria-label="Navigation" aria-hidden="true"
+<div id="mobile-nav" role="dialog" aria-modal="true" aria-label="Navigation" aria-hidden="true" inert
      class="fixed inset-y-0 left-0 z-50 w-72 -translate-x-full overflow-y-auto bg-white shadow-lg transition-transform duration-200">
     <div class="flex h-16 items-center justify-between border-b border-slate-200 px-4">
         <a href="{{ route('home') }}" class="flex items-center" aria-label="{{ config('app.name') }} home">
-            <img src="{{ asset('images/logo.jpg') }}" alt="" class="h-12 w-auto">
+            <img src="{{ asset('images/logo.jpg') }}" alt="" width="95" height="48" class="h-12 w-auto">
         </a>
         <button id="nav-menu-close" type="button"
             class="flex h-9 w-9 items-center justify-center rounded text-slate-400 hover:text-slate-900"
@@ -127,10 +125,10 @@
         <div class="grid gap-10 lg:grid-cols-[1.4fr_1fr_1fr_1fr]">
             <div>
                 <a href="{{ route('home') }}" class="inline-flex rounded-xl bg-white px-3 py-2">
-                    <img src="{{ asset('images/logo.jpg') }}" alt="ShikshyaSanjal" class="h-12 w-auto">
+                    <img src="{{ asset('images/logo.jpg') }}" alt="ShikshyaSanjal" width="95" height="48" loading="lazy" decoding="async" class="h-12 w-auto">
                 </a>
                 <p class="mt-4 text-sm font-semibold tracking-wide text-white">Discover • Compare • Choose</p>
-                <p class="mt-2 max-w-sm text-sm leading-relaxed text-blue-100/80">
+                <p class="mt-2 max-w-sm text-sm leading-relaxed text-white">
                     A free education directory for students, parents, and teachers across Nepal.
                 </p>
                 <a href="mailto:info@shikshyasanjal.com" class="mt-4 inline-flex text-sm font-medium text-white underline-offset-2 hover:underline">info@shikshyasanjal.com</a>
