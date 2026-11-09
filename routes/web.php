@@ -7,6 +7,7 @@ use App\Http\Controllers\Admin\DeveloperController;
 use App\Http\Controllers\Admin\InstitutionController;
 use App\Http\Controllers\Admin\KeywordController;
 use App\Http\Controllers\Admin\SettingsController;
+use App\Http\Controllers\Admin\SourceReviewController;
 use App\Http\Controllers\Admin\UniversityController as AdminUniversityController;
 use App\Http\Controllers\Auth\LoginController;
 use App\Http\Controllers\Public\DirectoryController;
@@ -58,6 +59,12 @@ Route::post('/logout', [LoginController::class, 'destroy'])->name('logout')->mid
 
 Route::middleware('auth')->prefix('admin')->name('admin.')->group(function (): void {
     Route::get('/', [DashboardController::class, 'index'])->name('dashboard');
+
+    Route::get('/source-review', [SourceReviewController::class, 'index'])->name('source-review.index');
+    Route::get('/source-review/{institution}', [SourceReviewController::class, 'show'])->name('source-review.show');
+    Route::post('/source-review/{institution}', [SourceReviewController::class, 'store'])->name('source-review.store');
+    Route::post('/source-review/evidence/{evidence}/accept', [SourceReviewController::class, 'accept'])->name('source-review.accept');
+    Route::post('/source-review/evidence/{evidence}/reject', [SourceReviewController::class, 'reject'])->name('source-review.reject');
 
     Route::get('/institutions', [InstitutionController::class, 'index'])->name('institutions.index');
     Route::get('/institutions/create', [InstitutionController::class, 'create'])->name('institutions.create');

@@ -147,6 +147,7 @@
             @endif
 
             @foreach ([
+                'education_levels' => 'Education levels',
                 'mission' => 'Mission and vision',
                 'highlights' => 'Highlights',
                 'features' => 'Why this college',
