@@ -31,6 +31,18 @@ return [
     'deepseek' => [
         'key' => env('DEEPSEEK_API_KEY'),
         'url' => env('DEEPSEEK_BASE_URL', 'https://api.deepseek.com'),
+        'model' => env('DEEPSEEK_MODEL', 'deepseek-flash'),
+    ],
+
+    'gemini' => [
+        'key' => env('GEMINI_API_KEY'),
+        'model' => env('GEMINI_MODEL', 'gemini-3.5-flash-lite'),
+    ],
+
+    'xai' => [
+        'key' => env('XAI_API_KEY'),
+        'url' => env('XAI_BASE_URL', 'https://api.x.ai/v1'),
+        'model' => env('XAI_MODEL', 'grok-4.7'),
     ],
 
     'slack' => [

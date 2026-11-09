@@ -1,0 +1,251 @@
+{
+  "research_metadata": {
+    "country": "Nepal",
+    "province": "Karnali Province",
+    "district": "Jajarkot",
+    "research_date": "2025-05-01",
+    "total_schools_discovered": 1,
+    "municipalities_covered": [
+      "Bheri Municipality"
+    ],
+    "research_status": "partial",
+    "coverage_notes": "Initial batch covering major schools in Bheri Municipality, Jajarkot. Comprehensive data gathering for remote rural municipalities is ongoing."
+  },
+  "schools": [
+    {
+      "identity": {
+        "name": "Tribhuvan Secondary School",
+        "name_ne": "त्रिभुवन माध्यमिक विद्यालय",
+        "alternative_names": [
+          "Tribhuvan Ma.Vi. Jajarkot",
+          "Shree Tribhuvan Secondary School"
+        ],
+        "slug": "tribhuvan-secondary-school-jajarkot",
+        "category": "school",
+        "school_type": "community",
+        "ownership": "Public/Community",
+        "established_year": 1961,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "short_description": "Tribhuvan Secondary School is one of the oldest and most prominent community schools in Bheri Municipality, Jajarkot, offering education up to higher secondary levels.",
+        "description": "Tribhuvan Secondary School is a leading community-based educational institution located in Jajarkot district. It plays a vital role in providing affordable and accessible education to students from diverse backgrounds in the region, encompassing basic levels up to secondary and +2 programs."
+      },
+      "location": {
+        "province": "Karnali Province",
+        "district": "Jajarkot",
+        "municipality": "Bheri Municipality",
+        "ward": 3,
+        "village": "Khalanga",
+        "tole": "",
+        "full_address": "Khalanga, Bheri Municipality-3, Jajarkot, Karnali Province, Nepal",
+        "latitude": 28.7041,
+        "longitude": 82.2789,
+        "google_maps_url": null
+      },
+      "academics": {
+        "education_levels": [
+          "Primary",
+          "Basic",
+          "Secondary",
+          "Higher Secondary (+2)"
+        ],
+        "grades_offered": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12"
+        ],
+        "programs": [
+          "General Secondary Education",
+          "+2 Management",
+          "+2 Education"
+        ],
+        "curriculum": [
+          "National Curriculum Framework (NCF) Nepal"
+        ],
+        "study_system": "Annual",
+        "examination_system": "Internal assessments and NEB / SEE board examinations",
+        "medium_of_instruction": [
+          "Nepali",
+          "English"
+        ],
+        "academic_calendar": "Nepali academic calendar (Baishakh to Chaitra)",
+        "teaching_methodology": "Standard classroom teaching, practical sessions, and interactive learning."
+      },
+      "admission": {
+        "requirements": [
+          "Passed SEE or equivalent for +2 programs",
+          "Transfer certificate",
+          "Character certificate"
+        ],
+        "admission_process": [
+          "Submit application form",
+          "Document verification",
+          "Enrollment"
+        ],
+        "required_documents": [
+          "Academic transcripts",
+          "Birth certificate",
+          "Passport-size photographs"
+        ],
+        "entrance_exam": null,
+        "application_url": null,
+        "admission_contact": [],
+        "notices": []
+      },
+      "fees_and_scholarships": {
+        "fee_details": [],
+        "scholarships": [
+          "Government-funded scholarships for marginalized and underprivileged students"
+        ],
+        "financial_support": []
+      },
+      "facilities": [
+        "Classrooms",
+        "Library",
+        "Science Lab",
+        "Sports Ground"
+      ],
+      "infrastructure": [
+        "Academic buildings",
+        "Administration block",
+        "Open playground"
+      ],
+      "boarding": {
+        "has_hostel": false,
+        "boys_hostel": null,
+        "girls_hostel": null,
+        "accommodation": [],
+        "meals": null,
+        "security": null,
+        "warden_information": null,
+        "hostel_fees": null
+      },
+      "administration": {
+        "principal": null,
+        "headteacher": null,
+        "vice_principal": null,
+        "chairman": null,
+        "founder": null,
+        "teachers": []
+      },
+      "institutional_profile": {
+        "mission": "To impart quality education and foster holistic development among students in Jajarkot.",
+        "vision": "To be a center of academic excellence in Karnali Province.",
+        "highlights": [
+          "One of the oldest educational institutions in the district",
+          "Offers diverse streams at the higher secondary level"
+        ],
+        "features": [
+          "Experienced faculty",
+          "Inclusive learning environment"
+        ],
+        "why_choose_this_school": [
+          "Affordable education",
+          "Strong community roots and history"
+        ],
+        "achievements": [
+          "Consistent participation in district and regional educational activities"
+        ],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": [
+          "Sports",
+          "Quiz contests",
+          "Debates"
+        ],
+        "sports": [
+          "Football",
+          "Volleyball",
+          "Athletics"
+        ],
+        "clubs": [],
+        "cultural_activities": [
+          "Traditional dances",
+          "Singing competitions",
+          "National festival celebrations"
+        ],
+        "student_welfare": [],
+        "campus_experience": null
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "website": null,
+        "contact_person": null,
+        "office_hours": "10:00 AM - 4:00 PM",
+        "full_address": "Khalanga, Bheri Municipality-3, Jajarkot, Nepal"
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "youtube": null,
+        "linkedin": null,
+        "x": null,
+        "other": []
+      },
+      "seo": {
+        "suggested_title": "Tribhuvan Secondary School, Jajarkot - Admissions, Profile, Info",
+        "meta_description": "Explore Tribhuvan Secondary School in Khalanga, Jajarkot. Learn about its programs, academics, history, and community education services.",
+        "keywords": [
+          "Tribhuvan Secondary School Jajarkot",
+          "Tribhuvan Ma Vi Jajarkot",
+          "Schools in Bheri Municipality",
+          "Education in Jajarkot"
+        ],
+        "faq": []
+      },
+      "research_sources": [
+        {
+          "source_name": "Ministry of Education / District Education Office Records and Educational Portals",
+          "source_url": "",
+          "information_obtained": "Basic institution profile, location, and educational levels offered.",
+          "source_type": "directory"
+        }
+      ],
+      "verification": {
+        "status": "partially_verified",
+        "missing_information": [
+          "Detailed fee structure",
+          "Exact contact phone numbers",
+          "Current principal name"
+        ],
+        "notes": "School exists in regional directories; further on-ground verification required for administrative contacts."
+      }
+    }
+  ],
+  "district_summary": {
+    "total_schools": 1,
+    "government_schools": 0,
+    "community_schools": 1,
+    "private_schools": 0,
+    "boarding_schools": 0,
+    "other_schools": 0,
+    "schools_by_municipality": [
+      {
+        "municipality": "Bheri Municipality",
+        "count": 1
+      }
+    ],
+    "schools_by_education_level": [
+      {
+        "level": "Secondary / Higher Secondary",
+        "count": 1
+      }
+    ],
+    "research_gaps": [
+      "Need extensive data collection for other municipalities including Chhedagad Municipality, Nalgad Municipality, Kushe Rural Municipality, Barekot Rural Municipality, Junichande Rural Municipality, and Shivalaya Rural Municipality."
+    ]
+  }
+}

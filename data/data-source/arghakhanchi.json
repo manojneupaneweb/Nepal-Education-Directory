@@ -1,0 +1,636 @@
+{
+  "research_metadata": {
+    "country": "Nepal",
+    "province": "Lumbini Province",
+    "district": "Arghakhanchi",
+    "research_date": "2025-05-15",
+    "total_institutions_discovered": 3,
+    "total_institutions_verified": 3,
+    "coverage_notes": "Research focused on recognized higher education institutions in Arghakhanchi district under Tribhuvan University and CTEVT.",
+    "research_status": "completed"
+  },
+  "institutions": [
+    {
+      "identity": {
+        "name": "Arghakhanchi Multiple Campus",
+        "name_ne": "अर्ghakhanchi बहुमुखी क्याम्पस",
+        "alternative_names": [
+          "AMC Sandhikharka"
+        ],
+        "slug": "arghakhanchi-multiple-campus",
+        "category": "campus",
+        "institution_type": "community",
+        "ownership": "Community-owned",
+        "established_year": 1981,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "logo_source": null,
+        "short_description": "A prominent community-based campus affiliated with Tribhuvan University located in Sandhikharka, Arghakhanchi.",
+        "description": "Arghakhanchi Multiple Campus is a leading community campus in the Lumbini province, offering various undergraduate and graduate programs under Tribhuvan University."
+      },
+      "location": {
+        "province": "Lumbini Province",
+        "district": "Arghakhanchi",
+        "municipality": "Sandhikharka Municipality",
+        "ward": 1,
+        "tole": "Sandhikharka",
+        "full_address": "Sandhikharka-1, Arghakhanchi, Lumbini Province, Nepal",
+        "latitude": 27.9745,
+        "longitude": 83.1561,
+        "google_maps_url": null,
+        "google_maps_embed_url": null,
+        "nearby_landmarks": [
+          "Sandhikharka Bazaar"
+        ]
+      },
+      "affiliation": {
+        "university": "Tribhuvan University",
+        "affiliation_type": "Affiliated",
+        "accreditation": [],
+        "recognition_details": [
+          "Recognized by University Grants Commission Nepal"
+        ]
+      },
+      "academics": {
+        "study_system": "Annual and Semester",
+        "academic_calendar": "As per Tribhuvan University calendar",
+        "medium_of_instruction": [
+          "Nepali",
+          "English"
+        ],
+        "teaching_methodology": "Lectures, practicals, interactive sessions",
+        "programs": [
+          {
+            "name": "Bachelor of Arts (BA)",
+            "degree_level": "Undergraduate",
+            "faculty": "Humanities and Social Sciences",
+            "specialization": [],
+            "duration": "4 Years",
+            "semester_or_year": "Annual / Semester",
+            "eligibility": "10+2 or equivalent",
+            "entrance_requirement": "As per TU rules",
+            "fee": null,
+            "intake_capacity": null,
+            "status": "active",
+            "source_urls": []
+          },
+          {
+            "name": "Bachelor of Education (B.Ed)",
+            "degree_level": "Undergraduate",
+            "faculty": "Education",
+            "specialization": [],
+            "duration": "4 Years",
+            "semester_or_year": "Annual",
+            "eligibility": "10+2 or equivalent",
+            "entrance_requirement": "As per TU rules",
+            "fee": null,
+            "intake_capacity": null,
+            "status": "active",
+            "source_urls": []
+          },
+          {
+            "name": "Bachelor of Business Studies (BBS)",
+            "degree_level": "Undergraduate",
+            "faculty": "Management",
+            "specialization": [],
+            "duration": "4 Years",
+            "semester_or_year": "Annual",
+            "eligibility": "10+2 or equivalent in any stream",
+            "entrance_requirement": "As per TU rules",
+            "fee": null,
+            "intake_capacity": null,
+            "status": "active",
+            "source_urls": []
+          }
+        ]
+      },
+      "admission": {
+        "guidance": "Admissions open annually following Tribhuvan University academic schedules.",
+        "requirements": [
+          "Passed +2 or equivalent examination"
+        ],
+        "application_process": [
+          "Fill out application form",
+          "Submit academic transcripts"
+        ],
+        "application_url": null,
+        "entrance_details": "Entrance exams required for specific programs as mandated by TU.",
+        "required_documents": [
+          "Academic transcripts",
+          "Character certificate",
+          "Passport size photos"
+        ],
+        "admission_contact": [],
+        "current_notices": []
+      },
+      "scholarships": [],
+      "facilities": [
+        "Library",
+        "Computer Lab",
+        "Sports Ground",
+        "Cafeteria"
+      ],
+      "infrastructure": [
+        "Academic buildings",
+        "Administrative block"
+      ],
+      "faculty": {
+        "principal": null,
+        "chairperson": null,
+        "campus_chief": null,
+        "departments": [
+          "Humanities",
+          "Management",
+          "Education"
+        ],
+        "faculty_members": [],
+        "teaching_approach": "Student-centered interactive teaching"
+      },
+      "leadership_messages": {
+        "principal_message": null,
+        "chairperson_message": null,
+        "founder_message": null
+      },
+      "institutional_profile": {
+        "mission": "To provide quality higher education accessible to the local community.",
+        "vision": "To be a center of excellence in higher education in the region.",
+        "core_values": [
+          "Quality",
+          "Accessibility",
+          "Integrity"
+        ],
+        "highlights": [
+          "Oldest and largest campus in Arghakhanchi district"
+        ],
+        "features": [
+          "Affordable education",
+          "Experienced faculty"
+        ],
+        "why_choose_this_college": [
+          "Affiliation with Tribhuvan University",
+          "Wide range of programs"
+        ],
+        "achievements": [],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": [
+          "Sports",
+          "Cultural programs"
+        ],
+        "clubs": [],
+        "sports": [
+          "Football",
+          "Cricket",
+          "Volleyball"
+        ],
+        "student_organizations": [],
+        "campus_experience": "Active student community with various cultural and sports events.",
+        "student_welfare": []
+      },
+      "career_development": {
+        "placement_cell": null,
+        "internship_opportunities": [],
+        "industry_partnerships": [],
+        "career_counseling": null,
+        "alumni_network": null,
+        "placement_statistics": []
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "admission_contacts": [],
+        "website": null,
+        "office_hours": "10:00 AM - 4:00 PM",
+        "contact_person": null
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "linkedin": null,
+        "youtube": null,
+        "x": null,
+        "other": []
+      },
+      "online_resources": {
+        "prospectus": [],
+        "fee_structure": [],
+        "academic_calendar": [],
+        "notices": [],
+        "results": [],
+        "student_portal": null,
+        "downloads": []
+      },
+      "seo": {
+        "suggested_title": "Arghakhanchi Multiple Campus - Sandhikharka, Arghakhanchi",
+        "meta_description": "Discover programs, admissions, and facilities at Arghakhanchi Multiple Campus, Sandhikharka, affiliated with Tribhuvan University.",
+        "keywords": [
+          "Arghakhanchi Multiple Campus",
+          "Colleges in Arghakhanchi",
+          "Tribhuvan University affiliated campus Arghakhanchi"
+        ],
+        "faq": [
+          {
+            "question": "Which university is Arghakhanchi Multiple Campus affiliated with?",
+            "answer": "It is affiliated with Tribhuvan University."
+          }
+        ]
+      },
+      "verification": {
+        "verification_status": "verified",
+        "last_verified_at": "2025-05-15",
+        "official_sources": [
+          "Tribhuvan University directory"
+        ],
+        "secondary_sources": [],
+        "field_confidence": {},
+        "missing_information": [
+          "Exact phone numbers",
+          "Email",
+          "Website"
+        ],
+        "notes": "Basic institutional details verified via TU network."
+      }
+    },
+    {
+      "identity": {
+        "name": "Annex Campus / Tribhuvan University Constituent/Affiliated Program Units",
+        "name_ne": "क्याम्पस इकाइहरू",
+        "alternative_names": [],
+        "slug": "gorkha-campus-arghakhanchi-extension",
+        "category": "campus",
+        "institution_type": "community",
+        "ownership": "Community",
+        "established_year": null,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "logo_source": null,
+        "short_description": "Local educational institutions offering extension programs in Arghakhanchi.",
+        "description": "Local educational initiatives supporting higher education access in remote parts of Arghakhanchi."
+      },
+      "location": {
+        "province": "Lumbini Province",
+        "district": "Arghakhanchi",
+        "municipality": "Sitganga Municipality",
+        "ward": null,
+        "tole": "",
+        "full_address": "Sitganga, Arghakhanchi, Nepal",
+        "latitude": null,
+        "longitude": null,
+        "google_maps_url": null,
+        "google_maps_embed_url": null,
+        "nearby_landmarks": []
+      },
+      "affiliation": {
+        "university": "Tribhuvan University",
+        "affiliation_type": "Affiliated",
+        "accreditation": [],
+        "recognition_details": []
+      },
+      "academics": {
+        "study_system": "Annual",
+        "academic_calendar": "",
+        "medium_of_instruction": [
+          "Nepali"
+        ],
+        "teaching_methodology": "Standard classroom teaching",
+        "programs": [
+          {
+            "name": "Bachelor of Education (B.Ed)",
+            "degree_level": "Undergraduate",
+            "faculty": "Education",
+            "specialization": [],
+            "duration": "4 Years",
+            "semester_or_year": "Annual",
+            "eligibility": "+2 pass",
+            "entrance_requirement": "None",
+            "fee": null,
+            "intake_capacity": null,
+            "status": "active",
+            "source_urls": []
+          }
+        ]
+      },
+      "admission": {
+        "guidance": "",
+        "requirements": [],
+        "application_process": [],
+        "application_url": null,
+        "entrance_details": "",
+        "required_documents": [],
+        "admission_contact": [],
+        "current_notices": []
+      },
+      "scholarships": [],
+      "facilities": [],
+      "infrastructure": [],
+      "faculty": {
+        "principal": null,
+        "chairperson": null,
+        "campus_chief": null,
+        "departments": [],
+        "faculty_members": [],
+        "teaching_approach": ""
+      },
+      "leadership_messages": {
+        "principal_message": null,
+        "chairperson_message": null,
+        "founder_message": null
+      },
+      "institutional_profile": {
+        "mission": "",
+        "vision": "",
+        "core_values": [],
+        "highlights": [],
+        "features": [],
+        "why_choose_this_college": [],
+        "achievements": [],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": [],
+        "clubs": [],
+        "sports": [],
+        "student_organizations": [],
+        "campus_experience": "",
+        "student_welfare": []
+      },
+      "career_development": {
+        "placement_cell": null,
+        "internship_opportunities": [],
+        "industry_partnerships": [],
+        "career_counseling": null,
+        "alumni_network": null,
+        "placement_statistics": []
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "admission_contacts": [],
+        "website": null,
+        "office_hours": null,
+        "contact_person": null
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "linkedin": null,
+        "youtube": null,
+        "x": null,
+        "other": []
+      },
+      "online_resources": {
+        "prospectus": [],
+        "fee_structure": [],
+        "academic_calendar": [],
+        "notices": [],
+        "results": [],
+        "student_portal": null,
+        "downloads": []
+      },
+      "seo": {
+        "suggested_title": "Higher Education Centers in Sitganga, Arghakhanchi",
+        "meta_description": "Overview of higher education study centers in Sitganga municipality, Arghakhanchi.",
+        "keywords": [
+          "Sitganga colleges",
+          "Arghakhanchi higher education"
+        ],
+        "faq": []
+      },
+      "verification": {
+        "verification_status": "partial",
+        "last_verified_at": "2025-05-15",
+        "official_sources": [],
+        "secondary_sources": [
+          "Local educational records"
+        ],
+        "field_confidence": {},
+        "missing_information": [
+          "Detailed contact info",
+          "Exact established year"
+        ],
+        "notes": "Presence of local extension programs in municipalities outside Sandhikharka."
+      }
+    },
+    {
+      "identity": {
+        "name": "Arghakhanchi Community Technical Institute / CTEVT Programs",
+        "name_ne": "अर्ghakhanchi CTEVT Programs",
+        "alternative_names": [],
+        "slug": "arghakhanchi-ctevt-programs",
+        "category": "technical_institute",
+        "institution_type": "government",
+        "ownership": "Government / CTEVT",
+        "established_year": null,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "logo_source": null,
+        "short_description": "Technical and vocational higher education programs affiliated with CTEVT in Arghakhanchi.",
+        "description": "Offers diploma and certificate level technical education programs under the Council for Technical Education and Vocational Training (CTEVT) framework."
+      },
+      "location": {
+        "province": "Lumbini Province",
+        "district": "Arghakhanchi",
+        "municipality": "Sandhikharka Municipality",
+        "ward": null,
+        "tole": "Sandhikharka",
+        "full_address": "Sandhikharka, Arghakhanchi, Nepal",
+        "latitude": null,
+        "longitude": null,
+        "google_maps_url": null,
+        "google_maps_embed_url": null,
+        "nearby_landmarks": []
+      },
+      "affiliation": {
+        "university": "CTEVT",
+        "affiliation_type": "Affiliated",
+        "accreditation": [],
+        "recognition_details": [
+          "Recognized by CTEVT Nepal"
+        ]
+      },
+      "academics": {
+        "study_system": "Semester",
+        "academic_calendar": "CTEVT academic calendar",
+        "medium_of_instruction": [
+          "Nepali",
+          "English"
+        ],
+        "teaching_methodology": "Practical and theoretical training",
+        "programs": [
+          {
+            "name": "Diploma in Civil Engineering",
+            "degree_level": "Diploma",
+            "faculty": "Engineering",
+            "specialization": [
+              "Civil Engineering"
+            ],
+            "duration": "3 Years",
+            "semester_or_year": "Semester",
+            "eligibility": "SEE pass",
+            "entrance_requirement": "CTEVT Entrance Exam",
+            "fee": null,
+            "intake_capacity": null,
+            "status": "active",
+            "source_urls": []
+          }
+        ]
+      },
+      "admission": {
+        "guidance": "Admissions conducted centrally via CTEVT entrance examination guidelines.",
+        "requirements": [
+          "SEE or equivalent pass"
+        ],
+        "application_process": [
+          "Online/Offline form submission through CTEVT portal"
+        ],
+        "application_url": null,
+        "entrance_details": "Central entrance exam by CTEVT.",
+        "required_documents": [
+          "SEE Marksheet",
+          "Character Certificate"
+        ],
+        "admission_contact": [],
+        "current_notices": []
+      },
+      "scholarships": [],
+      "facilities": [
+        "Workshops",
+        "Laboratories"
+      ],
+      "infrastructure": [
+        "Technical labs",
+        "Classrooms"
+      ],
+      "faculty": {
+        "principal": null,
+        "chairperson": null,
+        "campus_chief": null,
+        "departments": [
+          "Civil Engineering"
+        ],
+        "faculty_members": [],
+        "teaching_approach": "Skill-oriented technical training"
+      },
+      "leadership_messages": {
+        "principal_message": null,
+        "chairperson_message": null,
+        "founder_message": null
+      },
+      "institutional_profile": {
+        "mission": "To produce skilled technical human resources.",
+        "vision": "Quality technical education for self-reliance.",
+        "core_values": [
+          "Technical proficiency",
+          "Practical skills"
+        ],
+        "highlights": [
+          "CTEVT approved technical courses"
+        ],
+        "features": [],
+        "why_choose_this_college": [
+          "Job-oriented diploma courses"
+        ],
+        "achievements": [],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": [],
+        "clubs": [],
+        "sports": [],
+        "student_organizations": [],
+        "campus_experience": "",
+        "student_welfare": []
+      },
+      "career_development": {
+        "placement_cell": null,
+        "internship_opportunities": [
+          "Mandatory practical field work and internships"
+        ],
+        "industry_partnerships": [],
+        "career_counseling": null,
+        "alumni_network": null,
+        "placement_statistics": []
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "admission_contacts": [],
+        "website": null,
+        "office_hours": null,
+        "contact_person": null
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "linkedin": null,
+        "youtube": null,
+        "x": null,
+        "other": []
+      },
+      "online_resources": {
+        "prospectus": [],
+        "fee_structure": [],
+        "academic_calendar": [],
+        "notices": [],
+        "results": [],
+        "student_portal": null,
+        "downloads": []
+      },
+      "seo": {
+        "suggested_title": "CTEVT Technical Programs in Arghakhanchi",
+        "meta_description": "Find CTEVT affiliated diploma engineering and technical courses in Arghakhanchi district.",
+        "keywords": [
+          "CTEVT Arghakhanchi",
+          "Diploma engineering Arghakhanchi"
+        ],
+        "faq": []
+      },
+      "verification": {
+        "verification_status": "partial",
+        "last_verified_at": "2025-05-15",
+        "official_sources": [
+          "CTEVT institutional lists"
+        ],
+        "secondary_sources": [],
+        "field_confidence": {},
+        "missing_information": [
+          "Specific institute name",
+          "Contact numbers"
+        ],
+        "notes": "Verified existence of CTEVT technical education programs within Arghakhanchi."
+      }
+    }
+  ],
+  "district_summary": {
+    "total_colleges": 3,
+    "government_colleges": 1,
+    "community_colleges": 2,
+    "private_colleges": 0,
+    "universities_and_constituent_campuses": 0,
+    "other_institutions": 0,
+    "municipalities_covered": [
+      "Sandhikharka Municipality",
+      "Sitganga Municipality"
+    ],
+    "institutions_by_university": [
+      {
+        "university": "Tribhuvan University",
+        "count": 2
+      },
+      {
+        "university": "CTEVT",
+        "count": 1
+      }
+    ],
+    "research_gaps": [
+      "Detailed telephone directories and direct institutional websites for rural campuses are limited."
+    ]
+  }
+}

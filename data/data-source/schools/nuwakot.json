@@ -1,0 +1,244 @@
+{
+  "research_metadata": {
+    "country": "Nepal",
+    "province": "Bagmati Province",
+    "district": "Nuwakot",
+    "research_date": "2023-10-25",
+    "total_schools_discovered": 1,
+    "municipalities_covered": [
+      "Bidur Municipality"
+    ],
+    "research_status": "partial",
+    "coverage_notes": "Initial batch representing prominent schools in Bidur Municipality, Nuwakot."
+  },
+  "schools": [
+    {
+      "identity": {
+        "name": "Bhairabi Secondary School",
+        "name_ne": "भैरवी माध्यमिक विद्यालय",
+        "alternative_names": [
+          "Bhairabi Ma.Vi."
+        ],
+        "slug": "bhairabi-secondary-school-nuwakot",
+        "category": "school",
+        "school_type": "community",
+        "ownership": "Public/Community",
+        "established_year": null,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "short_description": "A prominent community-based secondary school located in Bidur, Nuwakot.",
+        "description": "Bhairabi Secondary School is a community secondary school offering education from primary up to secondary and higher secondary (+2) levels in Bidur Municipality of Nuwakot district."
+      },
+      "location": {
+        "province": "Bagmati Province",
+        "district": "Nuwakot",
+        "municipality": "Bidur Municipality",
+        "ward": null,
+        "village": "Bidur",
+        "tole": "",
+        "full_address": "Bidur, Nuwakot, Bagmati Province, Nepal",
+        "latitude": null,
+        "longitude": null,
+        "google_maps_url": null
+      },
+      "academics": {
+        "education_levels": [
+          "Primary",
+          "Lower Secondary",
+          "Secondary",
+          "Higher Secondary"
+        ],
+        "grades_offered": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12"
+        ],
+        "programs": [
+          "Ten Plus Two (+2) Humanities",
+          "Ten Plus Two (+2) Management",
+          "Ten Plus Two (+2) Education"
+        ],
+        "curriculum": [
+          "National Curriculum Framework of Nepal"
+        ],
+        "study_system": "Full-time",
+        "examination_system": "Annual and Terminal Examinations",
+        "medium_of_instruction": [
+          "Nepali",
+          "English"
+        ],
+        "academic_calendar": "Nepali academic calendar (Baishakh to Chaitra)",
+        "teaching_methodology": "Classroom-based lectures, practical sessions, and interactive learning."
+      },
+      "admission": {
+        "requirements": [
+          "SEE pass certificate for +2 programs",
+          "Transfer certificate",
+          "Character certificate"
+        ],
+        "admission_process": [
+          "Submit application form",
+          "Document verification",
+          "Enrollment"
+        ],
+        "required_documents": [
+          "Mark sheets",
+          "Character certificate",
+          "Passport size photographs"
+        ],
+        "entrance_exam": null,
+        "application_url": null,
+        "admission_contact": [],
+        "notices": []
+      },
+      "fees_and_scholarships": {
+        "fee_details": [],
+        "scholarships": [
+          "Government scholarships for underprivileged and meritorious students"
+        ],
+        "financial_support": []
+      },
+      "facilities": [
+        "Classrooms",
+        "Library",
+        "Sports Ground"
+      ],
+      "infrastructure": [],
+      "boarding": {
+        "has_hostel": false,
+        "boys_hostel": false,
+        "girls_hostel": false,
+        "accommodation": [],
+        "meals": null,
+        "security": null,
+        "warden_information": null,
+        "hostel_fees": null
+      },
+      "administration": {
+        "principal": null,
+        "headteacher": null,
+        "vice_principal": null,
+        "chairman": null,
+        "founder": null,
+        "teachers": []
+      },
+      "institutional_profile": {
+        "mission": "To provide quality education to the children of Nuwakot district.",
+        "vision": "To be a leading center of academic excellence in the region.",
+        "highlights": [
+          "Experienced faculty",
+          "Affordable education",
+          "Community focused"
+        ],
+        "features": [],
+        "why_choose_this_school": [
+          "Strong community backing",
+          "Diverse +2 streams available"
+        ],
+        "achievements": [],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": [
+          "Sports",
+          "Cultural programs",
+          "Quiz contests"
+        ],
+        "sports": [
+          "Football",
+          "Volleyball",
+          "Athletics"
+        ],
+        "clubs": [],
+        "cultural_activities": [
+          "Traditional dance",
+          "Singing",
+          "Elocution"
+        ],
+        "student_welfare": [],
+        "campus_experience": null
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "website": null,
+        "contact_person": null,
+        "office_hours": "Sun-Fri: 10:00 AM - 4:00 PM",
+        "full_address": "Bidur, Nuwakot, Nepal"
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "youtube": null,
+        "linkedin": null,
+        "x": null,
+        "other": []
+      },
+      "seo": {
+        "suggested_title": "Bhairabi Secondary School, Bidur, Nuwakot",
+        "meta_description": "Learn about Bhairabi Secondary School in Bidur, Nuwakot offering primary to +2 education programs.",
+        "keywords": [
+          "Bhairabi Secondary School",
+          "Bhairabi Ma Vi Nuwakot",
+          "Schools in Bidur Nuwakot"
+        ],
+        "faq": []
+      },
+      "research_sources": [
+        {
+          "source_name": "General Educational Directories of Nepal",
+          "source_url": "",
+          "information_obtained": "Basic school existence, location, and educational levels.",
+          "source_type": "directory"
+        }
+      ],
+      "verification": {
+        "status": "partially_verified",
+        "missing_information": [
+          "Detailed contact numbers",
+          "Principal name",
+          "Exact geo-coordinates",
+          "Establishment year"
+        ],
+        "notes": [
+          "School exists in official lists but lacks a dedicated active website."
+        ]
+      }
+    }
+  ],
+  "district_summary": {
+    "total_schools": 1,
+    "government_schools": 0,
+    "community_schools": 1,
+    "private_schools": 0,
+    "boarding_schools": 0,
+    "other_schools": 0,
+    "schools_by_municipality": [
+      {
+        "municipality": "Bidur Municipality",
+        "count": 1
+      }
+    ],
+    "schools_by_education_level": [
+      {
+        "level": "Secondary / Higher Secondary",
+        "count": 1
+      }
+    ],
+    "research_gaps": [
+      "Need extensive data collection for rural municipalities in Nuwakot",
+      "Contact numbers and administrative details require field verification"
+    ]
+  }
+}

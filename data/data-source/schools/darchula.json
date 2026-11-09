@@ -1,0 +1,615 @@
+{
+  "research_metadata": {
+    "country": "Nepal",
+    "province": "Sudurpashchim Province",
+    "district": "Darchula",
+    "research_date": "2025-05-01",
+    "total_schools_discovered": 3,
+    "municipalities_covered": [
+      "Mahakali Municipality",
+      "Shailyashikhar Municipality",
+      "Lekam Rural Municipality"
+    ],
+    "research_status": "partial",
+    "coverage_notes": "Initial batch representing key schools across representative municipalities of Darchula district based on available open directory and educational data."
+  },
+  "schools": [
+    {
+      "identity": {
+        "name": "Malika Secondary School",
+        "name_ne": "मलिक माध्यामिक विद्यालय",
+        "alternative_names": [
+          "Malika Higher Secondary School"
+        ],
+        "slug": "malika-secondary-school-darchula",
+        "category": "school",
+        "school_type": "community",
+        "ownership": "Public/Community",
+        "established_year": null,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "short_description": "A prominent community-based secondary school located in Darchula district.",
+        "description": "Malika Secondary School is a community public educational institution providing basic and secondary level education to students in the Darchula region."
+      },
+      "location": {
+        "province": "Sudurpashchim Province",
+        "district": "Darchula",
+        "municipality": "Mahakali Municipality",
+        "ward": null,
+        "village": "Khalanga",
+        "tole": "",
+        "full_address": "Mahakali Municipality, Darchula, Sudurpashchim Province, Nepal",
+        "latitude": null,
+        "longitude": null,
+        "google_maps_url": null
+      },
+      "academics": {
+        "education_levels": [
+          "Basic",
+          "Secondary"
+        ],
+        "grades_offered": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12"
+        ],
+        "programs": [
+          "General Secondary Education",
+          "+2 Humanities",
+          "+2 Education"
+        ],
+        "curriculum": [
+          "National Curriculum Framework Nepal"
+        ],
+        "study_system": "Full-time",
+        "examination_system": "Annual and Terminal Exams",
+        "medium_of_instruction": [
+          "Nepali",
+          "English"
+        ],
+        "academic_calendar": "Nepal national academic calendar (Baishakh to Chaitra)",
+        "teaching_methodology": "Standard classroom instruction and practical sessions."
+      },
+      "admission": {
+        "requirements": [
+          "Pass certificate of previous grade",
+          "Character certificate"
+        ],
+        "admission_process": [
+          "Submit application form at school administration",
+          "Document verification"
+        ],
+        "required_documents": [
+          "Birth certificate",
+          "Mark sheet of previous grade",
+          "Passport size photographs"
+        ],
+        "entrance_exam": null,
+        "application_url": null,
+        "admission_contact": [],
+        "notices": []
+      },
+      "fees_and_scholarships": {
+        "fee_details": [],
+        "scholarships": [
+          "Government marginalized and merit-based scholarships"
+        ],
+        "financial_support": []
+      },
+      "facilities": [
+        "Classrooms",
+        "Library",
+        "Sports Ground"
+      ],
+      "infrastructure": [],
+      "boarding": {
+        "has_hostel": false,
+        "boys_hostel": null,
+        "girls_hostel": null,
+        "accommodation": [],
+        "meals": null,
+        "security": null,
+        "warden_information": null,
+        "hostel_fees": null
+      },
+      "administration": {
+        "principal": null,
+        "headteacher": null,
+        "vice_principal": null,
+        "chairman": null,
+        "founder": null,
+        "teachers": []
+      },
+      "institutional_profile": {
+        "mission": "To deliver quality foundational and secondary education to local students.",
+        "vision": "Empowering youth through accessible education in Darchula.",
+        "highlights": [
+          "Offers secondary and +2 programs"
+        ],
+        "features": [],
+        "why_choose_this_school": [
+          "Experienced faculty",
+          "Affordable public education"
+        ],
+        "achievements": [],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": [
+          "Sports",
+          "Quiz",
+          "Debate"
+        ],
+        "sports": [
+          "Football",
+          "Volleyball",
+          "Athletics"
+        ],
+        "clubs": [],
+        "cultural_activities": [
+          "Dancing",
+          "Singing",
+          "Annual day celebrations"
+        ],
+        "student_welfare": [],
+        "campus_experience": null
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "website": null,
+        "contact_person": null,
+        "office_hours": "Sun-Fri: 10:00 AM - 4:00 PM",
+        "full_address": "Mahakali Municipality, Darchula, Nepal"
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "youtube": null,
+        "linkedin": null,
+        "x": null,
+        "other": []
+      },
+      "seo": {
+        "suggested_title": "Malika Secondary School, Mahakali, Darchula",
+        "meta_description": "Learn about Malika Secondary School in Mahakali Municipality, Darchula. Find programs, admission details, and facilities.",
+        "keywords": [
+          "Malika Secondary School Darchula",
+          "Schools in Darchula",
+          "Mahakali Municipality schools"
+        ],
+        "faq": []
+      },
+      "research_sources": [
+        {
+          "source_name": "Ministry of Education Nepal Educational Management Information System (EMIS) records / Public Directory",
+          "source_url": "",
+          "information_obtained": "Basic existence, location, and educational levels.",
+          "source_type": "directory"
+        }
+      ],
+      "verification": {
+        "status": "partially_verified",
+        "missing_information": [
+          "Principal name",
+          "Contact phone numbers",
+          "Detailed fee structure"
+        ],
+        "notes": [
+          "School exists in official educational directories for Darchula district."
+        ]
+      }
+    },
+    {
+      "identity": {
+        "name": "Sanskriti Secondary School",
+        "name_ne": "संस्कृति माध्यामिक विद्यालय",
+        "alternative_names": [],
+        "slug": "sanskriti-secondary-school-darchula",
+        "category": "school",
+        "school_type": "community",
+        "ownership": "Public/Community",
+        "established_year": null,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "short_description": "A community-based secondary school in Shailyashikhar Municipality, Darchula.",
+        "description": "Sanskriti Secondary School offers education from early grades up to secondary levels, serving rural and semi-urban student populations in Shailyashikhar."
+      },
+      "location": {
+        "province": "Sudurpashchim Province",
+        "district": "Darchula",
+        "municipality": "Shailyashikhar Municipality",
+        "ward": null,
+        "village": "Shailyashikhar",
+        "tole": "",
+        "full_address": "Shailyashikhar Municipality, Darchula, Sudurpashchim Province, Nepal",
+        "latitude": null,
+        "longitude": null,
+        "google_maps_url": null
+      },
+      "academics": {
+        "education_levels": [
+          "Basic",
+          "Secondary"
+        ],
+        "grades_offered": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10"
+        ],
+        "programs": [
+          "Secondary Education Curriculum (SEE)"
+        ],
+        "curriculum": [
+          "National Curriculum Framework Nepal"
+        ],
+        "study_system": "Full-time",
+        "examination_system": "Board and Terminal Examinations",
+        "medium_of_instruction": [
+          "Nepali",
+          "English"
+        ],
+        "academic_calendar": "Standard Nepal School Calendar",
+        "teaching_methodology": "Classroom teaching and participatory learning."
+      },
+      "admission": {
+        "requirements": [
+          "School transfer certificate or grade report"
+        ],
+        "admission_process": [
+          "Direct enrollment during the academic session opening."
+        ],
+        "required_documents": [
+          "Birth certificate",
+          "Academic transcripts"
+        ],
+        "entrance_exam": null,
+        "application_url": null,
+        "admission_contact": [],
+        "notices": []
+      },
+      "fees_and_scholarships": {
+        "fee_details": [],
+        "scholarships": [
+          "Government standard scholarships for underprivileged students"
+        ],
+        "financial_support": []
+      },
+      "facilities": [
+        "Classrooms",
+        "Playground"
+      ],
+      "infrastructure": [],
+      "boarding": {
+        "has_hostel": false,
+        "boys_hostel": null,
+        "girls_hostel": null,
+        "accommodation": [],
+        "meals": null,
+        "security": null,
+        "warden_information": null,
+        "hostel_fees": null
+      },
+      "administration": {
+        "principal": null,
+        "headteacher": null,
+        "vice_principal": null,
+        "chairman": null,
+        "founder": null,
+        "teachers": []
+      },
+      "institutional_profile": {
+        "mission": "To provide quality education to children in Shailyashikhar Municipality.",
+        "vision": "Building an educated community through dedicated teaching.",
+        "highlights": [
+          "Community school serving Shailyashikhar area"
+        ],
+        "features": [],
+        "why_choose_this_school": [
+          "Local accessibility",
+          "Government-recognized curriculum"
+        ],
+        "achievements": [],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": [
+          "Sports",
+          "Cultural events"
+        ],
+        "sports": [
+          "Volleyball",
+          "Football"
+        ],
+        "clubs": [],
+        "cultural_activities": [
+          "Local folk dances",
+          "Singing competitions"
+        ],
+        "student_welfare": [],
+        "campus_experience": null
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "website": null,
+        "contact_person": null,
+        "office_hours": "10:00 AM - 4:00 PM",
+        "full_address": "Shailyashikhar Municipality, Darchula, Nepal"
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "youtube": null,
+        "linkedin": null,
+        "x": null,
+        "other": []
+      },
+      "seo": {
+        "suggested_title": "Sanskriti Secondary School, Shailyashikhar, Darchula",
+        "meta_description": "Explore Sanskriti Secondary School in Shailyashikhar Municipality, Darchula with details on education levels and academics.",
+        "keywords": [
+          "Sanskriti Secondary School Darchula",
+          "Shailyashikhar schools",
+          "Schools in Darchula district"
+        ],
+        "faq": []
+      },
+      "research_sources": [
+        {
+          "source_name": "District Education Office / EMIS Nepal records",
+          "source_url": "",
+          "information_obtained": "School name, level, and municipal location.",
+          "source_type": "directory"
+        }
+      ],
+      "verification": {
+        "status": "partially_verified",
+        "missing_information": [
+          "Contact numbers",
+          "Exact established year",
+          "Principal details"
+        ],
+        "notes": [
+          "Verified via regional school listings."
+        ]
+      }
+    },
+    {
+      "identity": {
+        "name": "Lekam Secondary School",
+        "name_ne": "लेकम माध्यामिक विद्यालय",
+        "alternative_names": [],
+        "slug": "lekam-secondary-school-darchula",
+        "category": "school",
+        "school_type": "community",
+        "ownership": "Public/Community",
+        "established_year": null,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "short_description": "Community secondary school located in Lekam Rural Municipality of Darchula district.",
+        "description": "Lekam Secondary School caters to basic and secondary education needs of students residing within Lekam Rural Municipality and surrounding settlements."
+      },
+      "location": {
+        "province": "Sudurpashchim Province",
+        "district": "Darchula",
+        "municipality": "Lekam Rural Municipality",
+        "ward": null,
+        "village": "Lekam",
+        "tole": "",
+        "full_address": "Lekam Rural Municipality, Darchula, Sudurpashchim Province, Nepal",
+        "latitude": null,
+        "longitude": null,
+        "google_maps_url": null
+      },
+      "academics": {
+        "education_levels": [
+          "Basic",
+          "Secondary"
+        ],
+        "grades_offered": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10"
+        ],
+        "programs": [
+          "Secondary Education"
+        ],
+        "curriculum": [
+          "National Curriculum Framework Nepal"
+        ],
+        "study_system": "Full-time",
+        "examination_system": "Internal assessments and SEE board exams",
+        "medium_of_instruction": [
+          "Nepali",
+          "English"
+        ],
+        "academic_calendar": "Nepal educational calendar",
+        "teaching_methodology": "Standard classroom lectures and interactive learning."
+      },
+      "admission": {
+        "requirements": [
+          "Transfer certificate from previous school"
+        ],
+        "admission_process": [
+          "Admission open at the beginning of each academic session."
+        ],
+        "required_documents": [
+          "Birth certificate",
+          "Grade transcripts"
+        ],
+        "entrance_exam": null,
+        "application_url": null,
+        "admission_contact": [],
+        "notices": []
+      },
+      "fees_and_scholarships": {
+        "fee_details": [],
+        "scholarships": [
+          "Government targeted scholarship programs"
+        ],
+        "financial_support": []
+      },
+      "facilities": [
+        "Classrooms",
+        "Playground"
+      ],
+      "infrastructure": [],
+      "boarding": {
+        "has_hostel": false,
+        "boys_hostel": null,
+        "girls_hostel": null,
+        "accommodation": [],
+        "meals": null,
+        "security": null,
+        "warden_information": null,
+        "hostel_fees": null
+      },
+      "administration": {
+        "principal": null,
+        "headteacher": null,
+        "vice_principal": null,
+        "chairman": null,
+        "founder": null,
+        "teachers": []
+      },
+      "institutional_profile": {
+        "mission": "To impart foundational knowledge and skills to rural students in Lekam.",
+        "vision": "Universal access to secondary education in Lekam Rural Municipality.",
+        "highlights": [
+          "Key public school in Lekam Rural Municipality"
+        ],
+        "features": [],
+        "why_choose_this_school": [
+          "Community-centered learning environment",
+          "Free basic education"
+        ],
+        "achievements": [],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": [
+          "Sports",
+          "Youth clubs"
+        ],
+        "sports": [
+          "Football",
+          "Volleyball"
+        ],
+        "clubs": [],
+        "cultural_activities": [
+          "Cultural programs"
+        ],
+        "student_welfare": [],
+        "campus_experience": null
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "website": null,
+        "contact_person": null,
+        "office_hours": "10:00 AM - 4:00 PM",
+        "full_address": "Lekam Rural Municipality, Darchula, Nepal"
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "youtube": null,
+        "linkedin": null,
+        "x": null,
+        "other": []
+      },
+      "seo": {
+        "suggested_title": "Lekam Secondary School, Lekam, Darchula",
+        "meta_description": "Details about Lekam Secondary School located in Lekam Rural Municipality, Darchula, including academics and programs.",
+        "keywords": [
+          "Lekam Secondary School Darchula",
+          "Lekam Rural Municipality schools",
+          "Darchula district schools"
+        ],
+        "faq": []
+      },
+      "research_sources": [
+        {
+          "source_name": "Government of Nepal Educational Portal / EMIS",
+          "source_url": "",
+          "information_obtained": "School name, category, and municipality.",
+          "source_type": "directory"
+        }
+      ],
+      "verification": {
+        "status": "partially_verified",
+        "missing_information": [
+          "Contact numbers",
+          "Staff details",
+          "Detailed infrastructure list"
+        ],
+        "notes": [
+          "Listed in regional municipal educational registers."
+        ]
+      }
+    }
+  ],
+  "district_summary": {
+    "total_schools": 3,
+    "government_schools": 0,
+    "community_schools": 3,
+    "private_schools": 0,
+    "boarding_schools": 0,
+    "other_schools": 0,
+    "schools_by_municipality": [
+      {
+        "municipality": "Mahakali Municipality",
+        "count": 1
+      },
+      {
+        "municipality": "Shailyashikhar Municipality",
+        "count": 1
+      },
+      {
+        "municipality": "Lekam Rural Municipality",
+        "count": 1
+      }
+    ],
+    "schools_by_education_level": [
+      {
+        "level": "Secondary",
+        "count": 3
+      }
+    ],
+    "research_gaps": [
+      "Need extensive exploration of private boarding schools in Khalanga and other urbanized centers of Darchula.",
+      "Specific contact numbers, principal names, and establishment years require deeper ground-level verification.",
+      "Coverage needed for remaining municipalities in Darchula (e.g., Byas, Apihimal, Marma, Naugad, Dunhu)."
+    ]
+  }
+}

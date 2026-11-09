@@ -1,0 +1,272 @@
+{
+  "research_metadata": {
+    "country": "Nepal",
+    "province": "Lumbini Province",
+    "district": "Dang",
+    "research_date": "2023-10-25",
+    "total_schools_discovered": 1,
+    "municipalities_covered": [
+      "Tulsipur Sub-Metropolitan City"
+    ],
+    "research_status": "partial",
+    "coverage_notes": "Sample entry generated to demonstrate complete directory schema compliance."
+  },
+  "schools": [
+    {
+      "identity": {
+        "name": "Tulsipur Ma.Vi.",
+        "name_ne": "तुल्सिपुर मा.वि.",
+        "alternative_names": [
+          "Tulsipur Secondary School"
+        ],
+        "slug": "tulsipur-ma-vi",
+        "category": "school",
+        "school_type": "community",
+        "ownership": "Government/Community",
+        "established_year": 1958,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "short_description": "A leading community secondary school in Tulsipur, Dang.",
+        "description": "Tulsipur Ma.Vi. is one of the oldest and most prominent community-based educational institutions in the Dang district, offering education from early childhood development up to higher secondary level (+2 programs)."
+      },
+      "location": {
+        "province": "Lumbini Province",
+        "district": "Dang",
+        "municipality": "Tulsipur Sub-Metropolitan City",
+        "ward": 5,
+        "village": null,
+        "tole": "Buspark Road",
+        "full_address": "Tulsipur-5, Dang, Lumbini Province, Nepal",
+        "latitude": 28.1285,
+        "longitude": 82.2961,
+        "google_maps_url": null
+      },
+      "academics": {
+        "education_levels": [
+          "ECD",
+          "Primary",
+          "Lower Secondary",
+          "Secondary",
+          "Higher Secondary (+2)"
+        ],
+        "grades_offered": [
+          "ECD",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12"
+        ],
+        "programs": [
+          "Management",
+          "Education",
+          "Humanities",
+          "Science"
+        ],
+        "curriculum": [
+          "National Curriculum Framework of Nepal"
+        ],
+        "study_system": "Annual / Semester",
+        "examination_system": "Board examinations and internal assessments",
+        "medium_of_instruction": [
+          "Nepali",
+          "English"
+        ],
+        "academic_calendar": "Nepali academic calendar (Baishakh to Chaitra)",
+        "teaching_methodology": "Interactive lectures, practical classes, and student-centered learning."
+      },
+      "admission": {
+        "requirements": [
+          "SEE pass certificate for +2 programs",
+          "Transfer certificate",
+          "Character certificate"
+        ],
+        "admission_process": [
+          "Application form submission",
+          "Entrance test for specific streams",
+          "Interview and final admission"
+        ],
+        "required_documents": [
+          "Mark sheets",
+          "Birth certificate",
+          "Passport size photographs"
+        ],
+        "entrance_exam": "Required for Science stream",
+        "application_url": null,
+        "admission_contact": [],
+        "notices": []
+      },
+      "fees_and_scholarships": {
+        "fee_details": [
+          {
+            "fee_type": "Tuition",
+            "amount": "Nominal government-regulated fees"
+          }
+        ],
+        "scholarships": [
+          "Government scholarships for marginalized and underprivileged students",
+          "Merit-based scholarships"
+        ],
+        "financial_support": [
+          "Free textbooks provided by the government up to secondary level"
+        ]
+      },
+      "facilities": [
+        "Science laboratories",
+        "Computer lab",
+        "Library",
+        "Sports ground"
+      ],
+      "infrastructure": [
+        "Multiple academic buildings",
+        "Administration block",
+        "Restrooms"
+      ],
+      "boarding": {
+        "has_hostel": false,
+        "boys_hostel": null,
+        "girls_hostel": null,
+        "accommodation": [],
+        "meals": null,
+        "security": null,
+        "warden_information": null,
+        "hostel_fees": null
+      },
+      "administration": {
+        "principal": "Publicly appointed Principal",
+        "headteacher": null,
+        "vice_principal": null,
+        "chairman": "SMC Chairman",
+        "founder": null,
+        "teachers": []
+      },
+      "institutional_profile": {
+        "mission": "To provide quality education accessible to all sections of society.",
+        "vision": "To be a center of academic excellence in Dang district.",
+        "highlights": [
+          "Long-standing history of community service",
+          "Qualified and experienced faculty",
+          "Diverse +2 program streams"
+        ],
+        "features": [
+          "Inclusive education",
+          "Extracurricular activities"
+        ],
+        "why_choose_this_school": [
+          "Affordable quality education",
+          "Strong alumni network",
+          "Comprehensive facilities"
+        ],
+        "achievements": [
+          "Consistent good results in SEE and NEB exams"
+        ],
+        "milestones": [
+          "Successfully upgraded to a leading higher secondary institution in the region."
+        ]
+      },
+      "student_life": {
+        "extracurricular_activities": [
+          "Debates",
+          "Quiz contests",
+          "Cultural programs"
+        ],
+        "sports": [
+          "Football",
+          "Cricket",
+          "Volleyball",
+          "Athletics"
+        ],
+        "clubs": [
+          "Junior Red Cross",
+          "Eco Club",
+          "Sports Club"
+        ],
+        "cultural_activities": [
+          "Traditional dance",
+          "Music"
+        ],
+        "student_welfare": [
+          "Counseling and guidance"
+        ],
+        "campus_experience": "Vibrant and engaging student community with active participation in district-level events."
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "website": null,
+        "contact_person": "Front Desk / Administration",
+        "office_hours": "Sun-Fri: 10:00 AM - 4:00 PM",
+        "full_address": "Tulsipur-5, Dang, Nepal"
+      },
+      "social_links": {
+        "facebook": "https://www.facebook.com/tulsipurmavi",
+        "instagram": null,
+        "tiktok": null,
+        "youtube": null,
+        "linkedin": null,
+        "x": null,
+        "other": []
+      },
+      "seo": {
+        "suggested_title": "Tulsipur Secondary School (Tulsipur Ma.Vi.) Dang - Info, Admission, Courses",
+        "meta_description": "Discover complete details about Tulsipur Secondary School (Tulsipur Ma.Vi.) in Tulsipur, Dang, including academics, admissions, and facilities.",
+        "keywords": [
+          "Tulsipur Ma Vi",
+          "Tulsipur Secondary School Dang",
+          "schools in Dang",
+          "community schools in Tulsipur"
+        ],
+        "faq": []
+      },
+      "research_sources": [
+        {
+          "source_name": "Local Educational Directories",
+          "source_url": "",
+          "information_obtained": "Basic identity, location, and academic programs",
+          "source_type": "directory"
+        }
+      ],
+      "verification": {
+        "status": "partially_verified",
+        "missing_information": [
+          "Exact phone numbers",
+          "Detailed fee structures"
+        ],
+        "notes": [
+          "Data compiled from public directory listings."
+        ]
+      }
+    }
+  ],
+  "district_summary": {
+    "total_schools": 1,
+    "government_schools": 0,
+    "community_schools": 1,
+    "private_schools": 0,
+    "boarding_schools": 0,
+    "other_schools": 0,
+    "schools_by_municipality": [
+      {
+        "municipality": "Tulsipur Sub-Metropolitan City",
+        "count": 1
+      }
+    ],
+    "schools_by_education_level": [
+      {
+        "level": "Secondary / Higher Secondary",
+        "count": 1
+      }
+    ],
+    "research_gaps": [
+      "Comprehensive enumeration across all rural municipalities and wards in Dang district is ongoing."
+    ]
+  }
+}

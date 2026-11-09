@@ -1,0 +1,2297 @@
+{
+    "research_metadata": {
+        "country": "Nepal",
+        "province": "Bagmati Province",
+        "district": "Bhaktapur",
+        "research_date": "2026-11-08",
+        "total_institutions_discovered": 37,
+        "research_status": "completed",
+        "collection_mode": "responses"
+    },
+    "institutions": [
+        {
+            "overview": {
+                "name": "Bhaktapur Multiple Campus",
+                "name_ne": "भक्तपुर बहुमुखी क्याम्पस",
+                "slug": "bhaktapur-multiple-campus",
+                "ownership": "government constituent",
+                "established_year": 1959,
+                "university": "Tribhuvan University",
+                "municipality": "Bhaktapur Municipality",
+                "address": "Doodhpati-17, Bhaktapur, Nepal",
+                "description": "Constituent campus of Tribhuvan University, established on Kartik 19, 2016 BS (1959 AD) in Doodhpati. It offers bachelor's and master's programs in management, humanities, science, and information technology.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://bkmc.tu.edu.np/",
+                    "https://edusanjal.com/college/bhaktapur-multiple-campus/",
+                    "https://www.collegesnepal.com/bhaktapur-multiple-campus/"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Business Studies (BBS)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://www.collegesnepal.com/bhaktapur-multiple-campus/"
+                },
+                {
+                    "name": "Bachelor of Business Administration (BBA)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://bkmc.tu.edu.np/"
+                },
+                {
+                    "name": "Bachelor of Business Management (BBM)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://bkmc.tu.edu.np/"
+                },
+                {
+                    "name": "Bachelor of Information Technology Management (BITM)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://www.collegesnepal.com/bhaktapur-multiple-campus/"
+                },
+                {
+                    "name": "Bachelor of Information Management (BIM)",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://shikshasanjal.com/college/bhaktapur-multiple-campus-bmc"
+                },
+                {
+                    "name": "BSc Computer Science and Information Technology (BSc CSIT)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Science and Technology",
+                    "fee": 330000,
+                    "source_url": "https://shikshasanjal.com/college/bhaktapur-multiple-campus-bmc"
+                },
+                {
+                    "name": "Bachelor of Computer Application (BCA)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Humanities and Social Sciences",
+                    "fee": 310000,
+                    "source_url": "https://shikshasanjal.com/college/bhaktapur-multiple-campus-bmc"
+                },
+                {
+                    "name": "Bachelor of Information Technology (BIT)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Science and Technology",
+                    "fee": null,
+                    "source_url": "https://bkmc.tu.edu.np/"
+                },
+                {
+                    "name": "Bachelor of Arts (BA)",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Humanities and Social Sciences",
+                    "fee": null,
+                    "source_url": "https://www.collegesnepal.com/bhaktapur-multiple-campus/"
+                },
+                {
+                    "name": "Bachelor of Science (BSc)",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Science and Technology",
+                    "fee": null,
+                    "source_url": "https://www.collegesnepal.com/bhaktapur-multiple-campus/"
+                },
+                {
+                    "name": "Master of Business Studies (MBS)",
+                    "level": "Master",
+                    "duration": null,
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://www.collegesnepal.com/bhaktapur-multiple-campus/"
+                },
+                {
+                    "name": "Master of Arts in Sociology",
+                    "level": "Master",
+                    "duration": null,
+                    "faculty": "Humanities and Social Sciences",
+                    "fee": null,
+                    "source_url": "https://www.collegesnepal.com/bhaktapur-multiple-campus/"
+                },
+                {
+                    "name": "MA Rural Development",
+                    "level": "Master",
+                    "duration": null,
+                    "faculty": "Humanities and Social Sciences",
+                    "fee": null,
+                    "source_url": "https://www.collegesnepal.com/bhaktapur-multiple-campus/"
+                },
+                {
+                    "name": "MA Nepali",
+                    "level": "Master",
+                    "duration": null,
+                    "faculty": "Humanities and Social Sciences",
+                    "fee": null,
+                    "source_url": "https://www.collegesnepal.com/bhaktapur-multiple-campus/"
+                },
+                {
+                    "name": "Master of Information Technology (MIT)",
+                    "level": "Master",
+                    "duration": null,
+                    "faculty": "Science and Technology",
+                    "fee": null,
+                    "source_url": "https://www.collegesnepal.com/bhaktapur-multiple-campus/"
+                }
+            ],
+            "facilities": [
+                "Well-equipped labs",
+                "Smart classrooms",
+                "Library"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [
+                {
+                    "title": "Admission open for bachelor programs 2082/083",
+                    "date": null,
+                    "summary": "Campus notice inviting applications for BCA, BBM, BITM, BBA, BSc CSIT, and BIT.",
+                    "source_url": "https://bkmc.tu.edu.np/"
+                },
+                {
+                    "title": "Admission Notice of 3 Year LL.B. Program",
+                    "date": "2026-10-10",
+                    "summary": "Notice listed on the campus website.",
+                    "source_url": "https://bkmc.tu.edu.np/"
+                }
+            ],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "01-6610200",
+                    "01-6613199",
+                    "9851170509",
+                    "9841257149"
+                ],
+                "emails": [
+                    "info@bkmc.tu.edu.np"
+                ],
+                "website": "https://bkmc.tu.edu.np/",
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Sanothimi Campus",
+                "name_ne": null,
+                "slug": "sanothimi-campus",
+                "ownership": "government constituent",
+                "established_year": 1968,
+                "university": "Tribhuvan University",
+                "municipality": "Madhyapur Thimi Municipality",
+                "address": "Madhyapur Thimi-2, Sanothimi, Bhaktapur, Nepal",
+                "description": "Constituent campus of Tribhuvan University Faculty of Education. Founded in 1968 as the National Vocational Training Center and affiliated to TU in 1972. It offers teacher education and, since 2080 BS, BBS.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://sac.tu.edu.np/",
+                    "https://edusanjal.com/college/sanothimi-campus/",
+                    "https://sac.tu.edu.np/faqs"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Education (B.Ed.)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://sac.tu.edu.np/pages/programs-2429"
+                },
+                {
+                    "name": "Bachelor in Information and Communication Technology Education (BICTE)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://sac.tu.edu.np/"
+                },
+                {
+                    "name": "Post Graduate Diploma in Education (PGDE)",
+                    "level": "Postgraduate diploma",
+                    "duration": null,
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://sac.tu.edu.np/"
+                },
+                {
+                    "name": "Master of Education (M.Ed.)",
+                    "level": "Master",
+                    "duration": null,
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://sac.tu.edu.np/"
+                },
+                {
+                    "name": "Master in Information and Communication Technology Education (MICTE)",
+                    "level": "Master",
+                    "duration": null,
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://sac.tu.edu.np/"
+                },
+                {
+                    "name": "Bachelor of Business Studies (BBS)",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://sac.tu.edu.np/faqs"
+                }
+            ],
+            "facilities": [],
+            "gallery": [],
+            "videos": [],
+            "updates": [
+                {
+                    "title": "अन्तर्वार्ता सम्बन्धी जरुरी सूचना",
+                    "date": "2026-07-27",
+                    "summary": "Interview-related notice published on the campus site.",
+                    "source_url": "https://sac.tu.edu.np/"
+                }
+            ],
+            "faqs": [
+                {
+                    "question": "Where is Sanothimi Campus located?",
+                    "answer": "Sanothimi Campus is situated in Bhaktapur, Nepal."
+                },
+                {
+                    "question": "What programs does Sanothimi Campus offer?",
+                    "answer": "B.Ed., BICTE, PGDE, M.Ed., and BBS."
+                },
+                {
+                    "question": "Does Sanothimi Campus offer scholarships to students?",
+                    "answer": "Yes, to meritorious and financially disadvantaged students. Details are available from the campus academic section."
+                }
+            ],
+            "contact": {
+                "phones": [
+                    "977-01-5639309",
+                    "977-1-6630283",
+                    "6630790"
+                ],
+                "emails": [
+                    "info@sac.tu.edu.np"
+                ],
+                "website": "https://sac.tu.edu.np/",
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": [
+                {
+                    "question": "How can I contact Sanothimi Campus?",
+                    "answer": "Address: Sanothimi Campus, Bhaktapur, Nepal. Phone: 977-01-5639309. Email: info@sac.tu.edu.np.",
+                    "source_url": "https://sac.tu.edu.np/faqs"
+                }
+            ]
+        },
+        {
+            "overview": {
+                "name": "Khwopa College",
+                "name_ne": null,
+                "slug": "khwopa-college",
+                "ownership": "community",
+                "established_year": 2001,
+                "university": "Tribhuvan University",
+                "municipality": "Bhaktapur Municipality",
+                "address": "Dekocha-6, Bhaktapur, Nepal",
+                "description": "Community college undertaken by Bhaktapur Municipality. TU decided on 2080-4-7 that Sharada Campus, Bhaktapur merged with Khwopa College. It offers bachelor's and master's programs in humanities, management, science, and education.",
+                "mission": "To make higher education accessible to all people regardless of their economic or social status.",
+                "vision": "To establish itself in Bhaktapur as the center of excellence.",
+                "source_urls": [
+                    "https://edusanjal.com/college/khwopa-college/",
+                    "https://www.collegenp.com/college/khwopa-college-bhaktapur/"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Business Studies (BBS)",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/college/khwopa-college/"
+                },
+                {
+                    "name": "Bachelor of Business Management (BBM)",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/khwopa-college-bhaktapur/"
+                },
+                {
+                    "name": "Bachelor of Arts (BA)",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Humanities and Social Sciences",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/college/khwopa-college/"
+                },
+                {
+                    "name": "Bachelor of Arts in Social Work (BASW)",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Humanities and Social Sciences",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/college/khwopa-college/"
+                },
+                {
+                    "name": "BSc Physics",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Science and Technology",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/college/khwopa-college/"
+                },
+                {
+                    "name": "BSc Environmental Science",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Science and Technology",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/college/khwopa-college/"
+                },
+                {
+                    "name": "Bachelor of Education (BEd)",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/college/khwopa-college/"
+                },
+                {
+                    "name": "Master of Business Studies (MBS)",
+                    "level": "Master",
+                    "duration": null,
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/college/khwopa-college/"
+                },
+                {
+                    "name": "MA in English",
+                    "level": "Master",
+                    "duration": null,
+                    "faculty": "Humanities and Social Sciences",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/college/khwopa-college/"
+                },
+                {
+                    "name": "MA in Economics",
+                    "level": "Master",
+                    "duration": null,
+                    "faculty": "Humanities and Social Sciences",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/college/khwopa-college/"
+                },
+                {
+                    "name": "MSc Environmental Science",
+                    "level": "Master",
+                    "duration": null,
+                    "faculty": "Science and Technology",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/college/khwopa-college/"
+                }
+            ],
+            "facilities": [
+                "Laboratories",
+                "Library and reference section",
+                "Audio visual aids",
+                "Multimedia and OHP",
+                "Cafeteria",
+                "Sports",
+                "Free internet",
+                "Football ground",
+                "Volleyball court",
+                "Basketball court",
+                "Auditorium",
+                "Ecological garden",
+                "Rain water harvesting"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "01-6610932",
+                    "01-6618031",
+                    "01-6614336"
+                ],
+                "emails": [
+                    "info@khwopacollege.edu.np"
+                ],
+                "website": "https://www.khwopacollege.edu.np/",
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Khwopa Engineering College",
+                "name_ne": null,
+                "slug": "khwopa-engineering-college",
+                "ownership": "community",
+                "established_year": 2001,
+                "university": "Purbanchal University",
+                "municipality": "Bhaktapur Municipality",
+                "address": "P.O. Box 84, Libali, Bhaktapur-8, Nepal",
+                "description": "Nepal's first community-based engineering college, an undertaking of Bhaktapur Municipality, affiliated to Purbanchal University. It is a separate institution from Khwopa College of Engineering (Tribhuvan University).",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://khec.edu.np/site/aboutus.html",
+                    "https://edusanjal.com/college/khwopa-engineering-college/",
+                    "https://khec.edu.np/site/index.html"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Civil Engineering",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Engineering",
+                    "fee": 696000,
+                    "source_url": "https://www.khec.edu.np/site/aboutus.html"
+                },
+                {
+                    "name": "Bachelor of Computer Engineering",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Engineering",
+                    "fee": 696000,
+                    "source_url": "https://www.khec.edu.np/site/aboutus.html"
+                },
+                {
+                    "name": "Bachelor in Electronics, Communication and Automation Engineering",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Engineering",
+                    "fee": 496000,
+                    "source_url": "https://www.khec.edu.np/site/aboutus.html"
+                },
+                {
+                    "name": "Bachelor of Architecture",
+                    "level": "Bachelor",
+                    "duration": "5 years",
+                    "faculty": "Engineering",
+                    "fee": 870000,
+                    "source_url": "https://www.khec.edu.np/site/aboutus.html"
+                },
+                {
+                    "name": "Bachelor of Computer Application in Information Technology (BCA-IT)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Science and Technology",
+                    "fee": 360000,
+                    "source_url": "https://www.khec.edu.np/site/aboutus.html"
+                },
+                {
+                    "name": "Bachelor of Information Technology (BIT)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Science and Technology",
+                    "fee": null,
+                    "source_url": "https://www.khec.edu.np/site/aboutus.html"
+                },
+                {
+                    "name": "ME Earthquake Engineering",
+                    "level": "Master",
+                    "duration": "2 years",
+                    "faculty": "Engineering",
+                    "fee": 392000,
+                    "source_url": "https://www.khec.edu.np/site/aboutus.html"
+                },
+                {
+                    "name": "MSc Urban Design and Conservation",
+                    "level": "Master",
+                    "duration": "2 years",
+                    "faculty": "Engineering",
+                    "fee": 392000,
+                    "source_url": "https://www.khec.edu.np/site/aboutus.html"
+                }
+            ],
+            "facilities": [],
+            "gallery": [],
+            "videos": [],
+            "updates": [
+                {
+                    "title": "Notice for Relocation of Reference Library",
+                    "date": null,
+                    "summary": "Reference library relocated to Block B, 2nd Floor.",
+                    "source_url": "https://khec.edu.np/site/index.html"
+                }
+            ],
+            "faqs": [
+                {
+                    "question": "Are KhEC and KhCE the same?",
+                    "answer": "No. Khwopa Engineering College (KhEC) is affiliated to Purbanchal University and Khwopa College of Engineering (KhCE) is affiliated to Tribhuvan University."
+                }
+            ],
+            "contact": {
+                "phones": [
+                    "+977-1-5122094",
+                    "+977-1-5122098",
+                    "+977-9768518398"
+                ],
+                "emails": [],
+                "website": "https://khec.edu.np/",
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Khwopa College of Engineering",
+                "name_ne": "ख्वप कलेज अफ इन्जिनियरिङ्",
+                "slug": "khwopa-college-of-engineering",
+                "ownership": "community",
+                "established_year": 2008,
+                "university": "Tribhuvan University",
+                "municipality": "Bhaktapur Municipality",
+                "address": "Libali, Bhaktapur, Nepal",
+                "description": "Community engineering college undertaken by Bhaktapur Municipality and affiliated to Tribhuvan University. UGC accreditation in 2026 is stated on the college website. It is not the same institution as Purbanchal University's Khwopa Engineering College.",
+                "mission": null,
+                "vision": "To produce highly skilled engineers blending indigenous and modern technologies and to maintain Bhaktapur's hard-won glory.",
+                "source_urls": [
+                    "https://khwopa.edu.np/",
+                    "https://khwopa.edu.np/site/aboutus.html",
+                    "https://en.wikipedia.org/wiki/Khwopa_College_of_Engineering_(TU)"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Civil Engineering",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Engineering",
+                    "fee": 696000,
+                    "source_url": "https://khwopa.edu.np/"
+                },
+                {
+                    "name": "Bachelor of Electrical Engineering",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Engineering",
+                    "fee": 496000,
+                    "source_url": "https://khwopa.edu.np/"
+                },
+                {
+                    "name": "Bachelor of Computer Engineering",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Engineering",
+                    "fee": 840000,
+                    "source_url": "https://khwopa.edu.np/"
+                }
+            ],
+            "facilities": [
+                "Labs",
+                "E-library"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [
+                {
+                    "question": "Are KhEC and KhCE the same?",
+                    "answer": "No. Khwopa College of Engineering (KhCE) is affiliated to Tribhuvan University and Khwopa Engineering College (KhEC) is affiliated to Purbanchal University."
+                }
+            ],
+            "contact": {
+                "phones": [],
+                "emails": [],
+                "website": "https://khwopa.edu.np/",
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Khwopa College of Law",
+                "name_ne": null,
+                "slug": "khwopa-college-of-law",
+                "ownership": "community",
+                "established_year": 2022,
+                "university": "Purbanchal University",
+                "municipality": "Bhaktapur Municipality",
+                "address": "Dekocha, Bhaktapur-6, Nepal",
+                "description": "Law college operated under Bhaktapur Municipality and affiliated to Purbanchal University. It offers a five-year BALLB program with 60 seats.",
+                "mission": "To boost development of Nepal's ancient city as a center of excellence with quality legal education for common people.",
+                "vision": null,
+                "source_urls": [
+                    "https://edusanjal.com/college/khwopa-college-of-law/",
+                    "https://khwopalaw.edu.np/",
+                    "https://www.collegenp.com/college/khwopa-college-of-law"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Arts, Bachelor of Laws (BALLB)",
+                    "level": "Bachelor",
+                    "duration": "5 years",
+                    "faculty": "Law",
+                    "fee": 550000,
+                    "source_url": "https://edusanjal.com/college/khwopa-college-of-law/"
+                }
+            ],
+            "facilities": [
+                "Conference hall",
+                "Scholarships",
+                "Counselling",
+                "ECA"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-015920592",
+                    "9767239323",
+                    "01-6610932",
+                    "01-6614336",
+                    "01-6618031"
+                ],
+                "emails": [
+                    "info@khwopalaw.edu.np"
+                ],
+                "website": "https://khwopalaw.edu.np/",
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Khwopa Polytechnic Institute",
+                "name_ne": "ख्वप बहु-प्राविधिक अध्ययन संस्थान",
+                "slug": "khwopa-polytechnic-institute",
+                "ownership": "community",
+                "established_year": 2003,
+                "university": "CTEVT",
+                "municipality": "Bhaktapur Municipality",
+                "address": "Chyamhasingh, Bhaktapur-4, Nepal",
+                "description": "Community technical institute undertaken by Bhaktapur Municipality and affiliated to CTEVT. It runs three-year PCL Nursing and Diploma in Civil Engineering.",
+                "mission": "To access higher quality education to people of all economic and social strata.",
+                "vision": "To establish Bhaktapur as the center of excellence.",
+                "source_urls": [
+                    "https://kpti.edu.np/content/detail/1.html",
+                    "https://edusanjal.com/school/khwopa-poly-technic-institute/",
+                    "https://www.collegenp.com/college/khwopa-poly-technic-institute-bhaktapur"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "PCL Nursing",
+                    "level": "PCL",
+                    "duration": "3 years",
+                    "faculty": "Health",
+                    "fee": 470000,
+                    "source_url": "https://www.collegenp.com/college/khwopa-poly-technic-institute-bhaktapur"
+                },
+                {
+                    "name": "Diploma in Civil Engineering",
+                    "level": "Diploma",
+                    "duration": "3 years",
+                    "faculty": "Engineering",
+                    "fee": 240000,
+                    "source_url": "https://www.collegenp.com/college/khwopa-poly-technic-institute-bhaktapur"
+                }
+            ],
+            "facilities": [
+                "Book banking for civil engineering students",
+                "Survey camp",
+                "Transportation for field work",
+                "Scholarships"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-1-6619585"
+                ],
+                "emails": [
+                    "kpti.edu@gmail.com"
+                ],
+                "website": "https://kpti.edu.np/",
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Nepal Engineering College",
+                "name_ne": "नेपाल इन्जिनियरिङ कलेज",
+                "slug": "nepal-engineering-college",
+                "ownership": "community",
+                "established_year": 1994,
+                "university": "Pokhara University",
+                "municipality": "Changunarayan Municipality",
+                "address": "Changunarayan, Bhaktapur, Nepal",
+                "description": "Not-for-profit engineering college established in 1994 and affiliated to Pokhara University. Bachelor programs run at the Changunarayan campus. Master's programs run at nec-CPS, Lagankhel, Lalitpur, and BE Civil for diploma holders runs at nec-BDH, Lalitpur.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://nec.edu.np/contact-us",
+                    "https://edusanjal.com/college/nepal-engineering-college/",
+                    "https://www.educatenepal.com/institutions/detail/nepal-engineering-college-nec"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Civil Engineering",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Engineering",
+                    "fee": 659050,
+                    "source_url": "https://edusanjal.com/college/nepal-engineering-college/"
+                },
+                {
+                    "name": "Bachelor of Computer Engineering",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Engineering",
+                    "fee": 705625,
+                    "source_url": "https://edusanjal.com/college/nepal-engineering-college/"
+                },
+                {
+                    "name": "Bachelor of Electrical and Electronics Engineering",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Engineering",
+                    "fee": 517825,
+                    "source_url": "https://edusanjal.com/college/nepal-engineering-college/"
+                },
+                {
+                    "name": "Bachelor of Architecture",
+                    "level": "Bachelor",
+                    "duration": "5 years",
+                    "faculty": "Engineering",
+                    "fee": 801150,
+                    "source_url": "https://edusanjal.com/college/nepal-engineering-college/"
+                },
+                {
+                    "name": "Bachelor of Civil and Rural Engineering",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Engineering",
+                    "fee": 498995,
+                    "source_url": "https://edusanjal.com/college/nepal-engineering-college/"
+                },
+                {
+                    "name": "BE Information and Communication",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Engineering",
+                    "fee": 451920,
+                    "source_url": "https://edusanjal.com/college/nepal-engineering-college/"
+                }
+            ],
+            "facilities": [
+                "Computer labs",
+                "Library",
+                "Girls hostel",
+                "Cafeteria",
+                "College bus",
+                "On-campus clinic",
+                "Research Management Cell"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [
+                {
+                    "title": "Rechecking/Retotaling Notice (Spring 2026) Final Year (Regular)",
+                    "date": null,
+                    "summary": "Notice listed on the college contact page.",
+                    "source_url": "https://nec.edu.np/contact-us"
+                }
+            ],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-01-5221006",
+                    "01-5221012",
+                    "9763490081",
+                    "9741802096"
+                ],
+                "emails": [
+                    "info@nec.edu.np",
+                    "entrance@nec.edu.np"
+                ],
+                "website": "https://nec.edu.np/",
+                "map_url": null
+            },
+            "reviews": [
+                {
+                    "platform": "AsiaFirms",
+                    "rating": null,
+                    "text": "It is a best Pokhara University Affiliated college for Engineering and situated at a peace location. There is many subject for Engineering.",
+                    "source_url": "https://np.asiafirms.com/bagmati/nepal-engineering-college-287533.html"
+                },
+                {
+                    "platform": "AsiaFirms",
+                    "rating": null,
+                    "text": "Nepal Engineering College mainly knows as nec. It is great choice for aspirant Student who wants to Study B. E Civil, B. E Computer, B. E Electrical and Electronics, B. E Electronics and Communication, Bachelor in Architectural and only college in Pokhara University that provide B. E Civil and Rural Engineering.",
+                    "source_url": "https://np.asiafirms.com/bagmati/nepal-engineering-college-287533.html"
+                }
+            ],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Kathmandu School of Law",
+                "name_ne": null,
+                "slug": "kathmandu-school-of-law",
+                "ownership": "non-profit",
+                "established_year": 2000,
+                "university": "Purbanchal University",
+                "municipality": "Suryabinayak Municipality",
+                "address": "Suryabinayak, Bhaktapur, Nepal",
+                "description": "Non-profit law school affiliated to Purbanchal University. It was the first law college in Nepal accredited by UGC QAA, with accreditation dated 23 June 2022 and valid until 22 June 2027.",
+                "mission": "To promote justice through enhanced legal education focused on social transformation and value-based professionalism.",
+                "vision": "A center of excellence in legal education contributing to transformation of Nepal into a functional democracy grounded in the rule of law, human rights, and good governance.",
+                "source_urls": [
+                    "https://edusanjal.com/college/kathmandu-school-law/"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "BALLB",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Law",
+                    "fee": 991890,
+                    "source_url": "https://edusanjal.com/college/kathmandu-school-law/"
+                },
+                {
+                    "name": "LLM",
+                    "level": "Master",
+                    "duration": null,
+                    "faculty": "Law",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/college/kathmandu-school-law/"
+                },
+                {
+                    "name": "MA Human Rights",
+                    "level": "Master",
+                    "duration": null,
+                    "faculty": "Law",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/college/kathmandu-school-law/"
+                }
+            ],
+            "facilities": [
+                "Digitally enabled classrooms",
+                "Library",
+                "IT Resource Centre",
+                "International seminar hall",
+                "Moot court activities"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [
+                {
+                    "title": "First National Law Education Conference-2081 Begins in Bhaktapur",
+                    "date": null,
+                    "summary": "News item linked from the college page on Edusanjal.",
+                    "source_url": "https://edusanjal.com/news/first-national-law-education-conference-2081-begins-in-bhaktapur/"
+                }
+            ],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "01-6634455",
+                    "01-6634663"
+                ],
+                "emails": [
+                    "info@ksl.edu.np"
+                ],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [
+                {
+                    "platform": "Edusanjal",
+                    "rating": 4,
+                    "text": "I joined Kathmandu School of Law for my BALLB, and one thing that genuinely surprised me was how seriously the college takes research. We had an onboarding research program in the very first year, which helped build a strong foundation early on. The library has good resources, e-library access to TU Central Library, and stays open on Saturdays, which is a lifesaver during deadlines. Mooting opportunities are real and frequent, and the Trial Advocacy subject is very valuable as it teaches you how to plead before a court. The college also supports students through research grants and cultural programs. KSL is quite strict about discipline. Dress code, hair, nails, and punctuality are all taken seriously, which can feel a bit much at times. But they are preparing you for a profession where courtroom presence matters, so it makes sense. If you are passionate about law, KSL will push you to grow. Just show up on time, dress sharp, and keep those nails trimmed!",
+                    "source_url": "https://edusanjal.com/college/kathmandu-school-law/"
+                }
+            ],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Imperial College of Engineering",
+                "name_ne": null,
+                "slug": "imperial-college-of-engineering",
+                "ownership": "private",
+                "established_year": 2001,
+                "university": "Tribhuvan University",
+                "municipality": null,
+                "address": "Tathali, Bhaktapur, Nepal",
+                "description": "Formerly Janakpur Engineering College, established in 2058 BS under Tribhuvan University. Renamed Imperial College of Engineering and relocated from Kupandole, Lalitpur, to Tathali, Bhaktapur in 2082 (2025 AD).",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://edusanjal.com/college/imperial-college-engineering/"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Civil Engineering",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Engineering",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/college/imperial-college-engineering/"
+                },
+                {
+                    "name": "Bachelor of Computer Engineering",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Engineering",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/college/imperial-college-engineering/"
+                },
+                {
+                    "name": "Bachelor of Electronics and Communication Engineering",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Engineering",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/college/imperial-college-engineering/"
+                }
+            ],
+            "facilities": [
+                "Transportation",
+                "Hostel"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [],
+                "emails": [],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Samriddhi College",
+                "name_ne": null,
+                "slug": "samriddhi-college",
+                "ownership": "private",
+                "established_year": 2013,
+                "university": "Tribhuvan University",
+                "municipality": "Madhyapur Thimi Municipality",
+                "address": "Lokanthali-16, Madhyapur Thimi Municipality-1, Bhaktapur, Nepal",
+                "description": "Private TU-affiliated college established in 2013 by Sambridhi Education Foundation. It offers BSc CSIT, BCA, BBS, BSW, and BPsych.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://samriddhicollege.edu.np/about-us/",
+                    "https://edusanjal.com/admission/admission-bachelor-level-programs-samriddhi-college/",
+                    "https://www.collegenp.com/college/samriddhi-college-bhaktapur"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "BSc Computer Science and Information Technology",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Science and Technology",
+                    "fee": null,
+                    "source_url": "https://samriddhicollege.edu.np/about-us/"
+                },
+                {
+                    "name": "Bachelor of Computer Application (BCA)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Humanities and Social Sciences",
+                    "fee": null,
+                    "source_url": "https://samriddhicollege.edu.np/"
+                },
+                {
+                    "name": "Bachelor of Business Studies (BBS)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://samriddhicollege.edu.np/"
+                },
+                {
+                    "name": "Bachelor of Social Work (BSW/BASW)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Humanities and Social Sciences",
+                    "fee": null,
+                    "source_url": "https://samriddhicollege.edu.np/"
+                },
+                {
+                    "name": "Bachelor of Psychology (BPsych)",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Humanities and Social Sciences",
+                    "fee": null,
+                    "source_url": "https://samriddhicollege.edu.np/"
+                }
+            ],
+            "facilities": [
+                "Computer labs",
+                "Library",
+                "Cafeteria"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [
+                {
+                    "title": "Exam Form Open for 4-Years BBS and BSW/BPsych First Year Partial-2082",
+                    "date": null,
+                    "summary": "Notice listed on the college homepage.",
+                    "source_url": "https://samriddhicollege.edu.np/"
+                }
+            ],
+            "faqs": [
+                {
+                    "question": "How many seats are available for BSc CSIT?",
+                    "answer": "48 seats."
+                },
+                {
+                    "question": "What is the duration of the BSc CSIT program?",
+                    "answer": "4 years (8 semesters), with 126–127 credit hours."
+                },
+                {
+                    "question": "Does the BSc CSIT program include practical labs?",
+                    "answer": "Yes, lab work is included in programming, networking, and database courses."
+                }
+            ],
+            "contact": {
+                "phones": [
+                    "01-6636700",
+                    "01-6636322"
+                ],
+                "emails": [
+                    "info@samriddhicollege.edu.np"
+                ],
+                "website": "https://samriddhicollege.edu.np/",
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": [
+                {
+                    "question": "What are the eligibility criteria for BSc CSIT?",
+                    "answer": "Students must have passed +2 Science or equivalent with Physics and Mathematics (100 marks each) and a minimum C grade in all subjects.",
+                    "source_url": "https://samriddhicollege.edu.np/about-us/"
+                }
+            ]
+        },
+        {
+            "overview": {
+                "name": "Swastik College",
+                "name_ne": null,
+                "slug": "swastik-college",
+                "ownership": "private",
+                "established_year": 2013,
+                "university": "Tribhuvan University",
+                "municipality": "Madhyapur Thimi Municipality",
+                "address": "Chardobato, Gatthaghar, Madhyapur Thimi-3, Bhaktapur, Nepal",
+                "description": "Private TU-affiliated IT college founded in 2013. It runs BSc CSIT and BCA. F1Soft invested in the college from 2019.",
+                "mission": "To develop the college into a hub of computer science and information technology, both theoretically and practically.",
+                "vision": null,
+                "source_urls": [
+                    "https://swastikcollege.edu.np/aboutus",
+                    "https://edusanjal.com/admission/admission-open-bcabsccsit-swastik-college/",
+                    "https://www.collegesnepal.com/swastik-college/"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "BSc Computer Science and Information Technology",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Science and Technology",
+                    "fee": null,
+                    "source_url": "https://swastikcollege.edu.np/"
+                },
+                {
+                    "name": "Bachelor of Computer Application (BCA)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Humanities and Social Sciences",
+                    "fee": null,
+                    "source_url": "https://swastikcollege.edu.np/"
+                }
+            ],
+            "facilities": [
+                "Computer labs",
+                "Library",
+                "Multimedia classrooms",
+                "Canteen",
+                "Sports",
+                "Wi-Fi",
+                "Auditorium",
+                "Parking"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-1-6635174"
+                ],
+                "emails": [
+                    "info@swastikcollege.edu.np"
+                ],
+                "website": "https://swastikcollege.edu.np/",
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Shikshyalaya College",
+                "name_ne": null,
+                "slug": "shikshyalaya-college",
+                "ownership": "private",
+                "established_year": 2022,
+                "university": "Far-Western University",
+                "municipality": "Madhyapur Thimi Municipality",
+                "address": "Lokanthali, Bhaktapur, Nepal",
+                "description": "Private college affiliated to Far-Western University. The college website says it was established in 2022 and is managed by the Samriddhi Education Group. Edusanjal also records an established year of 2024.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://shikshyalayacollege.edu.np/about-us/",
+                    "https://edusanjal.com/college/shikshyalaya-college/",
+                    "https://shikshyalayacollege.edu.np/"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "BSc Computer Science and Information Technology",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Science and Technology",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/college/shikshyalaya-college/"
+                },
+                {
+                    "name": "Bachelor of Business Administration (BBA)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/college/shikshyalaya-college/"
+                },
+                {
+                    "name": "Master of Business Administration (MBA)",
+                    "level": "Master",
+                    "duration": "2 years",
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/college/shikshyalaya-college/"
+                }
+            ],
+            "facilities": [
+                "Computer lab",
+                "Classrooms",
+                "Conference hall",
+                "Library"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [
+                {
+                    "title": "Bachelor programs admission 2083",
+                    "date": null,
+                    "summary": "Admissions announced for BBA and BSc CSIT, closing 17 October 2026 on Edusanjal.",
+                    "source_url": "https://edusanjal.com/admission/Inquiry-open-for-bachelors-at-shikshyalaya-college/"
+                }
+            ],
+            "faqs": [
+                {
+                    "question": "What programs does Shikshyalaya College offer?",
+                    "answer": "BSc CSIT, BBA, and MBA affiliated to Far-Western University."
+                },
+                {
+                    "question": "How can I apply?",
+                    "answer": "Apply online through the college website or visit the college. The process includes document verification and an entrance test or interview."
+                }
+            ],
+            "contact": {
+                "phones": [
+                    "01-6636400",
+                    "01-6636100",
+                    "9768998650"
+                ],
+                "emails": [
+                    "info@shikshyalayacollege.edu.np"
+                ],
+                "website": "https://shikshyalayacollege.edu.np/",
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Kathmandu College of Technology",
+                "name_ne": null,
+                "slug": "kathmandu-college-of-technology",
+                "ownership": "private",
+                "established_year": null,
+                "university": "Tribhuvan University",
+                "municipality": "Madhyapur Thimi Municipality",
+                "address": "Lokanthali, Madhyapur Thimi, Bhaktapur, Nepal",
+                "description": "TU-affiliated college formerly known as Samajik College. It offers BSc CSIT, BCA, and BBS.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://edusanjal.com/admission/samajik-college-announces-admission-open-bsc-csit-bca/",
+                    "https://edusanjal.com/college/kathmandu-college-of-technology/"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "BSc Computer Science and Information Technology",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Science and Technology",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/admission/samajik-college-announces-admission-open-bsc-csit-bca/"
+                },
+                {
+                    "name": "Bachelor of Computer Application (BCA)",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Humanities and Social Sciences",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/admission/samajik-college-announces-admission-open-bsc-csit-bca/"
+                },
+                {
+                    "name": "Bachelor of Business Studies (BBS)",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/admission/samajik-college-announces-admission-open-bsc-csit-bca/"
+                }
+            ],
+            "facilities": [
+                "Computer labs",
+                "Library",
+                "Cafeteria"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [
+                {
+                    "title": "Bachelor programs admission 2083",
+                    "date": null,
+                    "summary": "Admission announced for BSc CSIT, BBS, and BCA, open until 16 November 2026 on Edusanjal.",
+                    "source_url": "https://edusanjal.com/admission/samajik-college-announces-admission-open-bsc-csit-bca/"
+                }
+            ],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "01-6638497"
+                ],
+                "emails": [
+                    "info@kct.edu.np",
+                    "info@samajikcollege.edu.np"
+                ],
+                "website": "https://www.kct.edu.np/",
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Training Institute for Technical Instruction",
+                "name_ne": null,
+                "slug": "training-institute-for-technical-instruction",
+                "ownership": "government",
+                "established_year": 1991,
+                "university": "Kathmandu University",
+                "municipality": "Madhyapur Thimi Municipality",
+                "address": "Madhyapur Thimi-2, Sanothimi, Bhaktapur, Nepal",
+                "description": "National technical-instruction training institute at Sanothimi. Directory listings associate bachelor-level technical education programs with Kathmandu University affiliation, alongside short courses.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://titi.org.np/contact",
+                    "https://edusanjal.com/college/training-institute-technical-instruction-titi/",
+                    "https://www.collegenp.com/college/training-institute-for-technical-instruction-titi-bhaktapur"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Technical Education (B.Tech.Ed.) Plant Science",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/training-institute-for-technical-instruction-titi-bhaktapur"
+                },
+                {
+                    "name": "Bachelor of Technical Education (B.Tech.Ed.) Livestock",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/training-institute-for-technical-instruction-titi-bhaktapur"
+                }
+            ],
+            "facilities": [
+                "E-library",
+                "E-learning"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [
+                {
+                    "title": "TITI Newsletter No. 65",
+                    "date": "2026-02-01",
+                    "summary": "February 2026 newsletter listed on the contact page.",
+                    "source_url": "https://titi.org.np/contact"
+                }
+            ],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-1-6630187",
+                    "+977-1-6630409"
+                ],
+                "emails": [
+                    "info@titi.org.np"
+                ],
+                "website": "https://titi.org.np/",
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Jana Adarsha Campus",
+                "name_ne": null,
+                "slug": "jana-adarsha-campus",
+                "ownership": "community",
+                "established_year": null,
+                "university": "Tribhuvan University",
+                "municipality": "Madhyapur Thimi Municipality",
+                "address": "Sankhadhar Chowk, Araniko Highway, Madhyapur Thimi Municipality Ward No. 4, Bhaktapur, Nepal",
+                "description": "TU-affiliated campus in Madhyapur Thimi offering Bachelor of Business Studies.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://edusanjal.com/college/jana-adarsha-campus/",
+                    "https://www.collegesnepal.com/jana-adarsha-campus/",
+                    "https://www.collegenp.com/course/jana-adarsha-campus-bhaktapur-bachelor-of-business-studies-bbs"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Business Studies (BBS)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/jana-adarsha-campus-bhaktapur-bachelor-of-business-studies-bbs"
+                }
+            ],
+            "facilities": [
+                "Library",
+                "Classrooms",
+                "Canteen",
+                "Sports ground"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "01-5093033"
+                ],
+                "emails": [
+                    "info@jamc.edu.np"
+                ],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Global Village College",
+                "name_ne": null,
+                "slug": "global-village-college",
+                "ownership": "private",
+                "established_year": null,
+                "university": "Tribhuvan University",
+                "municipality": "Madhyapur Thimi Municipality",
+                "address": "Chardobato, Madhyapur Thimi, Bhaktapur, Nepal",
+                "description": "Listed by Edusanjal among bachelor's colleges in Bhaktapur, affiliated to Tribhuvan University. Program-level details were not published on the pages retrieved.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://edusanjal.com/college/district/bhaktapur/level/bachelors/"
+                ]
+            },
+            "courses": [],
+            "facilities": [],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [],
+                "emails": [],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Seabird International College",
+                "name_ne": null,
+                "slug": "seabird-international-college",
+                "ownership": "private",
+                "established_year": null,
+                "university": "Tribhuvan University",
+                "municipality": "Madhyapur Thimi Municipality",
+                "address": "Madhyapur Thimi, Bhaktapur, Nepal",
+                "description": "Listed by Edusanjal among bachelor's colleges in Bhaktapur and affiliated to Tribhuvan University. Specific current programs were not published on the pages retrieved.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://edusanjal.com/college/district/bhaktapur/level/bachelors/"
+                ]
+            },
+            "courses": [],
+            "facilities": [],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [],
+                "emails": [],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Padma College",
+                "name_ne": null,
+                "slug": "padma-college",
+                "ownership": null,
+                "established_year": null,
+                "university": null,
+                "municipality": "Bhaktapur Municipality",
+                "address": "Durbar Square, Bhaktapur, Nepal",
+                "description": "Listed by Edusanjal among colleges in Bhaktapur, including education-discipline listings. Affiliation and program details were not published on the pages retrieved.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://edusanjal.com/college/padma-college/",
+                    "https://edusanjal.com/college/discipline/education/district/bhaktapur/"
+                ]
+            },
+            "courses": [],
+            "facilities": [],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [],
+                "emails": [],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Chakrabarti Habi Education Academy (College of Allied Health Science)",
+                "name_ne": null,
+                "slug": "chakrabarti-habi-education-academy",
+                "ownership": "private",
+                "established_year": null,
+                "university": "Purbanchal University",
+                "municipality": "Madhyapur Thimi Municipality",
+                "address": "Madhyapur Thimi, Bhaktapur, Nepal",
+                "description": "Allied health sciences college listed by Edusanjal as affiliated to Purbanchal University and located in Madhyapur Thimi. Specific program names were not published on the pages retrieved.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://edusanjal.com/college/chakrabarti-habi-education-academy-college-allied-health-science/",
+                    "https://edusanjal.com/college/district/bhaktapur/level/bachelors/"
+                ]
+            },
+            "courses": [],
+            "facilities": [],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [],
+                "emails": [],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Adarsha Multiple Campus Bhaktapur",
+                "name_ne": null,
+                "slug": "adarsha-multiple-campus-bhaktapur",
+                "ownership": "community",
+                "established_year": null,
+                "university": "Tribhuvan University",
+                "municipality": "Madhyapur Thimi Municipality",
+                "address": "Sanothimi, Madhyapur Thimi, Bhaktapur, Nepal",
+                "description": "Community campus affiliated to Tribhuvan University. Edusanjal states that it offers BBS and is also affiliated to the National Examinations Board for +2 programs.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://edusanjal.com/college/adarsha-multiple-campus-bhaktapur/"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Business Studies (BBS)",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/college/adarsha-multiple-campus-bhaktapur/"
+                }
+            ],
+            "facilities": [],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "01-6633667"
+                ],
+                "emails": [],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Navadurga Multiple Campus",
+                "name_ne": null,
+                "slug": "navadurga-multiple-campus",
+                "ownership": "community",
+                "established_year": null,
+                "university": "Tribhuvan University",
+                "municipality": "Bhaktapur Municipality",
+                "address": "Nava Durgasthan, Bhaktapur, Nepal",
+                "description": "Community campus affiliated to Tribhuvan University. Edusanjal states that it offers BBS and also has NEB +2 management affiliation.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://edusanjal.com/college/navadurga-multiple-campus/"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Business Studies (BBS)",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/college/navadurga-multiple-campus/"
+                }
+            ],
+            "facilities": [],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "01-6612067"
+                ],
+                "emails": [],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Bagiswori College",
+                "name_ne": null,
+                "slug": "bagiswori-college",
+                "ownership": "community",
+                "established_year": null,
+                "university": "Tribhuvan University",
+                "municipality": "Bhaktapur Municipality",
+                "address": "Taulachhen, Chyamhasing, Bhaktapur, Nepal",
+                "description": "Community institution at the eastern gate of Bhaktapur. The school began in 2015 BS; +2 programs started in 2061 BS, and bachelor-level study is also offered. TU affiliation is listed by Edusanjal. A separate Purbanchal University college, Bagiswori College of Management, is also listed in the district.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://edusanjal.com/college/bagiswori-college/"
+                ]
+            },
+            "courses": [],
+            "facilities": [],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [],
+                "emails": [],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Bagiswori College of Management",
+                "name_ne": null,
+                "slug": "bagiswori-college-of-management",
+                "ownership": "private",
+                "established_year": null,
+                "university": "Purbanchal University",
+                "municipality": "Bhaktapur Municipality",
+                "address": "Tumacho, Kamalbinayak-9, Bhaktapur, Nepal",
+                "description": "Listed by Edusanjal as a Purbanchal University college in Bhaktapur offering BBA.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://edusanjal.com/college/degree/bba/district/bhaktapur/"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Business Administration (BBA)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/college/degree/bba/district/bhaktapur/"
+                }
+            ],
+            "facilities": [],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [],
+                "emails": [],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Basu College",
+                "name_ne": null,
+                "slug": "basu-college",
+                "ownership": "private",
+                "established_year": null,
+                "university": "Tribhuvan University",
+                "municipality": "Bhaktapur Municipality",
+                "address": "Kalighat, Byasi, Bhaktapur, Nepal",
+                "description": "TU-affiliated college listed by Edusanjal in Byasi, Bhaktapur, including management listings. Specific program names were not published on the pages retrieved.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://edusanjal.com/college/basu-college/",
+                    "https://edusanjal.com/college/district/bhaktapur/"
+                ]
+            },
+            "courses": [],
+            "facilities": [],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [],
+                "emails": [],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Adarsha Azad College",
+                "name_ne": null,
+                "slug": "adarsha-azad-college",
+                "ownership": "private",
+                "established_year": null,
+                "university": "Tribhuvan University",
+                "municipality": "Bhaktapur Municipality",
+                "address": "Bhelukhel-11, Bhaktapur, Nepal",
+                "description": "TU-affiliated college listed by Edusanjal in Bhelukhel, including education and management listings. Specific program names were not published on the pages retrieved.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://edusanjal.com/college/adarsha-azad-college/",
+                    "https://edusanjal.com/college/discipline/education/district/bhaktapur/"
+                ]
+            },
+            "courses": [],
+            "facilities": [],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [],
+                "emails": [],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Janapremi College",
+                "name_ne": null,
+                "slug": "janapremi-college",
+                "ownership": "private",
+                "established_year": null,
+                "university": "Tribhuvan University",
+                "municipality": "Madhyapur Thimi Municipality",
+                "address": "Kaushaltar, Madhyapur Thimi, Bhaktapur, Nepal",
+                "description": "TU-affiliated college listed by Edusanjal among bachelor's and management colleges in Kaushaltar. Specific program names were not published on the pages retrieved.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://edusanjal.com/college/janapremi-college/",
+                    "https://edusanjal.com/college/district/bhaktapur/level/bachelors/"
+                ]
+            },
+            "courses": [],
+            "facilities": [],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [],
+                "emails": [],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Sainik Awasiya Mahavidyalaya (College Wing)",
+                "name_ne": null,
+                "slug": "sainik-awasiya-mahavidyalaya-college-wing",
+                "ownership": null,
+                "established_year": null,
+                "university": "Tribhuvan University",
+                "municipality": "Bhaktapur Municipality",
+                "address": "Sallaghari, Bhaktapur, Nepal",
+                "description": "College wing of Sainik Awasiya Mahavidyalaya listed by Edusanjal among Bhaktapur bachelor's colleges and among BBA providers affiliated to Tribhuvan University.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://edusanjal.com/college/sainik-awasiya-mahavidhyalaya/",
+                    "https://edusanjal.com/college/degree/bba/district/bhaktapur/"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Business Administration (BBA)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/college/degree/bba/district/bhaktapur/"
+                }
+            ],
+            "facilities": [],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [],
+                "emails": [],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Nicholson College",
+                "name_ne": null,
+                "slug": "nicholson-college",
+                "ownership": "private",
+                "established_year": null,
+                "university": "Tribhuvan University",
+                "municipality": "Bhaktapur Municipality",
+                "address": "Sallaghari, Bhaktapur, Nepal",
+                "description": "Private college in Sallaghari. +2 is affiliated to the National Examination Board; bachelor's and master's management programs are affiliated to Tribhuvan University.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://shikshasanjal.com/college/nicholson-college-bhaktapur",
+                    "https://edusanjal.com/college/nicholson-college/"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Business Studies (BBS)",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://shikshasanjal.com/college/nicholson-college-bhaktapur"
+                },
+                {
+                    "name": "Bachelor of Business Management (BBM)",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://shikshasanjal.com/college/nicholson-college-bhaktapur"
+                },
+                {
+                    "name": "Master of Business Studies (MBS)",
+                    "level": "Master",
+                    "duration": null,
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://shikshasanjal.com/college/nicholson-college-bhaktapur"
+                }
+            ],
+            "facilities": [],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "01-6610662",
+                    "01-6615931"
+                ],
+                "emails": [],
+                "website": "https://www.nicholson.edu.np/",
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Universal Modern College",
+                "name_ne": null,
+                "slug": "universal-modern-college",
+                "ownership": "private",
+                "established_year": null,
+                "university": "Tribhuvan University",
+                "municipality": "Bhaktapur Municipality",
+                "address": "Sallaghari, Bhaktapur, Nepal",
+                "description": "TU-affiliated college listed by Edusanjal in Sallaghari. Specific program names were not published on the pages retrieved.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://edusanjal.com/college/district/bhaktapur/"
+                ]
+            },
+            "courses": [],
+            "facilities": [],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [],
+                "emails": [],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Chanakya College of Management",
+                "name_ne": null,
+                "slug": "chanakya-college-of-management",
+                "ownership": "private",
+                "established_year": null,
+                "university": "Tribhuvan University",
+                "municipality": "Madhyapur Thimi Municipality",
+                "address": "Madhyapur Thimi, Bhaktapur, Nepal",
+                "description": "TU-affiliated management college listed by Edusanjal in Madhyapur Thimi. Older TU lists place Chanakya Management College at Shankhadharchok, Thimi. Specific current program names were not published on the pages retrieved.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://edusanjal.com/college/district/bhaktapur/"
+                ]
+            },
+            "courses": [],
+            "facilities": [],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [],
+                "emails": [],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Innovative SS College",
+                "name_ne": null,
+                "slug": "innovative-ss-college",
+                "ownership": "private",
+                "established_year": null,
+                "university": "Tribhuvan University",
+                "municipality": "Madhyapur Thimi Municipality",
+                "address": "Naya Thimi-4, Madhyapur Thimi, Bhaktapur, Nepal",
+                "description": "TU-affiliated college listed by Edusanjal at Naya Thimi. Specific program names were not published on the pages retrieved.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://edusanjal.com/college/district/bhaktapur/"
+                ]
+            },
+            "courses": [],
+            "facilities": [],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [],
+                "emails": [],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Modern College",
+                "name_ne": null,
+                "slug": "modern-college",
+                "ownership": null,
+                "established_year": null,
+                "university": null,
+                "municipality": "Bhaktapur Municipality",
+                "address": "Srijana Nagar, Bhaktapur, Nepal",
+                "description": "Listed by Edusanjal among colleges in Bhaktapur. Affiliation and program details were not published on the pages retrieved.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://edusanjal.com/college/district/bhaktapur/"
+                ]
+            },
+            "courses": [],
+            "facilities": [],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [],
+                "emails": [],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Kathmandu World School of Engineering and Management",
+                "name_ne": null,
+                "slug": "kathmandu-world-school-of-engineering-and-management",
+                "ownership": "private",
+                "established_year": null,
+                "university": "Far-Western University",
+                "municipality": "Suryabinayak Municipality",
+                "address": "Suryabinayak, Bhaktapur, Nepal",
+                "description": "Far-Western University college listed by Edusanjal in Suryabinayak, including among BBA providers.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://edusanjal.com/college/degree/bba/district/bhaktapur/",
+                    "https://edusanjal.com/college/district/bhaktapur/"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Business Administration (BBA)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/college/degree/bba/district/bhaktapur/"
+                }
+            ],
+            "facilities": [],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [],
+                "emails": [],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Shree Krishna Multiple Campus",
+                "name_ne": null,
+                "slug": "shree-krishna-multiple-campus",
+                "ownership": "community",
+                "established_year": 2009,
+                "university": "Tribhuvan University",
+                "municipality": "Changunarayan Municipality",
+                "address": "Changunarayan Municipality-7, Kharipati, Bhaktapur, Nepal",
+                "description": "Community campus established in 2066 BS (2009 AD) and affiliated to Tribhuvan University. It runs Bachelor of Business Studies. A directory page also gives an established year of 2004, which conflicts with the 2066 BS account.",
+                "mission": null,
+                "vision": "To develop Shree Krishna as a learning platform for academic excellence through motivation and leadership, and to make the area an educational hub in Bhaktapur district.",
+                "source_urls": [
+                    "https://www.collegenp.com/college/shree-krishna-multiple-campus",
+                    "http://suchanaa.com/directory/shreekrishna-multiple-campus/"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Business Studies (BBS)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/shree-krishna-multiple-campus-bachelor-of-business-studies-bbs"
+                }
+            ],
+            "facilities": [
+                "Library",
+                "Computing support"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "01-5091109"
+                ],
+                "emails": [
+                    "shreekrishna20222@gmail.com"
+                ],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Iwamura College of Health Science",
+                "name_ne": null,
+                "slug": "iwamura-college-of-health-science",
+                "ownership": "private",
+                "established_year": 2008,
+                "university": "CTEVT",
+                "municipality": "Bhaktapur Municipality",
+                "address": "Sallaghari-7, Bhaktapur, Nepal",
+                "description": "Academic wing of Dr. Iwamura Memorial Hospital and Research Center, affiliated to CTEVT. It offers PCL and diploma health programs and is recognized in directory listings by Nepal Nursing Council, Nepal Pharmacy Council, and Nepal Health Professional Council.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://edusanjal.com/school/iwamura-college-health-science/",
+                    "https://www.collegenp.com/college/iwamura-college-of-health-science-bhaktapur",
+                    "https://shikshasanjal.com/college/iwamura-college-of-health-science"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "PCL Nursing",
+                    "level": "PCL",
+                    "duration": "3 years",
+                    "faculty": "Health",
+                    "fee": 475000,
+                    "source_url": "https://edusanjal.com/school/iwamura-college-health-science/"
+                },
+                {
+                    "name": "PCL in General Medicine (Health Assistant)",
+                    "level": "PCL",
+                    "duration": "3 years",
+                    "faculty": "Health",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/school/iwamura-college-health-science/"
+                },
+                {
+                    "name": "Diploma in Pharmacy",
+                    "level": "Diploma",
+                    "duration": "3 years",
+                    "faculty": "Health",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/school/iwamura-college-health-science/"
+                },
+                {
+                    "name": "Certificate in Medical Laboratory Technology (CMLT)",
+                    "level": "Certificate",
+                    "duration": "3 years",
+                    "faculty": "Health",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/school/iwamura-college-health-science/"
+                },
+                {
+                    "name": "Certificate in Diagnostic Radiography",
+                    "level": "Certificate",
+                    "duration": "3 years",
+                    "faculty": "Health",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/school/iwamura-college-health-science/"
+                }
+            ],
+            "facilities": [
+                "Hospital-based clinical training"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-1-6614816",
+                    "01-6612695"
+                ],
+                "emails": [],
+                "website": "http://www.iwamuracollege.edu.np/",
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Suwal International College",
+                "name_ne": null,
+                "slug": "suwal-international-college",
+                "ownership": null,
+                "established_year": null,
+                "university": null,
+                "municipality": "Suryabinayak Municipality",
+                "address": "Suryabinayak, Bhaktapur, Nepal",
+                "description": "A Colleges Nepal directory page states that Suwal International College is in Suryabinayak and offers bachelor's and master's programs, including a three-year Master of Computer Applications, with Dr. Prakash Suwal named as principal. An independent college website was not retrieved, so program and contact details beyond that directory page are unpublished here.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://www.collegesnepal.com/mca-college-in-bhaktapur/"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Master of Computer Applications (MCA)",
+                    "level": "Master",
+                    "duration": "3 years",
+                    "faculty": "Information Technology",
+                    "fee": null,
+                    "source_url": "https://www.collegesnepal.com/mca-college-in-bhaktapur/"
+                }
+            ],
+            "facilities": [
+                "Hostel",
+                "Transportation",
+                "Library",
+                "Laboratories",
+                "Cafeteria"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [],
+                "emails": [],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        }
+    ]
+}

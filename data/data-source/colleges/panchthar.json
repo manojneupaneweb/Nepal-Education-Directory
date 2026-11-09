@@ -1,0 +1,459 @@
+{
+    "research_metadata": {
+        "country": "Nepal",
+        "province": "Koshi Province",
+        "district": "Panchthar",
+        "research_date": "2026-11-08",
+        "total_institutions_discovered": 4,
+        "research_status": "completed",
+        "collection_mode": "responses"
+    },
+    "institutions": [
+        {
+            "overview": {
+                "name": "Panchthar Multiple Campus",
+                "name_ne": "पाँचथर बहुमुखी क्याम्पस",
+                "slug": "panchthar-multiple-campus",
+                "ownership": "community",
+                "established_year": 1982,
+                "university": "Tribhuvan University; Nepal Sanskrit University (one-year B.Ed.)",
+                "municipality": "Phidim Municipality",
+                "address": "Gadhi, Phidim, Panchthar, Koshi Province, Nepal",
+                "description": "Community campus in Phidim, also listed as Panchthar Campus. Founded in 2039 BS (1982 AD); the Nepal Public Campus Association records the establishment date as 2039-03-17. It is a Tribhuvan University-affiliated community institution offering bachelor's programs in management, humanities, and education, and a master's program in education. EduSanjal and a Nepal Sanskrit University examination-centre notice report a one-year B.Ed. at this campus under Nepal Sanskrit University. It also runs National Examination Board +2 programs in management, education, and humanities. QAA status on the Nepal Public Campus Association listing is In Process. No constituent, medical, engineering, or law campus was found in the district, and no separate CTEVT diploma college was confirmed.",
+                "mission": "Nurturing responsible and valuable citizens for the nation.",
+                "vision": null,
+                "source_urls": [
+                    "https://www.collegenp.com/college/panchthar-multiple-campus-panchthar",
+                    "https://edusanjal.com/college/panchthar-multiple-campus/",
+                    "https://npca.edu.np/campus_details/429",
+                    "https://www.collegesnepal.com/panchthar-campus/",
+                    "https://www.collegenp.com/exam/nepal-sanskrit-university-one-year-bed-exam-centres-2081",
+                    "https://www.dcnepal.com/2023/03/460148/",
+                    "https://portal.tu.edu.np/downloads/2025_02_23_15_22_28.pdf"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Arts (BA)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Humanities and Social Sciences",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/panchthar-multiple-campus-panchthar-bachelor-of-arts-ba-ba"
+                },
+                {
+                    "name": "Bachelor of Education (B.Ed.)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/panchthar-multiple-campus-panchthar"
+                },
+                {
+                    "name": "Bachelor of Business Studies (BBS)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/panchthar-multiple-campus-panchthar-bachelor-of-business-studies-bbs-bbs"
+                },
+                {
+                    "name": "Master of Education (M.Ed.) in Nepali and Educational Planning and Management (EPM)",
+                    "level": "Master",
+                    "duration": "2 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/college/panchthar-multiple-campus/"
+                },
+                {
+                    "name": "Bachelor of Education (B.Ed.), one-year",
+                    "level": "Bachelor",
+                    "duration": "1 year",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/exam/nepal-sanskrit-university-one-year-bed-exam-centres-2081"
+                }
+            ],
+            "facilities": [
+                "Library",
+                "Computer lab",
+                "Hostel",
+                "Sports ground",
+                "Multimedia classrooms",
+                "Counselling",
+                "Cafeteria",
+                "Internet",
+                "Science lab",
+                "Conference hall",
+                "Journal",
+                "Classrooms",
+                "Educational tours",
+                "Extracurricular activities"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [
+                {
+                    "title": "Nepal Sanskrit University one-year B.Ed. examination centre includes Panchthar Multiple Campus",
+                    "date": "2026-11-06",
+                    "summary": "A published examination-centre notice lists Panchthar Multiple Campus, Panchthar, as both a one-year B.Ed. campus and the designated Panchthar examination centre.",
+                    "source_url": "https://www.collegenp.com/exam/nepal-sanskrit-university-one-year-bed-exam-centres-2081"
+                }
+            ],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-24-520159",
+                    "+977-24-522075",
+                    "+977-24-522159",
+                    "+977-24-522618",
+                    "+977-9852682106"
+                ],
+                "emails": [
+                    "info@pmcphidim.edu.np",
+                    "pmcfdm2039@gmail.com"
+                ],
+                "website": "https://www.pmcphidim.edu.np",
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Yasok Campus",
+                "name_ne": "यासोक क्याम्पस",
+                "slug": "yasok-campus",
+                "ownership": "community",
+                "established_year": 2007,
+                "university": "Tribhuvan University",
+                "municipality": "Kummayak Rural Municipality",
+                "address": "Kummayak Rural Municipality-1, Yasok, Panchthar, Koshi Province, Nepal",
+                "description": "Community higher-education campus in Yasok, established in 2064 BS (published as 2007 AD). Affiliated with Tribhuvan University and listed by the Nepal Public Campus Association. Current program listings confirm four-year B.Ed. and BBS. A published motto is Empowering Minds, Building Communities. Local news in 2018 and 2023 said teaching was underway in education, humanities, and management faculties; current university examination lists and campus directories confirm B.Ed. and BBS, not a separately named BA program. Older TU and directory listings recorded the same Yasok location as Siddhadevi Campus or Siddha Devi Campus (2064 BS, Yasok Bazar). That older name is treated here as an alias, not a fifth campus. An older Siddha Devi directory listing published the phone +977-24-520304; it is not repeated as a current campus phone.",
+                "mission": "Yasok Campus is committed to delivering accessible, affordable, and high-quality education that fosters the intellectual and personal growth of students. We aim to cultivate a generation of critical thinkers, ethical leaders, and responsible citizens who will drive positive change within Nepal and the global community.",
+                "vision": "To be a leading educational institution in rural Nepal, recognized for excellence in teaching, learning, and community engagement, with a focus on empowering students to achieve their full potential and contribute to a sustainable and prosperous society.",
+                "source_urls": [
+                    "https://www.collegenp.com/college/yasok-campus",
+                    "https://yasokcampus.edu.np/individual-donors/",
+                    "https://suchanaa.com/directory/yasok-campus/",
+                    "https://npca.edu.np/campus_list/",
+                    "https://portal.tu.edu.np/downloads/2025_02_23_15_22_28.pdf",
+                    "https://www.blastkhabar.com/news/2023/08/09/140559.html",
+                    "https://www.blastkhabar.com/news/2018/05/21/83246.html",
+                    "https://www.collegenp.com/college/siddha-devi-campus-panchthar",
+                    "https://vymaps.com/NP/Siddhadevi-Campus-2363348/"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Education (B.Ed.), specializations listed as English, Nepali, Economics, and Population Studies",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/yasok-campus"
+                },
+                {
+                    "name": "Bachelor of Business Studies (BBS), Finance specialization listed by the campus profile",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/yasok-campus-bachelor-of-business-studies-bbs"
+                }
+            ],
+            "facilities": [
+                "Library",
+                "Classrooms",
+                "Internet and computers",
+                "Sports",
+                "Conference hall",
+                "Parking",
+                "Journal",
+                "Counselling",
+                "Scholarships",
+                "Internship",
+                "Placement support",
+                "Educational tours",
+                "Extracurricular activities"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [
+                {
+                    "title": "यासोक क्याम्पसको प्रशासनिक भवनको पहिलो तला ढलान सम्पन्न भयो।",
+                    "date": "2025-12-24",
+                    "summary": "Notice that the first-floor slab of the administrative building under construction was completed.",
+                    "source_url": "https://yasokcampus.edu.np/news/%e0%a4%af%e0%a4%be%e0%a4%b8%e0%a5%8b%e0%a4%95-%e0%a4%95%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%ae%e0%a5%8d%e0%a4%aa%e0%a4%b8%e0%a4%95%e0%a5%8b-%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%b6%e0%a4%be%e0%a4%b8%e0%a4%a8/"
+                },
+                {
+                    "title": "यासोक क्याम्पसको निर्माणाधिन प्रशासकिय भवन",
+                    "date": "2025-11-28",
+                    "summary": "Update on the administrative building under construction.",
+                    "source_url": "https://yasokcampus.edu.np/news/%e0%a4%af%e0%a4%be%e0%a4%b8%e0%a5%8b%e0%a4%95-%e0%a4%95%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%ae%e0%a5%8d%e0%a4%aa%e0%a4%b8%e0%a4%95%e0%a5%8b-%e0%a4%a8%e0%a4%bf%e0%a4%b0%e0%a5%8d%e0%a4%ae%e0%a4%be%e0%a4%a3/"
+                },
+                {
+                    "title": "शिक्षण अभ्यास अभिमुखिकरण सम्बन्धि सूचना !",
+                    "date": "2025-01-19",
+                    "summary": "Notice on teaching-practice orientation.",
+                    "source_url": "https://yasokcampus.edu.np/news/%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%a3-%e0%a4%85%e0%a4%ad%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%b8-%e0%a4%85%e0%a4%ad%e0%a4%bf%e0%a4%ae%e0%a5%81%e0%a4%96%e0%a4%bf%e0%a4%95%e0%a4%b0%e0%a4%a3/"
+                },
+                {
+                    "title": "बोलपत्र आशय सम्बन्धी जरुरी सूचना !",
+                    "date": "2024-10-22",
+                    "summary": "Tender-intent notice.",
+                    "source_url": "https://yasokcampus.edu.np/news/tender-notice/"
+                },
+                {
+                    "title": "परीक्षाको नतिजा प्रकाशन सम्बन्धी सूचना !",
+                    "date": "2024-09-08",
+                    "summary": "Notice regarding publication of examination results.",
+                    "source_url": "https://yasokcampus.edu.np/news/%e0%a4%aa%e0%a4%b0%e0%a5%80%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be%e0%a4%95%e0%a5%8b-%e0%a4%a8%e0%a4%a4%e0%a4%bf%e0%a4%9c%e0%a4%be-%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b6%e0%a4%a8/"
+                }
+            ],
+            "faqs": [
+                {
+                    "question": "How long is the BBS at Yasok Campus?",
+                    "answer": "Four academic years under Tribhuvan University's annual system."
+                },
+                {
+                    "question": "What minimum attendance is published for the BBS?",
+                    "answer": "At least 70 percent class attendance is required to sit the annual exams, according to the published course page. A separate campus profile states a 75 percent minimum attendance rule."
+                },
+                {
+                    "question": "How is the BBS final year assessed?",
+                    "answer": "Three concentration papers, Business Research Methods (50 marks), and a Final Project (50 marks) with viva."
+                }
+            ],
+            "contact": {
+                "phones": [
+                    "+977-24-460228",
+                    "+977-9861888186",
+                    "+977-9809705703",
+                    "+977-9807909386"
+                ],
+                "emails": [
+                    "yasokcampus@gmail.com"
+                ],
+                "website": "https://yasokcampus.edu.np",
+                "map_url": null
+            },
+            "reviews": [
+                {
+                    "platform": "VyMaps",
+                    "rating": null,
+                    "text": "Published under the directory name Siddhadevi Campus, Yasok 57400, by Hilihang Lawati on 29 December 2017: Providing quality higher education to students from Kummayak village council area. It provides the education in Education and Management of bachelor's degree.",
+                    "source_url": "https://vymaps.com/NP/Siddhadevi-Campus-2363348/"
+                },
+                {
+                    "platform": "VyMaps",
+                    "rating": null,
+                    "text": "Published under the directory name Siddhadevi Campus by Hilihang Lawati on 24 August 2017: Providing quality higher education to students from Kummayak village council.",
+                    "source_url": "https://vymaps.com/NP/Siddhadevi-Campus-2363348/"
+                },
+                {
+                    "platform": "VyMaps",
+                    "rating": null,
+                    "text": "Published under the directory name Siddhadevi Campus by Pushpendra Khadka on 11 April 2017: Ekdam ramro chha, Hamro gaun ko campus.",
+                    "source_url": "https://vymaps.com/NP/Siddhadevi-Campus-2363348/"
+                },
+                {
+                    "platform": "VyMaps",
+                    "rating": null,
+                    "text": "Published under the directory name Siddhadevi Campus by Bhim Limboo on 29 August 2013: Hi.",
+                    "source_url": "https://vymaps.com/NP/Siddhadevi-Campus-2363348/"
+                }
+            ],
+            "qa": [
+                {
+                    "question": "How long is the BBS?",
+                    "answer": "Four academic years under TU's annual system.",
+                    "source_url": "https://www.collegenp.com/course/yasok-campus-bachelor-of-business-studies-bbs"
+                },
+                {
+                    "question": "What is the minimum attendance?",
+                    "answer": "At least 70% class attendance is required to sit the annual exams.",
+                    "source_url": "https://www.collegenp.com/course/yasok-campus-bachelor-of-business-studies-bbs"
+                },
+                {
+                    "question": "How is the final year assessed?",
+                    "answer": "Three concentration papers, Business Research Methods (50 marks), and a Final Project (50 marks) with viva.",
+                    "source_url": "https://www.collegenp.com/course/yasok-campus-bachelor-of-business-studies-bbs"
+                },
+                {
+                    "question": "Which concentration streams are named?",
+                    "answer": "Accounting, Finance, Management, and Marketing; choose one stream in the fourth year.",
+                    "source_url": "https://www.collegenp.com/course/yasok-campus-bachelor-of-business-studies-bbs"
+                },
+                {
+                    "question": "Who conducts the final exams?",
+                    "answer": "The Office of the Controller of Examinations, Tribhuvan University, conducts annual examinations.",
+                    "source_url": "https://www.collegenp.com/course/yasok-campus-bachelor-of-business-studies-bbs"
+                }
+            ]
+        },
+        {
+            "overview": {
+                "name": "Rabi Campus",
+                "name_ne": "रवि क्याम्पस",
+                "slug": "rabi-campus",
+                "ownership": "community",
+                "established_year": 2009,
+                "university": "Tribhuvan University",
+                "municipality": "Miklajung Rural Municipality",
+                "address": "Miklajung Rural Municipality-4, Rabi Bazaar, Panchthar, Koshi Province, Nepal",
+                "description": "Community campus established in 2065 BS (2009 AD); the Nepal Public Campus Association records the establishment date as 2065-09-19. It received Tribhuvan University affiliation in 2065 BS and offers four-year B.Ed. and BBS programs. It is recognized in directory listings by the University Grants Commission. QAA status on the Nepal Public Campus Association page is Applied. EduSanjal has reported 39 students in B.Ed. and 28 in BBS. The campus publishes a journal, Rabi Sangyan, Volume 1, Issue 1, November 2024, ISSN 3059-9423.",
+                "mission": "The aim of Ravi Campus is to enrich the future life of the students by developing their personality and enhancing their personal excellence.",
+                "vision": "To achieve excellence in higher education and research and increase access to quality services to all classes and groups of the society.",
+                "source_urls": [
+                    "https://rabicampus.edu.np/",
+                    "https://www.collegenp.com/college/rabi-campus-panchthar",
+                    "https://edusanjal.com/college/rabi-campus/",
+                    "https://npca.edu.np/campus_details/103"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Education (B.Ed.), specializations listed as Nepali, English, Mathematics, Economics, Health, and Population",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/rabi-campus-panchthar"
+                },
+                {
+                    "name": "Bachelor of Business Studies (BBS)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/rabi-campus-panchthar-bachelor-of-business-studies-bbs-bbs"
+                }
+            ],
+            "facilities": [
+                "Library",
+                "Spacious classrooms",
+                "Internet and Wi-Fi",
+                "Computer lab",
+                "Sports",
+                "Conference",
+                "Multimedia",
+                "Journal",
+                "Counselling",
+                "Scholarships",
+                "Educational tours",
+                "Extracurricular activities"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [
+                {
+                    "title": "जेहेन्दार उच्च शिक्षा छात्रवृत्तिका लागि आवेदन पेश गर्नेसम्बन्धी सूचना",
+                    "date": null,
+                    "summary": "Campus notice inviting applications for a merit higher-education scholarship. The homepage listed it as a recent notice without a calendar date.",
+                    "source_url": "https://rabicampus.edu.np/%e0%a4%9c%e0%a5%87%e0%a4%b9%e0%a5%87%e0%a4%a8%e0%a5%8d%e0%a4%a6%e0%a4%be%e0%a4%b0-%e0%a4%89%e0%a4%9a%e0%a5%8d%e0%a4%9a-%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be-%e0%a4%9b%e0%a4%be/"
+                },
+                {
+                    "title": "विदा सम्बन्धमा",
+                    "date": null,
+                    "summary": "Campus holiday notice. No calendar date was published on the fetched homepage.",
+                    "source_url": "https://rabicampus.edu.np/%e0%a4%b5%e0%a4%bf%e0%a4%a6%e0%a4%be-%e0%a4%b8%e0%a4%ae%e0%a5%8d%e0%a4%ac%e0%a4%a8%e0%a5%8d%e0%a4%a7%e0%a4%ae%e0%a4%be-%e0%a5%a4-2/"
+                },
+                {
+                    "title": "विपन्न, दलित र अपाङ्गता भएका उच्च शिक्षामा अध्ययनरत विद्यार्थीहरुले छात्रवृत्तिका लागि आवेदन गर्ने सम्बन्धमा",
+                    "date": null,
+                    "summary": "Notice on scholarship applications for higher-education students who are poor, Dalit, or living with disability.",
+                    "source_url": "https://rabicampus.edu.np/%e0%a4%b5%e0%a4%bf%e0%a4%aa%e0%a4%a8%e0%a5%8d%e0%a4%a8-%e0%a4%a6%e0%a4%b2%e0%a4%bf%e0%a4%a4-%e0%a4%b0-%e0%a4%85%e0%a4%aa%e0%a4%be%e0%a4%99%e0%a5%8d%e0%a4%97%e0%a4%a4%e0%a4%be-%e0%a4%ad%e0%a4%8f/"
+                },
+                {
+                    "title": "Rabi Sangyan, Volume 1, Issue 1",
+                    "date": null,
+                    "summary": "Campus publication Rabi Sangyan (Spreading Knowledge), Volume 1, Issue 1, November 2024, ISSN 3059-9423, listed on the campus homepage.",
+                    "source_url": "https://rabicampus.edu.np/"
+                }
+            ],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-9742037101",
+                    "+977-24-412060",
+                    "+977-9841829218",
+                    "+977-9807966010",
+                    "+977-9852629218"
+                ],
+                "emails": [
+                    "rabicampuspanchthar@gmail.com"
+                ],
+                "website": "https://rabicampus.edu.np",
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Tharpu Campus",
+                "name_ne": "थर्पु क्याम्पस",
+                "slug": "tharpu-campus",
+                "ownership": "community",
+                "established_year": 2009,
+                "university": "Tribhuvan University",
+                "municipality": "Yangwarak Rural Municipality",
+                "address": "Yangwarak-4, Tharpu, Panchthar, Nepal",
+                "description": "Community campus established in 2065 BS (2009 AD) in Tharpu, Yangwarak, Panchthar. Affiliated with Tribhuvan University and described as recognized by the University Grants Commission. It offers a four-year full-time B.Ed. QAA status on the Nepal Public Campus Association listing is Not Applied. Admission Nepal has reported 68 students studying at the campus. An older TU affiliated list used the pre-federal address Tharpu 2; current directory address is Yangwarak-4.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://www.collegenp.com/college/tharpu-campus-panchthar",
+                    "https://npca.edu.np/campus_details/541",
+                    "https://edusanjal.com/college/district/panchthar/",
+                    "https://admissionnepal.com/tharpucampus",
+                    "https://portal.tu.edu.np/downloads/2025_02_23_15_22_28.pdf"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Education (B.Ed.)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/tharpu-campus-panchthar-bachelor-of-education-bed-bed"
+                }
+            ],
+            "facilities": [
+                "Library",
+                "Computer lab",
+                "Science lab",
+                "Technology-enabled classrooms",
+                "Sports",
+                "Conference",
+                "Multimedia",
+                "Journal",
+                "Counselling",
+                "Scholarships",
+                "Educational field visits",
+                "Alumni",
+                "Extracurricular activities",
+                "Land for practical activities"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-24-410028",
+                    "+977-9843251352"
+                ],
+                "emails": [
+                    "tharpucampus@gmail.com"
+                ],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        }
+    ]
+}

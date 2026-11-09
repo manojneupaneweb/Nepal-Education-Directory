@@ -1,0 +1,1360 @@
+{
+    "research_metadata": {
+        "country": "Nepal",
+        "province": "Madhesh Province",
+        "district": "Mahottari",
+        "research_date": "2026-11-09",
+        "total_institutions_discovered": 21,
+        "research_status": "completed",
+        "collection_mode": "responses"
+    },
+    "institutions": [
+        {
+            "overview": {
+                "name": "Bardibas Janata Multiple Campus",
+                "name_ne": "बर्दिवास जनता बहुमुखी क्याम्पस",
+                "slug": "bardibas-janata-multiple-campus",
+                "ownership": "community",
+                "established_year": 2007,
+                "university": "Tribhuvan University",
+                "municipality": "Bardibas",
+                "address": "Bardibas-14, Mahottari, Madhesh Province, Nepal",
+                "description": "Community, non-profit campus established in 2064 BS with local participation to provide affordable higher education in western Mahottari and nearby areas. Affiliated to Tribhuvan University and approved by the University Grants Commission of Nepal. It offers bachelor's programs in management and education and a master's program in education. Public reports place it at Bardibas-14, with about 1,200 students, and note a Letter of Intent toward quality assurance.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://www.bjmc.edu.np/",
+                    "https://www.collegenp.com/college/bardibas-janta-multiple-campus-mahottari",
+                    "https://edusanjal.com/college/bardibas-janta-multiple-campus/",
+                    "https://purwanchaldaily.com/232037/"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Business Studies (BBS)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/bardibas-janta-multiple-campus-mahottari-bachelor-of-business-studies-bbs-bbs"
+                },
+                {
+                    "name": "Bachelor of Education (B.Ed.)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/bardibas-janta-multiple-campus-mahottari"
+                },
+                {
+                    "name": "Master of Education (M.Ed.)",
+                    "level": "Master",
+                    "duration": "2 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/bardibas-janta-multiple-campus-mahottari"
+                }
+            ],
+            "facilities": [
+                "Library",
+                "E-lab",
+                "Science lab",
+                "Computer lab",
+                "Multimedia",
+                "Sports",
+                "Counseling",
+                "Conference hall",
+                "Journal",
+                "Scholarships",
+                "Extracurricular activities"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [
+                {
+                    "title": "Campus receives more than nine bigha of land",
+                    "date": "2025-08-21",
+                    "summary": "Campus management said about nine bigha, one kattha and nine dhur of land was obtained for additional buildings, a playground, a garden and a hostel.",
+                    "source_url": "https://purwanchaldaily.com/232037/"
+                }
+            ],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-44-550118",
+                    "+977-44-550363"
+                ],
+                "emails": [
+                    "bjmc2064@gmail.com"
+                ],
+                "website": "https://www.bjmc.edu.np/",
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Nava Kshitiz Campus",
+                "name_ne": "नव क्षितिज क्याम्पस",
+                "slug": "nava-kshitiz-campus",
+                "ownership": "public",
+                "established_year": 2008,
+                "university": "Tribhuvan University; Far-Western University",
+                "municipality": "Bardibas",
+                "address": "Bardibas-8, Mahottari, Madhesh Province, Nepal",
+                "description": "Public campus in Bardibas-8 offering bachelor programs under Tribhuvan University and Far-Western University. It is approved by the University Grants Commission of Nepal. Published establishment dates vary between 2065 BS (2008 AD) and 2066 BS (2009 AD).",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://www.collegenp.com/college/nav-kshitiz-campus-mahottari",
+                    "https://edusanjal.com/college/nav-kshitiz-campus/"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Arts (BA)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Humanities and Social Sciences",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/nav-kshitiz-campus-mahottari"
+                },
+                {
+                    "name": "Bachelor of Education (B.Ed.)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/nav-kshitiz-campus-mahottari"
+                },
+                {
+                    "name": "Bachelor of Business Studies (BBS)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/nav-kshitiz-campus-mahottari"
+                },
+                {
+                    "name": "Bachelor of Social Work (BSW)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Humanities and Social Sciences",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/nav-kshitiz-campus-mahottari"
+                },
+                {
+                    "name": "Bachelor of Computer Application (BCA)",
+                    "level": "Bachelor",
+                    "duration": "4 years (8 semesters)",
+                    "faculty": "Management / IT",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/nav-kshitiz-campus-mahottari-bachelor-of-computer-application-bca-bca"
+                },
+                {
+                    "name": "Bachelor of Business Administration (BBA)",
+                    "level": "Bachelor",
+                    "duration": "4 years (8 semesters)",
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/nav-kshitiz-campus-mahottari-bachelor-of-business-administration-bba"
+                }
+            ],
+            "facilities": [
+                "Library",
+                "Computer lab",
+                "Multimedia",
+                "Counseling",
+                "Scholarships",
+                "Classrooms",
+                "Sports",
+                "Conference hall",
+                "Journal",
+                "Tours",
+                "Extracurricular activities",
+                "Internet",
+                "Hostel"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [
+                {
+                    "question": "When was Nava Kshitiz Campus established?",
+                    "answer": "Published pages give 2065 BS (2008 AD) and 2066 BS (2009 AD)."
+                },
+                {
+                    "question": "Which universities is Nava Kshitiz Campus affiliated with?",
+                    "answer": "Tribhuvan University and Far-Western University."
+                },
+                {
+                    "question": "Is the campus approved by the University Grants Commission of Nepal?",
+                    "answer": "Yes, according to CollegeNP."
+                },
+                {
+                    "question": "What bachelor programs are available?",
+                    "answer": "BA, B.Ed., BCA, BBS, BSW and BBA."
+                }
+            ],
+            "contact": {
+                "phones": [
+                    "+977-44-550390",
+                    "+977-9849078741",
+                    "+977-9762865907"
+                ],
+                "emails": [
+                    "navakshitizcampus.bardibas14@gmail.com"
+                ],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": [
+                {
+                    "question": "B.A kosh padran admission sulk kati lagxa",
+                    "answer": null,
+                    "source_url": "https://www.collegenp.com/discussion/2733"
+                }
+            ]
+        },
+        {
+            "overview": {
+                "name": "Shree Durga Campus",
+                "name_ne": "श्री दुर्गा क्याम्पस",
+                "slug": "shree-durga-campus",
+                "ownership": "public",
+                "established_year": 2009,
+                "university": "Tribhuvan University",
+                "municipality": "Manara Shisawa",
+                "address": "Manara, Manara Shisawa Municipality, Mahottari, Madhesh Province, Nepal",
+                "description": "Public campus established in 2066 BS (2009 AD) and affiliated to Tribhuvan University. It is approved by the University Grants Commission of Nepal and currently offers Bachelor of Business Studies on the morning shift.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://www.collegenp.com/college/shree-durga-campus-mahottari",
+                    "https://edusanjal.com/college/shree-durga-campus/"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Business Studies (BBS)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/shree-durga-campus-mahottari"
+                }
+            ],
+            "facilities": [
+                "Scholarships for marginalized and economically needy students"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [
+                {
+                    "question": "When was Shree Durga Campus established?",
+                    "answer": "2066 BS (2009 AD)."
+                },
+                {
+                    "question": "Which university is it affiliated with?",
+                    "answer": "Tribhuvan University."
+                },
+                {
+                    "question": "Is it approved by the University Grants Commission of Nepal?",
+                    "answer": "Yes, according to CollegeNP."
+                }
+            ],
+            "contact": {
+                "phones": [
+                    "+977-9854033927",
+                    "+977-9841245404"
+                ],
+                "emails": [
+                    "shreedurgacampus@gmail.com"
+                ],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Ramananda Bisheshwor Mahendra Campus",
+                "name_ne": "रामानन्द विश्वेश्वर महेन्द्र क्याम्पस",
+                "slug": "ramananda-bisheshwor-mahendra-campus",
+                "ownership": "public",
+                "established_year": null,
+                "university": "Tribhuvan University",
+                "municipality": "Jaleshwar",
+                "address": "Jaleshwor, Mahottari, Madhesh Province, Nepal",
+                "description": "Public higher-education campus in the district headquarters, affiliated to Tribhuvan University and also linked to the National Examinations Board for plus-two programs. It is approved by the University Grants Commission of Nepal and offers bachelor's and master's programs as well as plus-two streams.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://www.collegenp.com/college/ramananda-bisheshwor-mahendra-campus-mahottari",
+                    "https://edusanjal.com/college/ramananda-bisheshwor-mahendra-campus/"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Education (B.Ed.)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/ramananda-bisheshwor-mahendra-campus-mahottari"
+                },
+                {
+                    "name": "Bachelor of Business Studies (BBS)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/ramananda-bisheshwor-mahendra-campus-mahottari"
+                },
+                {
+                    "name": "Master of Education (M.Ed.) General",
+                    "level": "Master",
+                    "duration": "2 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/ramananda-bisheshwor-mahendra-campus-mahottari"
+                },
+                {
+                    "name": "Ten Plus Two in Education",
+                    "level": "Higher secondary",
+                    "duration": null,
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/ramananda-bisheshwor-mahendra-campus-mahottari"
+                },
+                {
+                    "name": "Ten Plus Two in Management",
+                    "level": "Higher secondary",
+                    "duration": null,
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/ramananda-bisheshwor-mahendra-campus-mahottari"
+                }
+            ],
+            "facilities": [
+                "Cafeteria",
+                "Library",
+                "Sports",
+                "Science lab",
+                "Conference",
+                "Multimedia",
+                "Journal",
+                "Counselling",
+                "Scholarships"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-44-520114"
+                ],
+                "emails": [],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Yajnavalkya Lakshminarayan Vidyapeeth",
+                "name_ne": "याज्ञवल्क्य लक्ष्मीनारायण विद्यापीठ",
+                "slug": "yajnavalkya-lakshminarayan-vidyapeeth",
+                "ownership": "constituent",
+                "established_year": 1744,
+                "university": "Nepal Sanskrit University",
+                "municipality": "Matihani",
+                "address": "Matihani, Mahottari, Madhesh Province, Nepal",
+                "description": "Constituent Sanskrit campus of Nepal Sanskrit University at Matihani, associated with the Lakshminarayan Math. Public histories date the teaching tradition to 1801 BS (1744 CE) under King Hema Karna Sen and the sage Tasmaiya Baba. It offers traditional Sanskrit programs and has been reported to teach up to Acharya level. Published CE dates sometimes conflict between 1744 and 1774.",
+                "mission": "Sanskrit language and Hindu Vedic education",
+                "vision": null,
+                "source_urls": [
+                    "https://en.wikipedia.org/wiki/Yjnayavalkya_Lakshminarayan_Vidyapeeth",
+                    "https://edusanjal.com/college/yjnayavalkya-lakshminarayan-vidyapeeth/",
+                    "https://www.collegenp.com/college/yjnayavalkya-lakshminarayan-vidyapeeth-mahottari",
+                    "https://risingnepaldaily.com/news/62809"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Uttar Madhyama",
+                    "level": "Intermediate / higher secondary Sanskrit",
+                    "duration": null,
+                    "faculty": "Sanskrit",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/yjnayavalkya-lakshminarayan-vidyapeeth-mahottari"
+                },
+                {
+                    "name": "Shastri",
+                    "level": "Bachelor",
+                    "duration": "3 years",
+                    "faculty": "Sanskrit",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/yjnayavalkya-lakshminarayan-vidyapeeth-mahottari-shastri-ba-in-sanskrit-shastri"
+                },
+                {
+                    "name": "Prak-Shastri",
+                    "level": null,
+                    "duration": null,
+                    "faculty": "Sanskrit",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/college/yjnayavalkya-lakshminarayan-vidyapeeth/"
+                },
+                {
+                    "name": "Acharya",
+                    "level": "Master",
+                    "duration": null,
+                    "faculty": "Sanskrit",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/news/yjnayavalkya-lakshminarayan-vidyapeeth-faces-institutional-decline"
+                }
+            ],
+            "facilities": [
+                "Library",
+                "Hostel",
+                "Meals"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [
+                {
+                    "title": "Stakeholders call for reform of Yalna Vidyapeeth",
+                    "date": "2025-05-31",
+                    "summary": "A published report said the historic Sanskrit campus faces institutional decline and stakeholders urged reforms.",
+                    "source_url": "https://risingnepaldaily.com/news/62809"
+                }
+            ],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-44-540132"
+                ],
+                "emails": [
+                    "infoyalana@nsu.edu.np"
+                ],
+                "website": "https://www.nsu.edu.np",
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "College of Natural Resource Management, Bardibas",
+                "name_ne": null,
+                "slug": "cnrm-bardibas",
+                "ownership": "constituent",
+                "established_year": 2018,
+                "university": "Agriculture and Forestry University",
+                "municipality": "Bardibas",
+                "address": "Kisan Nagar, Bardibas Municipality Ward 6, Mahottari, Madhesh Province, Nepal",
+                "description": "Constituent college of Agriculture and Forestry University under the Faculty of Agriculture, established in 2075 BS. It is about 5 km south of Bardibas Bazaar and has land allocated for academic buildings and an agricultural farm. It runs a four-year B.Sc. Agriculture program.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://afu.edu.np/faculties/foa/colleges/cnrm-bardibas",
+                    "https://edusanjal.com/college/college-natural-resource-management-bardibas/",
+                    "http://suchanaa.com/directory/college-of-natural-resource-management-bardibas-mahottari/"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "B.Sc. Agriculture",
+                    "level": "Bachelor",
+                    "duration": "4 years (8 semesters)",
+                    "faculty": "Agriculture",
+                    "fee": null,
+                    "source_url": "https://afu.edu.np/faculties/foa/colleges/cnrm-bardibas"
+                }
+            ],
+            "facilities": [
+                "Classrooms",
+                "Laboratories",
+                "Field studies",
+                "Project work",
+                "Practical training",
+                "Library and farm land planned or under development"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-44-550545"
+                ],
+                "emails": [
+                    "cnrmbardibas@afu.edu.np"
+                ],
+                "website": "https://afu.edu.np/faculties/foa/colleges/cnrm-bardibas",
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "NATHM Bardibas",
+                "name_ne": null,
+                "slug": "nathm-bardibas",
+                "ownership": "government",
+                "established_year": 2020,
+                "university": "Kathmandu University",
+                "municipality": "Bardibas",
+                "address": "Bardibas-14, Bardibas Municipality, Mahottari, Madhesh Province, Nepal",
+                "description": "Branch of the Nepal Academy of Tourism and Hotel Management, a government academy under the Ministry of Culture, Tourism and Civil Aviation. The Bardibas branch was opened as a provincial expansion and runs Bachelor in Hospitality Management in partnership with Kathmandu University. Published start years include 2020 and 2022.",
+                "mission": null,
+                "vision": "To be established as a preferred destination for tourism and hospitality education in the SAARC region.",
+                "source_urls": [
+                    "https://en.wikipedia.org/wiki/NATHM_Bardibas",
+                    "https://www.nathmbardibas.edu.np/",
+                    "https://www.nathmbardibas.edu.np/about-us",
+                    "https://www.collegenp.com/college/nathm-bardibas",
+                    "https://edusanjal.com/admission/admission-open-for-bachelor-in-hospitality-management-at-ku-nathm-in-bardibas/"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor in Hospitality Management (BHM)",
+                    "level": "Bachelor",
+                    "duration": "4 years (8 semesters)",
+                    "faculty": "Hospitality Management",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/nathm-bardibas"
+                }
+            ],
+            "facilities": [
+                "Practical training kitchens and service labs",
+                "Hospitality training facilities"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [
+                {
+                    "title": "BHM admission notice for academic session 2026-2030",
+                    "date": "2026-09-02",
+                    "summary": "A public listing of the Bardibas branch announced KU-affiliated BHM admission, with a published admission fee of NPR 196,250 and a stated deadline of 31 Bhadra 2083.",
+                    "source_url": "https://www.glunis.com/NP/Janakpur/112205534937788/NATHM---Bardibas-Branch"
+                }
+            ],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "044-550146",
+                    "+977-9841267639"
+                ],
+                "emails": [
+                    "bardibas@nathm.edu.np"
+                ],
+                "website": "https://www.nathmbardibas.edu.np/",
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Gaushala Engineering Campus",
+                "name_ne": null,
+                "slug": "gaushala-engineering-campus",
+                "ownership": "constituent",
+                "established_year": 2023,
+                "university": "Rajarshi Janak University",
+                "municipality": "Gaushala",
+                "address": "Gaushala, Mahottari, Madhesh Province, Nepal",
+                "description": "Second constituent campus of Rajarshi Janak University. Operationalized in 2023 and offering Bachelor of Civil Engineering. A published fee figure of NPR 425,000 covers tuition, lab and academic fees. Computer, mechanical and railway engineering have been described as planned, not as currently running programs.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://rju.edu.np/operationalization-of-gaushala-engineering-campus/",
+                    "https://rju.edu.np/campuses/",
+                    "https://www.collegenp.com/college/gaushala-engineering-campus",
+                    "https://edusanjal.com/college/gaushala-engineering-campus/"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Engineering in Civil Engineering",
+                    "level": "Bachelor",
+                    "duration": "4 years (8 semesters)",
+                    "faculty": "Engineering",
+                    "fee": 425000,
+                    "source_url": "https://www.collegenp.com/college/gaushala-engineering-campus"
+                }
+            ],
+            "facilities": [
+                "Lectures",
+                "Laboratory work",
+                "Field assignments",
+                "Project-based learning"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [
+                {
+                    "title": "Operationalization of Gaushala Engineering Campus",
+                    "date": "2023-11-17",
+                    "summary": "Rajarshi Janak University announced operationalization of the campus and appointment of a campus head.",
+                    "source_url": "https://rju.edu.np/operationalization-of-gaushala-engineering-campus/"
+                }
+            ],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-9854081147"
+                ],
+                "emails": [
+                    "gaushalaengineeringcampus@gmail.com",
+                    "gec@rju.edu.np"
+                ],
+                "website": "https://gaushalaengineeringcampus.com",
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Gaushala Multiple Campus",
+                "name_ne": "गौशाला बहुमुखी क्याम्पस",
+                "slug": "gaushala-multiple-campus",
+                "ownership": "community",
+                "established_year": 2012,
+                "university": "Tribhuvan University",
+                "municipality": "Gaushala",
+                "address": "Gaushala Municipality-5, Mahottari, Madhesh Province, Nepal",
+                "description": "Community campus established in 2069 BS (2012 AD), affiliated to Tribhuvan University, offering four-year B.Ed. and BBS programs. It appears as campus code 975 in Tribhuvan University examination centre lists.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://www.collegenp.com/college/gaushala-multiple-campus",
+                    "https://www.gyanpark.com.np/2022/10/tribhuvan-university-all-constituent.html"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Education (B.Ed.)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/gaushala-multiple-campus"
+                },
+                {
+                    "name": "Bachelor of Business Studies (BBS)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/gaushala-multiple-campus"
+                }
+            ],
+            "facilities": [
+                "Library",
+                "Computer lab",
+                "Multimedia",
+                "Classrooms",
+                "Conference hall",
+                "Sports",
+                "Counseling",
+                "Journal",
+                "Tours",
+                "Extracurricular activities",
+                "Internet",
+                "Scholarships"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [
+                {
+                    "question": "What is Gaushala Multiple Campus affiliated with?",
+                    "answer": "Tribhuvan University."
+                }
+            ],
+            "contact": {
+                "phones": [
+                    "+977-9845886614",
+                    "+977-9815879129"
+                ],
+                "emails": [
+                    "gaushalamultiplecampus@gmail.com"
+                ],
+                "website": "http://www.gaushalamultiplecampus.edu.np",
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Ramgopalpur Multiple Campus",
+                "name_ne": "रामगोपालपुर बहुमुखी क्याम्पस",
+                "slug": "ramgopalpur-multiple-campus",
+                "ownership": "community",
+                "established_year": 2010,
+                "university": "Tribhuvan University",
+                "municipality": "Ramgopalpur",
+                "address": "Ramgopalpur Municipality-5, Mahottari, Madhesh Province, Nepal",
+                "description": "Community campus affiliated to Tribhuvan University, established in 2067 BS (2010 AD). Nepal Public Campus Association records the established date as 2067-05-31 and lists B.Ed. and BBS. It is TU campus code 875.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://www.collegenp.com/college/ramgopalpur-multiple-campus",
+                    "https://npca.edu.np/campus_details/460",
+                    "https://mai.wikipedia.org/wiki/%E0%A4%B0%E0%A4%BE%E0%A4%AE%E0%A4%97%E0%A5%8B%E0%A4%AA%E0%A4%BE%E0%A4%B2%E0%A4%AA%E0%A5%81%E0%A4%B0_%E0%A4%AC%E0%A4%B9%E0%A5%81%E0%A4%AE%E0%A5%81%E0%A4%96%E0%A5%80_%E0%A4%95%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AE%E0%A5%8D%E0%A4%AA%E0%A4%B8"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Education (B.Ed.)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/ramgopalpur-multiple-campus-bachelor-of-education-bed"
+                },
+                {
+                    "name": "Bachelor of Business Studies (BBS)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/ramgopalpur-multiple-campus-bachelor-of-business-studies-bbs"
+                }
+            ],
+            "facilities": [
+                "Library",
+                "Sports",
+                "Internet",
+                "Counseling",
+                "Scholarships",
+                "Classrooms",
+                "Conference hall",
+                "Tours",
+                "Extracurricular activities"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-9817681515",
+                    "+977-9800827256"
+                ],
+                "emails": [
+                    "rmcampus365@gmail.com"
+                ],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Kantibazar Rastriya Campus",
+                "name_ne": null,
+                "slug": "kantibazar-rastriya-campus",
+                "ownership": "affiliated",
+                "established_year": null,
+                "university": "Tribhuvan University",
+                "municipality": null,
+                "address": "Laxminiya-7, Mahottari, Nepal",
+                "description": "Listed as Tribhuvan University campus code 935, Kantibazar Rastriya Campus, Laxminiya-7, in official TU bachelor examination centre lists, including the 4-year B.Ed. centre list for 2081. A dedicated public campus profile with phone, fee or website was not found. It should not be confused with nearby plus-two schools that use similar names.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://www.gyanpark.com.np/2022/10/tribhuvan-university-all-constituent.html",
+                    "https://www.onlinetuitioncenter.com.np/file/1735545817.pdf"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Education (B.Ed.)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.onlinetuitioncenter.com.np/file/1735545817.pdf"
+                }
+            ],
+            "facilities": [],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [],
+                "emails": [],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Bherukhi Campus",
+                "name_ne": null,
+                "slug": "bherukhi-campus",
+                "ownership": "affiliated",
+                "established_year": null,
+                "university": "Tribhuvan University",
+                "municipality": "Loharpatti",
+                "address": "Loharpatti-7, Mahottari, Nepal",
+                "description": "Listed as Tribhuvan University campus code 977, Bherukhi Campus, Loharpatti-7, in official 4-year B.Ed. examination centre lists. No separate public profile with contact details, fees or facilities was found. A similarly named secondary school in Loharpatti is a plus-two school and is not treated here as this campus.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://www.gyanpark.com.np/2022/10/tribhuvan-university-all-constituent.html",
+                    "https://www.onlinetuitioncenter.com.np/file/1735545817.pdf"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Education (B.Ed.)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.onlinetuitioncenter.com.np/file/1735545817.pdf"
+                }
+            ],
+            "facilities": [],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [],
+                "emails": [],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Yog Manohar Basant Janta Campus",
+                "name_ne": null,
+                "slug": "yog-manohar-basant-janta-campus",
+                "ownership": "affiliated",
+                "established_year": null,
+                "university": "Tribhuvan University",
+                "municipality": "Balwa",
+                "address": "Balwa-3, Mahottari, Nepal",
+                "description": "Listed as Tribhuvan University campus code 978, Yog Manohar Basant Janta Campus, Balwa-3, in official 4-year B.Ed. examination centre lists. No dedicated public page with phone, email, fees or facilities was found.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://www.gyanpark.com.np/2022/10/tribhuvan-university-all-constituent.html",
+                    "https://www.onlinetuitioncenter.com.np/file/1735545817.pdf"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Education (B.Ed.)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.onlinetuitioncenter.com.np/file/1735545817.pdf"
+                }
+            ],
+            "facilities": [],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [],
+                "emails": [],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Ramnarayan Ayodhya Janata Campus",
+                "name_ne": null,
+                "slug": "ramnarayan-ayodhya-janata-campus",
+                "ownership": "affiliated",
+                "established_year": null,
+                "university": "Tribhuvan University",
+                "municipality": "Pipra",
+                "address": "Pipara, Mahottari, Nepal",
+                "description": "Listed as Tribhuvan University campus code 974, Ramnarayan Ayodhya Janata Campus, Pipara, in official 4-year B.Ed. examination centre lists. No dedicated public campus profile with contact details was found. The similarly named Ram Narayan Ayodhya Secondary School at Pipara is a plus-two school and is not listed as this campus.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://www.gyanpark.com.np/2022/10/tribhuvan-university-all-constituent.html",
+                    "https://www.onlinetuitioncenter.com.np/file/1735545817.pdf"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Education (B.Ed.)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.onlinetuitioncenter.com.np/file/1735545817.pdf"
+                }
+            ],
+            "facilities": [],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [],
+                "emails": [],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Ankur Institute of Engineering and Management Studies",
+                "name_ne": null,
+                "slug": "ankur-institute-of-engineering-and-management-studies",
+                "ownership": "private",
+                "established_year": null,
+                "university": "Rajarshi Janak University",
+                "municipality": "Bardibas",
+                "address": "Bardibas-3, Gauridada, Mahottari, Nepal",
+                "description": "Private institute in Bardibas granted affiliation by Rajarshi Janak University to run BSc CSIT. Public pages describe an industry-oriented IT program. A public social post gives the Gauridada address and contact details.",
+                "mission": null,
+                "vision": "Empowering students with knowledge, skills, and innovation to excel in a tech-driven world.",
+                "source_urls": [
+                    "https://edusanjal.com/college/ankur-institute-of-engineering-and-management-studies/",
+                    "https://edusanjal.com/news/affiliation-notice-issued-by-rajarshi-janak-university/",
+                    "https://www.facebook.com/groups/267062900036282/posts/24081153888200516/"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "BSc Computer Science and Information Technology (BSc CSIT)",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Science and Technology",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/news/affiliation-notice-issued-by-rajarshi-janak-university/"
+                }
+            ],
+            "facilities": [],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "9802113456"
+                ],
+                "emails": [
+                    "info@aiems.edu.np",
+                    "aiemsbardibas@gmail.com"
+                ],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Nandani Multiple Campus",
+                "name_ne": null,
+                "slug": "nandani-multiple-campus",
+                "ownership": "private",
+                "established_year": 2024,
+                "university": "Rajarshi Janak University",
+                "municipality": "Bardibas",
+                "address": "Bardibas, Mahottari, Nepal",
+                "description": "Private campus in Bardibas. A Rajarshi Janak University affiliation notice of 2024 lists it for BBA. An EduSanjal profile also lists BCA and gives the establishment year as 2024 AD. No published phone or email was found.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://edusanjal.com/college/nandani-multiple-campus/",
+                    "https://edusanjal.com/news/affiliation-notice-issued-by-rajarshi-janak-university/"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Business Administration (BBA)",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/news/affiliation-notice-issued-by-rajarshi-janak-university/"
+                },
+                {
+                    "name": "Bachelor of Computer Applications (BCA)",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Management / IT",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/college/nandani-multiple-campus/"
+                }
+            ],
+            "facilities": [],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [],
+                "emails": [],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Bardibas New Horizon College",
+                "name_ne": null,
+                "slug": "bardibas-new-horizon-college",
+                "ownership": "private",
+                "established_year": null,
+                "university": "Far-Western University",
+                "municipality": "Bardibas",
+                "address": "Bardibas, Mahottari, Nepal",
+                "description": "Private college in Bardibas listed by EduSanjal as affiliated to Far-Western University and offering BBA. No published phone, email, fee, establishment year or facility list was found.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://edusanjal.com/college/bardibas-new-horizon-college/",
+                    "https://edusanjal.com/college/local_level/bardibas/"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Business Administration (BBA)",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/college/bardibas-new-horizon-college/"
+                }
+            ],
+            "facilities": [],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [],
+                "emails": [],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Nobel Multiple College Bardibas",
+                "name_ne": null,
+                "slug": "nobel-multiple-college-bardibas",
+                "ownership": "private",
+                "established_year": 2011,
+                "university": "Purbanchal University",
+                "municipality": "Bardibas",
+                "address": "Bardibas-14, near Hotel Pawan Mithila, Mahottari, Nepal",
+                "description": "Private college established in 2011 AD, previously known as Nobel Institute of Engineering and Technology. It received Purbanchal University affiliation in 2082 BS (2025) to run BBA with 48 seats. Address lines variously say Bardibas-14 and, on one page, Bardibas-4; the repeated published landmark is near Hotel Pawan Mithila.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://www.collegenp.com/college/nobel-multiple-college-bardibas",
+                    "https://www.educatenepal.com/institutions/detail/nobel-multiple-college",
+                    "https://edusanjal.com/college/nobel-multiple-college/"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Business Administration (BBA)",
+                    "level": "Bachelor",
+                    "duration": "4 years (8 semesters)",
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/nobel-multiple-college-bardibas"
+                }
+            ],
+            "facilities": [
+                "Scholarships",
+                "Free computer classes",
+                "Industrial visits"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-9844044266",
+                    "+977-9801620720",
+                    "+977-9813535344",
+                    "044-550033"
+                ],
+                "emails": [
+                    "nobelcollegebardibas@gmail.com"
+                ],
+                "website": "http://nmcb.edu.np/",
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Nirmal Lama Polytechnic Institute",
+                "name_ne": "निर्मल लामा बहुप्राविधिक शिक्षालय",
+                "slug": "nirmal-lama-polytechnic-institute",
+                "ownership": "public",
+                "established_year": 2018,
+                "university": "CTEVT",
+                "municipality": "Bardibas",
+                "address": "Khayarmara, Bardibas-11, Mahottari, Nepal",
+                "description": "Public CTEVT constituent polytechnic established in 2018 at Khayarmara, about 20 km from Bardibas bazaar. It is described as a model technical institute of Madhesh Province and runs three-year diploma and certificate programs.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://en.wikipedia.org/wiki/Nirmal_Lama_Polytechnic_Institute",
+                    "https://edusanjal.com/school/nirmal-lama-polytechnic-institute/",
+                    "https://www.collegenp.com/college/nirmal-lama-polytechnic-institute",
+                    "https://ctevtp2.org.np/view-page/36"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Diploma in Civil Engineering",
+                    "level": "Diploma",
+                    "duration": "3 years",
+                    "faculty": "Engineering",
+                    "fee": 45000,
+                    "source_url": "https://www.collegenp.com/college/nirmal-lama-polytechnic-institute"
+                },
+                {
+                    "name": "Diploma in Geomatics Engineering",
+                    "level": "Diploma",
+                    "duration": "3 years",
+                    "faculty": "Engineering",
+                    "fee": 45000,
+                    "source_url": "https://www.collegenp.com/college/nirmal-lama-polytechnic-institute"
+                },
+                {
+                    "name": "Diploma in Food and Dairy Technology",
+                    "level": "Diploma",
+                    "duration": "3 years",
+                    "faculty": "Agriculture / Food",
+                    "fee": 45000,
+                    "source_url": "https://www.collegenp.com/college/nirmal-lama-polytechnic-institute"
+                },
+                {
+                    "name": "Diploma in Hotel Management",
+                    "level": "Diploma",
+                    "duration": "3 years",
+                    "faculty": "Hospitality",
+                    "fee": 45000,
+                    "source_url": "https://www.collegenp.com/college/nirmal-lama-polytechnic-institute"
+                },
+                {
+                    "name": "Diploma in Forestry",
+                    "level": "Diploma",
+                    "duration": "3 years",
+                    "faculty": "Forestry",
+                    "fee": 45000,
+                    "source_url": "https://www.collegenp.com/course/nirmal-lama-polytechnic-institute-diploma-in-forestry-diploma-in-forestry"
+                },
+                {
+                    "name": "Diploma in Pharmacy",
+                    "level": "Diploma",
+                    "duration": "3 years",
+                    "faculty": "Health",
+                    "fee": 45000,
+                    "source_url": "https://www.collegenp.com/course/nirmal-lama-polytechnic-institute-diploma-in-pharmacy-diploma-in-pharmacy"
+                },
+                {
+                    "name": "Diploma in Electrical Engineering",
+                    "level": "Diploma",
+                    "duration": null,
+                    "faculty": "Engineering",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/school/nirmal-lama-polytechnic-institute/"
+                },
+                {
+                    "name": "Diploma in Architecture Engineering",
+                    "level": "Diploma",
+                    "duration": null,
+                    "faculty": "Engineering",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/school/nirmal-lama-polytechnic-institute/"
+                },
+                {
+                    "name": "Certificate in Diagnostic Radiography",
+                    "level": "Certificate / PCL",
+                    "duration": "3 years",
+                    "faculty": "Health",
+                    "fee": 45000,
+                    "source_url": "https://www.collegenp.com/college/nirmal-lama-polytechnic-institute"
+                }
+            ],
+            "facilities": [],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-9854021182",
+                    "+977-9854021941",
+                    "+977-9854020341"
+                ],
+                "emails": [
+                    "ctevt.nirmallama@gmail.com"
+                ],
+                "website": "https://nlpictevt.com/",
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Chitragupt Institute of Technology",
+                "name_ne": null,
+                "slug": "chitragupt-institute-of-technology",
+                "ownership": "private",
+                "established_year": 2013,
+                "university": "CTEVT",
+                "municipality": "Bardibas",
+                "address": "Bardibas, Mahottari, Nepal",
+                "description": "Private CTEVT-affiliated technical institute in Bardibas, established in 2013 AD (2070 BS). It offers three-year PCL and certificate health programs as well as shorter pre-diploma courses. Only the three-year programs are listed here as higher CTEVT programs.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://www.collegenp.com/college/chitragupt-institute-of-technology-mahottari"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "PCL in General Medicine (Health Assistant)",
+                    "level": "PCL / Certificate",
+                    "duration": "3 years",
+                    "faculty": "Health",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/chitragupt-institute-of-technology-mahottari"
+                },
+                {
+                    "name": "Certificate in Medical Laboratory Technology (CMLT)",
+                    "level": "Certificate",
+                    "duration": "3 years",
+                    "faculty": "Health",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/chitragupt-institute-of-technology-mahottari"
+                }
+            ],
+            "facilities": [
+                "Library",
+                "Sports",
+                "Science lab",
+                "Conference",
+                "Multimedia",
+                "Journal",
+                "Counselling",
+                "Scholarships",
+                "Computer lab",
+                "Classrooms",
+                "Conference hall",
+                "Tours",
+                "Extracurricular activities"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-9843100724"
+                ],
+                "emails": [],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Rara Technical Institute",
+                "name_ne": "रारा प्राविधिक शिक्षालय",
+                "slug": "rara-technical-institute",
+                "ownership": "private",
+                "established_year": 2011,
+                "university": "CTEVT",
+                "municipality": "Bardibas",
+                "address": "Bardibas, Mahottari, Nepal",
+                "description": "Private CTEVT-affiliated technical institute in Bardibas offering PCL in General Medicine and a medical laboratory certificate program. One directory dates the institute to 2011 AD (2067 BS).",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://edusanjal.com/school/rara-technical-institute/",
+                    "https://www.myfreeadmission.com/college/rara-technical-institute-2572"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "PCL in General Medicine (Health Assistant)",
+                    "level": "PCL / Certificate",
+                    "duration": "3 years",
+                    "faculty": "Health",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/school/rara-technical-institute/"
+                },
+                {
+                    "name": "Certificate in Medical Laboratory Technology (CMLT)",
+                    "level": "Certificate",
+                    "duration": null,
+                    "faculty": "Health",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/school/rara-technical-institute/"
+                }
+            ],
+            "facilities": [],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "9852047577"
+                ],
+                "emails": [],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        }
+    ]
+}

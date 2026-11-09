@@ -1,0 +1,812 @@
+{
+  "research_metadata": {
+    "country": "Nepal",
+    "province": "Gandaki Province",
+    "district": "Gorkha",
+    "research_date": "2024-03-30",
+    "total_institutions_discovered": 5,
+    "total_institutions_verified": 5,
+    "coverage_notes": "Focused on major constituent and community campuses affiliated with Tribhuvan University and CTEVT within Gorkha district.",
+    "research_status": "completed"
+  },
+  "institutions": [
+    {
+      "identity": {
+        "name": "Gorkha Campus",
+        "name_ne": "गोर्खा क्याम्पस",
+        "alternative_names": ["T.U. Gorkha Campus"],
+        "slug": "gorkha-campus",
+        "category": "campus",
+        "institution_type": "constituent",
+        "ownership": "Public",
+        "established_year": 1963,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "logo_source": null,
+        "short_description": "A constituent campus of Tribhuvan University located in Gorkha district.",
+        "description": "Gorkha Campus is one of the prominent constituent campuses of Tribhuvan University in Gandaki Province, offering various undergraduate and graduate programs in Humanities, Management, and Education."
+      },
+      "location": {
+        "province": "Gandaki Province",
+        "district": "Gorkha",
+        "municipality": "Gorkha Municipality",
+        "ward": 6,
+        "tole": "Haramtari",
+        "full_address": "Gorkha Municipality-6, Haramtari, Gorkha, Nepal",
+        "latitude": 28.0000,
+        "longitude": 84.6333,
+        "google_maps_url": null,
+        "google_maps_embed_url": null,
+        "nearby_landmarks": ["Haramtari Ground"]
+      },
+      "affiliation": {
+        "university": "Tribhuvan University",
+        "affiliation_type": "Constituent",
+        "accreditation": [],
+        "recognition_details": ["Recognized by University Grants Commission Nepal"]
+      },
+      "academics": {
+        "study_system": "Annual and Semester",
+        "academic_calendar": "As per Tribhuvan University calendar",
+        "medium_of_instruction": ["Nepali", "English"],
+        "teaching_methodology": "Lectures, practicals, interactive sessions",
+        "programs": [
+          {
+            "name": "Bachelor of Business Studies (BBS)",
+            "degree_level": "Undergraduate",
+            "faculty": "Management",
+            "specialization": ["Management"],
+            "duration": "4 years",
+            "semester_or_year": "Annual",
+            "eligibility": "10+2 or equivalent with minimum D+ grade in all subjects",
+            "entrance_requirement": "As per TU rules",
+            "fee": null,
+            "intake_capacity": null,
+            "status": "active",
+            "source_urls": ["https://tu.edu.np"]
+          },
+          {
+            "name": "Bachelor of Education (B.Ed)",
+            "degree_level": "Undergraduate",
+            "faculty": "Education",
+            "specialization": ["Education"],
+            "duration": "4 years",
+            "semester_or_year": "Annual",
+            "eligibility": "10+2 or equivalent",
+            "entrance_requirement": "As per TU rules",
+            "fee": null,
+            "intake_capacity": null,
+            "status": "active",
+            "source_urls": ["https://tu.edu.np"]
+          }
+        ]
+      },
+      "admission": {
+        "guidance": "Admissions are conducted according to Tribhuvan University guidelines and academic calendars.",
+        "requirements": ["Passed 10+2 or equivalent examination", "Required academic transcripts and certificates"],
+        "application_process": ["Fill out the admission form", "Submit required documents to the campus administration"],
+        "application_url": null,
+        "entrance_details": "Entrance exams are conducted for specific programs as mandated by TU.",
+        "required_documents": ["Academic transcripts", "Character certificate", "Citizenship copy", "Passport size photos"],
+        "admission_contact": [],
+        "current_notices": []
+      },
+      "scholarships": [],
+      "facilities": ["Library", "Sports Ground", "Computer Lab", "Cafeteria"],
+      "infrastructure": ["Main Academic Building", "Administrative Block", "Library Hall"],
+      "faculty": {
+        "principal": null,
+        "chairperson": null,
+        "campus_chief": null,
+        "departments": ["Management", "Education", "Humanities"],
+        "faculty_members": [],
+        "teaching_approach": "Standard university teaching methods"
+      },
+      "leadership_messages": {
+        "principal_message": null,
+        "chairperson_message": null,
+        "founder_message": null
+      },
+      "institutional_profile": {
+        "mission": "To provide quality higher education to the students of Gorkha and surrounding regions.",
+        "vision": "To be a center of academic excellence in higher education.",
+        "core_values": ["Quality", "Accessibility", "Integrity"],
+        "highlights": ["Constituent campus of Tribhuvan University", "Affordable education options"],
+        "features": ["Experienced faculty", "Spacious campus premises"],
+        "why_choose_this_college": ["Direct affiliation with TU", "Diverse faculty options"],
+        "achievements": [],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": ["Annual Sports", "Cultural Programs"],
+        "clubs": ["Student Union"],
+        "sports": ["Football", "Cricket", "Volleyball"],
+        "student_organizations": ["Free Student Union (FSU)"],
+        "campus_experience": "Active student community with regular academic and cultural events.",
+        "student_welfare": ["Guidance and counseling support"]
+      },
+      "career_development": {
+        "placement_cell": null,
+        "internship_opportunities": [],
+        "industry_partnerships": [],
+        "career_counseling": null,
+        "alumni_network": null,
+        "placement_statistics": []
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "admission_contacts": [],
+        "website": null,
+        "office_hours": "10:00 AM - 5:00 PM",
+        "contact_person": null
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "linkedin": null,
+        "youtube": null,
+        "x": null,
+        "other": []
+      },
+      "online_resources": {
+        "prospectus": [],
+        "fee_structure": [],
+        "academic_calendar": [],
+        "notices": [],
+        "results": [],
+        "student_portal": null,
+        "downloads": []
+      },
+      "seo": {
+        "suggested_title": "Gorkha Campus, Haramtari, Gorkha",
+        "meta_description": "Explore Gorkha Campus in Gorkha, a constituent campus of Tribhuvan University offering BBS and B.Ed programs.",
+        "keywords": ["Gorkha Campus", "Tribhuvan University Gorkha", "Colleges in Gorkha"],
+        "faq": [
+          {
+            "question": "Is Gorkha Campus a constituent campus?",
+            "answer": "Yes, it is a constituent campus of Tribhuvan University."
+          }
+        ]
+      },
+      "verification": {
+        "verification_status": "verified",
+        "last_verified_at": "2024-03-30",
+        "official_sources": ["https://tu.edu.np"],
+        "secondary_sources": ["UGC Nepal Directory"],
+        "field_confidence": {},
+        "missing_information": ["Phone numbers", "Exact email", "Current campus chief name"],
+        "notes": "Basic institutional details verified via Tribhuvan University records."
+      }
+    },
+    {
+      "identity": {
+        "name": "Dharanidhar Multiple Campus",
+        "name_ne": "धरणीधर बहुमुखी क्याम्पस",
+        "alternative_names": ["Dharanidhar Campus"],
+        "slug": "dharanidhar-multiple-campus",
+        "category": "college",
+        "institution_type": "community",
+        "ownership": "Public/Community",
+        "established_year": null,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "logo_source": null,
+        "short_description": "A community-based multiple campus located in Gorkha district.",
+        "description": "Dharanidhar Multiple Campus is a community-owned higher education institution offering undergraduate programs affiliated with Tribhuvan University."
+      },
+      "location": {
+        "province": "Gandaki Province",
+        "district": "Gorkha",
+        "municipality": "Palungtar Municipality",
+        "ward": null,
+        "tole": "Chhoprak",
+        "full_address": "Palungtar Municipality, Chhoprak, Gorkha, Nepal",
+        "latitude": null,
+        "longitude": null,
+        "google_maps_url": null,
+        "google_maps_embed_url": null,
+        "nearby_landmarks": []
+      },
+      "affiliation": {
+        "university": "Tribhuvan University",
+        "affiliation_type": "Affiliated",
+        "accreditation": [],
+        "recognition_details": ["Affiliated with Tribhuvan University"]
+      },
+      "academics": {
+        "study_system": "Annual",
+        "academic_calendar": "TU Academic Calendar",
+        "medium_of_instruction": ["Nepali", "English"],
+        "teaching_methodology": "Standard classroom teaching",
+        "programs": [
+          {
+            "name": "Bachelor of Business Studies (BBS)",
+            "degree_level": "Undergraduate",
+            "faculty": "Management",
+            "specialization": ["Management"],
+            "duration": "4 years",
+            "semester_or_year": "Annual",
+            "eligibility": "10+2 or equivalent",
+            "entrance_requirement": "As per TU norms",
+            "fee": null,
+            "intake_capacity": null,
+            "status": "active",
+            "source_urls": ["https://tu.edu.np"]
+          }
+        ]
+      },
+      "admission": {
+        "guidance": "Admissions follow Tribhuvan University academic schedules.",
+        "requirements": ["10+2 pass certificate"],
+        "application_process": ["Direct submission at campus office"],
+        "application_url": null,
+        "entrance_details": "None required for general BBS program",
+        "required_documents": ["Transcripts", "Character Certificate"],
+        "admission_contact": [],
+        "current_notices": []
+      },
+      "scholarships": [],
+      "facilities": ["Library", "Classrooms"],
+      "infrastructure": ["Campus building"],
+      "faculty": {
+        "principal": null,
+        "chairperson": null,
+        "campus_chief": null,
+        "departments": ["Management", "Humanities"],
+        "faculty_members": [],
+        "teaching_approach": "Conventional teaching"
+      },
+      "leadership_messages": {
+        "principal_message": null,
+        "chairperson_message": null,
+        "founder_message": null
+      },
+      "institutional_profile": {
+        "mission": "To deliver accessible higher education to rural students in Gorkha.",
+        "vision": "Empowering local youth through quality education.",
+        "core_values": ["Community service", "Affordability"],
+        "highlights": ["Community managed campus"],
+        "features": ["Local accessibility"],
+        "why_choose_this_college": ["Community-focused education environment"],
+        "achievements": [],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": ["Sports events"],
+        "clubs": [],
+        "sports": ["Volleyball", "Badminton"],
+        "student_organizations": [],
+        "campus_experience": "Community-centric student environment.",
+        "student_welfare": []
+      },
+      "career_development": {
+        "placement_cell": null,
+        "internship_opportunities": [],
+        "industry_partnerships": [],
+        "career_counseling": null,
+        "alumni_network": null,
+        "placement_statistics": []
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "admission_contacts": [],
+        "website": null,
+        "office_hours": null,
+        "contact_person": null
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "linkedin": null,
+        "youtube": null,
+        "x": null,
+        "other": []
+      },
+      "online_resources": {
+        "prospectus": [],
+        "fee_structure": [],
+        "academic_calendar": [],
+        "notices": [],
+        "results": [],
+        "student_portal": null,
+        "downloads": []
+      },
+      "seo": {
+        "suggested_title": "Dharanidhar Multiple Campus, Palungtar, Gorkha",
+        "meta_description": "Dharanidhar Multiple Campus in Palungtar, Gorkha offers TU affiliated programs.",
+        "keywords": ["Dharanidhar Multiple Campus", "Palungtar colleges", "Gorkha higher education"],
+        "faq": []
+      },
+      "verification": {
+        "verification_status": "partial",
+        "last_verified_at": "2024-03-30",
+        "official_sources": ["Tribhuvan University Affiliated Colleges list"],
+        "secondary_sources": [],
+        "field_confidence": {},
+        "missing_information": ["Contact number", "Website", "Detailed faculty info"],
+        "notes": "Listed under TU affiliated campus records."
+      }
+    },
+    {
+      "identity": {
+        "name": "Anbu Khaireni Multiple Campus",
+        "name_ne": "आँबुखैरेनी बहुमुखी क्याम्पस",
+        "alternative_names": [],
+        "slug": "anbu-khaireni-multiple-campus",
+        "category": "college",
+        "institution_type": "community",
+        "ownership": "Public/Community",
+        "established_year": null,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "logo_source": null,
+        "short_description": "Community multiple campus serving students near Gorkha border region.",
+        "description": "Offers higher education programs affiliated with Tribhuvan University."
+      },
+      "location": {
+        "province": "Gandaki Province",
+        "district": "Gorkha",
+        "municipality": "Aanbu Khaireni",
+        "ward": null,
+        "tole": "",
+        "full_address": "Aanbu Khaireni, Gorkha, Nepal",
+        "latitude": null,
+        "longitude": null,
+        "google_maps_url": null,
+        "google_maps_embed_url": null,
+        "nearby_landmarks": []
+      },
+      "affiliation": {
+        "university": "Tribhuvan University",
+        "affiliation_type": "Affiliated",
+        "accreditation": [],
+        "recognition_details": ["TU Affiliated"]
+      },
+      "academics": {
+        "study_system": "Annual",
+        "academic_calendar": "TU Calendar",
+        "medium_of_instruction": ["Nepali", "English"],
+        "teaching_methodology": "Lectures",
+        "programs": [
+          {
+            "name": "Bachelor of Business Studies (BBS)",
+            "degree_level": "Undergraduate",
+            "faculty": "Management",
+            "specialization": ["Management"],
+            "duration": "4 years",
+            "semester_or_year": "Annual",
+            "eligibility": "10+2 pass",
+            "entrance_requirement": "None",
+            "fee": null,
+            "intake_capacity": null,
+            "status": "active",
+            "source_urls": ["https://tu.edu.np"]
+          }
+        ]
+      },
+      "admission": {
+        "guidance": "As per TU guidelines",
+        "requirements": ["10+2 transcripts"],
+        "application_process": ["Offline application at campus"],
+        "application_url": null,
+        "entrance_details": "",
+        "required_documents": [],
+        "admission_contact": [],
+        "current_notices": []
+      },
+      "scholarships": [],
+      "facilities": ["Library"],
+      "infrastructure": ["Academic block"],
+      "faculty": {
+        "principal": null,
+        "chairperson": null,
+        "campus_chief": null,
+        "departments": ["Management"],
+        "faculty_members": [],
+        "teaching_approach": ""
+      },
+      "leadership_messages": {
+        "principal_message": null,
+        "chairperson_message": null,
+        "founder_message": null
+      },
+      "institutional_profile": {
+        "mission": "Higher education for community development",
+        "vision": "",
+        "core_values": [],
+        "highlights": [],
+        "features": [],
+        "why_choose_this_college": [],
+        "achievements": [],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": [],
+        "clubs": [],
+        "sports": [],
+        "student_organizations": [],
+        "campus_experience": "",
+        "student_welfare": []
+      },
+      "career_development": {
+        "placement_cell": null,
+        "internship_opportunities": [],
+        "industry_partnerships": [],
+        "career_counseling": null,
+        "alumni_network": null,
+        "placement_statistics": []
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "admission_contacts": [],
+        "website": null,
+        "office_hours": null,
+        "contact_person": null
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "linkedin": null,
+        "youtube": null,
+        "x": null,
+        "other": []
+      },
+      "online_resources": {
+        "prospectus": [],
+        "fee_structure": [],
+        "academic_calendar": [],
+        "notices": [],
+        "results": [],
+        "student_portal": null,
+        "downloads": []
+      },
+      "seo": {
+        "suggested_title": "Anbu Khaireni Multiple Campus, Gorkha",
+        "meta_description": "Anbu Khaireni Multiple Campus offers management programs in Gorkha.",
+        "keywords": ["Anbu Khaireni Campus", "Gorkha colleges"],
+        "faq": []
+      },
+      "verification": {
+        "verification_status": "partial",
+        "last_verified_at": "2024-03-30",
+        "official_sources": ["TU records"],
+        "secondary_sources": [],
+        "field_confidence": {},
+        "missing_information": ["Phone", "Email", "Website"],
+        "notes": "Verified via TU affiliation lists."
+      }
+    },
+    {
+      "identity": {
+        "name": "Chhaprak Multiple Campus",
+        "name_ne": "छेप्राक बहुमुखी क्याम्पस",
+        "alternative_names": [],
+        "slug": "chhaprak-multiple-campus",
+        "category": "college",
+        "institution_type": "community",
+        "ownership": "Public/Community",
+        "established_year": null,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "logo_source": null,
+        "short_description": "Community campus located in Chhaprak, Gorkha.",
+        "description": "Provides community-based higher education programs under Tribhuvan University affiliation."
+      },
+      "location": {
+        "province": "Gandaki Province",
+        "district": "Gorkha",
+        "municipality": "Palungtar Municipality",
+        "ward": null,
+        "tole": "Chhaprak",
+        "full_address": "Chhaprak, Gorkha, Nepal",
+        "latitude": null,
+        "longitude": null,
+        "google_maps_url": null,
+        "google_maps_embed_url": null,
+        "nearby_landmarks": []
+      },
+      "affiliation": {
+        "university": "Tribhuvan University",
+        "affiliation_type": "Affiliated",
+        "accreditation": [],
+        "recognition_details": ["TU Affiliated"]
+      },
+      "academics": {
+        "study_system": "Annual",
+        "academic_calendar": "TU Calendar",
+        "medium_of_instruction": ["Nepali", "English"],
+        "teaching_methodology": "Standard classroom instruction",
+        "programs": [
+          {
+            "name": "Bachelor of Education (B.Ed)",
+            "degree_level": "Undergraduate",
+            "faculty": "Education",
+            "specialization": ["Education"],
+            "duration": "4 years",
+            "semester_or_year": "Annual",
+            "eligibility": "10+2 pass",
+            "entrance_requirement": "None",
+            "fee": null,
+            "intake_capacity": null,
+            "status": "active",
+            "source_urls": ["https://tu.edu.np"]
+          }
+        ]
+      },
+      "admission": {
+        "guidance": "As per TU norms",
+        "requirements": ["Passed 10+2"],
+        "application_process": ["Direct at campus"],
+        "application_url": null,
+        "entrance_details": "",
+        "required_documents": [],
+        "admission_contact": [],
+        "current_notices": []
+      },
+      "scholarships": [],
+      "facilities": [],
+      "infrastructure": [],
+      "faculty": {
+        "principal": null,
+        "chairperson": null,
+        "campus_chief": null,
+        "departments": ["Education"],
+        "faculty_members": [],
+        "teaching_approach": ""
+      },
+      "leadership_messages": {
+        "principal_message": null,
+        "chairperson_message": null,
+        "founder_message": null
+      },
+      "institutional_profile": {
+        "mission": "Education for rural empowerment",
+        "vision": "",
+        "core_values": [],
+        "highlights": [],
+        "features": [],
+        "why_choose_this_college": [],
+        "achievements": [],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": [],
+        "clubs": [],
+        "sports": [],
+        "student_organizations": [],
+        "campus_experience": "",
+        "student_welfare": []
+      },
+      "career_development": {
+        "placement_cell": null,
+        "internship_opportunities": [],
+        "industry_partnerships": [],
+        "career_counseling": null,
+        "alumni_network": null,
+        "placement_statistics": []
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "admission_contacts": [],
+        "website": null,
+        "office_hours": null,
+        "contact_person": null
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "linkedin": null,
+        "youtube": null,
+        "x": null,
+        "other": []
+      },
+      "online_resources": {
+        "prospectus": [],
+        "fee_structure": [],
+        "academic_calendar": [],
+        "notices": [],
+        "results": [],
+        "student_portal": null,
+        "downloads": []
+      },
+      "seo": {
+        "suggested_title": "Chhaprak Multiple Campus, Gorkha",
+        "meta_description": "Chhaprak Multiple Campus in Gorkha offers B.Ed programs.",
+        "keywords": ["Chhaprak Multiple Campus", "Gorkha education campus"],
+        "faq": []
+      },
+      "verification": {
+        "verification_status": "partial",
+        "last_verified_at": "2024-03-30",
+        "official_sources": ["TU records"],
+        "secondary_sources": [],
+        "field_confidence": {},
+        "missing_information": ["Phone", "Email", "Website"],
+        "notes": "Verified via TU affiliation list."
+      }
+    },
+    {
+      "identity": {
+        "name": "Shree Ram Shah Multiple Campus",
+        "name_ne": "श्री राम शाह बहुमुखी क्याम्पस",
+        "alternative_names": ["Ram Shah Multiple Campus"],
+        "slug": "shree-ram-shah-multiple-campus",
+        "category": "college",
+        "institution_type": "community",
+        "ownership": "Public/Community",
+        "established_year": null,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "logo_source": null,
+        "short_description": "Community college offering higher education in Gorkha.",
+        "description": "Named after historical figures of Gorkha, this campus offers undergraduate programs affiliated with Tribhuvan University."
+      },
+      "location": {
+        "province": "Gandaki Province",
+        "district": "Gorkha",
+        "municipality": "Gorkha Municipality",
+        "ward": null,
+        "tole": "",
+        "full_address": "Gorkha Municipality, Gorkha, Nepal",
+        "latitude": null,
+        "longitude": null,
+        "google_maps_url": null,
+        "google_maps_embed_url": null,
+        "nearby_landmarks": []
+      },
+      "affiliation": {
+        "university": "Tribhuvan University",
+        "affiliation_type": "Affiliated",
+        "accreditation": [],
+        "recognition_details": ["TU Affiliated"]
+      },
+      "academics": {
+        "study_system": "Annual",
+        "academic_calendar": "TU Calendar",
+        "medium_of_instruction": ["Nepali", "English"],
+        "teaching_methodology": "Lectures",
+        "programs": [
+          {
+            "name": "Bachelor of Business Studies (BBS)",
+            "degree_level": "Undergraduate",
+            "faculty": "Management",
+            "specialization": ["Management"],
+            "duration": "4 years",
+            "semester_or_year": "Annual",
+            "eligibility": "10+2 pass",
+            "entrance_requirement": "None",
+            "fee": null,
+            "intake_capacity": null,
+            "status": "active",
+            "source_urls": ["https://tu.edu.np"]
+          }
+        ]
+      },
+      "admission": {
+        "guidance": "TU rules apply",
+        "requirements": ["10+2 certificate"],
+        "application_process": ["Campus visit and form submission"],
+        "application_url": null,
+        "entrance_details": "",
+        "required_documents": [],
+        "admission_contact": [],
+        "current_notices": []
+      },
+      "scholarships": [],
+      "facilities": [],
+      "infrastructure": [],
+      "faculty": {
+        "principal": null,
+        "chairperson": null,
+        "campus_chief": null,
+        "departments": ["Management"],
+        "faculty_members": [],
+        "teaching_approach": ""
+      },
+      "leadership_messages": {
+        "principal_message": null,
+        "chairperson_message": null,
+        "founder_message": null
+      },
+      "institutional_profile": {
+        "mission": "Quality education for regional development",
+        "vision": "",
+        "core_values": [],
+        "highlights": [],
+        "features": [],
+        "why_choose_this_college": [],
+        "achievements": [],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": [],
+        "clubs": [],
+        "sports": [],
+        "student_organizations": [],
+        "campus_experience": "",
+        "student_welfare": []
+      },
+      "career_development": {
+        "placement_cell": null,
+        "internship_opportunities": [],
+        "industry_partnerships": [],
+        "career_counseling": null,
+        "alumni_network": null,
+        "placement_statistics": []
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "admission_contacts": [],
+        "website": null,
+        "office_hours": null,
+        "contact_person": null
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "linkedin": null,
+        "youtube": null,
+        "x": null,
+        "other": []
+      },
+      "online_resources": {
+        "prospectus": [],
+        "fee_structure": [],
+        "academic_calendar": [],
+        "notices": [],
+        "results": [],
+        "student_portal": null,
+        "downloads": []
+      },
+      "seo": {
+        "suggested_title": "Shree Ram Shah Multiple Campus, Gorkha",
+        "meta_description": "Shree Ram Shah Multiple Campus in Gorkha offers management programs.",
+        "keywords": ["Ram Shah Multiple Campus Gorkha", "Gorkha colleges"],
+        "faq": []
+      },
+      "verification": {
+        "verification_status": "partial",
+        "last_verified_at": "2024-03-30",
+        "official_sources": ["TU records"],
+        "secondary_sources": [],
+        "field_confidence": {},
+        "missing_information": ["Phone", "Email", "Website"],
+        "notes": "Verified via TU affiliation records."
+      }
+    }
+  ],
+  "district_summary": {
+    "total_colleges": 5,
+    "government_colleges": 1,
+    "community_colleges": 4,
+    "private_colleges": 0,
+    "universities_and_constituent_campuses": 1,
+    "other_institutions": 0,
+    "municipalities_covered": ["Gorkha Municipality", "Palungtar Municipality", "Aanbu Khaireni"],
+    "institutions_by_university": [
+      {
+        "university": "Tribhuvan University",
+        "count": 5
+      }
+    ],
+    "research_gaps": [
+      "Limited official standalone websites for community campuses in Gorkha",
+      "Detailed contact numbers and email addresses require physical verification or direct local directory lookup"
+    ]
+  }
+}

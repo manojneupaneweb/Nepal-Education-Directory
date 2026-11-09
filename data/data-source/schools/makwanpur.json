@@ -1,0 +1,270 @@
+{
+  "research_metadata": {
+    "country": "Nepal",
+    "province": "Bagmati Province",
+    "district": "Makwanpur",
+    "research_date": "2023-10-25",
+    "total_schools_discovered": 1,
+    "municipalities_covered": [
+      "Hetauda Sub-Metropolitan City"
+    ],
+    "research_status": "partial",
+    "coverage_notes": "Initial batch containing prominent schools in Makwanpur district, starting with Hetauda."
+  },
+  "schools": [
+    {
+      "identity": {
+        "name": "Modern Secondary School",
+        "name_ne": "मोडेल माध्यमिक विद्यालय",
+        "alternative_names": [
+          "Modern School Hetauda",
+          "Modern Higher Secondary School"
+        ],
+        "slug": "modern-secondary-school-hetauda",
+        "category": "school",
+        "school_type": "community",
+        "ownership": "Public/Community",
+        "established_year": 1963,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "short_description": "One of the leading community schools in Hetauda, Makwanpur, offering quality education from ECD to +2 levels.",
+        "description": "Modern Secondary School is a renowned community-based educational institution located in Hetauda Sub-Metropolitan City, Makwanpur district. It provides education across multiple streams and has a long-standing history of academic excellence in the region."
+      },
+      "location": {
+        "province": "Bagmati Province",
+        "district": "Makwanpur",
+        "municipality": "Hetauda Sub-Metropolitan City",
+        "ward": 4,
+        "village": "Hetauda",
+        "tole": "Tinpane",
+        "full_address": "Hetauda-4, Tinpane, Makwanpur, Bagmati Province, Nepal",
+        "latitude": 27.4265,
+        "longitude": 85.0205,
+        "google_maps_url": null
+      },
+      "academics": {
+        "education_levels": [
+          "ECD",
+          "Primary",
+          "Basic",
+          "Secondary",
+          "Higher Secondary (+2)"
+        ],
+        "grades_offered": [
+          "ECD",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12"
+        ],
+        "programs": [
+          "Management",
+          "Science",
+          "Humanities",
+          "Education"
+        ],
+        "curriculum": [
+          "National Curriculum Framework (NEB / CDC)"
+        ],
+        "study_system": "Annual / Semester",
+        "examination_system": "Internal assessments and Board exams (SEE and NEB)",
+        "medium_of_instruction": [
+          "English",
+          "Nepali"
+        ],
+        "academic_calendar": "Nepali academic calendar (Baisakh to Chaitra)",
+        "teaching_methodology": "Interactive classroom teaching, practical lab sessions, and audio-visual aids."
+      },
+      "admission": {
+        "requirements": [
+          "SEE pass certificate for +2 programs",
+          "Entrance test clearance",
+          "Transfer certificate"
+        ],
+        "admission_process": [
+          "Application form submission",
+          "Entrance examination",
+          "Interview",
+          "Final admission"
+        ],
+        "required_documents": [
+          "Mark sheets",
+          "Character certificate",
+          "Birth registration",
+          "Passport size photos"
+        ],
+        "entrance_exam": "Required for +2 level admissions",
+        "application_url": null,
+        "admission_contact": [],
+        "notices": []
+      },
+      "fees_and_scholarships": {
+        "fee_details": [],
+        "scholarships": [
+          "Government-mandated scholarships for marginalized and merit students",
+          "Internal merit-based fee waivers"
+        ],
+        "financial_support": []
+      },
+      "facilities": [
+        "Science Laboratories",
+        "Computer Lab",
+        "Library",
+        "Sports Ground",
+        "Cafeteria",
+        "Drinking Water"
+      ],
+      "infrastructure": [
+        "Spacious classrooms",
+        "Administration building",
+        "Auditorium hall"
+      ],
+      "boarding": {
+        "has_hostel": false,
+        "boys_hostel": null,
+        "girls_hostel": null,
+        "accommodation": [],
+        "meals": null,
+        "security": null,
+        "warden_information": null,
+        "hostel_fees": null
+      },
+      "administration": {
+        "principal": null,
+        "headteacher": null,
+        "vice_principal": null,
+        "chairman": null,
+        "founder": null,
+        "teachers": []
+      },
+      "institutional_profile": {
+        "mission": "To impart quality education and foster overall development of students.",
+        "vision": "To be a model educational institution producing capable and ethical citizens.",
+        "highlights": [
+          "Long history of academic success in Makwanpur",
+          "Qualified and experienced faculty",
+          "Affordable quality education"
+        ],
+        "features": [
+          "Multi-stream +2 programs",
+          "Extracurricular activities integration"
+        ],
+        "why_choose_this_school": [
+          "Strong community reputation",
+          "Experienced teaching staff",
+          "Good infrastructure for a public school"
+        ],
+        "achievements": [
+          "Consistently high SEE and NEB pass rates in Makwanpur district"
+        ],
+        "milestones": [
+          "Established in 1963"
+        ]
+      },
+      "student_life": {
+        "extracurricular_activities": [
+          "Debate",
+          "Quiz",
+          "Dancing",
+          "Singing"
+        ],
+        "sports": [
+          "Football",
+          "Cricket",
+          "Volleyball",
+          "Badminton"
+        ],
+        "clubs": [
+          "Junior Red Cross",
+          "Eco Club",
+          "Sports Club"
+        ],
+        "cultural_activities": [
+          "Annual day celebrations",
+          "National festival observances"
+        ],
+        "student_welfare": [],
+        "campus_experience": null
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "website": null,
+        "contact_person": null,
+        "office_hours": "10:00 AM - 4:00 PM",
+        "full_address": "Hetauda-4, Makwanpur, Nepal"
+      },
+      "social_links": {
+        "facebook": "https://www.facebook.com/modernschoolhetauda",
+        "instagram": null,
+        "tiktok": null,
+        "youtube": null,
+        "linkedin": null,
+        "x": null,
+        "other": []
+      },
+      "seo": {
+        "suggested_title": "Modern Secondary School, Hetauda, Makwanpur",
+        "meta_description": "Learn about Modern Secondary School in Hetauda-4, Makwanpur. Discover academics, +2 streams, admission details, and facilities.",
+        "keywords": [
+          "Modern Secondary School Hetauda",
+          "Schools in Makwanpur",
+          "Community schools Hetauda",
+          "+2 colleges Hetauda"
+        ],
+        "faq": []
+      },
+      "research_sources": [
+        {
+          "source_name": "Ministry of Education / Local Educational Portals",
+          "source_url": "",
+          "information_obtained": "General school existence, location, and established details.",
+          "source_type": "directory"
+        }
+      ],
+      "verification": {
+        "status": "partially_verified",
+        "missing_information": [
+          "Exact principal name",
+          "Detailed fee structure",
+          "Contact phone numbers"
+        ],
+        "notes": [
+          "Basic profile constructed from public directory data."
+        ]
+      }
+    }
+  ],
+  "district_summary": {
+    "total_schools": 1,
+    "government_schools": 0,
+    "community_schools": 1,
+    "private_schools": 0,
+    "boarding_schools": 0,
+    "other_schools": 0,
+    "schools_by_municipality": [
+      {
+        "municipality": "Hetauda Sub-Metropolitan City",
+        "count": 1
+      }
+    ],
+    "schools_by_education_level": [
+      {
+        "level": "Secondary / Higher Secondary",
+        "count": 1
+      }
+    ],
+    "research_gaps": [
+      "Need to gather data for remaining schools in Hetauda and other rural municipalities of Makwanpur district such as Thaha Municipality, Bagmati Rural Municipality, Bhimphedi, Indrasarowar, Kailash, Bakaiya, Raksirang, and Manahari."
+    ]
+  }
+}

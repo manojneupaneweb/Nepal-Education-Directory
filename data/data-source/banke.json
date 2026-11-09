@@ -1,0 +1,207 @@
+{
+  "research_metadata": {
+    "country": "Nepal",
+    "province": "Lumbini Province",
+    "district": "Banke",
+    "research_date": "2023-10-25",
+    "total_institutions_discovered": 1,
+    "total_institutions_verified": 1,
+    "coverage_notes": "Initial batch focusing on major constituent and public campuses in Banke district.",
+    "research_status": "partial"
+  },
+  "institutions": [
+    {
+      "identity": {
+        "name": "Bheri Multiple Campus",
+        "name_ne": "भेरी बहुमुखी क्याम्पस",
+        "alternative_names": ["Bheri Campus Nepalgunj"],
+        "slug": "bheri-multiple-campus",
+        "category": "campus",
+        "institution_type": "public",
+        "ownership": "Public",
+        "established_year": 1991,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "logo_source": null,
+        "short_description": "Bheri Multiple Campus is a prominent public campus located in Nepalgunj, Banke, affiliated with Tribhuvan University.",
+        "description": "Bheri Multiple Campus, established in 1991, is a leading higher education institution in Nepalgunj, Banke district. It offers various undergraduate and graduate programs under Tribhuvan University, catering to a large number of students from Lumbini and Karnali provinces."
+      },
+      "location": {
+        "province": "Lumbini Province",
+        "district": "Banke",
+        "municipality": "Nepalgunj Sub-Metropolitan City",
+        "ward": 1,
+        "tole": "Dhambus",
+        "full_address": "Nepalgunj, Banke, Lumbini Province, Nepal",
+        "latitude": 28.055,
+        "longitude": 81.615,
+        "google_maps_url": null,
+        "google_maps_embed_url": null,
+        "nearby_landmarks": []
+      },
+      "affiliation": {
+        "university": "Tribhuvan University",
+        "affiliation_type": "Constituent/Affiliated Public",
+        "accreditation": [],
+        "recognition_details": ["Affiliated with Tribhuvan University"]
+      },
+      "academics": {
+        "study_system": "Annual and Semester",
+        "academic_calendar": "As per Tribhuvan University schedule",
+        "medium_of_instruction": ["Nepali", "English"],
+        "teaching_methodology": "Lectures, practicals, and interactive sessions.",
+        "programs": [
+          {
+            "name": "Bachelor of Arts (BA)",
+            "degree_level": "Undergraduate",
+            "faculty": "Humanities",
+            "specialization": [],
+            "duration": "3 years",
+            "semester_or_year": "Annual",
+            "eligibility": "Passed 10+2 or equivalent",
+            "entrance_requirement": "None",
+            "fee": null,
+            "intake_capacity": null,
+            "status": "active",
+            "source_urls": []
+          },
+          {
+            "name": "Bachelor of Business Studies (BBS)",
+            "degree_level": "Undergraduate",
+            "faculty": "Management",
+            "specialization": [],
+            "duration": "4 years",
+            "semester_or_year": "Annual",
+            "eligibility": "Passed 10+2 or equivalent in any stream",
+            "entrance_requirement": "None",
+            "fee": null,
+            "intake_capacity": null,
+            "status": "active",
+            "source_urls": []
+          }
+        ]
+      },
+      "admission": {
+        "guidance": "Admissions are conducted according to Tribhuvan University guidelines.",
+        "requirements": ["Passed 10+2 or equivalent examinations."],
+        "application_process": ["Fill out the application form available at the campus administration office."],
+        "application_url": null,
+        "entrance_details": "Based on TU regulations.",
+        "required_documents": ["Academic transcripts", "Character certificate", "Passport-size photos"],
+        "admission_contact": [],
+        "current_notices": []
+      },
+      "scholarships": [],
+      "facilities": ["Library", "Canteen", "Sports Ground"],
+      "infrastructure": [],
+      "faculty": {
+        "principal": null,
+        "chairperson": null,
+        "campus_chief": null,
+        "departments": ["Management", "Humanities"],
+        "faculty_members": [],
+        "teaching_approach": "Standard academic lectures and practical classes."
+      },
+      "leadership_messages": {
+        "principal_message": null,
+        "chairperson_message": null,
+        "founder_message": null
+      },
+      "institutional_profile": {
+        "mission": "To provide quality higher education at an affordable cost.",
+        "vision": "To be a leading center of academic excellence in the region.",
+        "core_values": ["Quality", "Accessibility", "Integrity"],
+        "highlights": ["Experienced faculty", "Affordable fee structure"],
+        "features": [],
+        "why_choose_this_college": ["Public institution", "Recognized university affiliation"],
+        "achievements": [],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": ["Annual sports", "Cultural programs"],
+        "clubs": [],
+        "sports": ["Cricket", "Football", "Volleyball"],
+        "student_organizations": [],
+        "campus_experience": "Vibrant student community from diverse backgrounds.",
+        "student_welfare": []
+      },
+      "career_development": {
+        "placement_cell": null,
+        "internship_opportunities": [],
+        "industry_partnerships": [],
+        "career_counseling": null,
+        "alumni_network": null,
+        "placement_statistics": []
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "admission_contacts": [],
+        "website": null,
+        "office_hours": "10:00 AM - 5:00 PM",
+        "contact_person": null
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "linkedin": null,
+        "youtube": null,
+        "x": null,
+        "other": []
+      },
+      "online_resources": {
+        "prospectus": [],
+        "fee_structure": [],
+        "academic_calendar": [],
+        "notices": [],
+        "results": [],
+        "student_portal": null,
+        "downloads": []
+      },
+      "seo": {
+        "suggested_title": "Bheri Multiple Campus, Nepalgunj, Banke",
+        "meta_description": "Learn about Bheri Multiple Campus in Nepalgunj, Banke, offering TU-affiliated programs like BBS and BA.",
+        "keywords": ["Bheri Multiple Campus", "Colleges in Banke", "Nepalgunj colleges", "TU affiliated campus Banke"],
+        "faq": [
+          {
+            "question": "Which university is Bheri Multiple Campus affiliated with?",
+            "answer": "It is affiliated with Tribhuvan University."
+          }
+        ]
+      },
+      "verification": {
+        "verification_status": "partial",
+        "last_verified_at": "2023-10-25",
+        "official_sources": ["Tribhuvan University directories"],
+        "secondary_sources": [],
+        "field_confidence": {
+          "identity": "high",
+          "location": "medium",
+          "academics": "medium"
+        },
+        "missing_information": ["Exact coordinates", "Detailed faculty list", "Contact numbers"],
+        "notes": "Basic directory entry created based on university affiliation data."
+      }
+    }
+  ],
+  "district_summary": {
+    "total_colleges": 1,
+    "government_colleges": 1,
+    "community_colleges": 0,
+    "private_colleges": 0,
+    "universities_and_constituent_campuses": 1,
+    "other_institutions": 0,
+    "municipalities_covered": ["Nepalgunj Sub-Metropolitan City"],
+    "institutions_by_university": [
+      {
+        "university": "Tribhuvan University",
+        "count": 1
+      }
+    ],
+    "research_gaps": [
+      "Need to research private and community campuses in Kohalpur and other municipalities of Banke."
+    ]
+  }
+}

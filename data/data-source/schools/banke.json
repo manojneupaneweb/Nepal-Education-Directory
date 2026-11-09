@@ -1,0 +1,254 @@
+{
+  "research_metadata": {
+    "country": "Nepal",
+    "province": "Lumbini Province",
+    "district": "Banke",
+    "research_date": "2023-10-25",
+    "total_schools_discovered": 1,
+    "municipalities_covered": [
+      "Nepalgunj Sub-Metropolitan City"
+    ],
+    "research_status": "partial",
+    "coverage_notes": "Initial batch for Banke district focusing on prominent institutions in Nepalgunj."
+  },
+  "schools": [
+    {
+      "identity": {
+        "name": "Tribhuvan Higher Secondary School",
+        "name_ne": "त्रिभुवन माध्यमिक विद्यालय",
+        "alternative_names": [
+          "Tribhuvan Secondary School Nepalgunj"
+        ],
+        "slug": "tribhuvan-higher-secondary-school-nepalgunj",
+        "category": "school",
+        "school_type": "government",
+        "ownership": "Government",
+        "established_year": 1934,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "short_description": "One of the oldest and most prominent government schools in Banke district, Nepalgunj.",
+        "description": "Tribhuvan Higher Secondary School is a historic community/government-owned educational institution located in Nepalgunj, Banke. It offers education from primary levels up to higher secondary (+2) programs in various streams."
+      },
+      "location": {
+        "province": "Lumbini Province",
+        "district": "Banke",
+        "municipality": "Nepalgunj Sub-Metropolitan City",
+        "ward": 1,
+        "village": null,
+        "tole": "Dhambus",
+        "full_address": "Nepalgunj-1, Banke, Lumbini Province, Nepal",
+        "latitude": 28.055,
+        "longitude": 81.615,
+        "google_maps_url": null
+      },
+      "academics": {
+        "education_levels": [
+          "Primary",
+          "Lower Secondary",
+          "Secondary",
+          "Higher Secondary"
+        ],
+        "grades_offered": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12"
+        ],
+        "programs": [
+          {
+            "program_name": "+2 Management",
+            "grade": "11-12",
+            "stream": "Management"
+          },
+          {
+            "program_name": "+2 Education",
+            "grade": "11-12",
+            "stream": "Education"
+          },
+          {
+            "program_name": "+2 Humanities",
+            "grade": "11-12",
+            "stream": "Humanities"
+          }
+        ],
+        "curriculum": [
+          "National Curriculum Framework (NCF)"
+        ],
+        "study_system": "Annual",
+        "examination_system": "Internal and Board Examinations",
+        "medium_of_instruction": [
+          "Nepali",
+          "English"
+        ],
+        "academic_calendar": "Nepali academic calendar (Baisakh to Chaitra)",
+        "teaching_methodology": "Standard classroom teaching, practical sessions"
+      },
+      "admission": {
+        "requirements": [
+          "SEE pass certificate for +2 programs",
+          "Transfer certificate"
+        ],
+        "admission_process": [
+          "Submit application form",
+          "Document verification",
+          "Merit-based admission"
+        ],
+        "required_documents": [
+          "Mark sheets",
+          "Character certificate",
+          "Passport size photos"
+        ],
+        "entrance_exam": null,
+        "application_url": null,
+        "admission_contact": [],
+        "notices": []
+      },
+      "fees_and_scholarships": {
+        "fee_details": [],
+        "scholarships": [
+          "Government-funded scholarships for underprivileged and meritorious students"
+        ],
+        "financial_support": []
+      },
+      "facilities": [
+        "Science Lab",
+        "Computer Lab",
+        "Library",
+        "Sports Ground"
+      ],
+      "infrastructure": [
+        "Multiple academic buildings",
+        "Administrative block"
+      ],
+      "boarding": {
+        "has_hostel": false,
+        "boys_hostel": null,
+        "girls_hostel": null,
+        "accommodation": [],
+        "meals": null,
+        "security": null,
+        "warden_information": null,
+        "hostel_fees": null
+      },
+      "administration": {
+        "principal": null,
+        "headteacher": null,
+        "vice_principal": null,
+        "chairman": null,
+        "founder": null,
+        "teachers": []
+      },
+      "institutional_profile": {
+        "mission": "To provide accessible and quality education to all sections of society.",
+        "vision": "To be a leading center of educational excellence in Banke district.",
+        "highlights": [
+          "Historic institution established over 80 years ago",
+          "Affordable public education"
+        ],
+        "features": [],
+        "why_choose_this_school": [
+          "Experienced faculty",
+          "Low cost public schooling",
+          "Diverse +2 streams"
+        ],
+        "achievements": [],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": [
+          "Annual sports",
+          "Cultural programs"
+        ],
+        "sports": [
+          "Football",
+          "Cricket",
+          "Volleyball"
+        ],
+        "clubs": [],
+        "cultural_activities": [],
+        "student_welfare": [],
+        "campus_experience": null
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "website": null,
+        "contact_person": null,
+        "office_hours": "10:00 AM - 4:00 PM",
+        "full_address": "Nepalgunj, Banke, Nepal"
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "youtube": null,
+        "linkedin": null,
+        "x": null,
+        "other": []
+      },
+      "seo": {
+        "suggested_title": "Tribhuvan Higher Secondary School, Nepalgunj, Banke",
+        "meta_description": "Find complete details about Tribhuvan Higher Secondary School in Nepalgunj, Banke, including programs, admission, and facilities.",
+        "keywords": [
+          "Tribhuvan Higher Secondary School",
+          "Nepalgunj schools",
+          "Banke schools",
+          "+2 colleges Nepalgunj"
+        ],
+        "faq": []
+      },
+      "research_sources": [
+        {
+          "source_name": "General Educational Directories of Nepal",
+          "source_url": "",
+          "information_obtained": "Basic establishment details and location",
+          "source_type": "directory"
+        }
+      ],
+      "verification": {
+        "status": "partially_verified",
+        "missing_information": [
+          "Exact contact numbers",
+          "Current principal name",
+          "Detailed fee structure"
+        ],
+        "notes": [
+          "Historic school requiring on-ground verification for latest administrative details."
+        ]
+      }
+    }
+  ],
+  "district_summary": {
+    "total_schools": 1,
+    "government_schools": 1,
+    "community_schools": 0,
+    "private_schools": 0,
+    "boarding_schools": 0,
+    "other_schools": 0,
+    "schools_by_municipality": [
+      {
+        "municipality": "Nepalgunj Sub-Metropolitan City",
+        "count": 1
+      }
+    ],
+    "schools_by_education_level": [
+      {
+        "level": "Higher Secondary (+2)",
+        "count": 1
+      }
+    ],
+    "research_gaps": [
+      "Rural municipalities in Banke need broader coverage",
+      "Private and institutional schools require comprehensive listing"
+    ]
+  }
+}

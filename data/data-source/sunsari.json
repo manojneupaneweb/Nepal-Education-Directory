@@ -1,0 +1,305 @@
+{
+  "research_metadata": {
+    "country": "Nepal",
+    "province": "Koshi Province",
+    "district": "Sunsari",
+    "research_date": "2023-10-25",
+    "total_institutions_discovered": 1,
+    "total_institutions_verified": 1,
+    "coverage_notes": "Initial directory record for Mahendra Multiple Campus, Dharan, as part of the Sunsari district college directory generation.",
+    "research_status": "partial"
+  },
+  "institutions": [
+    {
+      "identity": {
+        "name": "Mahendra Multiple Campus",
+        "name_ne": "महेन्द्र बहुमुखी क्याम्पस, धरान",
+        "alternative_names": [
+          "MMC Dharan"
+        ],
+        "slug": "mahendra-multiple-campus-dharan",
+        "category": "campus",
+        "institution_type": "government",
+        "ownership": "Public",
+        "established_year": 1963,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "logo_source": null,
+        "short_description": "A constituent campus of Tribhuvan University located in Dharan, Sunsari.",
+        "description": "Mahendra Multiple Campus is one of the oldest and largest constituent campuses of Tribhuvan University in the eastern region of Nepal. Located in Dharan, Sunsari, it offers a wide range of academic programs in Humanities, Science, Management, and Education at undergraduate and postgraduate levels."
+      },
+      "location": {
+        "province": "Koshi Province",
+        "district": "Sunsari",
+        "municipality": "Dharan Sub-Metropolitan City",
+        "ward": 8,
+        "tole": "Hattisar",
+        "full_address": "Hattisar, Dharan, Sunsari, Koshi Province, Nepal",
+        "latitude": 26.8140,
+        "longitude": 87.2840,
+        "google_maps_url": null,
+        "google_maps_embed_url": null,
+        "nearby_landmarks": [
+          "Buddha Chowk"
+        ]
+      },
+      "affiliation": {
+        "university": "Tribhuvan University",
+        "affiliation_type": "Constituent Campus",
+        "accreditation": [
+          "UGC Nepal"
+        ],
+        "recognition_details": [
+          "Recognized by University Grants Commission (UGC) Nepal"
+        ]
+      },
+      "academics": {
+        "study_system": "Semester and Annual",
+        "academic_calendar": "As per Tribhuvan University calendar",
+        "medium_of_instruction": [
+          "English",
+          "Nepali"
+        ],
+        "teaching_methodology": "Lectures, practicals, assignments, and field works",
+        "programs": [
+          {
+            "name": "Bachelor of Science (B.Sc.)",
+            "degree_level": "Undergraduate",
+            "faculty": "Science",
+            "specialization": [
+              "Physics",
+              "Chemistry",
+              "Mathematics",
+              "Botany",
+              "Zoology"
+            ],
+            "duration": "4 years",
+            "semester_or_year": "Semester",
+            "eligibility": "Passed +2 Science with minimum required GPA",
+            "entrance_requirement": "TU entrance examination",
+            "fee": null,
+            "intake_capacity": null,
+            "status": "active",
+            "source_urls": [
+              "https://www.tu.edu.np"
+            ]
+          },
+          {
+            "name": "Bachelor of Business Studies (BBS)",
+            "degree_level": "Undergraduate",
+            "faculty": "Management",
+            "specialization": [
+              "Management"
+            ],
+            "duration": "4 years",
+            "semester_or_year": "Annual",
+            "eligibility": "Passed +2 or equivalent in any stream",
+            "entrance_requirement": "None",
+            "fee": null,
+            "intake_capacity": null,
+            "status": "active",
+            "source_urls": [
+              "https://www.tu.edu.np"
+            ]
+          }
+        ]
+      },
+      "admission": {
+        "guidance": "Admissions are conducted according to Tribhuvan University rules and regulations.",
+        "requirements": [
+          "Academic transcripts of previous degrees",
+          "Character certificate",
+          "Pass marks in relevant entrance exams if applicable"
+        ],
+        "application_process": [
+          "Fill out the online or offline application form",
+          "Submit necessary academic documents",
+          "Appear for entrance test if required"
+        ],
+        "application_url": null,
+        "entrance_details": "Conducted by Tribhuvan University or the campus itself depending on the program.",
+        "required_documents": [
+          "SLC/SEE Marksheet",
+          "+2 Transcript",
+          "Character Certificate",
+          "Passport size photos"
+        ],
+        "admission_contact": [],
+        "current_notices": []
+      },
+      "scholarships": [
+        {
+          "name": "Government Merit Scholarship",
+          "type": "Government",
+          "eligibility": "Based on academic merit and quota system",
+          "benefits": "Partial or full tuition waiver",
+          "application_process": "Apply through campus administration during admission",
+          "deadline": null,
+          "status": "active",
+          "source_urls": []
+        }
+      ],
+      "facilities": [
+        "Library",
+        "Science Laboratories",
+        "Computer Lab",
+        "Sports Ground",
+        "Cafeteria",
+        "Hostel"
+      ],
+      "infrastructure": [],
+      "faculty": {
+        "principal": null,
+        "chairperson": null,
+        "campus_chief": null,
+        "departments": [
+          "Science",
+          "Management",
+          "Humanities",
+          "Education"
+        ],
+        "faculty_members": [],
+        "teaching_approach": "Standard university-level lectures and practical sessions."
+      },
+      "leadership_messages": {
+        "principal_message": null,
+        "chairperson_message": null,
+        "founder_message": null
+      },
+      "institutional_profile": {
+        "mission": "To provide quality higher education accessible to a diverse group of students.",
+        "vision": "To be a leading center of academic excellence in Nepal.",
+        "core_values": [
+          "Academic Freedom",
+          "Inclusivity",
+          "Excellence"
+        ],
+        "highlights": [
+          "Constituent campus of Tribhuvan University",
+          "One of the oldest campuses in Sunsari district",
+          "Offers diverse streams including Science, Management, Humanities, and Education"
+        ],
+        "features": [],
+        "why_choose_this_college": [
+          "Affordable government fee structure",
+          "Experienced faculty members",
+          "Vibrant campus life in Dharan"
+        ],
+        "achievements": [],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": [
+          "Annual Sports",
+          "Cultural Programs",
+          "Debate Competitions"
+        ],
+        "clubs": [],
+        "sports": [
+          "Football",
+          "Cricket",
+          "Basketball"
+        ],
+        "student_organizations": [
+          "Various student unions affiliated with national political parties"
+        ],
+        "campus_experience": "Active student politics and vibrant extracurricular environment.",
+        "student_welfare": []
+      },
+      "career_development": {
+        "placement_cell": null,
+        "internship_opportunities": [],
+        "industry_partnerships": [],
+        "career_counseling": null,
+        "alumni_network": null,
+        "placement_statistics": []
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "admission_contacts": [],
+        "website": null,
+        "office_hours": "10:00 AM - 5:00 PM",
+        "contact_person": null
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "linkedin": null,
+        "youtube": null,
+        "x": null,
+        "other": []
+      },
+      "online_resources": {
+        "prospectus": [],
+        "fee_structure": [],
+        "academic_calendar": [],
+        "notices": [],
+        "results": [],
+        "student_portal": null,
+        "downloads": []
+      },
+      "seo": {
+        "suggested_title": "Mahendra Multiple Campus, Dharan, Sunsari",
+        "meta_description": "Explore Mahendra Multiple Campus in Dharan, Sunsari, a constituent campus of Tribhuvan University offering Science, Management, and Humanities programs.",
+        "keywords": [
+          "Mahendra Multiple Campus",
+          "MMC Dharan",
+          "Tribhuvan University campus Sunsari",
+          "colleges in Dharan"
+        ],
+        "faq": [
+          {
+            "question": "Which university is Mahendra Multiple Campus affiliated with?",
+            "answer": "Mahendra Multiple Campus is a constituent campus of Tribhuvan University."
+          },
+          {
+            "question": "Where is Mahendra Multiple Campus located?",
+            "answer": "It is located in Hattisar, Dharan, Sunsari district, Koshi Province, Nepal."
+          }
+        ]
+      },
+      "verification": {
+        "verification_status": "partial",
+        "last_verified_at": "2023-10-25",
+        "official_sources": [
+          "https://www.tu.edu.np"
+        ],
+        "secondary_sources": [],
+        "field_confidence": {
+          "identity": "high",
+          "location": "high",
+          "affiliation": "high"
+        },
+        "missing_information": [
+          "Detailed contact numbers",
+          "Specific internal leadership names",
+          "Exact fees and intake capacities"
+        ],
+        "notes": "Basic institutional record verified via Tribhuvan University constituent list."
+      }
+    }
+  ],
+  "district_summary": {
+    "total_colleges": 1,
+    "government_colleges": 1,
+    "community_colleges": 0,
+    "private_colleges": 0,
+    "universities_and_constituent_campuses": 1,
+    "other_institutions": 0,
+    "municipalities_covered": [
+      "Dharan Sub-Metropolitan City"
+    ],
+    "institutions_by_university": [
+      {
+        "university": "Tribhuvan University",
+        "count": 1
+      }
+    ],
+    "research_gaps": [
+      "Need to discover community and private colleges in Itahari, Inaruwa, and other municipalities of Sunsari."
+    ]
+  }
+}

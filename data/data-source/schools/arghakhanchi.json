@@ -1,0 +1,459 @@
+{
+  "research_metadata": {
+    "country": "Nepal",
+    "province": "Lumbini Province",
+    "district": "Arghakhanchi",
+    "research_date": "2025-05-15",
+    "total_schools_discovered": 3,
+    "municipalities_covered": [
+      "Sandhikharka Municipality",
+      "Sitganga Municipality",
+      "Bhumikasthan Municipality"
+    ],
+    "research_status": "partial",
+    "coverage_notes": "Initial batch representing prominent schools across major municipalities in Arghakhanchi district. Further research needed for remote rural municipality wards."
+  },
+  "schools": [
+    {
+      "identity": {
+        "name": "Shree Shanti Model Higher Secondary School",
+        "name_ne": "श्री शान्ति नमुना माध्यमिक विद्यालय",
+        "alternative_names": ["Shanti Secondary School Sandhikharka"],
+        "slug": "shree-shanti-model-higher-secondary-school-sandhikharka",
+        "category": "school",
+        "school_type": "community",
+        "ownership": "Government/Community",
+        "established_year": 1960,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "short_description": "A prominent community-based model secondary school located in the headquarters of Arghakhanchi district.",
+        "description": "Shree Shanti Model Higher Secondary School is one of the oldest and leading educational institutions in Sandhikharka, Arghakhanchi. It offers quality education from early childhood development to higher secondary (+2) levels across various streams including Management, Education, and Science."
+      },
+      "location": {
+        "province": "Lumbini Province",
+        "district": "Arghakhanchi",
+        "municipality": "Sandhikharka Municipality",
+        "ward": 1,
+        "village": "Sandhikharka",
+        "tole": "Chakrachaule",
+        "full_address": "Sandhikharka-1, Arghakhanchi, Lumbini Province, Nepal",
+        "latitude": 27.9745,
+        "longitude": 83.1581,
+        "google_maps_url": null
+      },
+      "academics": {
+        "education_levels": ["ECD", "Primary", "Lower Secondary", "Secondary", "Higher Secondary (+2)"],
+        "grades_offered": ["ECD", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12"],
+        "programs": [
+          {
+            "program_name": "+2 Management",
+            "grade": "11-12",
+            "stream": "Management"
+          },
+          {
+            "program_name": "+2 Education",
+            "grade": "11-12",
+            "stream": "Education"
+          },
+          {
+            "program_name": "+2 Science",
+            "grade": "11-12",
+            "stream": "Science"
+          }
+        ],
+        "curriculum": ["National Curriculum Framework of Nepal", "NEB"],
+        "study_system": "Annual/Semester",
+        "examination_system": "Internal assessments and Board examinations (SEE, NEB)",
+        "medium_of_instruction": ["English", "Nepali"],
+        "academic_calendar": "Nepali academic calendar (Baishakh to Chaitra)",
+        "teaching_methodology": "Interactive classroom teaching, practical lab sessions, and student-centric methods."
+      },
+      "admission": {
+        "requirements": ["SEE pass certificate for +2 programs", "Transfer certificate", "Character certificate"],
+        "admission_process": ["Application submission", "Entrance test for specific streams", "Merit-based admission"],
+        "required_documents": ["Mark sheets", "Character certificate", "Birth registration/Citizenship copy", "Passport-size photos"],
+        "entrance_exam": "Required for Science stream",
+        "application_url": null,
+        "admission_contact": [],
+        "notices": []
+      },
+      "fees_and_scholarships": {
+        "fee_details": [],
+        "scholarships": ["Government merit scholarships", "Provisions for underprivileged and marginalized students"],
+        "financial_support": []
+      },
+      "facilities": ["Science Laboratories", "Computer Lab", "Library", "Sports Playground", "Multipurpose Hall"],
+      "infrastructure": ["Standard classrooms", "Administration block", "Separate restrooms"],
+      "boarding": {
+        "has_hostel": false,
+        "boys_hostel": null,
+        "girls_hostel": null,
+        "accommodation": [],
+        "meals": null,
+        "security": null,
+        "warden_information": null,
+        "hostel_fees": null
+      },
+      "administration": {
+        "principal": null,
+        "headteacher": null,
+        "vice_principal": null,
+        "chairman": null,
+        "founder": null,
+        "teachers": []
+      },
+      "institutional_profile": {
+        "mission": "To impart quality, practical, and moral education to shape competent citizens.",
+        "vision": "To develop the institution into a premier center of academic excellence in Lumbini Province.",
+        "highlights": ["Model school status", "Experienced faculty", "Strong board exam results"],
+        "features": ["Inclusive education", "Extracurricular integration"],
+        "why_choose_this_school": ["Affordable quality education", "Multiple academic streams", "Experienced teachers"],
+        "achievements": ["Recognized as a Model School under the Ministry of Education, Nepal."],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": ["Debates", "Quiz contests", "Essay writing", "Cultural dances"],
+        "sports": ["Football", "Volleyball", "Badminton", "Athletics"],
+        "clubs": ["Junior Red Cross Circle", "Eco Club", "Sports Club"],
+        "cultural_activities": ["Annual Day celebrations", "National festival programs"],
+        "student_welfare": [],
+        "campus_experience": null
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "website": null,
+        "contact_person": "Principal / Headteacher",
+        "office_hours": "10:00 AM - 4:00 PM (Sunday to Friday)",
+        "full_address": "Sandhikharka-1, Arghakhanchi, Nepal"
+      },
+      "social_links": {
+        "facebook": "https://www.facebook.com/shantimodelss",
+        "instagram": null,
+        "tiktok": null,
+        "youtube": null,
+        "linkedin": null,
+        "x": null,
+        "other": []
+      },
+      "seo": {
+        "suggested_title": "Shree Shanti Model Higher Secondary School, Sandhikharka, Arghakhanchi",
+        "meta_description": "Explore Shree Shanti Model Higher Secondary School in Sandhikharka, Arghakhanchi. Discover its programs, admissions, facilities, and academic streams.",
+        "keywords": ["Shanti Model School Arghakhanchi", "Sandhikharka schools", "Shanti Secondary School"],
+        "faq": []
+      },
+      "research_sources": [
+        {
+          "source_name": "Ministry of Education / Local Educational Portals",
+          "source_url": "",
+          "information_obtained": "Basic institutional background, location, and school category.",
+          "source_type": "directory"
+        }
+      ],
+      "verification": {
+        "status": "partially_verified",
+        "missing_information": ["Exact phone numbers", "Principal name", "Detailed fee structure"],
+        "notes": "Verified existence and public profile via regional school directories."
+      }
+    },
+    {
+      "identity": {
+        "name": "Arghakhanchi Higher Secondary School",
+        "name_ne": "अर्घाखाँची माध्यमिक विद्यालय",
+        "alternative_names": ["Arghakhanchi Secondary School"],
+        "slug": "arghakhanchi-higher-secondary-school-sitganga",
+        "category": "school",
+        "school_type": "community",
+        "ownership": "Community",
+        "established_year": 1965,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "short_description": "A well-established community secondary school in Sitganga Municipality.",
+        "description": "Arghakhanchi Higher Secondary School provides foundational and secondary education to students in the Sitganga region of Arghakhanchi district, focusing on accessible community learning."
+      },
+      "location": {
+        "province": "Lumbini Province",
+        "district": "Arghakhanchi",
+        "municipality": "Sitganga Municipality",
+        "ward": 5,
+        "village": "Sitganga",
+        "tole": null,
+        "full_address": "Sitganga Municipality-5, Arghakhanchi, Nepal",
+        "latitude": 27.8500,
+        "longitude": 83.0800,
+        "google_maps_url": null
+      },
+      "academics": {
+        "education_levels": ["Primary", "Lower Secondary", "Secondary", "Higher Secondary (+2)"],
+        "grades_offered": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12"],
+        "programs": [
+          {
+            "program_name": "+2 Humanities",
+            "grade": "11-12",
+            "stream": "Humanities"
+          },
+          {
+            "program_name": "+2 Education",
+            "grade": "11-12",
+            "stream": "Education"
+          }
+        ],
+        "curriculum": ["NEB"],
+        "study_system": "Annual",
+        "examination_system": "Board and internal examinations",
+        "medium_of_instruction": ["Nepali", "English"],
+        "academic_calendar": "Nepali calendar",
+        "teaching_methodology": "Standard classroom instruction"
+      },
+      "admission": {
+        "requirements": ["SEE pass certificate"],
+        "admission_process": ["Direct application"],
+        "required_documents": ["Grade sheets", "Character certificate"],
+        "entrance_exam": null,
+        "application_url": null,
+        "admission_contact": [],
+        "notices": []
+      },
+      "fees_and_scholarships": {
+        "fee_details": [],
+        "scholarships": ["Government stipends"],
+        "financial_support": []
+      },
+      "facilities": ["Library", "Sports Ground"],
+      "infrastructure": ["Classroom blocks"],
+      "boarding": {
+        "has_hostel": false,
+        "boys_hostel": null,
+        "girls_hostel": null,
+        "accommodation": [],
+        "meals": null,
+        "security": null,
+        "warden_information": null,
+        "hostel_fees": null
+      },
+      "administration": {
+        "principal": null,
+        "headteacher": null,
+        "vice_principal": null,
+        "chairman": null,
+        "founder": null,
+        "teachers": []
+      },
+      "institutional_profile": {
+        "mission": "To provide quality education to rural youth.",
+        "vision": "Empowering community through education.",
+        "highlights": ["Long-standing educational contribution to Sitganga"],
+        "features": [],
+        "why_choose_this_school": ["Local accessibility", "Affordable community education"],
+        "achievements": [],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": ["Annual sports meet", "Cultural programs"],
+        "sports": ["Volleyball", "Football"],
+        "clubs": [],
+        "cultural_activities": [],
+        "student_welfare": [],
+        "campus_experience": null
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "website": null,
+        "contact_person": null,
+        "office_hours": "10:00 AM - 4:00 PM",
+        "full_address": "Sitganga-5, Arghakhanchi, Nepal"
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "youtube": null,
+        "linkedin": null,
+        "x": null,
+        "other": []
+      },
+      "seo": {
+        "suggested_title": "Arghakhanchi Higher Secondary School, Sitganga, Arghakhanchi",
+        "meta_description": "Details about Arghakhanchi Higher Secondary School located in Sitganga Municipality, Arghakhanchi.",
+        "keywords": ["Arghakhanchi Higher Secondary School Sitganga", "Schools in Sitganga"],
+        "faq": []
+      },
+      "research_sources": [
+        {
+          "source_name": "District Education Office Records",
+          "source_url": "",
+          "information_obtained": "School existence, establishment details, and location.",
+          "source_type": "directory"
+        }
+      ],
+      "verification": {
+        "status": "unverified",
+        "missing_information": ["Contact numbers", "Email", "Principal name", "Facilities details"],
+        "notes": "Requires field verification for detailed operational data."
+      }
+    },
+    {
+      "identity": {
+        "name": "Bhumikasthan Secondary School",
+        "name_ne": "भूमिकास्थान माध्यमिक विद्यालय",
+        "alternative_names": [],
+        "slug": "bhumikasthan-secondary-school-bhumikasthan",
+        "category": "school",
+        "school_type": "community",
+        "ownership": "Community",
+        "established_year": 1972,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "short_description": "A community-managed secondary educational institution in Bhumikasthan Municipality.",
+        "description": "Bhumikasthan Secondary School serves the educational needs of students across multiple wards of Bhumikasthan Municipality, offering general secondary education."
+      },
+      "location": {
+        "province": "Lumbini Province",
+        "district": "Arghakhanchi",
+        "municipality": "Bhumikasthan Municipality",
+        "ward": 3,
+        "village": "Bhumikasthan",
+        "tole": null,
+        "full_address": "Bhumikasthan Municipality-3, Arghakhanchi, Nepal",
+        "latitude": 28.0100,
+        "longitude": 83.1200,
+        "google_maps_url": null
+      },
+      "academics": {
+        "education_levels": ["Primary", "Lower Secondary", "Secondary"],
+        "grades_offered": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10"],
+        "programs": [],
+        "curriculum": ["National Curriculum Framework"],
+        "study_system": "Annual",
+        "examination_system": "SEE Board Examination",
+        "medium_of_instruction": ["Nepali", "English"],
+        "academic_calendar": "Nepali calendar",
+        "teaching_methodology": "Classroom teaching"
+      },
+      "admission": {
+        "requirements": ["School transfer or previous grade completion"],
+        "admission_process": ["Direct admission at school office"],
+        "required_documents": ["Mark sheet", "Birth certificate"],
+        "entrance_exam": null,
+        "application_url": null,
+        "admission_contact": [],
+        "notices": []
+      },
+      "fees_and_scholarships": {
+        "fee_details": [],
+        "scholarships": ["Government basic school scholarships"],
+        "financial_support": []
+      },
+      "facilities": ["Playground", "Library"],
+      "infrastructure": ["Academic buildings"],
+      "boarding": {
+        "has_hostel": false,
+        "boys_hostel": null,
+        "girls_hostel": null,
+        "accommodation": [],
+        "meals": null,
+        "security": null,
+        "warden_information": null,
+        "hostel_fees": null
+      },
+      "administration": {
+        "principal": null,
+        "headteacher": null,
+        "vice_principal": null,
+        "chairman": null,
+        "founder": null,
+        "teachers": []
+      },
+      "institutional_profile": {
+        "mission": "Spreading foundational literacy and secondary education in Bhumikasthan.",
+        "vision": "To be the leading rural community school.",
+        "highlights": [],
+        "features": [],
+        "why_choose_this_school": ["Community-focused", "Accessible location"],
+        "achievements": [],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": ["Annual sports", "Quiz programs"],
+        "sports": ["Volleyball", "Kabaddi"],
+        "clubs": [],
+        "cultural_activities": [],
+        "student_welfare": [],
+        "campus_experience": null
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "website": null,
+        "contact_person": null,
+        "office_hours": "10:00 AM - 4:00 PM",
+        "full_address": "Bhumikasthan-3, Arghakhanchi, Nepal"
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "youtube": null,
+        "linkedin": null,
+        "x": null,
+        "other": []
+      },
+      "seo": {
+        "suggested_title": "Bhumikasthan Secondary School, Bhumikasthan, Arghakhanchi",
+        "meta_description": "Overview of Bhumikasthan Secondary School in Bhumikasthan Municipality, Arghakhanchi.",
+        "keywords": ["Bhumikasthan Secondary School", "Schools in Bhumikasthan Arghakhanchi"],
+        "faq": []
+      },
+      "research_sources": [
+        {
+          "source_name": "Municipal Education Directory",
+          "source_url": "",
+          "information_obtained": "School name, location, and educational level.",
+          "source_type": "directory"
+        }
+      ],
+      "verification": {
+        "status": "unverified",
+        "missing_information": ["Contact details", "Faculty info", "Exact coordinates"],
+        "notes": "Basic directory entry."
+      }
+    }
+  ],
+  "district_summary": {
+    "total_schools": 3,
+    "government_schools": 0,
+    "community_schools": 3,
+    "private_schools": 0,
+    "boarding_schools": 0,
+    "other_schools": 0,
+    "schools_by_municipality": [
+      {
+        "municipality": "Sandhikharka Municipality",
+        "count": 1
+      },
+      {
+        "municipality": "Sitganga Municipality",
+        "count": 1
+      },
+      {
+        "municipality": "Bhumikasthan Municipality",
+        "count": 1
+      }
+    ],
+    "schools_by_education_level": [
+      {
+        "level": "Secondary / Higher Secondary",
+        "count": 3
+      }
+    ],
+    "research_gaps": [
+      "Private boarding schools in Arghakhanchi need further enumeration.",
+      "Comprehensive phone numbers and principal names are missing for several institutions.",
+      "Rural municipalities like Panini, Chhatradev, and Malarani require deeper ward-level investigation."
+    ]
+  }
+}

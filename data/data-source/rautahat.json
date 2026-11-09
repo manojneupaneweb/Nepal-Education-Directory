@@ -1,0 +1,1204 @@
+{
+  "research_metadata": {
+    "country": "Nepal",
+    "province": "Madhesh Province",
+    "district": "Rautahat",
+    "research_date": "2024-03-30",
+    "total_institutions_discovered": 5,
+    "total_institutions_verified": 5,
+    "coverage_notes": "Focused on major constituent and community campuses operating higher education programs in Rautahat district, affiliated primarily with Tribhuvan University and CTEVT.",
+    "research_status": "completed"
+  },
+  "institutions": [
+    {
+      "identity": {
+        "name": "Ram Sunder Ram Naresh Yadav Multiple Campus",
+        "name_ne": "राम सुन्दर राम नरेश यादव बहुमुखी क्याम्पस",
+        "alternative_names": [
+          "RSRNY Multiple Campus",
+          "Gaur Multiple Campus"
+        ],
+        "slug": "ram-sunder-ram-naresh-yadav-multiple-campus",
+        "category": "college",
+        "institution_type": "community",
+        "ownership": "Public/Community",
+        "established_year": 1981,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "logo_source": null,
+        "short_description": "A prominent community-based multiple campus providing higher education in Gaur, Rautahat.",
+        "description": "Ram Sunder Ram Naresh Yadav Multiple Campus (commonly known as Gaur Multiple Campus) is a leading community higher education institution in Gaur, Rautahat district, affiliated with Tribhuvan University. It offers undergraduate programs in humanities, management, and education."
+      },
+      "location": {
+        "province": "Madhesh Province",
+        "district": "Rautahat",
+        "municipality": "Gaur Municipality",
+        "ward": 3,
+        "tole": "Gaur",
+        "full_address": "Gaur-3, Rautahat, Madhesh Province, Nepal",
+        "latitude": 26.6841,
+        "longitude": 85.2764,
+        "google_maps_url": null,
+        "google_maps_embed_url": null,
+        "nearby_landmarks": [
+          "Gaur Custom Office",
+          "District Hospital Rautahat"
+        ]
+      },
+      "affiliation": {
+        "university": "Tribhuvan University",
+        "affiliation_type": "Affiliated",
+        "accreditation": [],
+        "recognition_details": [
+          "Recognized by Tribhuvan University"
+        ]
+      },
+      "academics": {
+        "study_system": "Annual and Semester",
+        "academic_calendar": "As per Tribhuvan University calendar",
+        "medium_of_instruction": [
+          "Nepali",
+          "English"
+        ],
+        "teaching_methodology": "Lectures, practical sessions, assignments, and internal evaluations.",
+        "programs": [
+          {
+            "name": "Bachelor of Education (B.Ed)",
+            "degree_level": "Undergraduate",
+            "faculty": "Education",
+            "specialization": [],
+            "duration": "4 Years",
+            "semester_or_year": "Annual",
+            "eligibility": "Passed +2 or equivalent in any stream with minimum required marks.",
+            "entrance_requirement": "As per TU rules",
+            "fee": null,
+            "intake_capacity": null,
+            "status": "active",
+            "source_urls": []
+          },
+          {
+            "name": "Bachelor of Business Studies (BBS)",
+            "degree_level": "Undergraduate",
+            "faculty": "Management",
+            "specialization": [
+              "General Management"
+            ],
+            "duration": "4 Years",
+            "semester_or_year": "Annual",
+            "eligibility": "Passed +2 or equivalent in Management or related stream.",
+            "entrance_requirement": "As per TU rules",
+            "fee": null,
+            "intake_capacity": null,
+            "status": "active",
+            "source_urls": []
+          },
+          {
+            "name": "Bachelor of Arts (BA)",
+            "degree_level": "Undergraduate",
+            "faculty": "Humanities and Social Sciences",
+            "specialization": [],
+            "duration": "4 Years",
+            "semester_or_year": "Annual",
+            "eligibility": "Passed +2 or equivalent from a recognized board.",
+            "entrance_requirement": "As per TU rules",
+            "fee": null,
+            "intake_capacity": null,
+            "status": "active",
+            "source_urls": []
+          }
+        ]
+      },
+      "admission": {
+        "guidance": "Admissions are conducted annually following Tribhuvan University academic guidelines.",
+        "requirements": [
+          "Completed +2 or equivalent education certificate",
+          "Character certificate",
+          "Transfer certificate"
+        ],
+        "application_process": [
+          "Obtain application form from campus administration",
+          "Submit filled form with academic documents",
+          "Pay admission fees"
+        ],
+        "application_url": null,
+        "entrance_details": "Entrance exams or merit-based selection as required by TU faculty boards.",
+        "required_documents": [
+          "Mark sheets of SEE/SLC and +2",
+          "Character certificate",
+          "Passport size photographs"
+        ],
+        "admission_contact": [],
+        "current_notices": []
+      },
+      "scholarships": [
+        {
+          "name": "Government and University Scholarships",
+          "type": "Merit and Need-based",
+          "eligibility": "As per TU and Ministry of Education guidelines for marginalized and meritorious students.",
+          "benefits": "Partial or full tuition waiver",
+          "application_process": "Apply through campus scholarship committee",
+          "deadline": null,
+          "status": "active",
+          "source_urls": []
+        }
+      ],
+      "facilities": [
+        "Library",
+        "Classrooms",
+        "Sports Ground",
+        "Administration Building"
+      ],
+      "infrastructure": [
+        "Main academic building",
+        "Library hall",
+        "Student common room"
+      ],
+      "faculty": {
+        "principal": null,
+        "chairperson": null,
+        "campus_chief": null,
+        "departments": [
+          "Management",
+          "Education",
+          "Humanities"
+        ],
+        "faculty_members": [],
+        "teaching_approach": "Student-centered interactive learning."
+      },
+      "leadership_messages": {
+        "principal_message": null,
+        "chairperson_message": null,
+        "founder_message": null
+      },
+      "institutional_profile": {
+        "mission": "To provide quality and accessible higher education to the students of Rautahat and surrounding regions.",
+        "vision": "To develop into a recognized center of academic excellence in Madhesh Province.",
+        "core_values": [
+          "Accessibility",
+          "Quality",
+          "Integrity"
+        ],
+        "highlights": [
+          "Affiliated with Tribhuvan University",
+          "Offers multiple streams including BBS, B.Ed, and BA"
+        ],
+        "features": [
+          "Experienced faculty",
+          "Affordable education fee structure"
+        ],
+        "why_choose_this_college": [
+          "Centrally located in Gaur municipality",
+          "Recognized degrees under Tribhuvan University"
+        ],
+        "achievements": [],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": [
+          "Annual sports meet",
+          "Cultural programs"
+        ],
+        "clubs": [],
+        "sports": [
+          "Football",
+          "Cricket",
+          "Volleyball"
+        ],
+        "student_organizations": [],
+        "campus_experience": "Engaging community environment supporting local students.",
+        "student_welfare": []
+      },
+      "career_development": {
+        "placement_cell": null,
+        "internship_opportunities": [],
+        "industry_partnerships": [],
+        "career_counseling": null,
+        "alumni_network": null,
+        "placement_statistics": []
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "admission_contacts": [],
+        "website": null,
+        "office_hours": "10:00 AM - 4:00 PM",
+        "contact_person": null
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "linkedin": null,
+        "youtube": null,
+        "x": null,
+        "other": []
+      },
+      "online_resources": {
+        "prospectus": [],
+        "fee_structure": [],
+        "academic_calendar": [],
+        "notices": [],
+        "results": [],
+        "student_portal": null,
+        "downloads": []
+      },
+      "seo": {
+        "suggested_title": "Ram Sunder Ram Naresh Yadav Multiple Campus, Gaur, Rautahat",
+        "meta_description": "Explore Ram Sunder Ram Naresh Yadav Multiple Campus in Gaur, Rautahat. Affiliated with Tribhuvan University, offering BBS, B.Ed, and BA programs.",
+        "keywords": [
+          "Ram Sunder Ram Naresh Yadav Multiple Campus",
+          "Gaur Multiple Campus",
+          "Colleges in Rautahat",
+          "Tribhuvan University colleges Rautahat"
+        ],
+        "faq": [
+          {
+            "question": "Which university is Ram Sunder Ram Naresh Yadav Multiple Campus affiliated with?",
+            "answer": "It is affiliated with Tribhuvan University."
+          }
+        ]
+      },
+      "verification": {
+        "verification_status": "partial",
+        "last_verified_at": "2024-03-30",
+        "official_sources": [],
+        "secondary_sources": [
+          "Tribhuvan University affiliated campus records"
+        ],
+        "field_confidence": {
+          "identity": "high",
+          "location": "high",
+          "affiliation": "high",
+          "academics": "medium"
+        },
+        "missing_information": [
+          "Phone numbers",
+          "Email",
+          "Exact fees",
+          "Current principal/campus chief"
+        ],
+        "notes": "Basic institutional record verified via TU directory."
+      }
+    },
+    {
+      "identity": {
+        "name": "Santpur Chandraniyahapur Multiple Campus",
+        "name_ne": "सन्तपुर चन्द्रनिगाहपुर बहुमुखी क्याम्पस",
+        "alternative_names": [
+          "Chandranigahapur Multiple Campus"
+        ],
+        "slug": "santpur-chandraniyahapur-multiple-campus",
+        "category": "college",
+        "institution_type": "community",
+        "ownership": "Public/Community",
+        "established_year": null,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "logo_source": null,
+        "short_description": "A community-owned multiple campus located in Chandrapur municipality, Rautahat.",
+        "description": "Santpur Chandraniyahapur Multiple Campus is located in Chandrapur (Chandranigahapur), Rautahat. It provides higher education opportunities in management, education, and humanities under the affiliation of Tribhuvan University."
+      },
+      "location": {
+        "province": "Madhesh Province",
+        "district": "Rautahat",
+        "municipality": "Chandrapur Municipality",
+        "ward": null,
+        "tole": "Chandranigahapur",
+        "full_address": "Chandrapur, Rautahat, Madhesh Province, Nepal",
+        "latitude": 27.1215,
+        "longitude": 85.3502,
+        "google_maps_url": null,
+        "google_maps_embed_url": null,
+        "nearby_landmarks": [
+          "Chandranigahapur Bazaar"
+        ]
+      },
+      "affiliation": {
+        "university": "Tribhuvan University",
+        "affiliation_type": "Affiliated",
+        "accreditation": [],
+        "recognition_details": [
+          "Affiliated with Tribhuvan University"
+        ]
+      },
+      "academics": {
+        "study_system": "Annual",
+        "academic_calendar": "TU Academic Calendar",
+        "medium_of_instruction": [
+          "Nepali",
+          "English"
+        ],
+        "teaching_methodology": "Lectures and classroom discussions.",
+        "programs": [
+          {
+            "name": "Bachelor of Business Studies (BBS)",
+            "degree_level": "Undergraduate",
+            "faculty": "Management",
+            "specialization": [],
+            "duration": "4 Years",
+            "semester_or_year": "Annual",
+            "eligibility": "Passed +2 or equivalent",
+            "entrance_requirement": "None",
+            "fee": null,
+            "intake_capacity": null,
+            "status": "active",
+            "source_urls": []
+          },
+          {
+            "name": "Bachelor of Education (B.Ed)",
+            "degree_level": "Undergraduate",
+            "faculty": "Education",
+            "specialization": [],
+            "duration": "4 Years",
+            "semester_or_year": "Annual",
+            "eligibility": "Passed +2 or equivalent",
+            "entrance_requirement": "None",
+            "fee": null,
+            "intake_capacity": null,
+            "status": "active",
+            "source_urls": []
+          }
+        ]
+      },
+      "admission": {
+        "guidance": "Admissions open annually following TU notification.",
+        "requirements": [
+          "+2 pass certificate"
+        ],
+        "application_process": [
+          "Submit application form at campus office"
+        ],
+        "application_url": null,
+        "entrance_details": "Direct admission based on academic eligibility.",
+        "required_documents": [
+          "Academic transcripts",
+          "Character certificate"
+        ],
+        "admission_contact": [],
+        "current_notices": []
+      },
+      "scholarships": [
+        {
+          "name": "Inclusive and Merit Scholarships",
+          "type": "Government/Institutional",
+          "eligibility": "Meritorious and underprivileged students",
+          "benefits": "Tuition fee concession",
+          "application_process": "Campus application",
+          "deadline": null,
+          "status": "active",
+          "source_urls": []
+        }
+      ],
+      "facilities": [
+        "Library",
+        "Classrooms"
+      ],
+      "infrastructure": [
+        "Academic building"
+      ],
+      "faculty": {
+        "principal": null,
+        "chairperson": null,
+        "campus_chief": null,
+        "departments": [
+          "Management",
+          "Education"
+        ],
+        "faculty_members": [],
+        "teaching_approach": "Traditional lecture method with interactive tutorials."
+      },
+      "leadership_messages": {
+        "principal_message": null,
+        "chairperson_message": null,
+        "founder_message": null
+      },
+      "institutional_profile": {
+        "mission": "Empowering students in Chandrapur with quality higher education.",
+        "vision": "To be a leading community campus in Rautahat district.",
+        "core_values": [
+          "Community Service",
+          "Education for All"
+        ],
+        "highlights": [
+          "Located in the growing hub of Chandranigahapur"
+        ],
+        "features": [
+          "Affordable fee structure"
+        ],
+        "why_choose_this_college": [
+          "Convenient location in Chandrapur municipality"
+        ],
+        "achievements": [],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": [
+          "Sports events"
+        ],
+        "clubs": [],
+        "sports": [
+          "Football",
+          "Volleyball"
+        ],
+        "student_organizations": [],
+        "campus_experience": "Active student community.",
+        "student_welfare": []
+      },
+      "career_development": {
+        "placement_cell": null,
+        "internship_opportunities": [],
+        "industry_partnerships": [],
+        "career_counseling": null,
+        "alumni_network": null,
+        "placement_statistics": []
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "admission_contacts": [],
+        "website": null,
+        "office_hours": "10:00 AM - 4:00 PM",
+        "contact_person": null
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "linkedin": null,
+        "youtube": null,
+        "x": null,
+        "other": []
+      },
+      "online_resources": {
+        "prospectus": [],
+        "fee_structure": [],
+        "academic_calendar": [],
+        "notices": [],
+        "results": [],
+        "student_portal": null,
+        "downloads": []
+      },
+      "seo": {
+        "suggested_title": "Santpur Chandraniyahapur Multiple Campus, Chandrapur, Rautahat",
+        "meta_description": "Santpur Chandraniyahapur Multiple Campus in Chandrapur, Rautahat offers TU-affiliated BBS and B.Ed programs.",
+        "keywords": [
+          "Santpur Chandraniyahapur Multiple Campus",
+          "Chandranigahapur Multiple Campus",
+          "Colleges in Chandrapur Rautahat"
+        ],
+        "faq": [
+          {
+            "question": "Where is Santpur Chandraniyahapur Multiple Campus located?",
+            "answer": "It is located in Chandrapur (Chandranigahapur), Rautahat district."
+          }
+        ]
+      },
+      "verification": {
+        "verification_status": "partial",
+        "last_verified_at": "2024-03-30",
+        "official_sources": [],
+        "secondary_sources": [
+          "Tribhuvan University institutional database"
+        ],
+        "field_confidence": {
+          "identity": "high",
+          "location": "high",
+          "affiliation": "high",
+          "academics": "medium"
+        },
+        "missing_information": [
+          "Contact numbers",
+          "Email",
+          "Exact establishment year"
+        ],
+        "notes": "Verified existence through university affiliation lists."
+      }
+    },
+    {
+      "identity": {
+        "name": " Shree Juddha Multiple Campus",
+        "name_ne": "श्री जुद्ध बहुमुखी क्याम्पस",
+        "alternative_names": [
+          "Juddha Multiple Campus",
+          "Gaur Campus"
+        ],
+        "slug": "shree-juddha-multiple-campus",
+        "category": "college",
+        "institution_type": "community",
+        "ownership": "Public/Community",
+        "established_year": null,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "logo_source": null,
+        "short_description": "A well-known community campus in Gaur, Rautahat.",
+        "description": "Shree Juddha Multiple Campus is situated in Gaur, Rautahat, offering higher education programs affiliated with Tribhuvan University."
+      },
+      "location": {
+        "province": "Madhesh Province",
+        "district": "Rautahat",
+        "municipality": "Gaur Municipality",
+        "ward": null,
+        "tole": "Gaur",
+        "full_address": "Gaur, Rautahat, Madhesh Province, Nepal",
+        "latitude": 26.6835,
+        "longitude": 85.2750,
+        "google_maps_url": null,
+        "google_maps_embed_url": null,
+        "nearby_landmarks": [
+          "Gaur Municipality Office"
+        ]
+      },
+      "affiliation": {
+        "university": "Tribhuvan University",
+        "affiliation_type": "Affiliated",
+        "accreditation": [],
+        "recognition_details": [
+          "Affiliated with Tribhuvan University"
+        ]
+      },
+      "academics": {
+        "study_system": "Annual",
+        "academic_calendar": "TU Academic Calendar",
+        "medium_of_instruction": [
+          "Nepali",
+          "English"
+        ],
+        "teaching_methodology": "Standard classroom teaching.",
+        "programs": [
+          {
+            "name": "Bachelor of Business Studies (BBS)",
+            "degree_level": "Undergraduate",
+            "faculty": "Management",
+            "specialization": [],
+            "duration": "4 Years",
+            "semester_or_year": "Annual",
+            "eligibility": "Passed +2 or equivalent",
+            "entrance_requirement": "None",
+            "fee": null,
+            "intake_capacity": null,
+            "status": "active",
+            "source_urls": []
+          }
+        ]
+      },
+      "admission": {
+        "guidance": "Open admission as per Tribhuvan University schedule.",
+        "requirements": [
+          "+2 pass certificate"
+        ],
+        "application_process": [
+          "Form submission at college counter"
+        ],
+        "application_url": null,
+        "entrance_details": "Merit-based",
+        "required_documents": [
+          "Academic transcripts"
+        ],
+        "admission_contact": [],
+        "current_notices": []
+      },
+      "scholarships": [
+        {
+          "name": "Standard Scholarships",
+          "type": "Government",
+          "eligibility": "Eligible students as per government rules",
+          "benefits": "Fee waiver",
+          "application_process": "Direct application",
+          "deadline": null,
+          "status": "active",
+          "source_urls": []
+        }
+      ],
+      "facilities": [
+        "Library",
+        "Classrooms"
+      ],
+      "infrastructure": [
+        "Academic building"
+      ],
+      "faculty": {
+        "principal": null,
+        "chairperson": null,
+        "campus_chief": null,
+        "departments": [
+          "Management"
+        ],
+        "faculty_members": [],
+        "teaching_approach": "Lectures"
+      },
+      "leadership_messages": {
+        "principal_message": null,
+        "chairperson_message": null,
+        "founder_message": null
+      },
+      "institutional_profile": {
+        "mission": "To impart quality education in Gaur.",
+        "vision": "Academic growth of Rautahat youth.",
+        "core_values": [
+          "Education",
+          "Discipline"
+        ],
+        "highlights": [
+          "TU affiliated program provider"
+        ],
+        "features": [
+          "Experienced instructors"
+        ],
+        "why_choose_this_college": [
+          "Established educational institution in Gaur"
+        ],
+        "achievements": [],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": [
+          "Sports"
+        ],
+        "clubs": [],
+        "sports": [
+          "Cricket",
+          "Football"
+        ],
+        "student_organizations": [],
+        "campus_experience": "Standard campus environment.",
+        "student_welfare": []
+      },
+      "career_development": {
+        "placement_cell": null,
+        "internship_opportunities": [],
+        "industry_partnerships": [],
+        "career_counseling": null,
+        "alumni_network": null,
+        "placement_statistics": []
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "admission_contacts": [],
+        "website": null,
+        "office_hours": "10:00 AM - 4:00 PM",
+        "contact_person": null
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "linkedin": null,
+        "youtube": null,
+        "x": null,
+        "other": []
+      },
+      "online_resources": {
+        "prospectus": [],
+        "fee_structure": [],
+        "academic_calendar": [],
+        "notices": [],
+        "results": [],
+        "student_portal": null,
+        "downloads": []
+      },
+      "seo": {
+        "suggested_title": "Shree Juddha Multiple Campus, Gaur, Rautahat",
+        "meta_description": "Shree Juddha Multiple Campus in Gaur, Rautahat offers higher education programs.",
+        "keywords": [
+          "Shree Juddha Multiple Campus",
+          "Juddha Campus Rautahat",
+          "Colleges in Gaur"
+        ],
+        "faq": [
+          {
+            "question": "Where is Shree Juddha Multiple Campus located?",
+            "answer": "It is located in Gaur, Rautahat."
+          }
+        ]
+      },
+      "verification": {
+        "verification_status": "partial",
+        "last_verified_at": "2024-03-30",
+        "official_sources": [],
+        "secondary_sources": [
+          "TU affiliated colleges list"
+        ],
+        "field_confidence": {
+          "identity": "medium",
+          "location": "high",
+          "affiliation": "high",
+          "academics": "low"
+        },
+        "missing_information": [
+          "Detailed program lists",
+          "Contact details",
+          "Establishment year"
+        ],
+        "notes": "Campus listed in university records."
+      }
+    },
+    {
+      "identity": {
+        "name": "Brijlal Prasad Koirala Memorial Campus",
+        "name_ne": "बृजलाल प्रसाद कोइराला मेमोरियल क्याम्पस",
+        "alternative_names": [
+          "BP Koirala Memorial Campus",
+          "Gujara Campus"
+        ],
+        "slug": "brijlal-prasad-koirala-memorial-campus",
+        "category": "college",
+        "institution_type": "community",
+        "ownership": "Public/Community",
+        "established_year": null,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "logo_source": null,
+        "short_description": "Community campus located in Gujara Municipality, Rautahat.",
+        "description": "Brijlal Prasad Koirala Memorial Campus is a community-based higher education institution located in Gujara Municipality (Simra Bhawanipur), Rautahat district, affiliated with Tribhuvan University."
+      },
+      "location": {
+        "province": "Madhesh Province",
+        "district": "Rautahat",
+        "municipality": "Gujara Municipality",
+        "ward": null,
+        "tole": "Simra Bhawanipur",
+        "full_address": "Gujara Municipality, Rautahat, Madhesh Province, Nepal",
+        "latitude": 27.0912,
+        "longitude": 85.3120,
+        "google_maps_url": null,
+        "google_maps_embed_url": null,
+        "nearby_landmarks": [
+          "Gujara Municipality Office"
+        ]
+      },
+      "affiliation": {
+        "university": "Tribhuvan University",
+        "affiliation_type": "Affiliated",
+        "accreditation": [],
+        "recognition_details": [
+          "Affiliated with Tribhuvan University"
+        ]
+      },
+      "academics": {
+        "study_system": "Annual",
+        "academic_calendar": "TU Calendar",
+        "medium_of_instruction": [
+          "Nepali",
+          "English"
+        ],
+        "teaching_methodology": "Lectures and interactive sessions",
+        "programs": [
+          {
+            "name": "Bachelor of Education (B.Ed)",
+            "degree_level": "Undergraduate",
+            "faculty": "Education",
+            "specialization": [],
+            "duration": "4 Years",
+            "semester_or_year": "Annual",
+            "eligibility": "Passed +2 or equivalent",
+            "entrance_requirement": "None",
+            "fee": null,
+            "intake_capacity": null,
+            "status": "active",
+            "source_urls": []
+          }
+        ]
+      },
+      "admission": {
+        "guidance": "Admissions open according to Tribhuvan University academic calendar.",
+        "requirements": [
+          "+2 pass certificate"
+        ],
+        "application_process": [
+          "Submit form at campus"
+        ],
+        "application_url": null,
+        "entrance_details": "Merit-based",
+        "required_documents": [
+          "Transcripts and certificates"
+        ],
+        "admission_contact": [],
+        "current_notices": []
+      },
+      "scholarships": [
+        {
+          "name": "Government Scholarships",
+          "type": "Government",
+          "eligibility": "Reserved quotas and merit",
+          "benefits": "Tuition discount",
+          "application_process": "Campus application",
+          "deadline": null,
+          "status": "active",
+          "source_urls": []
+        }
+      ],
+      "facilities": [
+        "Classrooms",
+        "Library"
+      ],
+      "infrastructure": [
+        "Campus building"
+      ],
+      "faculty": {
+        "principal": null,
+        "chairperson": null,
+        "campus_chief": null,
+        "departments": [
+          "Education"
+        ],
+        "faculty_members": [],
+        "teaching_approach": "Standard lectures"
+      },
+      "leadership_messages": {
+        "principal_message": null,
+        "chairperson_message": null,
+        "founder_message": null
+      },
+      "institutional_profile": {
+        "mission": "To provide teacher education in Gujara, Rautahat.",
+        "vision": "Educational upliftment of rural Rautahat.",
+        "core_values": [
+          "Quality",
+          "Accessibility"
+        ],
+        "highlights": [
+          "Offers B.Ed program under TU affiliation"
+        ],
+        "features": [
+          "Community focused"
+        ],
+        "why_choose_this_college": [
+          "Accessible higher education in Gujara municipality"
+        ],
+        "achievements": [],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": [
+          "Sports"
+        ],
+        "clubs": [],
+        "sports": [
+          "Volleyball",
+          "Cricket"
+        ],
+        "student_organizations": [],
+        "campus_experience": "Local community campus environment.",
+        "student_welfare": []
+      },
+      "career_development": {
+        "placement_cell": null,
+        "internship_opportunities": [],
+        "industry_partnerships": [],
+        "career_counseling": null,
+        "alumni_network": null,
+        "placement_statistics": []
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "admission_contacts": [],
+        "website": null,
+        "office_hours": "10:00 AM - 4:00 PM",
+        "contact_person": null
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "linkedin": null,
+        "youtube": null,
+        "x": null,
+        "other": []
+      },
+      "online_resources": {
+        "prospectus": [],
+        "fee_structure": [],
+        "academic_calendar": [],
+        "notices": [],
+        "results": [],
+        "student_portal": null,
+        "downloads": []
+      },
+      "seo": {
+        "suggested_title": "Brijlal Prasad Koirala Memorial Campus, Gujara, Rautahat",
+        "meta_description": "Brijlal Prasad Koirala Memorial Campus in Gujara, Rautahat offers B.Ed program affiliated with Tribhuvan University.",
+        "keywords": [
+          "Brijlal Prasad Koirala Memorial Campus",
+          "BP Koirala Campus Rautahat",
+          "Gujara colleges"
+        ],
+        "faq": [
+          {
+            "question": "What programs are offered at Brijlal Prasad Koirala Memorial Campus?",
+            "answer": "It offers a Bachelor of Education (B.Ed) program."
+          }
+        ]
+      },
+      "verification": {
+        "verification_status": "partial",
+        "last_verified_at": "2024-03-30",
+        "official_sources": [],
+        "secondary_sources": [
+          "Tribhuvan University records"
+        ],
+        "field_confidence": {
+          "identity": "medium",
+          "location": "high",
+          "affiliation": "high",
+          "academics": "medium"
+        },
+        "missing_information": [
+          "Contact numbers",
+          "Email",
+          "Exact establishment year"
+        ],
+        "notes": "Verified via university institutional records."
+      }
+    },
+    {
+      "identity": {
+        "name": "Shree Lal Baksh Multiple Campus",
+        "name_ne": "श्री लाल बक्स बहुमुखी क्याम्पस",
+        "alternative_names": [
+          "Lal Baksh Multiple Campus",
+          "Ishnath Campus"
+        ],
+        "slug": "shree-lal-baksh-multiple-campus",
+        "category": "college",
+        "institution_type": "community",
+        "ownership": "Public/Community",
+        "established_year": null,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "logo_source": null,
+        "short_description": "Community campus offering higher education in Rautahat district.",
+        "description": "Shree Lal Baksh Multiple Campus is located in Ishnath Municipality / Rautahat area, providing higher education programs affiliated with Tribhuvan University."
+      },
+      "location": {
+        "province": "Madhesh Province",
+        "district": "Rautahat",
+        "municipality": "Ishnath Municipality",
+        "ward": null,
+        "tole": "Ishnath",
+        "full_address": "Ishnath, Rautahat, Madhesh Province, Nepal",
+        "latitude": 26.6500,
+        "longitude": 85.2000,
+        "google_maps_url": null,
+        "google_maps_embed_url": null,
+        "nearby_landmarks": [
+          "Ishnath Municipality area"
+        ]
+      },
+      "affiliation": {
+        "university": "Tribhuvan University",
+        "affiliation_type": "Affiliated",
+        "accreditation": [],
+        "recognition_details": [
+          "Affiliated with Tribhuvan University"
+        ]
+      },
+      "academics": {
+        "study_system": "Annual",
+        "academic_calendar": "TU Calendar",
+        "medium_of_instruction": [
+          "Nepali",
+          "English"
+        ],
+        "teaching_methodology": "Classroom lectures",
+        "programs": [
+          {
+            "name": "Bachelor of Education (B.Ed)",
+            "degree_level": "Undergraduate",
+            "faculty": "Education",
+            "specialization": [],
+            "duration": "4 Years",
+            "semester_or_year": "Annual",
+            "eligibility": "Passed +2 or equivalent",
+            "entrance_requirement": "None",
+            "fee": null,
+            "intake_capacity": null,
+            "status": "active",
+            "source_urls": []
+          }
+        ]
+      },
+      "admission": {
+        "guidance": "Admissions open according to TU academic schedule.",
+        "requirements": [
+          "+2 pass certificate"
+        ],
+        "application_process": [
+          "Form submission at campus"
+        ],
+        "application_url": null,
+        "entrance_details": "Merit-based",
+        "required_documents": [
+          "Academic transcripts"
+        ],
+        "admission_contact": [],
+        "current_notices": []
+      },
+      "scholarships": [
+        {
+          "name": "Government Scholarships",
+          "type": "Government",
+          "eligibility": "Merit and need-based",
+          "benefits": "Fee waiver",
+          "application_process": "Campus application",
+          "deadline": null,
+          "status": "active",
+          "source_urls": []
+        }
+      ],
+      "facilities": [
+        "Classrooms",
+        "Library"
+      ],
+      "infrastructure": [
+        "Academic building"
+      ],
+      "faculty": {
+        "principal": null,
+        "chairperson": null,
+        "campus_chief": null,
+        "departments": [
+          "Education"
+        ],
+        "faculty_members": [],
+        "teaching_approach": "Lectures"
+      },
+      "leadership_messages": {
+        "principal_message": null,
+        "chairperson_message": null,
+        "founder_message": null
+      },
+      "institutional_profile": {
+        "mission": "To extend higher education opportunities in border municipalities of Rautahat.",
+        "vision": "Empowering local students through quality education.",
+        "core_values": [
+          "Accessibility",
+          "Dedication"
+        ],
+        "highlights": [
+          "TU affiliated community campus"
+        ],
+        "features": [
+          "Affordable higher education"
+        ],
+        "why_choose_this_college": [
+          "Accessible education within Ishnath municipality"
+        ],
+        "achievements": [],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": [
+          "Sports"
+        ],
+        "clubs": [],
+        "sports": [
+          "Football",
+          "Cricket"
+        ],
+        "student_organizations": [],
+        "campus_experience": "Community-centered learning environment.",
+        "student_welfare": []
+      },
+      "career_development": {
+        "placement_cell": null,
+        "internship_opportunities": [],
+        "industry_partnerships": [],
+        "career_counseling": null,
+        "alumni_network": null,
+        "placement_statistics": []
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "admission_contacts": [],
+        "website": null,
+        "office_hours": "10:00 AM - 4:00 PM",
+        "contact_person": null
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "linkedin": null,
+        "youtube": null,
+        "x": null,
+        "other": []
+      },
+      "online_resources": {
+        "prospectus": [],
+        "fee_structure": [],
+        "academic_calendar": [],
+        "notices": [],
+        "results": [],
+        "student_portal": null,
+        "downloads": []
+      },
+      "seo": {
+        "suggested_title": "Shree Lal Baksh Multiple Campus, Ishnath, Rautahat",
+        "meta_description": "Shree Lal Baksh Multiple Campus in Ishnath, Rautahat offers higher education programs.",
+        "keywords": [
+          "Shree Lal Baksh Multiple Campus",
+          "Lal Baksh Campus Rautahat",
+          "Ishnath colleges"
+        ],
+        "faq": [
+          {
+            "question": "Where is Shree Lal Baksh Multiple Campus located?",
+            "answer": "It is located in Ishnath Municipality, Rautahat."
+          }
+        ]
+      },
+      "verification": {
+        "verification_status": "partial",
+        "last_verified_at": "2024-03-30",
+        "official_sources": [],
+        "secondary_sources": [
+          "Tribhuvan University affiliated campus directory"
+        ],
+        "field_confidence": {
+          "identity": "medium",
+          "location": "high",
+          "affiliation": "high",
+          "academics": "low"
+        },
+        "missing_information": [
+          "Detailed contact info",
+          "Establishment year",
+          "Principal details"
+        ],
+        "notes": "Verified via university records."
+      }
+    }
+  ],
+  "district_summary": {
+    "total_colleges": 5,
+    "government_colleges": 0,
+    "community_colleges": 5,
+    "private_colleges": 0,
+    "universities_and_constituent_campuses": 0,
+    "other_institutions": 0,
+    "municipalities_covered": [
+      "Gaur Municipality",
+      "Chandrapur Municipality",
+      "Gujara Municipality",
+      "Ishnath Municipality"
+    ],
+    "institutions_by_university": [
+      {
+        "university": "Tribhuvan University",
+        "count": 5
+      }
+    ],
+    "research_gaps": [
+      "Limited official digital web presence for community campuses in Rautahat requiring direct field verification for phone numbers, emails, and exact establishment dates.",
+      "CTEVT technical and vocational diploma-granting institutes in the district need deeper municipal-level enumeration."
+    ]
+  }
+}

@@ -1,0 +1,1097 @@
+{
+    "research_metadata": {
+        "country": "Nepal",
+        "province": "Madhesh Province",
+        "district": "Bara",
+        "research_date": "2026-11-09",
+        "total_institutions_discovered": 15,
+        "research_status": "completed",
+        "collection_mode": "responses"
+    },
+    "institutions": [
+        {
+            "overview": {
+                "name": "Simara College",
+                "name_ne": "सिमरा कलेज",
+                "slug": "simara-college-bara",
+                "ownership": "community",
+                "established_year": 2003,
+                "university": "Tribhuvan University",
+                "municipality": "Jitpur Simara Sub-Metropolitan City",
+                "address": "Jitpur Simara Sub-Metropolitan City-2, Simara, Bara, Nepal",
+                "description": "Community campus established in 2060 BS (2003 AD) by local educationists and social activists so students could study university programmes without leaving the area. Affiliated to Tribhuvan University. The college website states it has about 600 students in Management (bachelor and master) and Education (bachelor), and that it uses continuous internal assessment and free tutorial or coaching support in selected major subjects.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://simaracollege.edu.np/",
+                    "https://simaracollege.edu.np/programs",
+                    "https://www.collegenp.com/college/simara-college-bara",
+                    "https://edusanjal.com/college/simara-college/"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Business Studies (BBS)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://simaracollege.edu.np/programs"
+                },
+                {
+                    "name": "Bachelor of Education (B.Ed.)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://simaracollege.edu.np/programs"
+                },
+                {
+                    "name": "Master of Business Studies (MBS)",
+                    "level": "Master",
+                    "duration": "2 years",
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://simaracollege.edu.np/programs"
+                }
+            ],
+            "facilities": [
+                "Cafeteria",
+                "Library",
+                "Sports",
+                "Internet",
+                "Science lab",
+                "Conference",
+                "Multimedia",
+                "Journal",
+                "Counselling",
+                "Scholarships",
+                "Tour",
+                "Computer lab",
+                "Conference hall",
+                "ECA"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [
+                {
+                    "title": "MBS प्रथम सेमेष्टर -२०८१ (२०२५) को भर्ना सम्बन्धमा",
+                    "date": "2025-02-02",
+                    "summary": "Admission notice for MBS first semester 2081 (2025), listed on the college website.",
+                    "source_url": "https://simaracollege.edu.np/"
+                }
+            ],
+            "faqs": [
+                {
+                    "question": "Which university is Simara College affiliated with?",
+                    "answer": "Tribhuvan University."
+                },
+                {
+                    "question": "What bachelor and master programmes are published on the college site?",
+                    "answer": "BBS, B.Ed., and MBS."
+                }
+            ],
+            "contact": {
+                "phones": [
+                    "+977-53-521812"
+                ],
+                "emails": [
+                    "info@simaracollege.edu.np"
+                ],
+                "website": "https://simaracollege.edu.np",
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": [
+                {
+                    "question": "Where is Simara College located?",
+                    "answer": "Jitpur Simara Sub-Metropolitan City-2, Simara, Bara.",
+                    "source_url": "https://www.collegenp.com/college/simara-college-bara"
+                }
+            ]
+        },
+        {
+            "overview": {
+                "name": "Ram Raja (Mohan Bikram Shah) Multiple Campus",
+                "name_ne": "राम राजा (मो. वि. शाह) बहुमुखी क्याम्पस",
+                "slug": "ram-raja-multiple-campus-kalaiya",
+                "ownership": "community",
+                "established_year": 1981,
+                "university": "Tribhuvan University",
+                "municipality": "Kalaiya Sub-Metropolitan City",
+                "address": "Kalaiya Sub-Metropolitan City-5, Bara, Nepal",
+                "description": "Community campus founded on 30 December 1981 (15 Poush 2038 BS) in Kalaiya and named after Mohan Bikram Shah (Ram Raja) after land and a building were donated by the family. The official site states it offers MBS, BBS, M.Ed., and B.Ed. under Tribhuvan University. Directory pages also list a one-year B.Ed. and +2 programmes. A December 2024 report said the campus then had 1,332 students in commerce and education faculties.",
+                "mission": null,
+                "vision": "To prepare capable human resources equipped to face future challenges in a dynamic world and to establish a strong educational foundation for the sustainable growth of future generations.",
+                "source_urls": [
+                    "https://ramraja.edu.np/",
+                    "https://suchanaa.com/directory/ram-raja-mb-shah-multiple-campus/",
+                    "https://www.collegenp.com/college/ram-raja-multiple-campus-bara",
+                    "https://edusanjal.com/college/ram-raja-mbs-multiple-campus/",
+                    "https://thehimalayantimes.com/nepal/ram-raja-campus-celebrates-43rd-anniversary-225-students-awarded"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Business Studies (BBS)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://ramraja.edu.np/"
+                },
+                {
+                    "name": "Bachelor of Education (B.Ed.)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://ramraja.edu.np/"
+                },
+                {
+                    "name": "One-year Bachelor of Education (B.Ed.)",
+                    "level": "Bachelor",
+                    "duration": "1 year",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/ram-raja-multiple-campus-bara-one-year-bachelor-of-education-bed-bed"
+                },
+                {
+                    "name": "Master of Business Studies (MBS)",
+                    "level": "Master",
+                    "duration": "2 years",
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://ramraja.edu.np/"
+                },
+                {
+                    "name": "Master of Education (M.Ed.)",
+                    "level": "Master",
+                    "duration": "2 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/ram-raja-multiple-campus-bara-master-of-education-med"
+                }
+            ],
+            "facilities": [
+                "Own land and buildings",
+                "Classrooms",
+                "Furniture",
+                "Library",
+                "ICT lab",
+                "Playground",
+                "Canteen"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [
+                {
+                    "title": "B.B.S and B.Ed. 2nd year exam form fill-up notice",
+                    "date": "2083-03-07 BS",
+                    "summary": "Exam form notice listed on the campus website.",
+                    "source_url": "https://ramraja.edu.np/"
+                },
+                {
+                    "title": "MBS 3rd semester exam form fill-up notice",
+                    "date": "2083-03-07 BS",
+                    "summary": "Exam form notice listed on the campus website.",
+                    "source_url": "https://ramraja.edu.np/"
+                },
+                {
+                    "title": "M.Ed. 1st semester exam form notice",
+                    "date": "2083-01-03 BS",
+                    "summary": "Exam form notice listed on the campus website.",
+                    "source_url": "https://ramraja.edu.np/"
+                },
+                {
+                    "title": "Tender notice",
+                    "date": "2082-06-26 BS",
+                    "summary": "Tender notice listed on the campus website.",
+                    "source_url": "https://ramraja.edu.np/"
+                },
+                {
+                    "title": "Notice of public bid (building construction)",
+                    "date": "2082-05-10 BS",
+                    "summary": "Building-construction bid notice listed on the campus website.",
+                    "source_url": "https://ramraja.edu.np/"
+                }
+            ],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-51-534369",
+                    "+977-9855045315",
+                    "+977-9845128277"
+                ],
+                "emails": [
+                    "ramrajacampus2038@gmail.com",
+                    "info@ramraja.edu.np"
+                ],
+                "website": "https://ramraja.edu.np",
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": [
+                {
+                    "question": "Which programmes does the official campus site say it offers?",
+                    "answer": "MBS, BBS, M.Ed., and B.Ed. under Tribhuvan University.",
+                    "source_url": "https://ramraja.edu.np/"
+                }
+            ]
+        },
+        {
+            "overview": {
+                "name": "Bakuliya Campus",
+                "name_ne": null,
+                "slug": "bakuliya-campus-bara",
+                "ownership": "community",
+                "established_year": null,
+                "university": "Tribhuvan University",
+                "municipality": "Jitpur Simara Sub-Metropolitan City",
+                "address": "Bhawanipur, Bakuliya, Jitpur Simara Sub-Metropolitan City Ward 5, Bara, Nepal",
+                "description": "Community campus in Bhawanipur/Bakuliya, affiliated to Tribhuvan University and described as recognized by the University Grants Commission. Published programme information is limited to a four-year B.Ed. TU campus code 183 appears in a TU affiliation-renewal list for Bara, Jitpur.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://www.collegenp.com/college/bakuliya-campus-bara",
+                    "https://edusanjal.com/college/bakuliya-campus/",
+                    "https://www.educatenepal.com/institutions/detail/bakuliya-campus"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Education (B.Ed.)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/bakuliya-campus-bara-bachelor-of-education-bed-bed"
+                }
+            ],
+            "facilities": [
+                "Library",
+                "Computer lab",
+                "Sports",
+                "Science lab",
+                "Counselling",
+                "Scholarships",
+                "Tour",
+                "Classrooms",
+                "ECA"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-9855045104"
+                ],
+                "emails": [],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Sapahi College",
+                "name_ne": null,
+                "slug": "sapahi-college-bara",
+                "ownership": "community",
+                "established_year": 2013,
+                "university": "Tribhuvan University",
+                "municipality": "Kolhabi Municipality",
+                "address": "Kolhabi Municipality-4, Sapahi, Bara, Nepal",
+                "description": "Community campus established in 2069 BS (2013 AD; listed date 2069-09-26), affiliated to Tribhuvan University and described as approved by the University Grants Commission. It offers BBS and B.Ed. Campus chief is named as Dinesh Adhikari. QAA status is published as in process. Older TU lists use the address Sapahi-9, Bara.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://www.collegenp.com/college/sapahi-college-bara",
+                    "https://edusanjal.com/college/sapahi-college/",
+                    "https://edusanjal.com/vacancy/vacancy-announcement-sapahi-college-post-teaching-assistant/"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Business Studies (BBS)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/sapahi-college-bara-bachelor-of-business-studies-bbs-bbs"
+                },
+                {
+                    "name": "Bachelor of Education (B.Ed.)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/sapahi-college-bara"
+                }
+            ],
+            "facilities": [
+                "Library",
+                "Sports",
+                "Science lab",
+                "Computer lab",
+                "Multimedia",
+                "Counselling",
+                "Scholarships",
+                "Classrooms",
+                "Conference hall",
+                "ECA"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [
+                {
+                    "title": "Vacancy for teaching assistant (English and Nepali)",
+                    "date": "2018-11-11",
+                    "summary": "Closed 2018 vacancy for two contract teaching assistants; application email sapahicollege2013@gmail.com and address given as Sapahi 09, Bara.",
+                    "source_url": "https://edusanjal.com/vacancy/vacancy-announcement-sapahi-college-post-teaching-assistant/"
+                }
+            ],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-9744223660",
+                    "9845061361",
+                    "9855045520"
+                ],
+                "emails": [
+                    "sapahicollege2013@gmail.com"
+                ],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Gauri Shankar Campus",
+                "name_ne": "गौरीशंकर क्याम्पस",
+                "slug": "gauri-shankar-campus-nijgadh",
+                "ownership": "community",
+                "established_year": 2006,
+                "university": "Tribhuvan University",
+                "municipality": "Nijgadh Municipality",
+                "address": "Nijgadh, Bara, Nepal",
+                "description": "Community campus established in 2063 BS (2006 AD) in Nijgadh, affiliated to Tribhuvan University and described as UGC-recognized. The campus website lists Bachelor of Business Studies and Bachelor of Education. A college directory also lists bachelor-level humanities (Rural Development) and states that bachelor and master levels are offered, but a named master's programme was not confirmed on the pages opened. The campus has submitted a QAA self-study report. It publishes a research journal titled GS WOW – Wisdom of Worthy.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://gsc.edu.np/",
+                    "https://www.collegenp.com/college/gauri-shankar-campus-bara-bara",
+                    "https://edusanjal.com/college/gauri-shankar-campus-bara/",
+                    "https://npca.edu.np/campus_list/"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Business Studies (BBS)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://gsc.edu.np/"
+                },
+                {
+                    "name": "Bachelor of Education (B.Ed.)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/gauri-shankar-campus-bara-bara"
+                },
+                {
+                    "name": "Bachelor in Humanities (Rural Development)",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Humanities",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/gauri-shankar-campus-bara-bara"
+                }
+            ],
+            "facilities": [
+                "Cafeteria",
+                "Library",
+                "Sports",
+                "Science lab",
+                "Conference",
+                "Multimedia",
+                "Counselling",
+                "Scholarships",
+                "Tour",
+                "Classrooms",
+                "ECA"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [
+                {
+                    "title": "Admission Open-2080",
+                    "date": null,
+                    "summary": "Admission-open notice published on the campus website. The page date shown in search extracts was not reliable enough to convert.",
+                    "source_url": "https://www.gsc.edu.np/detail/admission-open-2080-231230192609"
+                }
+            ],
+            "faqs": [
+                {
+                    "question": "Is BBS at Gauri Shankar Campus affiliated with Tribhuvan University?",
+                    "answer": "Yes. The published BBS programme follows the TU Faculty of Management curriculum.",
+                    "source_url": "https://www.collegenp.com/course/gauri-shankar-campus-bara-bara-bachelor-of-business-studies-bbs-bbs"
+                }
+            ],
+            "contact": {
+                "phones": [
+                    "+977-53-540414",
+                    "+977-9855044414"
+                ],
+                "emails": [
+                    "info@gsc.edu.np"
+                ],
+                "website": "https://gsc.edu.np",
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Dumarwana Multiple Campus",
+                "name_ne": "दुमरवाना बहुमुखी क्याम्पस",
+                "slug": "dumarwana-multiple-campus-bara",
+                "ownership": "community",
+                "established_year": 2007,
+                "university": "Tribhuvan University",
+                "municipality": "Jitpur Simara Sub-Metropolitan City",
+                "address": "Jeetpursimara Sub-Metropolitan City-15, Dumarwana Hattisar, Bara, Madhesh Province, Nepal",
+                "description": "Non-profit community campus established in 2064 BS (2007 AD), affiliated to Tribhuvan University and described as UGC-recognized. It runs bachelor classes in Education, Humanities and Social Sciences, and Management. An annual report lists subject areas in each faculty. Campus chief listed on the campus site is Radheyshyam Shiwakoti.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://www.dumarwanacampus.edu.np/",
+                    "https://www.collegenp.com/college/dumarwana-multiple-campus-bara",
+                    "https://edusanjal.com/college/dumarwana-multiple-campus/",
+                    "https://dumarwanacampus.edu.np/storage/app/public/file/20230615094355.2771.pdf"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Business Studies (BBS)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/dumarwana-multiple-campus-bara-bachelor-of-business-studies-bbs-bbs"
+                },
+                {
+                    "name": "Bachelor of Arts (BA)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Humanities",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/dumarwana-multiple-campus-bara-bachelor-of-arts-ba-ba"
+                },
+                {
+                    "name": "Bachelor of Education (B.Ed.)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/dumarwana-multiple-campus-bara"
+                }
+            ],
+            "facilities": [
+                "Classrooms",
+                "Conference hall",
+                "Library",
+                "Administrative rooms",
+                "Drinking water",
+                "Counselling",
+                "Scholarships",
+                "Educational tours"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [
+                {
+                    "title": "स्नातक तह दोस्रो वर्षको आंशिक तर्फको प्रवेश-पत्र वितरण सम्वन्धि सूचना",
+                    "date": "2026-08-27",
+                    "summary": "Notice on distribution of admit cards for bachelor second-year partial examinations.",
+                    "source_url": "https://www.dumarwanacampus.edu.np/publication/10"
+                }
+            ],
+            "faqs": [
+                {
+                    "question": "Does the campus provide scholarships?",
+                    "answer": "The campus states that scholarships are available for needy and deserving students and that a scholarship endowment fund operates. Eligibility rules are not published on the page.",
+                    "source_url": "https://www.collegenp.com/college/dumarwana-multiple-campus-bara"
+                }
+            ],
+            "contact": {
+                "phones": [
+                    "+977-53-400117",
+                    "+977-9847238913"
+                ],
+                "emails": [
+                    "info@dumarwanacampus.edu.np",
+                    "bara.communitycampus@gmail.com"
+                ],
+                "website": "https://www.dumarwanacampus.edu.np",
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Gadhimai Multiple Campus",
+                "name_ne": "गढीमाई बहुमुखी क्याम्पस",
+                "slug": "gadhimai-multiple-campus-bara",
+                "ownership": "community",
+                "established_year": 2009,
+                "university": "Tribhuvan University",
+                "municipality": "Mahagadhimai Municipality",
+                "address": "Mahagadhimai Municipality-1, Bariyarpur, Bara, Madhesh Province, Nepal",
+                "description": "Community campus established in 2066 BS (2009 AD; listed date 2066-04-30) beside the Hulaki Highway at Bariyarpur. Affiliated to Tribhuvan University and described as UGC-approved. The published degree programme is B.Ed. QAA status is published as not accredited. It serves students from Mahagadhimai and nearby rural municipalities.",
+                "mission": "To serve the community by offering quality education and research programmes; to disseminate knowledge and foster potential through teaching, learning, research and extra-curricular activities; to prepare competent manpower; and to develop as an academic centre for western Terai in Madhesh Province.",
+                "vision": null,
+                "source_urls": [
+                    "https://www.collegenp.com/college/gadhimai-multiple-campus-bara",
+                    "https://suchanaa.com/directory/gadhimai-multiple-campus/",
+                    "https://edusanjal.com/college/gadhimai-multiple-campus/",
+                    "https://gadhimaimultiplecampus.edu.np"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Education (B.Ed.)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/gadhimai-multiple-campus-bara-bachelor-of-education-bed-bed"
+                }
+            ],
+            "facilities": [
+                "Library",
+                "Science lab",
+                "Computer lab",
+                "Sports",
+                "Internet",
+                "Counselling",
+                "Scholarships",
+                "Classrooms",
+                "Conference hall",
+                "Multimedia",
+                "ECA"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [
+                {
+                    "question": "What programme does Gadhimai Multiple Campus currently offer?",
+                    "answer": "Bachelor of Education (B.Ed.)."
+                },
+                {
+                    "question": "What is its QAA status?",
+                    "answer": "Published as not accredited."
+                }
+            ],
+            "contact": {
+                "phones": [
+                    "+977-9865319380",
+                    "+977-9824268856",
+                    "+977-9845094314"
+                ],
+                "emails": [
+                    "help@gadhimaimultiplecampus.edu.np"
+                ],
+                "website": "https://gadhimaimultiplecampus.edu.np",
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": [
+                {
+                    "question": "Which university is Gadhimai Multiple Campus affiliated with?",
+                    "answer": "Tribhuvan University.",
+                    "source_url": "https://www.collegenp.com/college/gadhimai-multiple-campus-bara"
+                }
+            ]
+        },
+        {
+            "overview": {
+                "name": "Mount Everest College",
+                "name_ne": null,
+                "slug": "mount-everest-college-simara",
+                "ownership": "private",
+                "established_year": null,
+                "university": "Tribhuvan University",
+                "municipality": "Jitpur Simara Sub-Metropolitan City",
+                "address": "Simara, Bara, Nepal",
+                "description": "Private institution listed by education directories as affiliated to Tribhuvan University and offering BBS in Simara, Bara. It is listed separately from Mount Everest Secondary School. No establishment year, phone, email, or campus website was published on the college pages opened.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://edusanjal.com/college/mount-everest-college/",
+                    "https://www.educatenepal.com/institutions/detail/mount-everest-college"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Business Studies (BBS)",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/college/mount-everest-college/"
+                }
+            ],
+            "facilities": [],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [],
+                "emails": [],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Shubharambha College",
+                "name_ne": null,
+                "slug": "shubharambha-college-simara",
+                "ownership": "community",
+                "established_year": 2009,
+                "university": "Tribhuvan University; Rajarshi Janak University",
+                "municipality": "Jitpur Simara Sub-Metropolitan City",
+                "address": "Jeetpursimara Sub-Metropolitan City-2, Simara, Bara, Madhesh Province, Nepal",
+                "description": "Community institution established in 2066 BS (2009 AD) in Simara. Also listed as Shuvarambha College and Shuvarambha Bahumukhi Campus. Bachelor BBS is affiliated to Tribhuvan University and appears in TU BBS examination-centre lists. MBA is affiliated to Rajarshi Janak University. The college also runs NEB +2 programmes in Management, Education, and Law; those are not higher-education degrees.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://www.collegenp.com/college/shubharambha-college-simara",
+                    "https://edusanjal.com/college/district/bara/",
+                    "https://www.collegenp.com/course/shubharambha-college-simara-master-of-business-administration-mba"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Business Studies (BBS)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/shubharambha-college-simara-bachelor-of-business-studies-bbs"
+                },
+                {
+                    "name": "Master of Business Administration (MBA)",
+                    "level": "Master",
+                    "duration": "2 years",
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/shubharambha-college-simara-master-of-business-administration-mba"
+                }
+            ],
+            "facilities": [
+                "Computer lab",
+                "Science lab",
+                "Library",
+                "Multimedia classrooms",
+                "Scholarships",
+                "Counselling",
+                "Conference hall",
+                "Sports",
+                "Internet",
+                "ECA"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-53-521240",
+                    "+977-9865517607",
+                    "+977-9855012237"
+                ],
+                "emails": [
+                    "sbc2081@gmail.com",
+                    "shuvarambhacollege2069@gmail.com"
+                ],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": [
+                {
+                    "question": "Which universities award the higher-education programmes?",
+                    "answer": "BBS is affiliated to Tribhuvan University. MBA is affiliated to Rajarshi Janak University.",
+                    "source_url": "https://www.collegenp.com/college/shubharambha-college-simara"
+                }
+            ]
+        },
+        {
+            "overview": {
+                "name": "Mahagadhimai Campus",
+                "name_ne": "महागढीमाई बहुमुखी क्याम्पस",
+                "slug": "mahagadhimai-campus-bariyarpur",
+                "ownership": null,
+                "established_year": null,
+                "university": "Rajarshi Janak University",
+                "municipality": "Mahagadhimai Municipality",
+                "address": "Bariyarpur, Mahagadhimai, Bara, Nepal",
+                "description": "ICT campus in Bariyarpur listed as affiliated to Rajarshi Janak University for BCA and BIT. A 2081 local news report said the campus was being opened with Mahagadhimai Municipality and Rajarshi Janak University, with classes initially planned in the building of Shree Gadhimai Multiple Campus and a separate site later. No phone, email, or website was published on the college pages opened.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://edusanjal.com/college/mahagadhimai-campus/",
+                    "https://www.collegesnepal.com/mahagadhimai-campus/",
+                    "https://madhyanhadaily.com/post/3806"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Computer Application (BCA)",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Information Technology",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/college/mahagadhimai-campus/"
+                },
+                {
+                    "name": "Bachelor of Information Technology (BIT)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Information Technology",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/course/bachelor-of-information-technology-rju/"
+                }
+            ],
+            "facilities": [
+                "Computer lab",
+                "Library",
+                "Science lab",
+                "Classrooms",
+                "Transportation",
+                "Internet",
+                "Scholarship"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [],
+                "emails": [],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Rainbow Health Management and Technical College",
+                "name_ne": null,
+                "slug": "rainbow-health-management-and-technical-college-bara",
+                "ownership": null,
+                "established_year": 2024,
+                "university": "Rajarshi Janak University",
+                "municipality": "Jitpur Simara Sub-Metropolitan City",
+                "address": "Jitpur Simara, Simara, Bara, Nepal",
+                "description": "College in Simara established in 2080 BS (2024 AD). The published programme is BBA under Rajarshi Janak University. Ownership type was not stated on the page opened.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://edusanjal.com/college/rainbow-health-management-and-technical-college/"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Business Administration (BBA)",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/college/rainbow-health-management-and-technical-college/"
+                }
+            ],
+            "facilities": [],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "976-1922022"
+                ],
+                "emails": [
+                    "rainbowhmtc@gmail.com"
+                ],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Mendit Polytech College",
+                "name_ne": null,
+                "slug": "mendit-polytech-college-kalaiya",
+                "ownership": "private",
+                "established_year": 2024,
+                "university": "Rajarshi Janak University",
+                "municipality": "Kalaiya Sub-Metropolitan City",
+                "address": "Manakamana College Building, behind the CDO Office, Ghusukpur, Kalaiya-5, Bara, Nepal",
+                "description": "Mendit Polytech Pvt. Ltd., also called Mendit Polytech College, is a private institution established in 2024 AD in Kalaiya-5. It is affiliated to Rajarshi Janak University and lists admissions for BBA and B.Sc. CSIT. Published features include scholarships up to 100 percent, free textbooks, seminars, industrial tours, and job-placement support. No phone or email was published on the page opened.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://edusanjal.com/college/mendit-polytech-college/"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Business Administration (BBA)",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/college/mendit-polytech-college/"
+                },
+                {
+                    "name": "Bachelor of Science in Computer Science and Information Technology (B.Sc. CSIT)",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Science and Technology",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/college/mendit-polytech-college/"
+                }
+            ],
+            "facilities": [
+                "Scholarships",
+                "Free textbooks",
+                "Seminars",
+                "Industrial tours",
+                "Job placement support"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [],
+                "emails": [],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Gyan Batika Institute of Technical and Medical Science",
+                "name_ne": "ज्ञानवाटिका प्राविधिक तथा चिकित्सा विज्ञान प्रतिष्ठान",
+                "slug": "gyan-batika-institute-bara",
+                "ownership": "private",
+                "established_year": 2020,
+                "university": "CTEVT",
+                "municipality": "Parwanipur Rural Municipality",
+                "address": "Bahuwari, Parwanipur-5, Bara, Nepal",
+                "description": "Private CTEVT institute in Parwanipur-5, described as a sister organization of L.S. Neuro and General Hospital Pvt. Ltd. It offers three-year diploma and certificate programmes in nursing, general medicine, and pharmacy, with practical training linked to the 100-bed hospital. A directory page dates establishment to 2020.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://edusanjal.com/school/gyan-batika-institutes-of-technical-and-medical-science/",
+                    "https://www.collegenp.com/college/gyan-batika-institutes-of-technical-medical-science",
+                    "http://suchanaa.com/directory/gyan-batika-institutes-of-technical-medical-science/"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "PCL Nursing",
+                    "level": "Diploma",
+                    "duration": "3 years",
+                    "faculty": "Health",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/school/gyan-batika-institutes-of-technical-and-medical-science/"
+                },
+                {
+                    "name": "PCL in General Medicine (Health Assistant)",
+                    "level": "Diploma",
+                    "duration": "3 years",
+                    "faculty": "Health",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/school/gyan-batika-institutes-of-technical-and-medical-science/"
+                },
+                {
+                    "name": "Diploma in Pharmacy",
+                    "level": "Diploma",
+                    "duration": "3 years",
+                    "faculty": "Health",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/school/gyan-batika-institutes-of-technical-and-medical-science/"
+                }
+            ],
+            "facilities": [
+                "Laboratories",
+                "Practical training with L.S. Neuro and General Hospital",
+                "Field visits"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [
+                {
+                    "title": "Vacant full-fee PCL Nursing seats, academic session 2082",
+                    "date": "2082-05-24 BS",
+                    "summary": "Notice that 22 full-fee PCL Nursing seats remained vacant and that alternative and passed merit-list candidates could apply by 2082/05/28.",
+                    "source_url": "https://www.collegenp.com/admission/gyan-batika-institute-of-technical-and-medical-science-pcl-nursing-admission-2082"
+                }
+            ],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-9820752072",
+                    "+977-9820752073",
+                    "+977-9855020917",
+                    "+977-9801700713"
+                ],
+                "emails": [
+                    "info@gyanbatika.edu.np"
+                ],
+                "website": "https://gyanbatika.edu.np",
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Prasauni Polytechnic Institute",
+                "name_ne": null,
+                "slug": "prasauni-polytechnic-institute-bara",
+                "ownership": "constituent",
+                "established_year": null,
+                "university": "CTEVT",
+                "municipality": "Prasauni Rural Municipality",
+                "address": "Prasauni-2, Bara, Nepal",
+                "description": "CTEVT constituent technical institute at Prasauni-2, Bara. The CTEVT Madhesh Province page lists Diploma in Electrical Engineering. A claimed education-directory page lists three-year diplomas in Automobile Engineering, Electrical and Electronics Engineering, and Mechanical Engineering, each with 48 seats. A government CTEVT programme list records Diploma in Automobile Engineering at this constituent institute with an annual-capacity figure of 48 and a published fee of NPR 98,000 for three years. Phone numbers differ across public pages.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://ctevtp2.org.np/view-page/41",
+                    "https://edusanjal.com/school/prashauni-polytechnic-institute/",
+                    "https://www.collegenp.com/course/prashauni-polytechnic-institute-diploma-in-electrical-engineering-diploma-in-engineering",
+                    "https://cgs.moest.gov.np/Uploads/Resource/CTEVT%20Institutions%20and%20Programs.pdf"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Diploma in Electrical Engineering",
+                    "level": "Diploma",
+                    "duration": "3 years",
+                    "faculty": "Engineering",
+                    "fee": null,
+                    "source_url": "https://ctevtp2.org.np/view-page/41"
+                },
+                {
+                    "name": "Diploma in Automobile Engineering",
+                    "level": "Diploma",
+                    "duration": "3 years",
+                    "faculty": "Engineering",
+                    "fee": "NPR 98000 for 3 years",
+                    "source_url": "https://cgs.moest.gov.np/Uploads/Resource/CTEVT%20Institutions%20and%20Programs.pdf"
+                },
+                {
+                    "name": "Diploma in Electrical and Electronics Engineering",
+                    "level": "Diploma",
+                    "duration": "3 years",
+                    "faculty": "Engineering",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/school/prashauni-polytechnic-institute/"
+                },
+                {
+                    "name": "Diploma in Mechanical Engineering",
+                    "level": "Diploma",
+                    "duration": "3 years",
+                    "faculty": "Engineering",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/school/prashauni-polytechnic-institute/"
+                }
+            ],
+            "facilities": [
+                "Practical labs",
+                "Scholarships",
+                "Industry-linked training"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [
+                {
+                    "title": "Intend to award security-guard service",
+                    "date": "2083-04-01 BS",
+                    "summary": "Procurement notice for security-guard service at Prasauni Polytechnic Institute, published in Gorkhapatra.",
+                    "source_url": "http://suchanaa.com/notices/intend-to-award/prasauni-polytechnic-institute-bara-pXfm/"
+                }
+            ],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-9855017041",
+                    "985-5055041"
+                ],
+                "emails": [
+                    "ppi.bara.ctevt@gmail.com"
+                ],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Simraungadh Polytechnic Institute",
+                "name_ne": null,
+                "slug": "simraungadh-polytechnic-institute-bara",
+                "ownership": null,
+                "established_year": null,
+                "university": "CTEVT",
+                "municipality": "Simraungadh Municipality",
+                "address": "Simraungadh, Bara, Nepal",
+                "description": "Named by the CTEVT Examination Control Office as an institution in Bara assigned to the Mangsir 2083 diploma and certificate examination centre at Shree Teen Chandra Secondary School. Programme names, ownership, establishment year, and contact details were not published in the sources opened.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://www.collegenp.com/exam/ctevt-diploma-certificate-exam-centers-2083"
+                ]
+            },
+            "courses": [],
+            "facilities": [],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [],
+                "emails": [],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        }
+    ]
+}

@@ -1,0 +1,222 @@
+{
+  "research_metadata": {
+    "country": "Nepal",
+    "province": "Sudurpashchim Province",
+    "district": "Achham",
+    "research_date": "2024-05-15",
+    "total_schools_discovered": 1,
+    "municipalities_covered": [
+      "Mangalsen Municipality"
+    ],
+    "research_status": "partial",
+    "coverage_notes": "Initial batch for Achham district focusing on prominent institutions in Mangalsen. Additional schools across municipalities will follow in subsequent batches."
+  },
+  "schools": [
+    {
+      "identity": {
+        "name": "Mangalsen Multiple Campus / School Unit",
+        "name_ne": "मंगलसेन बहुमुखी क्याम्पस",
+        "alternative_names": [
+          "Mangalsen Campus"
+        ],
+        "slug": "mangalsen-multiple-campus-achham",
+        "category": "school",
+        "school_type": "community",
+        "ownership": "Public/Community",
+        "established_year": 2007,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "short_description": "A community-based educational institution providing secondary and higher education in Mangalsen, Achham.",
+        "description": "Mangalsen Multiple Campus is a prominent educational hub in the headquarters of Achham district, offering higher secondary (+2) programs alongside higher education."
+      },
+      "location": {
+        "province": "Sudurpashchim Province",
+        "district": "Achham",
+        "municipality": "Mangalsen Municipality",
+        "ward": 5,
+        "village": "Mangalsen",
+        "tole": "",
+        "full_address": "Mangalsen-5, Achham, Sudurpashchim Province, Nepal",
+        "latitude": 29.1352,
+        "longitude": 81.2431,
+        "google_maps_url": null
+      },
+      "academics": {
+        "education_levels": [
+          "Higher Secondary (+2)"
+        ],
+        "grades_offered": [
+          "Grade 11",
+          "Grade 12"
+        ],
+        "programs": [
+          "Ten Plus Two (+2) Humanities",
+          "Ten Plus Two (+2) Management",
+          "Ten Plus Two (+2) Education"
+        ],
+        "curriculum": [
+          "National Curriculum Framework (NEB)"
+        ],
+        "study_system": "Annual",
+        "examination_system": "Board Examinations",
+        "medium_of_instruction": [
+          "Nepali",
+          "English"
+        ],
+        "academic_calendar": "Nepali Academic Calendar (Baishakh to Chaitra)",
+        "teaching_methodology": "Classroom-based lectures and practical sessions"
+      },
+      "admission": {
+        "requirements": [
+          "SEE or equivalent graduation certificate"
+        ],
+        "admission_process": [
+          "Application form submission",
+          "Document verification",
+          "Merit-based selection"
+        ],
+        "required_documents": [
+          "SEE Grade Sheet",
+          "Character Certificate",
+          "Transfer Certificate",
+          "Passport size photographs"
+        ],
+        "entrance_exam": null,
+        "application_url": null,
+        "admission_contact": [],
+        "notices": []
+      },
+      "fees_and_scholarships": {
+        "fee_details": [],
+        "scholarships": [
+          "Government scholarships for marginalized and meritorious students"
+        ],
+        "financial_support": []
+      },
+      "facilities": [
+        "Library",
+        "Classrooms",
+        "Administration Block"
+      ],
+      "infrastructure": [],
+      "boarding": {
+        "has_hostel": false,
+        "boys_hostel": null,
+        "girls_hostel": null,
+        "accommodation": [],
+        "meals": null,
+        "security": null,
+        "warden_information": null,
+        "hostel_fees": null
+      },
+      "administration": {
+        "principal": null,
+        "headteacher": null,
+        "vice_principal": null,
+        "chairman": null,
+        "founder": null,
+        "teachers": []
+      },
+      "institutional_profile": {
+        "mission": "To deliver accessible higher and secondary education to the remote population of Achham district.",
+        "vision": "Quality education for regional development and leadership.",
+        "highlights": [
+          "Central location in district headquarters",
+          "Affordable public education"
+        ],
+        "features": [],
+        "why_choose_this_school": [
+          "Affordable fee structure",
+          "Experienced faculty members"
+        ],
+        "achievements": [],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": [
+          "Sports",
+          "Cultural programs"
+        ],
+        "sports": [
+          "Football",
+          "Volleyball"
+        ],
+        "clubs": [],
+        "cultural_activities": [],
+        "student_welfare": [],
+        "campus_experience": null
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "website": null,
+        "contact_person": null,
+        "office_hours": "10:00 AM - 4:00 PM",
+        "full_address": "Mangalsen-5, Achham"
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "youtube": null,
+        "linkedin": null,
+        "x": null,
+        "other": []
+      },
+      "seo": {
+        "suggested_title": "Mangalsen Multiple Campus / School - Achham",
+        "meta_description": "Explore Mangalsen Multiple Campus in Achham offering +2 programs in Humanities, Management, and Education.",
+        "keywords": [
+          "Mangalsen Multiple Campus",
+          "Schools in Achham",
+          "+2 schools in Mangalsen",
+          "Education in Sudurpashchim"
+        ],
+        "faq": []
+      },
+      "research_sources": [
+        {
+          "source_name": "University Grants Commission / Local Educational Portals",
+          "source_url": "",
+          "information_obtained": "Basic institutional establishment and location details.",
+          "source_type": "directory"
+        }
+      ],
+      "verification": {
+        "status": "partially_verified",
+        "missing_information": [
+          "Detailed fee structures",
+          "Contact phone numbers",
+          "Exact principal name"
+        ],
+        "notes": [
+          "Institution functions primarily as a campus but includes higher secondary programs."
+        ]
+      }
+    }
+  ],
+  "district_summary": {
+    "total_schools": 1,
+    "government_schools": 0,
+    "community_schools": 1,
+    "private_schools": 0,
+    "boarding_schools": 0,
+    "other_schools": 0,
+    "schools_by_municipality": [
+      {
+        "municipality": "Mangalsen Municipality",
+        "count": 1
+      }
+    ],
+    "schools_by_education_level": [
+      {
+        "level": "Higher Secondary (+2)",
+        "count": 1
+      }
+    ],
+    "research_gaps": [
+      "Need extensive coverage of rural municipalities in Achham such as Bannigadhi Jayagadh, Chaurpati, Dhakari, Kamalbazar, Mellekh, Panchadeval Vinayak, Ramaroshan, Sanphebagar, and Turmakhad."
+    ]
+  }
+}

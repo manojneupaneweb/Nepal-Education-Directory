@@ -1,0 +1,308 @@
+{
+  "research_metadata": {
+    "country": "Nepal",
+    "province": "Madhesh Province",
+    "district": "Parsa",
+    "research_date": "2023-10-25",
+    "total_institutions_discovered": 1,
+    "total_institutions_verified": 1,
+    "coverage_notes": "Initial directory batch focusing on prominent higher education institutions in Parsa district, starting with Thakur Ram Multiple Campus.",
+    "research_status": "partial"
+  },
+  "institutions": [
+    {
+      "identity": {
+        "name": "Thakur Ram Multiple Campus",
+        "name_ne": "ठाकुरराम बहुमुखी क्याम्पस",
+        "alternative_names": [
+          "Thakur Ram Campus",
+          "TRMC Birgunj"
+        ],
+        "slug": "thakur-ram-multiple-campus-birgunj",
+        "category": "campus",
+        "institution_type": "government",
+        "ownership": "Public",
+        "established_year": 1963,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "logo_source": null,
+        "short_description": "One of the oldest and largest constituent campuses of Tribhuvan University located in Birgunj, Parsa.",
+        "description": "Thakur Ram Multiple Campus (TRMC) is a prominent constituent campus of Tribhuvan University in Nepal. Established in 1963, it plays a vital role in providing higher education in the Parsa district and the wider Madhesh Province, offering a wide range of undergraduate and postgraduate programs in Humanities, Management, and Science."
+      },
+      "location": {
+        "province": "Madhesh Province",
+        "district": "Parsa",
+        "municipality": "Birgunj Metropolitan City",
+        "ward": null,
+        "tole": "Adarshanagar",
+        "full_address": "Birgunj, Parsa, Madhesh Province, Nepal",
+        "latitude": 27.0142,
+        "longitude": 84.8761,
+        "google_maps_url": null,
+        "google_maps_embed_url": null,
+        "nearby_landmarks": [
+          "Adarshanagar"
+        ]
+      },
+      "affiliation": {
+        "university": "Tribhuvan University",
+        "affiliation_type": "Constituent Campus",
+        "accreditation": [
+          "UGC Nepal QAA"
+        ],
+        "recognition_details": [
+          "Recognized by University Grants Commission Nepal"
+        ]
+      },
+      "academics": {
+        "study_system": "Annual and Semester system",
+        "academic_calendar": "As per Tribhuvan University calendar",
+        "medium_of_instruction": [
+          "Nepali",
+          "English"
+        ],
+        "teaching_methodology": "Lectures, practicals, tutorials, and field works.",
+        "programs": [
+          {
+            "name": "Bachelor of Business Studies (BBS)",
+            "degree_level": "Undergraduate",
+            "faculty": "Management",
+            "specialization": [
+              "Management"
+            ],
+            "duration": "4 years",
+            "semester_or_year": "Annual",
+            "eligibility": "+2 or equivalent in any discipline",
+            "entrance_requirement": "As per TU norms",
+            "fee": null,
+            "intake_capacity": null,
+            "status": "active",
+            "source_urls": []
+          },
+          {
+            "name": "Bachelor of Science (B.Sc.)",
+            "degree_level": "Undergraduate",
+            "faculty": "Science",
+            "specialization": [
+              "Physics",
+              "Chemistry",
+              "Mathematics",
+              "Botany",
+              "Zoology"
+            ],
+            "duration": "4 years",
+            "semester_or_year": "Annual / Semester",
+            "eligibility": "+2 Science or equivalent",
+            "entrance_requirement": "TU Entrance",
+            "fee": null,
+            "intake_capacity": null,
+            "status": "active",
+            "source_urls": []
+          }
+        ]
+      },
+      "admission": {
+        "guidance": "Admissions are conducted according to Tribhuvan University rules and academic calendar.",
+        "requirements": [
+          "Passed +2 or equivalent examination from a recognized board"
+        ],
+        "application_process": [
+          "Fill out the application form online or offline",
+          "Submit academic transcripts",
+          "Appear in entrance examinations where applicable"
+        ],
+        "application_url": null,
+        "entrance_details": "Required for specific programs as mandated by Tribhuvan University.",
+        "required_documents": [
+          "Academic transcripts and character certificates of SEE and +2",
+          "Passport size photographs",
+          "Citizenship certificate copy"
+        ],
+        "admission_contact": [],
+        "current_notices": []
+      },
+      "scholarships": [
+        {
+          "name": "Government and University Scholarships",
+          "type": "Merit and Need-based",
+          "eligibility": "As per TU and Government guidelines for marginalized and meritorious students.",
+          "benefits": "Tuition fee waiver or partial stipend",
+          "application_process": "Apply through campus administration during admission period.",
+          "deadline": null,
+          "status": "active",
+          "source_urls": []
+        }
+      ],
+      "facilities": [
+        "Library",
+        "Science Laboratories",
+        "Computer Lab",
+        "Sports Ground",
+        "Cafeteria",
+        "Parking"
+      ],
+      "infrastructure": [
+        "Administrative building",
+        "Academic blocks",
+        "Library hall"
+      ],
+      "faculty": {
+        "principal": null,
+        "chairperson": null,
+        "campus_chief": null,
+        "departments": [
+          "Management",
+          "Humanities and Social Sciences",
+          "Science"
+        ],
+        "faculty_members": [],
+        "teaching_approach": "Blended lecture and practical approach."
+      },
+      "leadership_messages": {
+        "principal_message": null,
+        "chairperson_message": null,
+        "founder_message": null
+      },
+      "institutional_profile": {
+        "mission": "To impart quality higher education to students from diverse backgrounds.",
+        "vision": "To be a leading center of academic excellence in Madhesh Province.",
+        "core_values": [
+          "Academic Integrity",
+          "Inclusivity",
+          "Excellence"
+        ],
+        "highlights": [
+          "One of the oldest constituent campuses of TU",
+          "Diverse academic programs in Science, Management, and Humanities"
+        ],
+        "features": [
+          "Experienced faculty members",
+          "Affordable public education"
+        ],
+        "why_choose_this_college": [
+          "Tribhuvan University affiliation",
+          "Low tuition fees as a public institution",
+          "Wide alumni network"
+        ],
+        "achievements": [],
+        "milestones": [
+          "Established in 1963"
+        ]
+      },
+      "student_life": {
+        "extracurricular_activities": [
+          "Sports tournaments",
+          "Cultural programs",
+          "Debates"
+        ],
+        "clubs": [],
+        "sports": [
+          "Football",
+          "Cricket",
+          "Badminton"
+        ],
+        "student_organizations": [
+          "Active student unions"
+        ],
+        "campus_experience": "Vibrant campus life with diverse student communities from across the region.",
+        "student_welfare": []
+      },
+      "career_development": {
+        "placement_cell": null,
+        "internship_opportunities": [],
+        "industry_partnerships": [],
+        "career_counseling": null,
+        "alumni_network": null,
+        "placement_statistics": []
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "admission_contacts": [],
+        "website": null,
+        "office_hours": "10:00 AM - 5:00 PM",
+        "contact_person": null
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "linkedin": null,
+        "youtube": null,
+        "x": null,
+        "other": []
+      },
+      "online_resources": {
+        "prospectus": [],
+        "fee_structure": [],
+        "academic_calendar": [],
+        "notices": [],
+        "results": [],
+        "student_portal": null,
+        "downloads": []
+      },
+      "seo": {
+        "suggested_title": "Thakur Ram Multiple Campus, Birgunj, Parsa - Programs, Admission, Contact",
+        "meta_description": "Explore Thakur Ram Multiple Campus in Birgunj, Parsa. Learn about its programs, affiliation with Tribhuvan University, admissions, facilities, and contact details.",
+        "keywords": [
+          "Thakur Ram Multiple Campus",
+          "TRMC Birgunj",
+          "Colleges in Parsa",
+          "Tribhuvan University constituent campus Parsa"
+        ],
+        "faq": [
+          {
+            "question": "Which university is Thakur Ram Multiple Campus affiliated with?",
+            "answer": "Thakur Ram Multiple Campus is a constituent campus of Tribhuvan University."
+          },
+          {
+            "question": "Where is Thakur Ram Multiple Campus located?",
+            "answer": "It is located in Birgunj, Parsa district, Madhesh Province, Nepal."
+          }
+        ]
+      },
+      "verification": {
+        "verification_status": "partial",
+        "last_verified_at": "2023-10-25",
+        "official_sources": [
+          "Tribhuvan University official records"
+        ],
+        "secondary_sources": [
+          "UGC Nepal directory"
+        ],
+        "field_confidence": {
+          "name": "high",
+          "location": "high",
+          "affiliation": "high"
+        },
+        "missing_information": [
+          "Exact phone numbers",
+          "Detailed fee structures",
+          "Current campus chief name"
+        ],
+        "notes": "Basic institutional details verified via university status."
+      }
+    }
+  ],
+  "district_summary": {
+    "total_colleges": 1,
+    "government_colleges": 1,
+    "community_colleges": 0,
+    "private_colleges": 0,
+    "universities_and_constituent_campuses": 1,
+    "other_institutions": 0,
+    "municipalities_covered": [
+      "Birgunj Metropolitan City"
+    ],
+    "institutions_by_university": [
+      {
+        "university": "Tribhuvan University",
+        "count": 1
+      }
+    ],
+    "research_gaps": [
+      "Need to scan private colleges, medical institutes, and CTEVT-affiliated technical schools in Parsa district."
+    ]
+  }
+}

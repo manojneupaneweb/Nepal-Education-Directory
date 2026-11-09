@@ -1,0 +1,1250 @@
+{
+    "research_metadata": {
+        "country": "Nepal",
+        "province": "Bagmati Province",
+        "district": "Dhading",
+        "research_date": "2026-11-09",
+        "total_institutions_discovered": 16,
+        "research_status": "completed",
+        "collection_mode": "responses"
+    },
+    "institutions": [
+        {
+            "overview": {
+                "name": "Nilkantha Multiple Campus",
+                "name_ne": "नीलकण्ठ बहुमुखी क्याम्पस",
+                "slug": "nilkantha-multiple-campus",
+                "ownership": "community",
+                "established_year": 2000,
+                "university": "Tribhuvan University",
+                "municipality": "Neelakantha Municipality",
+                "address": "Neelakantha-3, Dhading Besi, Dhading, Nepal",
+                "description": "Community campus affiliated to Tribhuvan University, campus code 375, established in 2057 BS. UGC QAA-accredited on 22 June 2020. Official site states it runs B.Ed., BBS, M.Ed., BA and MBS; admission notices also cover BICTE. Edusanjal records that Ganesh Himal Campus, Nilkantha, was merged into this campus by a TU decision dated 2080-4-7. Reported scale is about 1,000 students.",
+                "mission": "To provide affordable, inclusive, and transformative education, ensuring access to all learners irrespective of socio-economic background.",
+                "vision": "Leading educational and research-based institution of the country by delivering demand-based academic programs",
+                "source_urls": [
+                    "https://nilkanthacampus.edu.np/",
+                    "https://nilkanthacampus.edu.np/category/mission-visionn-objective/",
+                    "https://edusanjal.com/college/nilkantha-multiple-campus/",
+                    "https://www.collegenp.com/college/nilkantha-multiple-campus-dhading",
+                    "https://ugcnepal.edu.np/pages/qaa-receiving-heis-8/",
+                    "https://npca.edu.np/campus_details/13"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Education (B.Ed.)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/nilkantha-multiple-campus-dhading-bachelor-of-education-bed-bed"
+                },
+                {
+                    "name": "Bachelor in Information and Communication Technology Education (BICTE)",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://nilkanthacampus.edu.np/notices/"
+                },
+                {
+                    "name": "Bachelor of Arts (BA)",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Humanities and Social Sciences",
+                    "fee": null,
+                    "source_url": "https://nilkanthacampus.edu.np/"
+                },
+                {
+                    "name": "Bachelor of Business Studies (BBS)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/nilkantha-multiple-campus-dhading-bachelor-of-business-studies-bbs-bbs"
+                },
+                {
+                    "name": "Master of Education (M.Ed.)",
+                    "level": "Master",
+                    "duration": null,
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://nilkanthacampus.edu.np/"
+                },
+                {
+                    "name": "Master of Business Studies (MBS)",
+                    "level": "Master",
+                    "duration": null,
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://nilkanthacampus.edu.np/notices/"
+                }
+            ],
+            "facilities": [
+                "Library",
+                "Laboratories",
+                "Technology-enabled classrooms",
+                "LMS",
+                "Counseling"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [
+                {
+                    "title": "४ वर्षे स्नातक तह चौथो वर्षको पुरक परीक्षा फाराम भर्ने सूचना",
+                    "date": "2026-10-29",
+                    "summary": "Notice to fill the supplementary examination form for the fourth year of the four-year bachelor level.",
+                    "source_url": "https://nilkanthacampus.edu.np/notices/77/"
+                },
+                {
+                    "title": "MBS 4th semester को भर्ना सम्बन्धि सूचना",
+                    "date": "2026-10-08",
+                    "summary": "Admission notice for MBS fourth semester.",
+                    "source_url": "https://nilkanthacampus.edu.np/notices/76/"
+                },
+                {
+                    "title": "BICTE 1st semester को भर्ना सम्बन्धि सूचना",
+                    "date": "2026-10-08",
+                    "summary": "Admission notice for BICTE first semester.",
+                    "source_url": "https://nilkanthacampus.edu.np/notices/75/"
+                },
+                {
+                    "title": "Notice regarding filling up the exam form for BICTE 2nd semester",
+                    "date": "2026-09-11",
+                    "summary": "Exam-form notice for BICTE second semester.",
+                    "source_url": "https://nilkanthacampus.edu.np/notices/69/"
+                }
+            ],
+            "faqs": [
+                {
+                    "question": "Is B.Ed. available at Nilkantha Multiple Campus?",
+                    "answer": "Yes. Nilkantha Multiple Campus offers the Bachelor of Education (B.Ed.) program."
+                },
+                {
+                    "question": "Which university is B.Ed. affiliated with at NMC?",
+                    "answer": "B.Ed. at NMC is affiliated with Tribhuvan University (TU)."
+                }
+            ],
+            "contact": {
+                "phones": [
+                    "010-520369",
+                    "010-521120",
+                    "9761467120"
+                ],
+                "emails": [
+                    "nilkanthamc@gmail.com",
+                    "info@nilkanthacampus.com.np"
+                ],
+                "website": "https://nilkanthacampus.edu.np",
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": [
+                {
+                    "question": "How can I contact the campus for BBS admission inquiries?",
+                    "answer": "Phone: 010-520369, 010-521120. Email: nilkanthamc@gmail.com. Website: www.nilkanthacampus.edu.np.",
+                    "source_url": "https://www.collegenp.com/course/nilkantha-multiple-campus-dhading-bachelor-of-business-studies-bbs-bbs"
+                }
+            ]
+        },
+        {
+            "overview": {
+                "name": "Adarsha Multiple Campus",
+                "name_ne": null,
+                "slug": "adarsha-multiple-campus-gajuri",
+                "ownership": "community",
+                "established_year": 2006,
+                "university": "Tribhuvan University",
+                "municipality": "Gajuri Rural Municipality",
+                "address": "Gajuri Rural Municipality-1, Gajuri Bazar, Dhading, Nepal",
+                "description": "Non-profit community campus affiliated to Tribhuvan University, established in 2063 BS (2006 AD) with the initiation of Rajendra Prasad Pandey. Campus strategic plan states it began with B.Ed., added management in 2064 BS, and introduced M.Ed. in Education Planning and Management and Nepali Education in 2075 BS. HEIMS 2081/82 records BBS, B.Ed. and M.Ed. enrollment. A two-storey building built with Indian grant assistance was inaugurated on 26 June 2023.",
+                "mission": null,
+                "vision": "To educate and empower helpless and neglected, disabled, indigenous and culturally backward students.",
+                "source_urls": [
+                    "https://edusanjal.com/college/adarsha-multiple-campus/",
+                    "https://www.collegenp.com/college/adarsha-multiple-campus-dhading-dhading",
+                    "https://amcdhading.edu.np/media/media/AMC_Second_Strategic_Plan_2024_-2028.pdf",
+                    "https://www.indembkathmandu.gov.in/media-detail/42",
+                    "https://giwmscdnone.gov.np/media/pdf_upload/HEIMS%20Report%20final%202081-82_yr32y7e.pdf"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Business Studies (BBS)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/adarsha-multiple-campus-dhading-dhading-bachelor-of-business-studies-bbs-bbs"
+                },
+                {
+                    "name": "Bachelor of Education (B.Ed.)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/adarsha-multiple-campus-dhading-dhading-bachelor-of-education-bed-bed"
+                },
+                {
+                    "name": "Master of Education (M.Ed.)",
+                    "level": "Master",
+                    "duration": "2 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/adarsha-multiple-campus-dhading-dhading-master-of-education-med"
+                }
+            ],
+            "facilities": [
+                "Classrooms",
+                "Library",
+                "Meeting hall",
+                "Office rooms",
+                "Cafeteria",
+                "Sports",
+                "Science lab",
+                "Conference",
+                "Counseling"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [
+                {
+                    "title": "Inauguration of Adarsha Multiple Campus building",
+                    "date": "2023-06-26",
+                    "summary": "Prime Minister Pushpa Kamal Dahal inaugurated a two-storey campus building constructed with Government of India financial assistance of NPR 41.20 million.",
+                    "source_url": "https://www.indembkathmandu.gov.in/media-detail/42"
+                }
+            ],
+            "faqs": [
+                {
+                    "question": "Where is the M.Ed. program conducted?",
+                    "answer": "The M.Ed. program runs at Adarsha Multiple Campus in Gajuri, Dhading, Nepal."
+                }
+            ],
+            "contact": {
+                "phones": [
+                    "+977-10-692020",
+                    "+977-10-402332"
+                ],
+                "emails": [
+                    "amcgajuri616@gmail.com"
+                ],
+                "website": "https://amcdhading.edu.np",
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": [
+                {
+                    "question": "What M.Ed. specializations are published for Adarsha Multiple Campus?",
+                    "answer": "Education Planning and Management (EPM) and Nepali Education, started in 2075 BS.",
+                    "source_url": "https://www.collegenp.com/course/adarsha-multiple-campus-dhading-dhading-master-of-education-med"
+                }
+            ]
+        },
+        {
+            "overview": {
+                "name": "Chandrodaya Multiple Campus",
+                "name_ne": "चन्द्रोदय बहुमुखी क्याम्पस",
+                "slug": "chandrodaya-multiple-campus",
+                "ownership": "community",
+                "established_year": 2009,
+                "university": "Tribhuvan University",
+                "municipality": "Benighat Rorang Rural Municipality",
+                "address": "Benighat Rorang Rural Municipality-5, Bishaltar, Dhading, Nepal",
+                "description": "Community campus affiliated to Tribhuvan University, established in 2066 BS (2009 AD) at Bishaltar. It runs BBS and B.Ed. under the TU annual system. HEIMS 2081/82 records 149 students in BBS and B.Ed. An older directory page lists establishment as 2016 BS, which conflicts with the 2066 BS date used by the campus profile.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://www.collegenp.com/college/chandrodaya-multiple-campus-dhading",
+                    "https://edusanjal.com/college/chandrodaya-multiple-campus/",
+                    "https://giwmscdnone.gov.np/media/pdf_upload/HEIMS%20Report%20final%202081-82_yr32y7e.pdf"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Business Studies (BBS)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/chandrodaya-multiple-campus-dhading-bachelor-of-business-studies-bbs-bbs"
+                },
+                {
+                    "name": "Bachelor of Education (B.Ed.)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/chandrodaya-multiple-campus-dhading-bachelor-of-education-bed-bed"
+                }
+            ],
+            "facilities": [
+                "Library",
+                "Computer lab",
+                "Science lab",
+                "Multimedia",
+                "Conference hall",
+                "Counseling",
+                "Sports courts and ground",
+                "ECA",
+                "Campus bus",
+                "Hostel"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-10-416134",
+                    "+977-10-690325",
+                    "+977-9855080627",
+                    "+977-9841661256",
+                    "9808699487",
+                    "+977-9849539054"
+                ],
+                "emails": [
+                    "cmcbishaltar@gmail.com"
+                ],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "CP College",
+                "name_ne": null,
+                "slug": "cp-college-dhading",
+                "ownership": "private",
+                "established_year": 2010,
+                "university": "Tribhuvan University",
+                "municipality": "Neelakantha Municipality",
+                "address": "Nilkantha Municipality-4, CP Chowk, CP Nagar, Dhading, Nepal",
+                "description": "Private TU-affiliated college established in 2010 AD (2067 BS), approved by the Ministry of Education, Science and Technology. It offers BBS and is described as a sister organization of Children Park Secondary Boarding School. HEIMS 2081/82 records 22 BBS students. TU affiliation lists include CP College, Dhading.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://www.collegenp.com/college/cp-college-cp-nagar-dhading",
+                    "https://www.collegenp.com/course/cp-college-bachelor-of-business-studies-bbs-bbs",
+                    "https://giwmscdnone.gov.np/media/pdf_upload/HEIMS%20Report%20final%202081-82_yr32y7e.pdf",
+                    "https://edusanjal.com/school/children-park-boarding-higher-secondary-school/"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Business Studies (BBS)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/cp-college-bachelor-of-business-studies-bbs-bbs"
+                }
+            ],
+            "facilities": [
+                "Classrooms",
+                "Library",
+                "Computer lab",
+                "Multimedia",
+                "Conference hall",
+                "Journals",
+                "Counseling",
+                "Cafeteria",
+                "Transportation",
+                "Sports",
+                "Science lab",
+                "ECA"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [
+                {
+                    "question": "What is the duration of the BBS program at CP College, Dhading?",
+                    "answer": "The published course page lists BBS as a 4-year, full-time program."
+                }
+            ],
+            "contact": {
+                "phones": [
+                    "+977-10-520222",
+                    "+977-9843510807"
+                ],
+                "emails": [
+                    "cpdhading@gmail.com"
+                ],
+                "website": "https://college.cpbs.edu.np",
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": [
+                {
+                    "question": "What bachelor program is confirmed for CP College in the UGC HEIMS report?",
+                    "answer": "B.B.S., with 22 students recorded for 2081/82.",
+                    "source_url": "https://giwmscdnone.gov.np/media/pdf_upload/HEIMS%20Report%20final%202081-82_yr32y7e.pdf"
+                }
+            ]
+        },
+        {
+            "overview": {
+                "name": "Dhading Multiple Campus",
+                "name_ne": "धादिङ बहुमुखी क्याम्पस",
+                "slug": "dhading-multiple-campus",
+                "ownership": "community",
+                "established_year": 2010,
+                "university": "Tribhuvan University",
+                "municipality": "Galchhi Rural Municipality",
+                "address": "Prithivi Highway, Galchhi Rural Municipality-4, Mastar, Dhading, Nepal",
+                "description": "Community campus established in 2067 BS (2010 AD), affiliated to Tribhuvan University, running a four-year BBS program. A TU exam-centre list also records the campus as Dhading Multiple College, Mastar, Baireni-7, Dhading. HEIMS 2081/82 lists Dhading Multiple College, Dhading. Campus chief is published as Hark Bahadur Jagari.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://www.collegenp.com/college/dhading-multiple-campus-dhading",
+                    "https://edusanjal.com/college/dhading-multiple-campus/",
+                    "https://media.collegeinfonepal.com/information_docs/BBS-4th-Year-Exam-Center-Outisde-Kathmandu-Valley-2081.pdf",
+                    "https://newsofnepal.com/2019/11/24/266155/"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Business Studies (BBS)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/dhading-multiple-campus-dhading-bachelor-of-business-studies-bbs-bbs"
+                }
+            ],
+            "facilities": [
+                "Library",
+                "Sports",
+                "Computer lab",
+                "Multimedia",
+                "Journal",
+                "Counseling",
+                "Scholarships",
+                "Classrooms",
+                "Conference hall",
+                "Free bus service"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-10-404088",
+                    "+977-9849667436"
+                ],
+                "emails": [
+                    "dhadingcampus123@gmail.com"
+                ],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Dhunibesi Adarsha Campus",
+                "name_ne": "धुनिवेसी आदर्श बहुमुखी क्याम्पस",
+                "slug": "dhunibesi-adarsha-campus",
+                "ownership": "community",
+                "established_year": 2009,
+                "university": "Tribhuvan University",
+                "municipality": "Dhunibeshi Municipality",
+                "address": "Dhunibeshi, Dhading, Nepal",
+                "description": "Community campus affiliated to Tribhuvan University, established in 2009 AD (2066 BS). CollegeNP places it at Dhunibeshi-3, Chhatrepati; Edusanjal lists Jeevanpur-6, Dhunibeshi. It runs four-year B.Ed. and BBS. HEIMS 2081/82 records 93 students in BBS and B.Ed. Campus chief is published as Jeevnath Dhakal.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://www.collegenp.com/college/dhunibesi-adarsha-campus-dhading",
+                    "https://edusanjal.com/college/dhunibesi-adarsha-campus/",
+                    "https://npca.edu.np/campus_list/",
+                    "https://giwmscdnone.gov.np/media/pdf_upload/HEIMS%20Report%20final%202081-82_yr32y7e.pdf"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Education (B.Ed.)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/dhunibesi-adarsha-campus-dhading"
+                },
+                {
+                    "name": "Bachelor of Business Studies (BBS)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/dhunibesi-adarsha-campus-dhading"
+                }
+            ],
+            "facilities": [
+                "Library",
+                "Sports",
+                "Science lab",
+                "Computer lab",
+                "Transportation",
+                "Internet",
+                "Multimedia",
+                "Journal",
+                "Counseling",
+                "Scholarships",
+                "Classrooms",
+                "Conference hall",
+                "Tour",
+                "ECA"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-9851251999"
+                ],
+                "emails": [],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Jaya Bageshwori Multiple Campus",
+                "name_ne": "जय बागेश्वरी बहुमुखी क्याम्पस",
+                "slug": "jaya-bageshwori-multiple-campus",
+                "ownership": "community",
+                "established_year": 2010,
+                "university": "Tribhuvan University",
+                "municipality": "Benighat Rorang Rural Municipality",
+                "address": "Benighat Rorang-3, Richoktar, Malekhu, Dhading, Nepal",
+                "description": "Community campus established in 2067 BS (2010 AD), affiliated to Tribhuvan University, offering BBS and B.Ed. HEIMS 2081/82 records 125 students in BBS and B.Ed. The campus website lists recent examination and registration notices.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://www.collegenp.com/college/jaya-bageshwori-multiple-campus-dhading",
+                    "https://www.jayabageswareecampus.edu.np/",
+                    "https://edusanjal.com/college/jaya-bageshwori-multiple-campus/",
+                    "https://giwmscdnone.gov.np/media/pdf_upload/HEIMS%20Report%20final%202081-82_yr32y7e.pdf"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Business Studies (BBS)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/jaya-bageshwori-multiple-campus-dhading-bachelor-of-business-studies-bbs-bbs"
+                },
+                {
+                    "name": "Bachelor of Education (B.Ed.)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/jaya-bageshwori-multiple-campus-dhading-bachelor-of-education-bed-bed"
+                }
+            ],
+            "facilities": [
+                "Library",
+                "Sports",
+                "Science lab",
+                "Computer lab",
+                "Multimedia",
+                "Journal",
+                "Counseling",
+                "Scholarships",
+                "Classrooms",
+                "Conference hall",
+                "ECA"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [
+                {
+                    "title": "Notice to fill up exam form for BBS, B.Ed 3rd year regular and partial",
+                    "date": "2025-12-16",
+                    "summary": "Campus website lists last date 2082/09/15 for the third-year regular and partial exam form.",
+                    "source_url": "https://www.jayabageswareecampus.edu.np/"
+                },
+                {
+                    "title": "3rd Years B.Ed Registration",
+                    "date": "2025-05-06",
+                    "summary": "Registration notice listed on the campus website.",
+                    "source_url": "https://www.jayabageswareecampus.edu.np/"
+                },
+                {
+                    "title": "BBS Registration",
+                    "date": "2025-05-06",
+                    "summary": "Registration notice listed on the campus website.",
+                    "source_url": "https://www.jayabageswareecampus.edu.np/"
+                }
+            ],
+            "faqs": [
+                {
+                    "question": "Where is the campus located?",
+                    "answer": "Benighat Rorang-3 (Richoktar), Malekhu, Dhading, Nepal."
+                }
+            ],
+            "contact": {
+                "phones": [
+                    "+977-9851185208"
+                ],
+                "emails": [
+                    "info@jayabageswareecampus.edu.np"
+                ],
+                "website": "https://www.jayabageswareecampus.edu.np",
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": [
+                {
+                    "question": "How can I contact the campus for BBS admissions?",
+                    "answer": "Phone +977-9851185208; email info@jayabageswareecampus.edu.np; website https://www.jayabageswareecampus.edu.np.",
+                    "source_url": "https://www.collegenp.com/course/jaya-bageshwori-multiple-campus-dhading-bachelor-of-business-studies-bbs-bbs"
+                }
+            ]
+        },
+        {
+            "overview": {
+                "name": "Machchhindra Multiple Campus",
+                "name_ne": "मच्छिन्द्र बहुमुखी क्याम्पस",
+                "slug": "machchhindra-multiple-campus",
+                "ownership": "community",
+                "established_year": 2010,
+                "university": "Tribhuvan University",
+                "municipality": "Dhunibeshi Municipality",
+                "address": "Dhunibeshi Municipality Ward No. 7, Khanikhola, Naubise, Dhading, Nepal",
+                "description": "Community campus established in 2010 AD (2066 BS), affiliated to Tribhuvan University. Current Edusanjal, CollegeNP and HEIMS 2081/82 listings give BBS and BA, not B.Ed. BA subject areas published as Nepali, Sociology and RD. HEIMS records 223 students. An older directory page that listed B.Ed. conflicts with these later sources.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://www.collegenp.com/college/machchhindra-multiple-campus-dhading",
+                    "https://edusanjal.com/college/machchhindra-multiple-campus/",
+                    "https://giwmscdnone.gov.np/media/pdf_upload/HEIMS%20Report%20final%202081-82_yr32y7e.pdf",
+                    "https://www.glunis.com/NP/Naubise/695219483992584/Machchhindra-Multiple-Campus"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Business Studies (BBS)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/machchhindra-multiple-campus-dhading-bachelor-of-business-studies-bbs-bbs"
+                },
+                {
+                    "name": "Bachelor of Arts (BA)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Humanities and Social Sciences",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/machchhindra-multiple-campus-dhading-bachelor-of-education-bed-bed"
+                }
+            ],
+            "facilities": [
+                "Library",
+                "Computer lab",
+                "Multimedia",
+                "Sports",
+                "Journal",
+                "Classrooms",
+                "Conference hall",
+                "Counseling"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [
+                {
+                    "title": "BA and BBS internal examination and assessment notices",
+                    "date": "2026-09-30",
+                    "summary": "Public campus page posted BA first-year assessment-file submission and later BBS/BA internal-exam and exam-centre notices in September 2026.",
+                    "source_url": "https://www.glunis.com/NP/Naubise/695219483992584/Machchhindra-Multiple-Campus"
+                }
+            ],
+            "faqs": [
+                {
+                    "question": "Which bachelor programs are available at the campus?",
+                    "answer": "Bachelor of Business Studies (BBS) and Bachelor of Arts (BA) with Nepali, Sociology, and RD."
+                }
+            ],
+            "contact": {
+                "phones": [
+                    "+977-10-401037",
+                    "+977-9851347300"
+                ],
+                "emails": [
+                    "machchhindra2066@gmail.com"
+                ],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": [
+                {
+                    "question": "Which university is Machchhindra Multiple Campus affiliated with?",
+                    "answer": "Tribhuvan University (TU).",
+                    "source_url": "https://www.collegenp.com/college/machchhindra-multiple-campus-dhading"
+                }
+            ]
+        },
+        {
+            "overview": {
+                "name": "Netrawati Community Multiple Campus",
+                "name_ne": "नेत्रावती सामुदायिक बहुमुखी क्याम्पस",
+                "slug": "netrawati-samudayik-campus",
+                "ownership": "community",
+                "established_year": 2007,
+                "university": "Tribhuvan University",
+                "municipality": "Tripurasundari Rural Municipality",
+                "address": "Tripurasundari Rural Municipality-7, Khahare, Dhading, Nepal",
+                "description": "Community campus established in 2064 BS at Khahare, about 34 km north of Dhadingbesi, through local initiative linked with Shree Achane Secondary School. Edusanjal also lists the place as Tripureshor. Campus profiles state B.Ed. since 2064 BS and BBS since 2070 BS. HEIMS 2081/82 records only B.Ed. enrollment (44 students). NPCA lists campus chief Basudev Sedai.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://www.collegenp.com/college/netrawati-samudayik-campus-dhading",
+                    "https://edusanjal.com/college/netrawati-samudayik-campus/",
+                    "https://npca.edu.np/campus_details/134",
+                    "https://giwmscdnone.gov.np/media/pdf_upload/HEIMS%20Report%20final%202081-82_yr32y7e.pdf"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Education (B.Ed.)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/netrawati-samudayik-campus-dhading-bachelor-of-education-bed-bed"
+                },
+                {
+                    "name": "Bachelor of Business Studies (BBS)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/netrawati-samudayik-campus-dhading-bachelor-of-business-studies-bbs-bbs"
+                }
+            ],
+            "facilities": [
+                "Library",
+                "Sports",
+                "Science lab",
+                "Computer lab",
+                "Multimedia",
+                "Journal",
+                "Counseling",
+                "Scholarships",
+                "Classrooms",
+                "Conference hall"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [
+                {
+                    "question": "Where is the BBS program offered?",
+                    "answer": "At Netrawati Community Multiple Campus in Tripurasundari Rural Municipality-7, Khahare, Dhading."
+                },
+                {
+                    "question": "Which university is the BBS program affiliated with?",
+                    "answer": "Tribhuvan University (TU)."
+                }
+            ],
+            "contact": {
+                "phones": [
+                    "+977-9851311725",
+                    "+977-9751003163"
+                ],
+                "emails": [],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": [
+                {
+                    "question": "When did B.Ed. and BBS start at this campus according to published profiles?",
+                    "answer": "B.Ed. since 2064 BS (2007/08 AD); BBS since 2070 BS (2013/14).",
+                    "source_url": "https://www.collegenp.com/college/netrawati-samudayik-campus-dhading"
+                }
+            ]
+        },
+        {
+            "overview": {
+                "name": "Salyantar Campus",
+                "name_ne": "सल्यानटार क्याम्पस",
+                "slug": "salyantar-campus",
+                "ownership": "community",
+                "established_year": 2008,
+                "university": "Tribhuvan University",
+                "municipality": "Tripurasundari Rural Municipality",
+                "address": "Tripurasundari Rural Municipality-1, Aarughat Road, Salyantar, Dhading, Nepal",
+                "description": "Community campus established in 2064 BS (2008 AD), affiliated to Tribhuvan University, running four-year B.Ed. and BBS under the annual system. HEIMS 2081/82 records 140 students in BBS and B.Ed. Published scholarship types include merit-based, need-based, inclusive quota, UGC, local-government recommendation and endowment-fund scholarships.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://www.collegenp.com/college/salyantar-campus-dhading",
+                    "https://edusanjal.com/college/salyantar-campus/",
+                    "https://giwmscdnone.gov.np/media/pdf_upload/HEIMS%20Report%20final%202081-82_yr32y7e.pdf"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Education (B.Ed.)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/salyantar-campus-dhading-bachelor-of-education-bed-bed"
+                },
+                {
+                    "name": "Bachelor of Business Studies (BBS)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/salyantar-campus-dhading-bachelor-of-business-studies-bbs-bbs"
+                }
+            ],
+            "facilities": [
+                "Library",
+                "Computer lab",
+                "Multimedia",
+                "Classrooms",
+                "Conference hall",
+                "Counseling",
+                "Sports",
+                "Journal",
+                "Tours",
+                "ECA"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [
+                {
+                    "question": "What bachelor programs are available at Salyantar Campus?",
+                    "answer": "Bachelor of Education (B.Ed.) and Bachelor of Business Studies (BBS), both four-year full-time programs under the annual examination system."
+                },
+                {
+                    "question": "Does Salyantar Campus provide internship opportunities?",
+                    "answer": "Yes. Internship arrangements are published for banks and financial institutions."
+                }
+            ],
+            "contact": {
+                "phones": [
+                    "+977-984-3173362",
+                    "+977-9851206843"
+                ],
+                "emails": [
+                    "info@salyantarcampus.edu.np",
+                    "salyantarcampus123@gamil.com"
+                ],
+                "website": "https://salyantarcampus.edu.np",
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": [
+                {
+                    "question": "What exam system is used?",
+                    "answer": "TU annual examination system.",
+                    "source_url": "https://www.collegenp.com/college/salyantar-campus-dhading"
+                }
+            ]
+        },
+        {
+            "overview": {
+                "name": "Saphal College",
+                "name_ne": null,
+                "slug": "saphal-college-dhading",
+                "ownership": "private",
+                "established_year": 2013,
+                "university": "Tribhuvan University",
+                "municipality": "Galchhi Rural Municipality",
+                "address": "Galchhi-6, Baireni, Dhading, Nepal",
+                "description": "Bachelor-level arm of Success Academy / Saphal College. The school site says the academy was established in 2068 BS, plus-two in 2074 BS, and bachelor study in 2070 BS, and states TU affiliation. HEIMS 2081/82 records Saphal College, Dhading, with BBS and 50 students. A TU BBS exam-centre list places Saphal College at Baireni-8, Galchhi, Dhading. The website text also mentions management and humanities at bachelor level, but only BBS is confirmed in HEIMS.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://successacademydhading.edu.np/",
+                    "https://www.facebook.com/success.galchhi",
+                    "https://giwmscdnone.gov.np/media/pdf_upload/HEIMS%20Report%20final%202081-82_yr32y7e.pdf",
+                    "https://media.collegeinfonepal.com/information_docs/BBS-4th-Year-Exam-Center-Outisde-Kathmandu-Valley-2081.pdf"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Business Studies (BBS)",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://giwmscdnone.gov.np/media/pdf_upload/HEIMS%20Report%20final%202081-82_yr32y7e.pdf"
+                }
+            ],
+            "facilities": [
+                "Computer lab",
+                "Science lab",
+                "Library",
+                "Playground"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-10-403036",
+                    "010-403181"
+                ],
+                "emails": [
+                    "successsaphal@gmail.com"
+                ],
+                "website": "https://successacademydhading.edu.np",
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Namuna Bageshwori Multiple Campus",
+                "name_ne": "नमुना बागेश्वरी बहुमुखी क्याम्पस",
+                "slug": "namuna-bageshwori-multiple-campus",
+                "ownership": "community",
+                "established_year": 2010,
+                "university": "Tribhuvan University",
+                "municipality": "Galchhi Rural Municipality",
+                "address": "Galchhi Rural Municipality-6, Baireni Bazar, Dhading, Nepal",
+                "description": "Community campus established in 2067 BS (2010 AD), affiliated to Tribhuvan University, offering four-year BBS and B.Ed. HEIMS 2081/82 lists Shree Namuna Bageshworee Multiple Campus, Dhading, with BBS and B.Ed. and 87 students. Edusanjal’s district list places Baireni under Benighat Rorang, which conflicts with the Galchhi-6 address used by CollegeNP and a news video. A TU exam-centre list once recorded Baireni-9.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://www.collegenp.com/college/namuna-bageshwori-multiple-campus-dhading",
+                    "https://edusanjal.com/college/namuna-bageshwori-multiple-campus/",
+                    "https://giwmscdnone.gov.np/media/pdf_upload/HEIMS%20Report%20final%202081-82_yr32y7e.pdf",
+                    "https://www.youtube.com/watch?v=rVIRfnuw0K0"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Business Studies (BBS)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/namuna-bageshwori-multiple-campus-dhading-bachelor-of-business-studies-bbs-bbs"
+                },
+                {
+                    "name": "Bachelor of Education (B.Ed.)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/namuna-bageshwori-multiple-campus-dhading-bachelor-of-education-bed-bed"
+                }
+            ],
+            "facilities": [
+                "Library",
+                "Sports",
+                "Science lab",
+                "Computer lab",
+                "Multimedia",
+                "Journal",
+                "Counseling",
+                "Scholarships",
+                "Classrooms",
+                "Conference hall",
+                "ECA"
+            ],
+            "gallery": [],
+            "videos": [
+                {
+                    "title": "सरकारी क्याम्पसको भवनमा निजी विद्यालय",
+                    "url": "https://www.youtube.com/watch?v=rVIRfnuw0K0",
+                    "platform": "YouTube"
+                }
+            ],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-9860397266",
+                    "+977-9851048250"
+                ],
+                "emails": [],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Simle Mahakali Multiple Campus",
+                "name_ne": "सिम्ले महाकाली बहुमुखी क्याम्पस",
+                "slug": "simle-mahakali-multiple-campus",
+                "ownership": "community",
+                "established_year": 2012,
+                "university": "Tribhuvan University",
+                "municipality": "Thakre Rural Municipality",
+                "address": "Thakre Rural Municipality-2, Simle, Dhading, Nepal",
+                "description": "Community campus established in 2069 BS (2012 AD), affiliated to Tribhuvan University, offering BBS and B.Ed. with English and Nepali majors. HEIMS 2081/82 records 112 students in BBS and B.Ed. Campus chief is published as Dinesh Regmi. Bachelor programs are also described as running under this campus at Mahakali Secondary School, Simle.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://www.collegenp.com/college/simle-mahakali-multiple-campus-dhading",
+                    "https://edusanjal.com/college/simle-mahakali-multiple-campus/",
+                    "https://edusanjal.com/school/mahakali-higher-secondary-school-dhading/",
+                    "https://giwmscdnone.gov.np/media/pdf_upload/HEIMS%20Report%20final%202081-82_yr32y7e.pdf"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Business Studies (BBS)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/simle-mahakali-multiple-campus-dhading-bachelor-of-business-studies-bbs-bbs"
+                },
+                {
+                    "name": "Bachelor of Education (B.Ed.)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/simle-mahakali-multiple-campus-dhading-bachelor-of-education-bed-bed"
+                }
+            ],
+            "facilities": [
+                "Library",
+                "Classrooms",
+                "Multimedia",
+                "Journal",
+                "Counseling",
+                "Sports",
+                "Tours",
+                "ECA",
+                "Science lab",
+                "Computer lab",
+                "Conference",
+                "Parking"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-9849142217",
+                    "+977-9851021742",
+                    "+977-9841147429",
+                    "+977-9841114572",
+                    "+977-9851017892"
+                ],
+                "emails": [
+                    "mahakalicampus069@gmail.com"
+                ],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": [
+                {
+                    "question": "What B.Ed. majors are published?",
+                    "answer": "Major English and Major Nepali.",
+                    "source_url": "https://www.collegenp.com/course/simle-mahakali-multiple-campus-dhading-bachelor-of-education-bed-bed"
+                }
+            ]
+        },
+        {
+            "overview": {
+                "name": "Dhading Polytechnic Institute",
+                "name_ne": null,
+                "slug": "dhading-polytechnic-institute",
+                "ownership": "constituent",
+                "established_year": 2018,
+                "university": "CTEVT",
+                "municipality": "Gajuri Rural Municipality",
+                "address": "Gajuri-1, Dhading, Nepal",
+                "description": "CTEVT constituent technical institute established in 2075 BS (2018 AD). Edusanjal and CollegeNP state it offers diploma programs in Agriculture (Plant Science) and Agriculture (Animal Science). A CTEVT institutional list records 40 seats in each program. These are diploma programs, not university bachelor degrees.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://edusanjal.com/school/dhading-polytechnic-institute/",
+                    "https://www.collegenp.com/college/dhading-polytechnic-school",
+                    "https://ctevt.org.np/public/uploads/kcfinder/files/Jhalak%202076_%202020%20Revised%20%26%20Updated.pdf"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Diploma in Agriculture (Plant Science)",
+                    "level": "Diploma",
+                    "duration": "3 years",
+                    "faculty": "Agriculture",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/dhading-polytechnic-school"
+                },
+                {
+                    "name": "Diploma in Agriculture (Animal Science)",
+                    "level": "Diploma",
+                    "duration": "3 years",
+                    "faculty": "Agriculture",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/dhading-polytechnic-school"
+                }
+            ],
+            "facilities": [
+                "Journal",
+                "Counseling",
+                "Scholarships",
+                "Tour",
+                "Computer lab",
+                "Classrooms",
+                "Conference hall",
+                "ECA"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [
+                {
+                    "title": "Dhading Polytechnic Institute Admission for Diploma in Plant Science",
+                    "date": "2025-10-08",
+                    "summary": "CollegeNP listed an admission update for the Diploma in Plant Science.",
+                    "source_url": "https://www.collegenp.com/college/dhading-polytechnic-school"
+                }
+            ],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-9851175189",
+                    "+977-9851357192",
+                    "9848021154"
+                ],
+                "emails": [
+                    "dhadingpolytech2018@gmail.com"
+                ],
+                "website": "https://dpsctevt.edu.np",
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Nilkantha Polytechnic Institute",
+                "name_ne": null,
+                "slug": "nilkantha-polytechnic-institute",
+                "ownership": "constituent",
+                "established_year": 2022,
+                "university": "CTEVT",
+                "municipality": "Neelakantha Municipality",
+                "address": "Neelakantha Municipality-4, Khanigaun, Dhading, Nepal",
+                "description": "CTEVT constituent technical institute established in 2079 BS (2022 AD). Edusanjal states it offers three-year Diploma in Civil Engineering specialized in Hydropower and Diploma in Automobile Engineering. CollegeNP details the hydropower diploma with intake 48 and 4 scholarship seats. A Ministry listing also classifies the hydropower diploma as a constituent CTEVT program in Nilakantha. These are diploma programs, not university bachelor degrees.",
+                "mission": null,
+                "vision": "Enlightenment through Technical Education",
+                "source_urls": [
+                    "https://edusanjal.com/school/nilakantha-polytechnic-institute/",
+                    "https://www.collegenp.com/college/nilkantha-polytechnic-institute-dhading",
+                    "https://cgs.moest.gov.np/Uploads/Resource/CTEVT%20Institutions%20and%20Programs.pdf"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Diploma in Civil Engineering (Hydropower)",
+                    "level": "Diploma",
+                    "duration": "3 years",
+                    "faculty": "Engineering",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/nilkantha-polytechnic-institute-dhading"
+                },
+                {
+                    "name": "Diploma in Automobile Engineering",
+                    "level": "Diploma",
+                    "duration": "3 years",
+                    "faculty": "Engineering",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/school/nilakantha-polytechnic-institute/"
+                }
+            ],
+            "facilities": [],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-10-590116",
+                    "+977-9849050398",
+                    "+977-9851339757"
+                ],
+                "emails": [
+                    "nilakanthapolitechnic79@gmail.com"
+                ],
+                "website": "https://npsdhading.edu.np",
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Janaswasthya Tatha Prabidhik Adhyayan School",
+                "name_ne": null,
+                "slug": "janaswasthya-tatha-prabidhik-adhyayan-school",
+                "ownership": null,
+                "established_year": null,
+                "university": "CTEVT",
+                "municipality": "Neelakantha Municipality",
+                "address": "Nilkantha, Dhading, Nepal",
+                "description": "Listed among CTEVT diploma/certificate institutions in Dhading. A CTEVT health-program directory lists Health Assistant (General Medicine) at Janaswasthya Tatha Prabidhik Adhyayan School, Nilkantha. CTEVT exam-centre notices assign the school to Dhading centres. A 2019 video title places a similarly named school at Chaptari, Dhading. No official phone, fee, or establishment year was found on the pages opened. This is a CTEVT diploma/certificate program, not a university bachelor campus.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://smartacademyhq.com/ctevt-admissions-tracker-2083/",
+                    "https://www.collegenp.com/exam/ctevt-diploma-certificate-exam-centers-2083",
+                    "https://www.youtube.com/watch?v=Du-qUGjk5Vo"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Health Assistant (General Medicine)",
+                    "level": "Diploma",
+                    "duration": null,
+                    "faculty": "Health",
+                    "fee": null,
+                    "source_url": "https://smartacademyhq.com/ctevt-admissions-tracker-2083/"
+                }
+            ],
+            "facilities": [],
+            "gallery": [],
+            "videos": [
+                {
+                    "title": "Janaswasthye tatha prabidhik school chaptari dhading",
+                    "url": "https://www.youtube.com/watch?v=Du-qUGjk5Vo",
+                    "platform": "YouTube"
+                }
+            ],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [],
+                "emails": [],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        }
+    ]
+}

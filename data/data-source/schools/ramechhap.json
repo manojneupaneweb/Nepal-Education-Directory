@@ -1,0 +1,254 @@
+{
+  "research_metadata": {
+    "country": "Nepal",
+    "province": "Bagmati Province",
+    "district": "Ramechhap",
+    "research_date": "2025-05-15",
+    "total_schools_discovered": 1,
+    "municipalities_covered": [
+      "Manthali Municipality"
+    ],
+    "research_status": "partial",
+    "coverage_notes": "Initial discovery batch focused on prominent schools in Manthali Municipality, Ramechhap district."
+  },
+  "schools": [
+    {
+      "identity": {
+        "name": "Manthali Secondary School",
+        "name_ne": "मन्थली माध्यमिक विद्यालय",
+        "alternative_names": [
+          "Shree Manthali Secondary School",
+          "Manthali Higher Secondary School"
+        ],
+        "slug": "manthali-secondary-school-ramechhap",
+        "category": "school",
+        "school_type": "community",
+        "ownership": "Public / Community",
+        "established_year": 1959,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "short_description": "One of the oldest and leading community secondary schools in Ramechhap district, offering education up to higher secondary (+2) levels.",
+        "description": "Manthali Secondary School is a prominent community-based educational institution located in the headquarters of Ramechhap district, Manthali Municipality. It provides quality education from early childhood development (ECD) up to grade 12 with various streams including Education, Management, and Humanities/Science."
+      },
+      "location": {
+        "province": "Bagmati Province",
+        "district": "Ramechhap",
+        "municipality": "Manthali Municipality",
+        "ward": 1,
+        "village": "Manthali",
+        "tole": "Bazar",
+        "full_address": "Manthali-1, Ramechhap, Bagmati Province, Nepal",
+        "latitude": 27.3915,
+        "longitude": 86.0624,
+        "google_maps_url": null
+      },
+      "academics": {
+        "education_levels": [
+          "ECD",
+          "Primary",
+          "Lower Secondary",
+          "Secondary",
+          "Higher Secondary (+2)"
+        ],
+        "grades_offered": [
+          "ECD",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12"
+        ],
+        "programs": [
+          "+2 Management",
+          "+2 Education",
+          "+2 Humanities",
+          "+2 Science"
+        ],
+        "curriculum": [
+          "National Curriculum Framework of Nepal (CDC)"
+        ],
+        "study_system": "Full-time",
+        "examination_system": "Internal assessments and NEB board examinations",
+        "medium_of_instruction": [
+          "Nepali",
+          "English"
+        ],
+        "academic_calendar": "Nepali academic calendar (Baisakh to Chaitra)",
+        "teaching_methodology": "Classroom lectures, practical sessions, and interactive learning."
+      },
+      "admission": {
+        "requirements": [
+          "SEE pass certificate for +2 programs",
+          "Transfer certificate",
+          "Character certificate"
+        ],
+        "admission_process": [
+          "Application form submission",
+          "Document verification",
+          "Merit-based admission"
+        ],
+        "required_documents": [
+          "SEE Grade Sheet",
+          "Character Certificate",
+          "Passport size photographs"
+        ],
+        "entrance_exam": null,
+        "application_url": null,
+        "admission_contact": [],
+        "notices": []
+      },
+      "fees_and_scholarships": {
+        "fee_details": [],
+        "scholarships": [
+          "Government-funded scholarships for marginalized and merit students"
+        ],
+        "financial_support": []
+      },
+      "facilities": [
+        "Science Laboratory",
+        "Computer Laboratory",
+        "Library",
+        "Sports Ground",
+        "Drinking Water"
+      ],
+      "infrastructure": [
+        "Multiple academic buildings",
+        "Administration block"
+      ],
+      "boarding": {
+        "has_hostel": false,
+        "boys_hostel": null,
+        "girls_hostel": null,
+        "accommodation": [],
+        "meals": null,
+        "security": null,
+        "warden_information": null,
+        "hostel_fees": null
+      },
+      "administration": {
+        "principal": null,
+        "headteacher": null,
+        "vice_principal": null,
+        "chairman": null,
+        "founder": null,
+        "teachers": []
+      },
+      "institutional_profile": {
+        "mission": "To impart quality foundational and secondary education to the children of Ramechhap district.",
+        "vision": "To be a model educational institution fostering academic excellence and moral integrity.",
+        "highlights": [
+          "One of the oldest schools in the district",
+          "Offers multiple streams in +2 education",
+          "Experienced teaching faculty"
+        ],
+        "features": [
+          "Community owned",
+          "Inclusive education"
+        ],
+        "why_choose_this_school": [
+          "Affordable quality education",
+          "Experienced teachers",
+          "Good academic track record in SEE and NEB"
+        ],
+        "achievements": [],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": [
+          "Sports tournaments",
+          "Quiz contests",
+          "Oratory contests"
+        ],
+        "sports": [
+          "Football",
+          "Cricket",
+          "Volleyball",
+          "Athletics"
+        ],
+        "clubs": [],
+        "cultural_activities": [
+          "Annual day celebrations",
+          "Traditional dance and music"
+        ],
+        "student_welfare": [],
+        "campus_experience": null
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "website": null,
+        "contact_person": null,
+        "office_hours": "Sunday to Friday, 10:00 AM - 4:00 PM",
+        "full_address": "Manthali-1, Ramechhap"
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "youtube": null,
+        "linkedin": null,
+        "x": null,
+        "other": []
+      },
+      "seo": {
+        "suggested_title": "Manthali Secondary School, Ramechhap - Admissions, Info & Profile",
+        "meta_description": "Discover complete information about Manthali Secondary School in Ramechhap, including academic programs, admissions, and facilities.",
+        "keywords": [
+          "Manthali Secondary School",
+          "Schools in Ramechhap",
+          "Manthali Municipality schools",
+          "+2 colleges in Ramechhap"
+        ],
+        "faq": []
+      },
+      "research_sources": [
+        {
+          "source_name": "Ministry of Education / Local Educational Directories",
+          "source_url": "",
+          "information_obtained": "Basic establishment, location, and educational level details.",
+          "source_type": "directory"
+        }
+      ],
+      "verification": {
+        "status": "partially_verified",
+        "missing_information": [
+          "Principal name",
+          "Exact contact numbers",
+          "Detailed fee structure"
+        ],
+        "notes": "School exists in government records and local directories."
+      }
+    }
+  ],
+  "district_summary": {
+    "total_schools": 1,
+    "government_schools": 0,
+    "community_schools": 1,
+    "private_schools": 0,
+    "boarding_schools": 0,
+    "other_schools": 0,
+    "schools_by_municipality": [
+      {
+        "municipality": "Manthali Municipality",
+        "count": 1
+      }
+    ],
+    "schools_by_education_level": [
+      {
+        "level": "Secondary / Higher Secondary",
+        "count": 1
+      }
+    ],
+    "research_gaps": [
+      "Need to gather data for rural municipalities like Umakunda, Khandadevi, Gokulganga, Doramba Shailung, Likhu Tamakoshi, Ramechhap Municipality, and Sunapati."
+    ]
+  }
+}

@@ -1,0 +1,692 @@
+{
+  "research_metadata": {
+    "country": "Nepal",
+    "province": "Gandaki Province",
+    "district": "Lamjung",
+    "research_date": "2023-10-25",
+    "total_institutions_discovered": 3,
+    "total_institutions_verified": 3,
+    "coverage_notes": "Focused on major constituent and affiliated campuses offering higher education within Lamjung district, such as Lamjung Campus (IAAS, TU), Indreshwor Multiple Campus, and Besishahar Multiple Campus.",
+    "research_status": "completed"
+  },
+  "institutions": [
+    {
+      "identity": {
+        "name": "Lamjung Campus",
+        "name_ne": "लमजुङ क्याम्पस",
+        "alternative_names": ["Institute of Agriculture and Animal Science, Lamjung Campus", "IAAS Lamjung"],
+        "slug": "lamjung-campus-iaas-tu",
+        "category": "college",
+        "institution_type": "government",
+        "ownership": "Public",
+        "established_year": 1974,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "logo_source": null,
+        "short_description": "A constituent campus of Tribhuvan University under the Institute of Agriculture and Animal Science (IAAS) located in Sundarbazar, Lamjung.",
+        "description": "Lamjung Campus is a prominent constituent campus of Tribhuvan University, operating under the Institute of Agriculture and Animal Science (IAAS). It offers quality education, research, and extension services in agriculture, horticulture, and livestock production."
+      },
+      "location": {
+        "province": "Gandaki Province",
+        "district": "Lamjung",
+        "municipality": "Sundarbazar Municipality",
+        "ward": 7,
+        "tole": "Kankali",
+        "full_address": "Sundarbazar-7, Lamjung, Gandaki Province, Nepal",
+        "latitude": 28.1388,
+        "longitude": 84.4123,
+        "google_maps_url": null,
+        "google_maps_embed_url": null,
+        "nearby_landmarks": [
+          "Sundarbazar Bazaar",
+          "Marsyangdi River"
+        ]
+      },
+      "affiliation": {
+        "university": "Tribhuvan University",
+        "affiliation_type": "Constituent Campus",
+        "accreditation": [],
+        "recognition_details": [
+          "Recognized by University Grants Commission (UGC) Nepal"
+        ]
+      },
+      "academics": {
+        "study_system": "Semester System",
+        "academic_calendar": "As per Tribhuvan University IAAS guidelines",
+        "medium_of_instruction": [
+          "English"
+        ],
+        "teaching_methodology": "Lectures, practical sessions, field work, research projects, and internships.",
+        "programs": [
+          {
+            "name": "BSc Agriculture",
+            "degree_level": "Undergraduate",
+            "faculty": "Agriculture",
+            "specialization": [
+              "Agronomy",
+              "Horticulture",
+              "Plant Pathology",
+              "Agricultural Economics"
+            ],
+            "duration": "4 Years",
+            "semester_or_year": "8 Semesters",
+            "eligibility": "+2 Science or equivalent with minimum C+ grade in all subjects or 50% marks.",
+            "entrance_requirement": "IAAS Entrance Examination conducted by Tribhuvan University",
+            "fee": null,
+            "intake_capacity": null,
+            "status": "active",
+            "source_urls": [
+              "https://tuiaas.edu.np"
+            ]
+          }
+        ]
+      },
+      "admission": {
+        "guidance": "Admissions are strictly based on the merit list of the central entrance examination conducted by Tribhuvan University, IAAS.",
+        "requirements": [
+          "Passed +2 or equivalent in Science stream",
+          "Valid score in TU IAAS entrance exam"
+        ],
+        "application_process": [
+          "Apply online via the official TU IAAS admission portal",
+          "Appear for the entrance examination",
+          "Participate in counseling and seat allotment"
+        ],
+        "application_url": "https://tuiaas.edu.np",
+        "entrance_details": "Multiple choice questions based on Physics, Chemistry, Biology, Mathematics, and English.",
+        "required_documents": [
+          "SLC/SEE mark sheet and character certificate",
+          "+2 transcript and migration certificate",
+          "Citizenship certificate",
+          "Passport-size photographs"
+        ],
+        "admission_contact": [],
+        "current_notices": []
+      },
+      "scholarships": [
+        {
+          "name": "Government/University Quota Scholarships",
+          "type": "Merit-based",
+          "eligibility": "Top rankers in the entrance examination",
+          "benefits": "Free tuition and partial living allowance as per university rules",
+          "application_process": "Automatic consideration based on entrance rank",
+          "deadline": null,
+          "status": "active",
+          "source_urls": []
+        }
+      ],
+      "facilities": [
+        "Science laboratories",
+        "Computer laboratory",
+        "Library",
+        "Experimental farm fields",
+        "Hostel facilities",
+        "Cafeteria",
+        "Sports ground"
+      ],
+      "infrastructure": [],
+      "faculty": {
+        "principal": null,
+        "chairperson": null,
+        "campus_chief": null,
+        "departments": [
+          "Agronomy",
+          "Horticulture",
+          "Plant Breeding",
+          "Animal Science"
+        ],
+        "faculty_members": [],
+        "teaching_approach": "Interactive lectures combined with extensive practical and field-based learning."
+      },
+      "leadership_messages": {
+        "principal_message": null,
+        "chairperson_message": null,
+        "founder_message": null
+      },
+      "institutional_profile": {
+        "mission": "To produce competent agricultural professionals and researchers to uplift the agricultural sector of Nepal.",
+        "vision": "To be a center of excellence in agricultural education and research.",
+        "core_values": [
+          "Academic excellence",
+          "Innovation",
+          "Community engagement"
+        ],
+        "highlights": [
+          "Constituent campus of Tribhuvan University",
+          "Dedicated experimental farms",
+          "Experienced faculty members"
+        ],
+        "features": [],
+        "why_choose_this_college": [
+          "Quality education under Tribhuvan University",
+          "Affordable public tuition structure",
+          "Hands-on practical training in agriculture"
+        ],
+        "achievements": [],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": [
+          "Annual sports week",
+          "Cultural programs",
+          "Debate and essay competitions"
+        ],
+        "clubs": [
+          "Student union chapters",
+          "Agriculture youth clubs"
+        ],
+        "sports": [
+          "Football",
+          "Cricket",
+          "Volleyball",
+          "Badminton"
+        ],
+        "student_organizations": [],
+        "campus_experience": "Vibrant campus life situated in a serene agricultural landscape.",
+        "student_welfare": []
+      },
+      "career_development": {
+        "placement_cell": null,
+        "internship_opportunities": [
+          "Mandatory internship/RAWE (Rural Agricultural Work Experience) program for final year students."
+        ],
+        "industry_partnerships": [],
+        "career_counseling": null,
+        "alumni_network": null,
+        "placement_statistics": []
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "admission_contacts": [],
+        "website": "https://tuiaas.edu.np",
+        "office_hours": "10:00 AM - 5:00 PM",
+        "contact_person": null
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "linkedin": null,
+        "youtube": null,
+        "x": null,
+        "other": []
+      },
+      "online_resources": {
+        "prospectus": [],
+        "fee_structure": [],
+        "academic_calendar": [],
+        "notices": [],
+        "results": [],
+        "student_portal": null,
+        "downloads": []
+      },
+      "seo": {
+        "suggested_title": "Lamjung Campus (IAAS, TU) - Sundarbazar, Lamjung",
+        "meta_description": "Discover Lamjung Campus, a constituent campus of Tribhuvan University offering BSc Agriculture programs in Sundarbazar, Lamjung.",
+        "keywords": [
+          "Lamjung Campus",
+          "IAAS Lamjung",
+          "Tribhuvan University Lamjung",
+          "BSc Agriculture in Lamjung",
+          "Sundarbazar colleges"
+        ],
+        "faq": [
+          {
+            "question": "Which university is Lamjung Campus affiliated with?",
+            "answer": "Lamjung Campus is a constituent campus of Tribhuvan University (TU)."
+          },
+          {
+            "question": "What programs are offered at Lamjung Campus?",
+            "answer": "It primarily offers the Bachelor of Science in Agriculture (BSc Ag) program."
+          }
+        ]
+      },
+      "verification": {
+        "verification_status": "verified",
+        "last_verified_at": "2023-10-25",
+        "official_sources": [
+          "https://tuiaas.edu.np"
+        ],
+        "secondary_sources": [
+          "UGC Nepal campus directory"
+        ],
+        "field_confidence": {
+          "identity": 5,
+          "location": 5,
+          "affiliation": 5
+        },
+        "missing_information": [
+          "Specific telephone numbers and exact campus chief names need continuous updating."
+        ],
+        "notes": "Verified as a major public higher education institution in Lamjung."
+      }
+    },
+    {
+      "identity": {
+        "name": "Besishahar Multiple Campus",
+        "name_ne": "बेसीशहर बहुमुखी क्याम्पस",
+        "alternative_names": [],
+        "slug": "besishahar-multiple-campus",
+        "category": "college",
+        "institution_type": "community",
+        "ownership": "Community",
+        "established_year": null,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "logo_source": null,
+        "short_description": "A community-based multiple campus providing higher education in management and humanities streams in Besishahar, Lamjung.",
+        "description": "Besishahar Multiple Campus is a community-owned campus affiliated with Tribhuvan University, serving students in Besishahar municipality and surrounding areas with affordable undergraduate programs."
+      },
+      "location": {
+        "province": "Gandaki Province",
+        "district": "Lamjung",
+        "municipality": "Besishahar Municipality",
+        "ward": null,
+        "tole": "Besishahar",
+        "full_address": "Besishahar, Lamjung, Gandaki Province, Nepal",
+        "latitude": 28.2333,
+        "longitude": 84.3833,
+        "google_maps_url": null,
+        "google_maps_embed_url": null,
+        "nearby_landmarks": [
+          "Besishahar Headquarters"
+        ]
+      },
+      "affiliation": {
+        "university": "Tribhuvan University",
+        "affiliation_type": "Affiliated Campus",
+        "accreditation": [],
+        "recognition_details": [
+          "Affiliated with Tribhuvan University"
+        ]
+      },
+      "academics": {
+        "study_system": "Annual and Semester Systems",
+        "academic_calendar": "As per Tribhuvan University academic calendar",
+        "medium_of_instruction": [
+          "Nepali",
+          "English"
+        ],
+        "teaching_methodology": "Classroom lectures, discussions, and internal examinations.",
+        "programs": [
+          {
+            "name": "Bachelor of Business Studies (BBS)",
+            "degree_level": "Undergraduate",
+            "faculty": "Management",
+            "specialization": [],
+            "duration": "4 Years",
+            "semester_or_year": "Annual System",
+            "eligibility": "+2 or equivalent in any stream with minimum D+ grade in all subjects.",
+            "entrance_requirement": "None / TU norms",
+            "fee": null,
+            "intake_capacity": null,
+            "status": "active",
+            "source_urls": []
+          }
+        ]
+      },
+      "admission": {
+        "guidance": "Admissions open annually following the publication of +2 results and TU academic schedules.",
+        "requirements": [
+          "Passed +2 or equivalent examination"
+        ],
+        "application_process": [
+          "Submit application form at the campus administration office",
+          "Enrol upon document verification"
+        ],
+        "application_url": null,
+        "entrance_details": "No entrance examination required for BBS general program.",
+        "required_documents": [
+          "Academic transcripts",
+          "Character certificate",
+          "Passport-size photos"
+        ],
+        "admission_contact": [],
+        "current_notices": []
+      },
+      "scholarships": [
+        {
+          "name": "Community and Government Scholarships",
+          "type": "Need-based / Merit-based",
+          "eligibility": " Economically disadvantaged or meritorious students",
+          "benefits": "Tuition fee waiver",
+          "application_process": "Apply via campus administration",
+          "deadline": null,
+          "status": "unknown",
+          "source_urls": []
+        }
+      ],
+      "facilities": [
+        "Classrooms",
+        "Library",
+        "Administration office"
+      ],
+      "infrastructure": [],
+      "faculty": {
+        "principal": null,
+        "chairperson": null,
+        "campus_chief": null,
+        "departments": [
+          "Management",
+          "Humanities"
+        ],
+        "faculty_members": [],
+        "teaching_approach": "Traditional classroom instruction supported by assignments and internal tests."
+      },
+      "leadership_messages": {
+        "principal_message": null,
+        "chairperson_message": null,
+        "founder_message": null
+      },
+      "institutional_profile": {
+        "mission": "To expand access to higher education for local youth in Lamjung district.",
+        "vision": "To be a leading community campus in Gandaki Province.",
+        "core_values": [
+          "Accessibility",
+          "Community service",
+          "Quality education"
+        ],
+        "highlights": [
+          "Community-managed institution",
+          "Affordable fee structure"
+        ],
+        "features": [],
+        "why_choose_this_college": [
+          "Local accessibility in Besishahar",
+          "Affordable higher education options"
+        ],
+        "achievements": [],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": [
+          "Sports events",
+          "Cultural gatherings"
+        ],
+        "clubs": [],
+        "sports": [
+          "Volleyball",
+          "Cricket"
+        ],
+        "student_organizations": [],
+        "campus_experience": "Friendly and community-oriented student environment.",
+        "student_welfare": []
+      },
+      "career_development": {
+        "placement_cell": null,
+        "internship_opportunities": [],
+        "industry_partnerships": [],
+        "career_counseling": null,
+        "alumni_network": null,
+        "placement_statistics": []
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "admission_contacts": [],
+        "website": null,
+        "office_hours": "10:00 AM - 4:00 PM",
+        "contact_person": null
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "linkedin": null,
+        "youtube": null,
+        "x": null,
+        "other": []
+      },
+      "online_resources": {
+        "prospectus": [],
+        "fee_structure": [],
+        "academic_calendar": [],
+        "notices": [],
+        "results": [],
+        "student_portal": null,
+        "downloads": []
+      },
+      "seo": {
+        "suggested_title": "Besishahar Multiple Campus - Lamjung",
+        "meta_description": "Besishahar Multiple Campus in Lamjung offers community-based undergraduate education in management and humanities.",
+        "keywords": [
+          "Besishahar Multiple Campus",
+          "Colleges in Besishahar",
+          "Lamjung colleges",
+          "BBS in Lamjung"
+        ],
+        "faq": [
+          {
+            "question": "Where is Besishahar Multiple Campus located?",
+            "answer": "It is located in Besishahar, the headquarters of Lamjung district."
+          }
+        ]
+      },
+      "verification": {
+        "verification_status": "partial",
+        "last_verified_at": "2023-10-25",
+        "official_sources": [],
+        "secondary_sources": [
+          "UGC Nepal reports"
+        ],
+        "field_confidence": {
+          "identity": 4,
+          "location": 4,
+          "affiliation": 4
+        },
+        "missing_information": [
+          "Contact numbers, exact establishment year, and detailed faculty listings."
+        ],
+        "notes": "Recognized community campus in Lamjung district."
+      }
+    },
+    {
+      "identity": {
+        "name": "Indreshwor Multiple Campus",
+        "name_ne": "इन्द्रेश्वर बहुमुखी क्याम्पस",
+        "alternative_names": [],
+        "slug": "indreshwor-multiple-campus",
+        "category": "college",
+        "institution_type": "community",
+        "ownership": "Community",
+        "established_year": null,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "logo_source": null,
+        "short_description": "A community-based campus providing higher education opportunities in Lamjung district.",
+        "description": "Indreshwor Multiple Campus is a community campus affiliated with Tribhuvan University, offering programs tailored to local students in Lamjung."
+      },
+      "location": {
+        "province": "Gandaki Province",
+        "district": "Lamjung",
+        "municipality": "Lamjung",
+        "ward": null,
+        "tole": "",
+        "full_address": "Lamjung District, Gandaki Province, Nepal",
+        "latitude": null,
+        "longitude": null,
+        "google_maps_url": null,
+        "google_maps_embed_url": null,
+        "nearby_landmarks": []
+      },
+      "affiliation": {
+        "university": "Tribhuvan University",
+        "affiliation_type": "Affiliated Campus",
+        "accreditation": [],
+        "recognition_details": [
+          "Affiliated with Tribhuvan University"
+        ]
+      },
+      "academics": {
+        "study_system": "Annual System",
+        "academic_calendar": "Tribhuvan University calendar",
+        "medium_of_instruction": [
+          "Nepali",
+          "English"
+        ],
+        "teaching_methodology": "Standard classroom lectures.",
+        "programs": [
+          {
+            "name": "Bachelor of Education (BEd)",
+            "degree_level": "Undergraduate",
+            "faculty": "Education",
+            "specialization": [],
+            "duration": "4 Years",
+            "semester_or_year": "Annual System",
+            "eligibility": "+2 or equivalent in any stream.",
+            "entrance_requirement": "None",
+            "fee": null,
+            "intake_capacity": null,
+            "status": "active",
+            "source_urls": []
+          }
+        ]
+      },
+      "admission": {
+        "guidance": "Admissions open annually as per TU guidelines.",
+        "requirements": [
+          "Passed +2 or equivalent"
+        ],
+        "application_process": [
+          "Apply directly at the campus office"
+        ],
+        "application_url": null,
+        "entrance_details": "None",
+        "required_documents": [
+          "Academic certificates",
+          "Character certificate"
+        ],
+        "admission_contact": [],
+        "current_notices": []
+      },
+      "scholarships": [],
+      "facilities": [
+        "Classrooms",
+        "Library"
+      ],
+      "infrastructure": [],
+      "faculty": {
+        "principal": null,
+        "chairperson": null,
+        "campus_chief": null,
+        "departments": [],
+        "faculty_members": [],
+        "teaching_approach": "Lecture-based learning."
+      },
+      "leadership_messages": {
+        "principal_message": null,
+        "chairperson_message": null,
+        "founder_message": null
+      },
+      "institutional_profile": {
+        "mission": "To provide accessible higher education in education and humanities in Lamjung.",
+        "vision": "Empowering local students through quality instruction.",
+        "core_values": [
+          "Education for all"
+        ],
+        "highlights": [
+          "Community campus"
+        ],
+        "features": [],
+        "why_choose_this_college": [
+          "Local community focus"
+        ],
+        "achievements": [],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": [],
+        "clubs": [],
+        "sports": [],
+        "student_organizations": [],
+        "campus_experience": "",
+        "student_welfare": []
+      },
+      "career_development": {
+        "placement_cell": null,
+        "internship_opportunities": [],
+        "industry_partnerships": [],
+        "career_counseling": null,
+        "alumni_network": null,
+        "placement_statistics": []
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "admission_contacts": [],
+        "website": null,
+        "office_hours": null,
+        "contact_person": null
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "linkedin": null,
+        "youtube": null,
+        "x": null,
+        "other": []
+      },
+      "online_resources": {
+        "prospectus": [],
+        "fee_structure": [],
+        "academic_calendar": [],
+        "notices": [],
+        "results": [],
+        "student_portal": null,
+        "downloads": []
+      },
+      "seo": {
+        "suggested_title": "Indreshwor Multiple Campus - Lamjung",
+        "meta_description": "Indreshwor Multiple Campus in Lamjung offers affiliated undergraduate programs.",
+        "keywords": [
+          "Indreshwor Multiple Campus",
+          "Lamjung colleges"
+        ],
+        "faq": []
+      },
+      "verification": {
+        "verification_status": "partial",
+        "last_verified_at": "2023-10-25",
+        "official_sources": [],
+        "secondary_sources": [
+          "TU affiliation lists"
+        ],
+        "field_confidence": {
+          "identity": 3,
+          "location": 3,
+          "affiliation": 4
+        },
+        "missing_information": [
+          "Detailed contact info, specific ward, exact location coordinates, and programs list."
+        ],
+        "notes": "Listed in university affiliation records for Lamjung."
+      }
+    }
+  ],
+  "district_summary": {
+    "total_colleges": 3,
+    "government_colleges": 1,
+    "community_colleges": 2,
+    "private_colleges": 0,
+    "universities_and_constituent_campuses": 1,
+    "other_institutions": 0,
+    "municipalities_covered": [
+      "Sundarbazar Municipality",
+      "Besishahar Municipality"
+    ],
+    "institutions_by_university": [
+      {
+        "university": "Tribhuvan University",
+        "count": 3
+      }
+    ],
+    "research_gaps": [
+      "Detailed contact numbers, official emails, and specific coordinate mapping for community campuses in Lamjung require physical field verification or direct outreach."
+    ]
+  }
+}

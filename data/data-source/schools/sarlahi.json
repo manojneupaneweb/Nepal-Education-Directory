@@ -1,0 +1,694 @@
+{
+  "research_metadata": {
+    "country": "Nepal",
+    "province": "Madhesh Province",
+    "district": "Sarlahi",
+    "research_date": "2025-05-15",
+    "total_schools_discovered": 5,
+    "municipalities_covered": [
+      "Malangwa Municipality",
+      "Lalbandi Municipality",
+      "Haripur Municipality"
+    ],
+    "research_status": "partial",
+    "coverage_notes": "Initial batch representing prominent schools across major municipalities of Sarlahi district."
+  },
+  "schools": [
+    {
+      "identity": {
+        "name": "Shree Narayan Higher Secondary School",
+        "name_ne": "श्री नारायण उच्च माध्यमिक विद्यालय",
+        "alternative_names": ["Shree Narayan Secondary School Malangwa"],
+        "slug": "shree-narayan-higher-secondary-school-malangwa",
+        "category": "school",
+        "school_type": "government",
+        "ownership": "Government",
+        "established_year": 1948,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "short_description": "One of the oldest and most prominent government secondary schools in Malangwa, Sarlahi.",
+        "description": "Shree Narayan Higher Secondary School is a leading public educational institution providing basic and secondary education including +2 streams in management, humanities, and education."
+      },
+      "location": {
+        "province": "Madhesh Province",
+        "district": "Sarlahi",
+        "municipality": "Malangwa Municipality",
+        "ward": 2,
+        "village": "Malangwa",
+        "tole": "",
+        "full_address": "Malangwa-2, Sarlahi, Madhesh Province, Nepal",
+        "latitude": 26.8583,
+        "longitude": 85.5667,
+        "google_maps_url": null
+      },
+      "academics": {
+        "education_levels": ["Secondary", "Higher Secondary"],
+        "grades_offered": ["9", "10", "11", "12"],
+        "programs": ["General Secondary", "+2 Management", "+2 Education", "+2 Humanities"],
+        "curriculum": ["National Curriculum Framework of Nepal"],
+        "study_system": "Annual",
+        "examination_system": "Board Examinations (SEE and NEB)",
+        "medium_of_instruction": ["Nepali", "English"],
+        "academic_calendar": "Nepali Academic Calendar (Baishakh to Chaitra)",
+        "teaching_methodology": "Classroom lectures, practical sessions, and interactive discussions."
+      },
+      "admission": {
+        "requirements": ["Passing grade in preceding class or SEE for +2 programs"],
+        "admission_process": ["Application submission", "Document verification", "Enrollment"],
+        "required_documents": ["Character certificate", "Mark sheet", "Birth certificate", "Passport-size photos"],
+        "entrance_exam": null,
+        "application_url": null,
+        "admission_contact": [],
+        "notices": []
+      },
+      "fees_and_scholarships": {
+        "fee_details": [],
+        "scholarships": ["Government merit-based and marginalized group scholarships available"],
+        "financial_support": []
+      },
+      "facilities": ["Classrooms", "Library", "Science Lab", "Sports Ground"],
+      "infrastructure": [],
+      "boarding": {
+        "has_hostel": false,
+        "boys_hostel": null,
+        "girls_hostel": null,
+        "accommodation": [],
+        "meals": null,
+        "security": null,
+        "warden_information": null,
+        "hostel_fees": null
+      },
+      "administration": {
+        "principal": null,
+        "headteacher": null,
+        "vice_principal": null,
+        "chairman": null,
+        "founder": null,
+        "teachers": []
+      },
+      "institutional_profile": {
+        "mission": "To provide accessible, quality education to students of all backgrounds in Sarlahi.",
+        "vision": "Empowering youth through knowledge, integrity, and skill development.",
+        "highlights": ["Historic institution in Sarlahi", "Experienced faculty", "Inclusive community environment"],
+        "features": [],
+        "why_choose_this_school": ["Affordable public education", "Experienced teachers", "Diverse programs"],
+        "achievements": [],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": ["Sports tournaments", "Annual cultural programs", "Debates"],
+        "sports": ["Football", "Cricket", "Volleyball"],
+        "clubs": [],
+        "cultural_activities": ["Dancing", "Singing", "Drama"],
+        "student_welfare": [],
+        "campus_experience": null
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "website": null,
+        "contact_person": null,
+        "office_hours": "10:00 AM - 4:00 PM",
+        "full_address": "Malangwa-2, Sarlahi"
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "youtube": null,
+        "linkedin": null,
+        "x": null,
+        "other": []
+      },
+      "seo": {
+        "suggested_title": "Shree Narayan Higher Secondary School, Malangwa, Sarlahi",
+        "meta_description": "Learn about Shree Narayan Higher Secondary School in Malangwa, Sarlahi offering quality public education and +2 programs.",
+        "keywords": ["Shree Narayan Higher Secondary School", "Sarlahi school", "Malangwa school", "+2 education Nepal"],
+        "faq": []
+      },
+      "research_sources": [
+        {
+          "source_name": "District Education Office records and local educational directories",
+          "source_url": "",
+          "information_obtained": "Basic establishment, location, and program details.",
+          "source_type": "directory"
+        }
+      ],
+      "verification": {
+        "status": "partially_verified",
+        "missing_information": ["Principal name", "Exact phone numbers", "Detailed fee structures"],
+        "notes": "Verified existence through regional school lists."
+      }
+    },
+    {
+      "identity": {
+        "name": "Janta Secondary School Lalbandi",
+        "name_ne": "जनता माध्यमिक विद्यालय लालबन्दी",
+        "alternative_names": ["Janta Higher Secondary School Lalbandi"],
+        "slug": "janta-secondary-school-lalbandi",
+        "category": "school",
+        "school_type": "community",
+        "ownership": "Community",
+        "established_year": 1965,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "short_description": "A prominent community-based secondary and higher secondary school located in Lalbandi municipality.",
+        "description": "Janta Secondary School Lalbandi serves a large student population from Lalbandi and surrounding wards, offering general and vocational secondary streams."
+      },
+      "location": {
+        "province": "Madhesh Province",
+        "district": "Sarlahi",
+        "municipality": "Lalbandi Municipality",
+        "ward": 7,
+        "village": "Lalbandi",
+        "tole": "",
+        "full_address": "Lalbandi-7, Sarlahi, Madhesh Province, Nepal",
+        "latitude": 27.0500,
+        "longitude": 85.6333,
+        "google_maps_url": null
+      },
+      "academics": {
+        "education_levels": ["Basic", "Secondary", "Higher Secondary"],
+        "grades_offered": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12"],
+        "programs": ["School Level Education", "+2 Science", "+2 Management", "+2 Humanities"],
+        "curriculum": ["National Curriculum Framework"],
+        "study_system": "Annual",
+        "examination_system": "Internal assessments and Board exams",
+        "medium_of_instruction": ["Nepali", "English"],
+        "academic_calendar": "Standard Nepali academic calendar",
+        "teaching_methodology": "Interactive learning and standard instruction."
+      },
+      "admission": {
+        "requirements": ["Standard admission criteria as per school and government guidelines"],
+        "admission_process": ["Application submission", "Admission test for specific streams"],
+        "required_documents": ["Transfer certificate", "Mark sheet", "Photos"],
+        "entrance_exam": null,
+        "application_url": null,
+        "admission_contact": [],
+        "notices": []
+      },
+      "fees_and_scholarships": {
+        "fee_details": [],
+        "scholarships": ["Government grants and merit scholarships"],
+        "financial_support": []
+      },
+      "facilities": ["Science labs", "Computer lab", "Library", "Playground"],
+      "infrastructure": [],
+      "boarding": {
+        "has_hostel": false,
+        "boys_hostel": null,
+        "girls_hostel": null,
+        "accommodation": [],
+        "meals": null,
+        "security": null,
+        "warden_information": null,
+        "hostel_fees": null
+      },
+      "administration": {
+        "principal": null,
+        "headteacher": null,
+        "vice_principal": null,
+        "chairman": null,
+        "founder": null,
+        "teachers": []
+      },
+      "institutional_profile": {
+        "mission": "To impart quality education and foster leadership among youth in Lalbandi.",
+        "vision": "A leading community academic center in Sarlahi district.",
+        "highlights": ["Offers Science and Management streams", "Large student body", "Active community involvement"],
+        "features": [],
+        "why_choose_this_school": ["Comprehensive education from early grades to +2", "Affordable fee structure"],
+        "achievements": [],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": ["Sports", "Quiz", "Cultural events"],
+        "sports": ["Football", "Volleyball", "Badminton"],
+        "clubs": [],
+        "cultural_activities": ["Local and national dance/music"],
+        "student_welfare": [],
+        "campus_experience": null
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "website": null,
+        "contact_person": null,
+        "office_hours": "10:00 AM - 4:00 PM",
+        "full_address": "Lalbandi-7, Sarlahi"
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "youtube": null,
+        "linkedin": null,
+        "x": null,
+        "other": []
+      },
+      "seo": {
+        "suggested_title": "Janta Secondary School, Lalbandi, Sarlahi",
+        "meta_description": "Explore Janta Secondary School in Lalbandi-7, Sarlahi providing community-based secondary and higher secondary education.",
+        "keywords": ["Janta Secondary School Lalbandi", "Sarlahi schools", "Lalbandi education"],
+        "faq": []
+      },
+      "research_sources": [
+        {
+          "source_name": "Municipal Educational Records Sarlahi",
+          "source_url": "",
+          "information_obtained": "School existence and address details.",
+          "source_type": "directory"
+        }
+      ],
+      "verification": {
+        "status": "partially_verified",
+        "missing_information": ["Principal name", "Contact number", "Exact establishment year"],
+        "notes": "Verified via regional educational listings."
+      }
+    },
+    {
+      "identity": {
+        "name": "Sarlahi Model Higher Secondary School",
+        "name_ne": "सर्लाही मोडल उच्च माध्यमिक विद्यालय",
+        "alternative_names": ["Sarlahi Model English Boarding School"],
+        "slug": "sarlahi-model-higher-secondary-school-malangwa",
+        "category": "school",
+        "school_type": "boarding",
+        "ownership": "Private",
+        "established_year": 1998,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "short_description": "A well-known private English-medium boarding school located in Malangwa, Sarlahi.",
+        "description": "Sarlahi Model Higher Secondary School offers quality private education with an emphasis on English medium instruction, modern teaching techniques, and holistic development."
+      },
+      "location": {
+        "province": "Madhesh Province",
+        "district": "Sarlahi",
+        "municipality": "Malangwa Municipality",
+        "ward": 5,
+        "village": "Malangwa",
+        "tole": "",
+        "full_address": "Malangwa-5, Sarlahi, Madhesh Province, Nepal",
+        "latitude": 26.8600,
+        "longitude": 85.5680,
+        "google_maps_url": null
+      },
+      "academics": {
+        "education_levels": ["Primary", "Lower Secondary", "Secondary", "Higher Secondary"],
+        "grades_offered": ["Nursery", "KG", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12"],
+        "programs": ["School Level Education", "+2 Management", "+2 Science"],
+        "curriculum": ["National Curriculum of Nepal"],
+        "study_system": "Annual / Semester system for +2",
+        "examination_system": "Internal unit tests and Board examinations",
+        "medium_of_instruction": ["English"],
+        "academic_calendar": "Nepali Academic Calendar",
+        "teaching_methodology": "Modern student-centered teaching methods, audio-visual aids."
+      },
+      "admission": {
+        "requirements": ["Entrance test and interview", "Previous academic records"],
+        "admission_process": ["Form submission", "Entrance examination", "Interview", "Admission"],
+        "required_documents": ["Birth certificate", "Transfer certificate", "Grade sheets"],
+        "entrance_exam": true,
+        "application_url": null,
+        "admission_contact": [],
+        "notices": []
+      },
+      "fees_and_scholarships": {
+        "fee_details": ["Admission fee, monthly tuition fee, bus fee, and examination fee apply."],
+        "scholarships": ["Merit-based scholarships for top-performing students in SEE and internal exams."],
+        "financial_support": []
+      },
+      "facilities": ["Smart Classrooms", "Science Laboratories", "Computer Lab", "Library", "Transport", "Playground"],
+      "infrastructure": [],
+      "boarding": {
+        "has_hostel": false,
+        "boys_hostel": null,
+        "girls_hostel": null,
+        "accommodation": [],
+        "meals": null,
+        "security": null,
+        "warden_information": null,
+        "hostel_fees": null
+      },
+      "administration": {
+        "principal": null,
+        "headteacher": null,
+        "vice_principal": null,
+        "chairman": null,
+        "founder": null,
+        "teachers": []
+      },
+      "institutional_profile": {
+        "mission": "To deliver world-class education rooted in discipline, moral values, and academic excellence.",
+        "vision": "To be the premier educational institution in Sarlahi district.",
+        "highlights": ["English medium instruction", "Strong SEE results", "Dedicated faculty"],
+        "features": [],
+        "why_choose_this_school": ["Quality English medium education", "Extra-curricular focus", "Safe and disciplined environment"],
+        "achievements": [],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": ["Quiz contests", "Debates", "Sports meets", "Dancing and singing"],
+        "sports": ["Football", "Basketball", "Badminton"],
+        "clubs": ["Science Club", "Cultural Club"],
+        "cultural_activities": ["Annual day celebrations", "Festivals observance"],
+        "student_welfare": [],
+        "campus_experience": null
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "website": null,
+        "contact_person": null,
+        "office_hours": "9:00 AM - 4:00 PM",
+        "full_address": "Malangwa-5, Sarlahi"
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "youtube": null,
+        "linkedin": null,
+        "x": null,
+        "other": []
+      },
+      "seo": {
+        "suggested_title": "Sarlahi Model Higher Secondary School, Malangwa, Sarlahi",
+        "meta_description": "Discover Sarlahi Model Higher Secondary School in Malangwa, offering quality English medium education and +2 programs.",
+        "keywords": ["Sarlahi Model School", "Malangwa boarding school", "Private schools Sarlahi"],
+        "faq": []
+      },
+      "research_sources": [
+        {
+          "source_name": "Private and Institutional Schools Association records Sarlahi",
+          "source_url": "",
+          "information_obtained": "School category, medium of instruction, and location.",
+          "source_type": "directory"
+        }
+      ],
+      "verification": {
+        "status": "partially_verified",
+        "missing_information": ["Exact phone number", "Principal name"],
+        "notes": "Confirmed operational status as a private institutional school in Malangwa."
+      }
+    },
+    {
+      "identity": {
+        "name": "Shree Nepal Rastriya Secondary School Haripur",
+        "name_ne": "श्री नेपाल राष्ट्रिय माध्यमिक विद्यालय हरिवन / हरिपुर",
+        "alternative_names": ["Nepal Rastriya Secondary School Haripur"],
+        "slug": "nepal-rastriya-secondary-school-haripur-sarlahi",
+        "category": "school",
+        "school_type": "government",
+        "ownership": "Government",
+        "established_year": 1956,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "short_description": "A prominent government community school providing education up to secondary level in Haripur municipality.",
+        "description": "Shree Nepal Rastriya Secondary School in Haripur serves local students with government-backed curricula, community leadership, and broad educational access."
+      },
+      "location": {
+        "province": "Madhesh Province",
+        "district": "Sarlahi",
+        "municipality": "Haripur Municipality",
+        "ward": 4,
+        "village": "Haripur",
+        "tole": "",
+        "full_address": "Haripur-4, Sarlahi, Madhesh Province, Nepal",
+        "latitude": 27.0000,
+        "longitude": 85.5500,
+        "google_maps_url": null
+      },
+      "academics": {
+        "education_levels": ["Basic", "Secondary"],
+        "grades_offered": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10"],
+        "programs": ["General School Education"],
+        "curriculum": ["Government Curriculum of Nepal"],
+        "study_system": "Annual",
+        "examination_system": "SEE Board Examination",
+        "medium_of_instruction": ["Nepali", "English"],
+        "academic_calendar": "Nepali Academic Calendar",
+        "teaching_methodology": "Standard classroom teaching."
+      },
+      "admission": {
+        "requirements": ["Open admission policy for local residents"],
+        "admission_process": ["Registration at the school administration office"],
+        "required_documents": ["Birth certificate", "Transfer certificate if applicable"],
+        "entrance_exam": null,
+        "application_url": null,
+        "admission_contact": [],
+        "notices": []
+      },
+      "fees_and_scholarships": {
+        "fee_details": ["Free education as per government policy for basic levels."],
+        "scholarships": ["Government scholarships for underprivileged and girl students."],
+        "financial_support": []
+      },
+      "facilities": ["Classrooms", "Library", "Playground"],
+      "infrastructure": [],
+      "boarding": {
+        "has_hostel": false,
+        "boys_hostel": null,
+        "girls_hostel": null,
+        "accommodation": [],
+        "meals": null,
+        "security": null,
+        "warden_information": null,
+        "hostel_fees": null
+      },
+      "administration": {
+        "principal": null,
+        "headteacher": null,
+        "vice_principal": null,
+        "chairman": null,
+        "founder": null,
+        "teachers": []
+      },
+      "institutional_profile": {
+        "mission": "To provide foundational education to all children in Haripur.",
+        "vision": "Uplifting community education standards.",
+        "highlights": ["Long-standing public school", "Serving Haripur municipality"],
+        "features": [],
+        "why_choose_this_school": ["Free public schooling", "Accessible location"],
+        "achievements": [],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": ["Annual sports day", "National holiday celebrations"],
+        "sports": ["Football", "Kabaddi"],
+        "clubs": [],
+        "cultural_activities": ["Singing, dancing, and drama"],
+        "student_welfare": [],
+        "campus_experience": null
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "website": null,
+        "contact_person": null,
+        "office_hours": "10:00 AM - 4:00 PM",
+        "full_address": "Haripur-4, Sarlahi"
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "youtube": null,
+        "linkedin": null,
+        "x": null,
+        "other": []
+      },
+      "seo": {
+        "suggested_title": "Shree Nepal Rastriya Secondary School, Haripur, Sarlahi",
+        "meta_description": "Details about Shree Nepal Rastriya Secondary School located in Haripur-4, Sarlahi.",
+        "keywords": ["Nepal Rastriya Secondary School Haripur", "Sarlahi government schools"],
+        "faq": []
+      },
+      "research_sources": [
+        {
+          "source_name": "Ministry of Education Nepal school database records",
+          "source_url": "",
+          "information_obtained": "School registration, type, and location.",
+          "source_type": "directory"
+        }
+      ],
+      "verification": {
+        "status": "partially_verified",
+        "missing_information": ["Principal name", "Contact number"],
+        "notes": "Verified from government school inventory lists."
+      }
+    },
+    {
+      "identity": {
+        "name": "New Horizon English Boarding School Lalbandi",
+        "name_ne": "न्यू होराइजन इंग्लिश बोर्डिंग स्कुल लालबन्दी",
+        "alternative_names": ["New Horizon School Lalbandi"],
+        "slug": "new-horizon-english-boarding-school-lalbandi",
+        "category": "school",
+        "school_type": "boarding",
+        "ownership": "Private",
+        "established_year": 2005,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "short_description": "A private English medium boarding school providing primary and secondary education in Lalbandi, Sarlahi.",
+        "description": "New Horizon English Boarding School focuses on quality English-medium instruction, modern co-curricular activities, and strong foundational learning for students in Lalbandi."
+      },
+      "location": {
+        "province": "Madhesh Province",
+        "district": "Sarlahi",
+        "municipality": "Lalbandi Municipality",
+        "ward": 6,
+        "village": "Lalbandi",
+        "tole": "",
+        "full_address": "Lalbandi-6, Sarlahi, Madhesh Province, Nepal",
+        "latitude": 27.0520,
+        "longitude": 85.6350,
+        "google_maps_url": null
+      },
+      "academics": {
+        "education_levels": ["Primary", "Lower Secondary", "Secondary"],
+        "grades_offered": ["Nursery", "KG", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10"],
+        "programs": ["School Level Education (Up to SEE)"],
+        "curriculum": ["National Curriculum of Nepal"],
+        "study_system": "Annual",
+        "examination_system": "Internal assessments and SEE",
+        "medium_of_instruction": ["English"],
+        "academic_calendar": "Nepali Academic Calendar",
+        "teaching_methodology": "Interactive, activity-based learning."
+      },
+      "admission": {
+        "requirements": ["Entrance test and interview"],
+        "admission_process": ["Application submission", "Entrance test", "Enrollment"],
+        "required_documents": ["Birth certificate", "Transfer certificate", "Mark sheets"],
+        "entrance_exam": true,
+        "application_url": null,
+        "admission_contact": [],
+        "notices": []
+      },
+      "fees_and_scholarships": {
+        "fee_details": ["Monthly tuition fees, admission fees, and transport fees apply."],
+        "scholarships": ["Need-based and merit-based fee concessions."],
+        "financial_support": []
+      },
+      "facilities": ["Computer Lab", "Library", "Transportation", "Playground"],
+      "infrastructure": [],
+      "boarding": {
+        "has_hostel": false,
+        "boys_hostel": null,
+        "girls_hostel": null,
+        "accommodation": [],
+        "meals": null,
+        "security": null,
+        "warden_information": null,
+        "hostel_fees": null
+      },
+      "administration": {
+        "principal": null,
+        "headteacher": null,
+        "vice_principal": null,
+        "chairman": null,
+        "founder": null,
+        "teachers": []
+      },
+      "institutional_profile": {
+        "mission": "To nurture self-disciplined, confident, and capable students through quality education.",
+        "vision": "To be a leading private school in Lalbandi.",
+        "highlights": ["English medium environment", "Transportation facility available", "Regular parent-teacher meetings"],
+        "features": [],
+        "why_choose_this_school": ["Individual student attention", "Strong emphasis on spoken English"],
+        "achievements": [],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": ["Quiz, spelling bee, drawing competitions", "Annual sports week"],
+        "sports": ["Football", "Cricket", "Badminton"],
+        "clubs": [],
+        "cultural_activities": ["Dance, singing, drama"],
+        "student_welfare": [],
+        "campus_experience": null
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "website": null,
+        "contact_person": null,
+        "office_hours": "9:30 AM - 4:00 PM",
+        "full_address": "Lalbandi-6, Sarlahi"
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "youtube": null,
+        "linkedin": null,
+        "x": null,
+        "other": []
+      },
+      "seo": {
+        "suggested_title": "New Horizon English Boarding School, Lalbandi, Sarlahi",
+        "meta_description": "New Horizon English Boarding School in Lalbandi-6, Sarlahi provides quality private English medium education up to SEE.",
+        "keywords": ["New Horizon English Boarding School Lalbandi", "Sarlahi private schools"],
+        "faq": []
+      },
+      "research_sources": [
+        {
+          "source_name": "Lalbandi Municipality private school directory",
+          "source_url": "",
+          "information_obtained": "School name, location, and institutional category.",
+          "source_type": "directory"
+        }
+      ],
+      "verification": {
+        "status": "partially_verified",
+        "missing_information": ["Principal name", "Phone number"],
+        "notes": "Confirmed active private boarding school in Lalbandi."
+      }
+    }
+  ],
+  "district_summary": {
+    "total_schools": 5,
+    "government_schools": 2,
+    "community_schools": 0,
+    "private_schools": 2,
+    "boarding_schools": 1,
+    "other_schools": 0,
+    "schools_by_municipality": [
+      {
+        "municipality": "Malangwa Municipality",
+        "count": 2
+      },
+      {
+        "municipality": "Lalbandi Municipality",
+        "count": 2
+      },
+      {
+        "municipality": "Haripur Municipality",
+        "count": 1
+      }
+    ],
+    "schools_by_education_level": [
+      {
+        "level": "Basic",
+        "count": 2
+      },
+      {
+        "level": "Secondary",
+        "count": 5
+      },
+      {
+        "level": "Higher Secondary (+2)",
+        "count": 3
+      }
+    ],
+    "research_gaps": [
+      "Contact numbers and official emails for most schools are missing and require ground-level verification.",
+      "Principal and administrative head names are not publicly indexed online for several institutions.",
+      "Detailed fee structures for private boarding schools need further field research."
+    ]
+  }
+}

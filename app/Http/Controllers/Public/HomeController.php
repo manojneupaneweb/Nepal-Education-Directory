@@ -3,6 +3,7 @@
 namespace App\Http\Controllers\Public;
 
 use App\Http\Controllers\Controller;
+use App\Models\CollegeStream;
 use App\Models\District;
 use App\Models\Institution;
 use App\Models\InstitutionType;
@@ -20,11 +21,17 @@ class HomeController extends Controller
             'types' => InstitutionType::query()->active()->orderBy('sort_order')->get(),
             'featuredTypes' => InstitutionType::query()
                 ->active()
+                ->whereIn('slug', ['school', 'college', 'university'])
                 ->withCount(['institutions' => fn ($q) => $q->published()])
                 ->orderBy('sort_order')
-                ->limit(8)
-                ->get(),
+                ->get()
+                ->each(function (InstitutionType $type): void {
+                    if ($type->slug === 'university') {
+                        $type->setAttribute('institutions_count', University::query()->count());
+                    }
+                }),
             'popularUniversities' => University::query()
+                ->with(['faculties:id,university_id,name'])
                 ->withCount(['faculties', 'programs', 'institutions'])
                 ->whereIn('slug', [
                     'tribhuvan-university',
@@ -40,6 +47,20 @@ class HomeController extends Controller
                     'purbanchal-university',
                 ], true))
                 ->values(),
+            'featuredColleges' => Institution::query()
+                ->published()
+                ->whereNotNull('logo_path')
+                ->where('logo_path', '!=', '')
+                ->whereHas('type', fn ($query) => $query->where('slug', 'college'))
+                ->with(['district', 'municipality'])
+                ->orderByDesc('is_featured')
+                ->orderBy('name')
+                ->limit(8)
+                ->get(),
+            'collegeStreams' => CollegeStream::query()->active()->orderBy('sort_order')->get()
+                ->each(function (CollegeStream $stream): void {
+                    $stream->setAttribute('matched_colleges_count', $stream->matchingInstitutions()->count());
+                }),
             'counts' => [
                 'provinces' => Province::query()->active()->count(),
                 'districts' => District::query()->active()->count(),

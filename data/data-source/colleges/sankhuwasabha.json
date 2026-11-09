@@ -1,0 +1,697 @@
+{
+    "research_metadata": {
+        "country": "Nepal",
+        "province": "Koshi Province",
+        "district": "Sankhuwasabha",
+        "research_date": "2026-11-07",
+        "total_institutions_discovered": 8,
+        "research_status": "completed",
+        "collection_mode": "responses"
+    },
+    "institutions": [
+        {
+            "overview": {
+                "name": "Barun Multiple Campus",
+                "name_ne": null,
+                "slug": "barun-multiple-campus",
+                "ownership": "community",
+                "established_year": 1986,
+                "university": "Tribhuvan University",
+                "municipality": "Khandbari Municipality",
+                "address": "Khandbari-8, Sankhuwasabha, Koshi Province, Nepal",
+                "description": "Community campus in Khandbari, the district headquarters, affiliated to Tribhuvan University and also running NEB +2 programs. Named after the Barun River. It offers bachelor's programs in humanities, education and management and master's programs in education. Edusanjal has reported 516 students (37 BA, 305 B.Ed., 114 BBS, 60 M.Ed.). The campus prospectus states that the one-year B.Ed. is currently suspended. It publishes BARUN Journal.",
+                "mission": "To produce skilled, ethical, and socially responsible graduates through inclusive, affordable education.",
+                "vision": "To provide affordable, accessible, and quality education to people of Sankhuwasabha, northeast Bhojpur, and surrounding areas.",
+                "source_urls": [
+                    "https://www.collegenp.com/college/barun-multiple-campus",
+                    "https://edusanjal.com/college/barun-multiple-campus/",
+                    "https://baruncampus.edu.np/new/exam-notice",
+                    "https://baruncampus.edu.np/storage/articles/01K1AQWFCNTG7ZX61TCCF13QHS.pdf",
+                    "https://nepjol.info/index.php/barunj"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Arts (BA)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Humanities and Social Sciences",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/barun-multiple-campus"
+                },
+                {
+                    "name": "Bachelor of Education (B.Ed.)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/barun-multiple-campus"
+                },
+                {
+                    "name": "Bachelor of Business Studies (BBS)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/barun-multiple-campus"
+                },
+                {
+                    "name": "One-year Bachelor of Education (B.Ed.)",
+                    "level": "Bachelor",
+                    "duration": "1 year",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/barun-multiple-campus"
+                },
+                {
+                    "name": "Master of Education (M.Ed.)",
+                    "level": "Master",
+                    "duration": "2 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/barun-multiple-campus"
+                }
+            ],
+            "facilities": [
+                "Classrooms",
+                "Library",
+                "E-library",
+                "Computer lab",
+                "Internet",
+                "Multimedia",
+                "Conference",
+                "Cafeteria",
+                "Sports",
+                "Hostel",
+                "Counselling",
+                "Scholarships",
+                "Journal",
+                "Tour",
+                "ECA"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [
+                {
+                    "title": "Bachelors 2nd Year Practical Exam Notice - 2083",
+                    "date": "2026-10-06",
+                    "summary": "Campus notice board lists the bachelor second-year practical exam notice for 2083.",
+                    "source_url": "https://baruncampus.edu.np/new/exam-notice"
+                },
+                {
+                    "title": "4 Years Bachelors Second Regular 2083 Exam Center",
+                    "date": "2026-09-20",
+                    "summary": "Notice on the exam center for the four-year bachelor second-year regular examination 2083.",
+                    "source_url": "https://baruncampus.edu.np/new/exam-notice"
+                },
+                {
+                    "title": "M.Ed./MSSEd 4th Semester 2083 exam form notice",
+                    "date": "2026-09-10",
+                    "summary": "Notice regarding filling up the exam form for M.Ed./MSSEd 4th semester 2083.",
+                    "source_url": "https://baruncampus.edu.np/new/exam-notice"
+                },
+                {
+                    "title": "BARUN Journal Volume 3 (2026)",
+                    "date": "2026-03-10",
+                    "summary": "Peer-reviewed journal published by Barun Multiple Campus, covering education, humanities, social sciences, and management.",
+                    "source_url": "https://nepjol.info/index.php/barunj"
+                }
+            ],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-29-562195",
+                    "+977-29-562695",
+                    "+977-29-560195",
+                    "+977-29-560695",
+                    "+977-9762219333"
+                ],
+                "emails": [
+                    "barun.campus95@gmail.com",
+                    "info@baruncampus.edu.np"
+                ],
+                "website": "https://baruncampus.edu.np",
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Sankhuwasabha Multiple Campus",
+                "name_ne": "संखुवासभा बहुमुखी क्याम्पस",
+                "slug": "sankhuwasabha-multiple-campus",
+                "ownership": "community",
+                "established_year": 1981,
+                "university": "Tribhuvan University",
+                "municipality": "Chainpur Municipality",
+                "address": "Chainpur Municipality-6, Sankhuwasabha, Nepal",
+                "description": "Community campus established in 2037 BS (1981) in Chainpur. Affiliated to Tribhuvan University for BA, B.Ed., BBS and M.Ed., and to the National Examination Board for +2. Edusanjal reported 156 bachelor students (16 BA, 78 B.Ed., 62 BBS). It appears on Tribhuvan University affiliated-campus lists.",
+                "mission": "Provide inclusive, affordable, and quality education in Humanities, Education, and Management, with a focus on learners who have historically faced barriers to access.",
+                "vision": "A strong community campus recognized for student support, academic integrity, and meaningful engagement with local stakeholders.",
+                "source_urls": [
+                    "https://www.collegenp.com/college/sankhuwasava-multiple-campus",
+                    "https://edusanjal.com/college/sankhuwasabha-multiple-campus/",
+                    "https://www.collegesnepal.com/sankhuwasabha-multiple-campus/",
+                    "https://www.educatenepal.com/institutions/detail/sankhuwasabha-multiple-campus"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Arts (BA)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Humanities and Social Sciences",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/sankhuwasava-multiple-campus-bachelor-of-arts-ba"
+                },
+                {
+                    "name": "Bachelor of Education (B.Ed.)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/sankhuwasava-multiple-campus-bachelor-of-education-bed"
+                },
+                {
+                    "name": "Bachelor of Business Studies (BBS)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/sankhuwasava-multiple-campus-bachelor-of-business-studies-bbs"
+                },
+                {
+                    "name": "Master of Education (M.Ed.)",
+                    "level": "Master",
+                    "duration": "2 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/sankhuwasava-multiple-campus"
+                }
+            ],
+            "facilities": [
+                "Classrooms",
+                "Audio-visual classrooms",
+                "Library",
+                "E-library",
+                "Cafeteria",
+                "Canteen",
+                "Sports",
+                "Multimedia",
+                "Journal",
+                "Counselling",
+                "Scholarships",
+                "Tour",
+                "ECA",
+                "Electricity backup"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-29-570208",
+                    "+977-9842125999",
+                    "+977-9842193686"
+                ],
+                "emails": [
+                    "smc2037chainpur@gmail.com",
+                    "info@smcc.edu.np"
+                ],
+                "website": "https://smcc.edu.np",
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": [
+                {
+                    "question": "What is the published eligibility for BA, B.Ed., and BBS?",
+                    "answer": "Students should have secured at least D+ in all subjects in Grade 11 and Grade 12.",
+                    "source_url": "https://edusanjal.com/college/sankhuwasabha-multiple-campus/"
+                }
+            ]
+        },
+        {
+            "overview": {
+                "name": "Madi Campus",
+                "name_ne": "मादी बहुमुखी क्याम्पस",
+                "slug": "madi-campus-sankhuwasabha",
+                "ownership": "community",
+                "established_year": null,
+                "university": "Tribhuvan University",
+                "municipality": "Madi Municipality",
+                "address": "Madi, Sankhuwasabha, Koshi Province, Nepal",
+                "description": "Community campus affiliated to Tribhuvan University, serving Madi Municipality and nearby rural areas. It offers B.Ed. and BBS. Edusanjal reported 75 students (40 B.Ed. and 35 BBS). It is listed among Tribhuvan University affiliated campuses in Sankhuwasabha.",
+                "mission": "Provide affordable, accessible, and responsible higher education that strengthens students' knowledge, skills, and character.",
+                "vision": "Grow as a trusted academic center in Koshi Province that uplifts communities through quality teaching, inclusive opportunities, and practical learning.",
+                "source_urls": [
+                    "https://www.collegenp.com/college/madi-campus-madi-sankhuwasabha",
+                    "https://edusanjal.com/college/madi-campus-sankhuwasabha/",
+                    "https://www.collegenp.com/course/madi-campus-madi-sankhuwasabha-bachelor-of-education-bed"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Education (B.Ed.)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/madi-campus-madi-sankhuwasabha-bachelor-of-education-bed"
+                },
+                {
+                    "name": "Bachelor of Business Studies (BBS)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/madi-campus-madi-sankhuwasabha-bachelor-of-business-studies-bbs"
+                }
+            ],
+            "facilities": [
+                "Library",
+                "Sports",
+                "Parking",
+                "Counselling",
+                "Scholarships",
+                "Tour",
+                "Classrooms",
+                "ECA"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-29-680345"
+                ],
+                "emails": [],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Rameshwor Campus",
+                "name_ne": null,
+                "slug": "rameshwor-campus-mamling",
+                "ownership": "community",
+                "established_year": null,
+                "university": "Tribhuvan University",
+                "municipality": "Dharmadevi Municipality",
+                "address": "Dharmadevi Municipality-5, Mamling, Sankhuwasabha, Nepal",
+                "description": "Community campus in Mamling, also listed as Rameswar Campus. Affiliated to Tribhuvan University and offering B.Ed. Edusanjal reported 64 students. The same institution's secondary school runs NEB +2, including a plant science stream. It appears on Tribhuvan University affiliated-campus lists for Sankhuwasabha.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://www.collegenp.com/college/rameshwor-campus-sankhuwasabha",
+                    "https://edusanjal.com/college/rameswar-campus/",
+                    "https://www.educatenepal.com/institutions/detail/rameswar-campus",
+                    "https://www.collegenp.com/course/rameshwor-campus-sankhuwasabha-bachelor-of-education-bed"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Education (B.Ed.)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/rameshwor-campus-sankhuwasabha-bachelor-of-education-bed"
+                }
+            ],
+            "facilities": [
+                "Cafeteria",
+                "Library",
+                "Science lab",
+                "Computer lab",
+                "Sports"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-9742296044"
+                ],
+                "emails": [],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Himalaya Kiran Public Campus",
+                "name_ne": "हिमालय किरण पब्लिक क्याम्पस",
+                "slug": "himalaya-kiran-public-campus",
+                "ownership": "community",
+                "established_year": 2005,
+                "university": "Purbanchal University",
+                "municipality": "Khandbari Municipality",
+                "address": "Khandbari-07, Nayabazar, Khandbari, Sankhuwasabha, Koshi Province, Nepal",
+                "description": "Community campus affiliated to Purbanchal University. Degree classes began in 2062 BS (2005); news reports say it originated as Himalaya Middle School in 1949. Programs are B.Ed., one-year B.Ed., M.Ed., and BBS. Colleges Nepal states it has University Grants Commission approval. A three-storey academic building built with Indian grant assistance of NPR 37.40 million was inaugurated on 6 September 2023.",
+                "mission": "Maintain an academic environment for higher education, encourage community involvement, strengthen research, support students, and prepare qualified human resources through contemporary and inclusive programs.",
+                "vision": "Leading the way to social transformation through quality education.",
+                "source_urls": [
+                    "https://www.collegenp.com/college/himalaya-kiran-public-campus",
+                    "https://edusanjal.com/college/himalaya-kiran-public-campus/",
+                    "https://www.collegesnepal.com/himalaya-kiran-multiple-campus/",
+                    "https://www.myrepublica.nagariknetwork.com/news/fm-saud-and-indian-envoy-srivastava-jointly-inaugurate-campus-building-built-with-indian-assistance"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Education (B.Ed.)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/himalaya-kiran-public-campus-bachelor-of-education-bed-bed"
+                },
+                {
+                    "name": "One-year Bachelor of Education (B.Ed.)",
+                    "level": "Bachelor",
+                    "duration": "1 year",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/himalaya-kiran-public-campus-one-year-bed-bed"
+                },
+                {
+                    "name": "Master of Education (M.Ed.)",
+                    "level": "Master",
+                    "duration": "2 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/himalaya-kiran-public-campus-master-of-education-med-med"
+                },
+                {
+                    "name": "Bachelor of Business Studies (BBS)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/himalaya-kiran-public-campus-bachelor-of-business-studies-bbs"
+                }
+            ],
+            "facilities": [
+                "Classrooms",
+                "Multimedia classrooms",
+                "Science lab",
+                "Computer lab",
+                "Library",
+                "E-library",
+                "Conference hall",
+                "Cafeteria",
+                "Counselling",
+                "Scholarships",
+                "Journal",
+                "Tour",
+                "Transportation"
+            ],
+            "gallery": [
+                {
+                    "url": "https://pbs.twimg.com/media/F5Wh50laAAA1I9K.jpg",
+                    "caption": "Inauguration of the Himalaya Kiran Public Campus building, Khandbari",
+                    "source_url": "https://x.com/IndiaInNepal/status/1699442457489097164"
+                },
+                {
+                    "url": "https://pbs.twimg.com/media/F5Wh50naIAAYwe6.jpg",
+                    "caption": "Inauguration of the Himalaya Kiran Public Campus building, Khandbari",
+                    "source_url": "https://x.com/IndiaInNepal/status/1699442457489097164"
+                }
+            ],
+            "videos": [],
+            "updates": [
+                {
+                    "title": "Campus building inaugurated with Indian grant assistance",
+                    "date": "2023-09-06",
+                    "summary": "Foreign Minister Narayan Prakash Saud and the Ambassador of India inaugurated a three-storey campus building with classrooms, science lab, computer room, library rooms, and a meeting hall, built at a cost of NPR 37.40 million.",
+                    "source_url": "https://www.myrepublica.nagariknetwork.com/news/fm-saud-and-indian-envoy-srivastava-jointly-inaugurate-campus-building-built-with-indian-assistance"
+                }
+            ],
+            "faqs": [
+                {
+                    "question": "Which university is Himalaya Kiran Public Campus affiliated with?",
+                    "answer": "Purbanchal University."
+                },
+                {
+                    "question": "What courses are offered?",
+                    "answer": "Bachelor of Education (B.Ed.), one-year B.Ed., Master of Education (M.Ed.), and Bachelor of Business Studies (BBS)."
+                }
+            ],
+            "contact": {
+                "phones": [
+                    "+977-29-561165"
+                ],
+                "emails": [
+                    "info@himalayakpc.edu.np"
+                ],
+                "website": "https://himalayakpc.edu.np",
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": [
+                {
+                    "question": "Which university is Himalaya Kiran Public Campus affiliated with?",
+                    "answer": "Purbanchal University.",
+                    "source_url": "https://www.collegenp.com/college/himalaya-kiran-public-campus"
+                }
+            ]
+        },
+        {
+            "overview": {
+                "name": "Vidushi Yogmaya Himalayan Ayurveda University",
+                "name_ne": "विदुषी योगमाया हिमालयन आयुर्वेद विश्वविद्यालय",
+                "slug": "vidushi-yogmaya-himalayan-ayurveda-university",
+                "ownership": "government",
+                "established_year": 2022,
+                "university": "Vidushi Yogmaya Himalayan Ayurveda University",
+                "municipality": "Khandbari Municipality",
+                "address": "Khandbari Municipality-9, Tumlingtar / Dhunge Bisauna, Sankhuwasabha, Koshi Province, Nepal",
+                "description": "National Ayurveda university established under the Yogamaya Ayurveda University Act, 2079. The central office is in Khandbari Municipality-9. A central college and postgraduate classes were inaugurated in Khandbari; an admission notice was issued for MSc in Yoga and Meditation. Kantipur reported that teaching was suspended from Baisakh 19, 2083 because of political and administrative uncertainty. As of Kartik 2083, land of about 416 ropani across Khandbari-9 and Shadananda-6, Bhojpur, had been obtained and physical construction was still being planned.",
+                "mission": "Advance Ayurveda through academic programs, research, and community-centered healthcare, integrating Ayurvedic and modern health sciences.",
+                "vision": "Establish a globally recognized academic and research center for Ayurvedic medicine by 2030.",
+                "source_urls": [
+                    "https://www.collegenp.com/college/vidushi-yogmaya-himalayan-ayurveda-university",
+                    "https://yogmayaau.edu.np/notices/admission-notice-yoga-and-meditation-program",
+                    "https://yogmayaau.edu.np/contact-us",
+                    "https://www.ratopati.com/story/550676/yogmaya-ayurveda-university-to-launch-postgraduate-courses-with-the-establishment-of-central-college",
+                    "https://ekantipur.com/koshi-pradesh/2026/07/10/yogmaya-ayurveda-university-to-suspend-classes-from-april-19-38-16.html",
+                    "https://nepalpress.com/2026/11/06/779437/yogmaya-university-expanding-to-416-ropanis-chief-minister-holds-on-site-discussion-on-master-plan/"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "MSc in Yoga and Meditation",
+                    "level": "Master",
+                    "duration": null,
+                    "faculty": "Yoga and Meditation",
+                    "fee": null,
+                    "source_url": "https://yogmayaau.edu.np/notices/admission-notice-yoga-and-meditation-program"
+                }
+            ],
+            "facilities": [],
+            "gallery": [],
+            "videos": [],
+            "updates": [
+                {
+                    "title": "Admission announcement for MSc in Yoga and Meditation",
+                    "date": "2026-02-02",
+                    "summary": "Applications invited for MSc in Yoga and Meditation. Application window published as 8-28 February 2026; written exam 10 March 2026; interview and result 11 March 2026. Application fee NPR 1,500. Locations listed as Khandbari and Kathmandu.",
+                    "source_url": "https://yogmayaau.edu.np/notices/admission-notice-yoga-and-meditation-program"
+                },
+                {
+                    "title": "Teaching reported suspended from Baisakh 19",
+                    "date": "2026-07-10",
+                    "summary": "Kantipur reported that classes at the Khandbari campus had been suspended since Baisakh 19 because of political and administrative uncertainty.",
+                    "source_url": "https://ekantipur.com/koshi-pradesh/2026/07/10/yogmaya-ayurveda-university-to-suspend-classes-from-april-19-38-16.html"
+                },
+                {
+                    "title": "Chief Minister inspects university site",
+                    "date": "2026-11-06",
+                    "summary": "Koshi Chief Minister Hikmat Kumar Karki inspected the proposed site at Khandbari Municipality-9 and discussed operation and infrastructure. About 416 ropani of land was reported as obtained.",
+                    "source_url": "https://nepalpress.com/2026/11/06/779437/yogmaya-university-expanding-to-416-ropanis-chief-minister-holds-on-site-discussion-on-master-plan/"
+                }
+            ],
+            "faqs": [
+                {
+                    "question": "How do I apply for admission?",
+                    "answer": "Review the official admission notice for the chosen program on the university admissions section or student portal."
+                },
+                {
+                    "question": "What documents are required for admission?",
+                    "answer": "Each program admission notice includes a required-documents section."
+                },
+                {
+                    "question": "How can I schedule a campus visit?",
+                    "answer": "Contact the admissions office using the published contact details."
+                }
+            ],
+            "contact": {
+                "phones": [
+                    "+977-9845773706",
+                    "+977-9851107965",
+                    "+977-9811385821"
+                ],
+                "emails": [
+                    "info@yogmayaau.edu.np"
+                ],
+                "website": "https://yogmayaau.edu.np",
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Makalu Technical Institute",
+                "name_ne": null,
+                "slug": "makalu-technical-institute-khandbari",
+                "ownership": "private",
+                "established_year": 1998,
+                "university": "CTEVT",
+                "municipality": "Khandbari Municipality",
+                "address": "Khandbari-10, Nayabazar, Khandbari, Sankhuwasabha, Nepal",
+                "description": "Private CTEVT-affiliated institute, also called Makalu Health Academy. An older profile dates establishment to 2055 BS. Current listings include PCL/diploma General Medicine (HA) and Certificate in Medical Laboratory Technology, each described as three years, plus TSLC programs in Community Medical Assistant and Medical Laboratory Technology. It is assigned to CTEVT diploma and certificate exam centers in Sankhuwasabha. A 2082/83 CMLT college list includes Makalu Technical Institute, Khandbari.",
+                "mission": "Conduct health and related training programs so that people can be employed in and outside the country.",
+                "vision": "Produce capable manpower in health care and train people for employment in and outside the country.",
+                "source_urls": [
+                    "https://edusanjal.com/school/makalu-health-academy/",
+                    "https://www.collegenp.com/course/makalu-technical-institute-sankhuwasabha-proficiency-certificate-in-general-medicine-ha",
+                    "https://www.collegenp.com/admission/ctevt-cmlt-colleges-nepal",
+                    "https://tyrocity.com/academy/makalu-health-academy-3goj",
+                    "https://www.collegenp.com/exam/ctevt-diploma-certificate-exam-centers-2083"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Proficiency Certificate in General Medicine (HA)",
+                    "level": "Diploma / PCL",
+                    "duration": "3 years",
+                    "faculty": "Health",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/makalu-technical-institute-sankhuwasabha-proficiency-certificate-in-general-medicine-ha"
+                },
+                {
+                    "name": "Proficiency Certificate in Medical Laboratory Technology (CMLT)",
+                    "level": "Diploma / PCL",
+                    "duration": "3 years",
+                    "faculty": "Health",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/makalu-technical-institute-sankhuwasabha-proficiency-certificate-in-medical-lab-technology-cmlt/write-review"
+                },
+                {
+                    "name": "TSLC in Community Medical Assistant",
+                    "level": "Pre-diploma",
+                    "duration": null,
+                    "faculty": "Health",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/school/makalu-health-academy/"
+                },
+                {
+                    "name": "TSLC in Medical Laboratory Technology",
+                    "level": "Pre-diploma",
+                    "duration": null,
+                    "faculty": "Health",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/school/makalu-health-academy/"
+                }
+            ],
+            "facilities": [],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-026-520033"
+                ],
+                "emails": [],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Shree Mahendra Secondary School",
+                "name_ne": "महेन्द्र माध्यमिक विद्यालय",
+                "slug": "shree-mahendra-secondary-school-khandbari",
+                "ownership": "public",
+                "established_year": 1957,
+                "university": "CTEVT",
+                "municipality": "Khandbari Municipality",
+                "address": "Khandbari Municipality-3, Manebhanjyang, Sankhuwasabha, Nepal",
+                "description": "Public community secondary school established in 2014 BS (1957), affiliated to the National Examination Board for +2 and to CTEVT for technical agriculture. It is included here for its CTEVT diploma, not for +2. It offers a three-year Diploma in Agriculture (Plant Science), listed with 40 seats, and a pre-diploma in plant science. It is named on CTEVT diploma and certificate exam-center lists for Sankhuwasabha.",
+                "mission": "Continue the annex program and provide agricultural training so that skilled manpower is produced and agricultural education is accessible.",
+                "vision": "Develop skilled manpower through market-oriented technical and vocational programs for backward and poor people.",
+                "source_urls": [
+                    "https://www.collegenp.com/school/mahendra-secondary-school-sankhuwasabha",
+                    "https://edusanjal.com/school/mahendra-higher-secondary-school-sankhuwasabha/",
+                    "https://www.collegenp.com/course/shree-mahendra-secondary-school-diploma-in-agriculture-plant-science-diploma-in-agriculture",
+                    "https://www.collegenp.com/college/shree-mahendra-secondary-school"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Diploma in Agriculture (Plant Science)",
+                    "level": "Diploma",
+                    "duration": "3 years",
+                    "faculty": "Agriculture",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/shree-mahendra-secondary-school-diploma-in-agriculture-plant-science-diploma-in-agriculture"
+                },
+                {
+                    "name": "Pre-Diploma in Agriculture (Plant Science)",
+                    "level": "Pre-diploma",
+                    "duration": "18 months",
+                    "faculty": "Agriculture",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/mahendra-secondary-school-sankhuwasabha-pre-diploma-in-agriculture-plant-science/write-review"
+                }
+            ],
+            "facilities": [
+                "Library",
+                "Sports",
+                "Science lab",
+                "Computer lab",
+                "Internet",
+                "Multimedia",
+                "Counselling",
+                "Scholarships",
+                "Classrooms",
+                "ECA"
+            ],
+            "gallery": [],
+            "videos": [
+                {
+                    "title": "Message from the Head teacher, Shree Mahendra Secondary School, Khandbari-03",
+                    "url": "https://www.facebook.com/reel/1539000080012858/",
+                    "platform": "Facebook"
+                }
+            ],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-29-560125"
+                ],
+                "emails": [
+                    "mahendramavi125@gmail.com"
+                ],
+                "website": "https://mahendramabi.edu.np",
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        }
+    ]
+}

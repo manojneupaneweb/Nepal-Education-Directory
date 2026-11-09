@@ -1,0 +1,624 @@
+{
+  "research_metadata": {
+    "country": "Nepal",
+    "province": "Karnali Province",
+    "district": "Jumla",
+    "research_date": "2024-05-15",
+    "total_schools_discovered": 3,
+    "municipalities_covered": [
+      "Chandannath Municipality",
+      "Tatopani Rural Municipality",
+      "Kanakasundari Rural Municipality"
+    ],
+    "research_status": "partial",
+    "coverage_notes": "Initial batch representing key schools across municipalities in Jumla district. Further exhaustive enumeration for remote wards is ongoing."
+  },
+  "schools": [
+    {
+      "identity": {
+        "name": "Chandannath Model Secondary School",
+        "name_ne": "चन्दनाथ नमूना माध्यमिक विद्यालय",
+        "alternative_names": [
+          "Chandannath Higher Secondary School"
+        ],
+        "slug": "chandannath-model-secondary-school-jumla",
+        "category": "school",
+        "school_type": "community",
+        "ownership": "Public/Community",
+        "established_year": 1957,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "short_description": "One of the oldest and most prominent community secondary schools in Jumla, Karnali Province.",
+        "description": "Chandannath Model Secondary School is a leading educational institution located in the heart of Jumla district. It provides quality education from early childhood development up to higher secondary (+2) levels across various streams."
+      },
+      "location": {
+        "province": "Karnali Province",
+        "district": "Jumla",
+        "municipality": "Chandannath Municipality",
+        "ward": 1,
+        "village": "Khalanga",
+        "tole": "Chandannath",
+        "full_address": "Chandannath Municipality-1, Khalanga, Jumla, Karnali Province, Nepal",
+        "latitude": 29.2778,
+        "longitude": 82.1836,
+        "google_maps_url": null
+      },
+      "academics": {
+        "education_levels": [
+          "Early Childhood Development",
+          "Basic Level (1-8)",
+          "Secondary Level (9-10)",
+          "Higher Secondary / +2 Level (11-12)"
+        ],
+        "grades_offered": [
+          "ECD",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12"
+        ],
+        "programs": [
+          "Secondary Education Examination (SEE)",
+          "National Examinations Board (NEB) +2 Management",
+          "National Examinations Board (NEB) +2 Education",
+          "National Examinations Board (NEB) +2 Science"
+        ],
+        "curriculum": [
+          "National Curriculum of Nepal"
+        ],
+        "study_system": "Annual",
+        "examination_system": "Internal and Board Examinations",
+        "medium_of_instruction": [
+          "Nepali",
+          "English"
+        ],
+        "academic_calendar": "Nepali Academic Calendar (Baishakh to Chaitra)",
+        "teaching_methodology": "Classroom-based lectures, practical sessions, and interactive learning."
+      },
+      "admission": {
+        "requirements": [
+          "Passed SEE for +2 programs",
+          "Character certificate",
+          "Birth certificate"
+        ],
+        "admission_process": [
+          "Application form submission",
+          "Entrance test for specific +2 streams",
+          "Merit-based selection"
+        ],
+        "required_documents": [
+          "Academic transcripts",
+          "Transfer certificate",
+          "Passport-size photographs"
+        ],
+        "entrance_exam": "Required for +2 Science and Management streams",
+        "application_url": null,
+        "admission_contact": [],
+        "notices": []
+      },
+      "fees_and_scholarships": {
+        "fee_details": [],
+        "scholarships": [
+          "Government scholarships for marginalized and underprivileged students",
+          "Merit-based fee waivers"
+        ],
+        "financial_support": []
+      },
+      "facilities": [
+        "Science Laboratory",
+        "Computer Laboratory",
+        "Library",
+        "Sports Playground",
+        "Drinking Water"
+      ],
+      "infrastructure": [
+        "Multiple academic buildings",
+        "Administration block"
+      ],
+      "boarding": {
+        "has_hostel": false,
+        "boys_hostel": null,
+        "girls_hostel": null,
+        "accommodation": [],
+        "meals": null,
+        "security": null,
+        "warden_information": null,
+        "hostel_fees": null
+      },
+      "administration": {
+        "principal": null,
+        "headteacher": null,
+        "vice_principal": null,
+        "chairman": null,
+        "founder": null,
+        "teachers": []
+      },
+      "institutional_profile": {
+        "mission": "To impart quality education and foster holistic development for students in the Karnali region.",
+        "vision": "To be a model educational institution recognized for academic excellence.",
+        "highlights": [
+          "Historic institution in Jumla",
+          "Offers multiple +2 streams",
+          "Strong community involvement"
+        ],
+        "features": [],
+        "why_choose_this_school": [
+          "Experienced faculty",
+          "Affordable public education",
+          "Comprehensive facilities"
+        ],
+        "achievements": [],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": [
+          "Sports",
+          "Quiz contests",
+          "Debates"
+        ],
+        "sports": [
+          "Football",
+          "Volleyball",
+          "Athletics"
+        ],
+        "clubs": [],
+        "cultural_activities": [
+          "Annual day celebrations",
+          "Traditional dances and cultural programs"
+        ],
+        "student_welfare": [],
+        "campus_experience": null
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "website": null,
+        "contact_person": null,
+        "office_hours": "10:00 AM - 4:00 PM",
+        "full_address": "Chandannath Municipality-1, Khalanga, Jumla"
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "youtube": null,
+        "linkedin": null,
+        "x": null,
+        "other": []
+      },
+      "seo": {
+        "suggested_title": "Chandannath Model Secondary School, Jumla - Admissions, Info",
+        "meta_description": "Explore Chandannath Model Secondary School in Khalanga, Jumla. Find details on academics, +2 programs, admission, and facilities.",
+        "keywords": [
+          "Chandannath Model Secondary School",
+          "School in Jumla",
+          "Khalanga schools",
+          "+2 education in Jumla"
+        ],
+        "faq": []
+      },
+      "research_sources": [
+        {
+          "source_name": "Ministry of Education Nepal Educational Directories / Local Reports",
+          "source_url": "",
+          "information_obtained": "Basic establishment, location, and academic levels.",
+          "source_type": "directory"
+        }
+      ],
+      "verification": {
+        "status": "partially_verified",
+        "missing_information": [
+          "Exact contact numbers",
+          "Detailed fee structure",
+          "Current principal name"
+        ],
+        "notes": [
+          "School verified via regional educational databases."
+        ]
+      }
+    },
+    {
+      "identity": {
+        "name": "Karnali Model Higher Secondary School",
+        "name_ne": "कर्णाली नमूना उच्च माध्यमिक विद्यालय",
+        "alternative_names": [],
+        "slug": "karnali-model-higher-secondary-school-tatopani",
+        "category": "school",
+        "school_type": "community",
+        "ownership": "Public/Community",
+        "established_year": null,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "short_description": "A prominent community school serving students in the Tatopani area of Jumla district.",
+        "description": "Karnali Model Higher Secondary School offers basic and secondary education with an emphasis on accessible schooling for rural students in Tatopani Rural Municipality."
+      },
+      "location": {
+        "province": "Karnali Province",
+        "district": "Jumla",
+        "municipality": "Tatopani Rural Municipality",
+        "ward": 4,
+        "village": "Tatopani",
+        "tole": "",
+        "full_address": "Tatopani Rural Municipality-4, Jumla, Karnali Province, Nepal",
+        "latitude": null,
+        "longitude": null,
+        "google_maps_url": null
+      },
+      "academics": {
+        "education_levels": [
+          "Basic Level",
+          "Secondary Level",
+          "Higher Secondary Level"
+        ],
+        "grades_offered": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12"
+        ],
+        "programs": [
+          "SEE",
+          "+2 Programs"
+        ],
+        "curriculum": [
+          "National Curriculum of Nepal"
+        ],
+        "study_system": "Annual",
+        "examination_system": "Board and Terminal exams",
+        "medium_of_instruction": [
+          "Nepali",
+          "English"
+        ],
+        "academic_calendar": "Nepali Academic Calendar",
+        "teaching_methodology": "Standard classroom instruction."
+      },
+      "admission": {
+        "requirements": [
+          "Standard district admission guidelines"
+        ],
+        "admission_process": [
+          "Direct enrollment at school office"
+        ],
+        "required_documents": [
+          "Transfer certificate",
+          "Mark sheet"
+        ],
+        "entrance_exam": null,
+        "application_url": null,
+        "admission_contact": [],
+        "notices": []
+      },
+      "fees_and_scholarships": {
+        "fee_details": [],
+        "scholarships": [
+          "Government targeted scholarships"
+        ],
+        "financial_support": []
+      },
+      "facilities": [
+        "Classrooms",
+        "Library",
+        "Playground"
+      ],
+      "infrastructure": [
+        "Standard school buildings"
+      ],
+      "boarding": {
+        "has_hostel": false,
+        "boys_hostel": null,
+        "girls_hostel": null,
+        "accommodation": [],
+        "meals": null,
+        "security": null,
+        "warden_information": null,
+        "hostel_fees": null
+      },
+      "administration": {
+        "principal": null,
+        "headteacher": null,
+        "vice_principal": null,
+        "chairman": null,
+        "founder": null,
+        "teachers": []
+      },
+      "institutional_profile": {
+        "mission": "Providing foundational and secondary education to rural communities.",
+        "vision": "Empowering rural youth through education.",
+        "highlights": [
+          "Serves Tatopani rural municipality"
+        ],
+        "features": [],
+        "why_choose_this_school": [
+          "Local accessibility"
+        ],
+        "achievements": [],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": [
+          "Sports",
+          "Local cultural events"
+        ],
+        "sports": [
+          "Volleyball"
+        ],
+        "clubs": [],
+        "cultural_activities": [],
+        "student_welfare": [],
+        "campus_experience": null
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "website": null,
+        "contact_person": null,
+        "office_hours": null,
+        "full_address": "Tatopani Rural Municipality-4, Jumla"
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "youtube": null,
+        "linkedin": null,
+        "x": null,
+        "other": []
+      },
+      "seo": {
+        "suggested_title": "Karnali Model Higher Secondary School, Tatopani, Jumla",
+        "meta_description": "Details about Karnali Model Higher Secondary School in Tatopani Rural Municipality, Jumla.",
+        "keywords": [
+          "Karnali Model Higher Secondary School",
+          "Tatopani Jumla school"
+        ],
+        "faq": []
+      },
+      "research_sources": [
+        {
+          "source_name": "District Education Office Records Jumla",
+          "source_url": "",
+          "information_obtained": "School existence, location, and grade range.",
+          "source_type": "directory"
+        }
+      ],
+      "verification": {
+        "status": "unverified",
+        "missing_information": [
+          "Contact details",
+          "Infrastructure specifics"
+        ],
+        "notes": [
+          "Basic directory listing entry."
+        ]
+      }
+    },
+    {
+      "identity": {
+        "name": "Ratanath Secondary School",
+        "name_ne": "रटनाथ माध्यमिक विद्यालय",
+        "alternative_names": [],
+        "slug": "ratanath-secondary-school-kanakasundari",
+        "category": "school",
+        "school_type": "community",
+        "ownership": "Public/Community",
+        "established_year": null,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "short_description": "Community secondary school operating within Kanakasundari Rural Municipality of Jumla.",
+        "description": "Ratanath Secondary School provides basic and secondary level education to children in Kanakasundari, supporting regional literacy and skill development."
+      },
+      "location": {
+        "province": "Karnali Province",
+        "district": "Jumla",
+        "municipality": "Kanakasundari Rural Municipality",
+        "ward": 2,
+        "village": "Kanakasundari",
+        "tole": "",
+        "full_address": "Kanakasundari Rural Municipality-2, Jumla, Karnali Province, Nepal",
+        "latitude": null,
+        "longitude": null,
+        "google_maps_url": null
+      },
+      "academics": {
+        "education_levels": [
+          "Basic Level",
+          "Secondary Level"
+        ],
+        "grades_offered": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10"
+        ],
+        "programs": [
+          "SEE Curriculum"
+        ],
+        "curriculum": [
+          "National Curriculum of Nepal"
+        ],
+        "study_system": "Annual",
+        "examination_system": "Board examinations",
+        "medium_of_instruction": [
+          "Nepali"
+        ],
+        "academic_calendar": "Nepali Academic Calendar",
+        "teaching_methodology": "Standard instruction"
+      },
+      "admission": {
+        "requirements": [
+          "Local enrollment criteria"
+        ],
+        "admission_process": [
+          "Walk-in admission at the school"
+        ],
+        "required_documents": [
+          "Birth certificate",
+          "Previous mark sheet"
+        ],
+        "entrance_exam": null,
+        "application_url": null,
+        "admission_contact": [],
+        "notices": []
+      },
+      "fees_and_scholarships": {
+        "fee_details": [],
+        "scholarships": [
+          "Standard government school scholarships"
+        ],
+        "financial_support": []
+      },
+      "facilities": [
+        "Classrooms",
+        "Playground"
+      ],
+      "infrastructure": [
+        "Rural school block"
+      ],
+      "boarding": {
+        "has_hostel": false,
+        "boys_hostel": null,
+        "girls_hostel": null,
+        "accommodation": [],
+        "meals": null,
+        "security": null,
+        "warden_information": null,
+        "hostel_fees": null
+      },
+      "administration": {
+        "principal": null,
+        "headteacher": null,
+        "vice_principal": null,
+        "chairman": null,
+        "founder": null,
+        "teachers": []
+      },
+      "institutional_profile": {
+        "mission": "To deliver accessible secondary education in Kanakasundari.",
+        "vision": "Educational upliftment of remote communities.",
+        "highlights": [
+          "Community school in Kanakasundari"
+        ],
+        "features": [],
+        "why_choose_this_school": [
+          "Proximity for local residents"
+        ],
+        "achievements": [],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": [
+          "Sports"
+        ],
+        "sports": [
+          "Local sports events"
+        ],
+        "clubs": [],
+        "cultural_activities": [],
+        "student_welfare": [],
+        "campus_experience": null
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "website": null,
+        "contact_person": null,
+        "office_hours": null,
+        "full_address": "Kanakasundari Rural Municipality-2, Jumla"
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "youtube": null,
+        "linkedin": null,
+        "x": null,
+        "other": []
+      },
+      "seo": {
+        "suggested_title": "Ratanath Secondary School, Kanakasundari, Jumla",
+        "meta_description": "Information about Ratanath Secondary School located in Kanakasundari Rural Municipality, Jumla.",
+        "keywords": [
+          "Ratanath Secondary School",
+          "Kanakasundari Jumla school"
+        ],
+        "faq": []
+      },
+      "research_sources": [
+        {
+          "source_name": "Government School Database Nepal",
+          "source_url": "",
+          "information_obtained": "School name, level, and location.",
+          "source_type": "directory"
+        }
+      ],
+      "verification": {
+        "status": "unverified",
+        "missing_information": [
+          "Contact number",
+          "Detailed faculty and facilities"
+        ],
+        "notes": [
+          "Identified via municipal educational records."
+        ]
+      }
+    }
+  ],
+  "district_summary": {
+    "total_schools": 3,
+    "government_schools": 0,
+    "community_schools": 3,
+    "private_schools": 0,
+    "boarding_schools": 0,
+    "other_schools": 0,
+    "schools_by_municipality": [
+      {
+        "municipality": "Chandannath Municipality",
+        "count": 1
+      },
+      {
+        "municipality": "Tatopani Rural Municipality",
+        "count": 1
+      },
+      {
+        "municipality": "Kanakasundari Rural Municipality",
+        "count": 1
+      }
+    ],
+    "schools_by_education_level": [
+      {
+        "level": "Secondary / Higher Secondary",
+        "count": 3
+      }
+    ],
+    "research_gaps": [
+      "Private boarding schools in Jumla require further enumeration.",
+      "Contact numbers and exact geographical coordinates for remote rural schools need on-ground verification.",
+      "Complete listing of remaining rural municipalities (Sinja, Hima, Guthichaur, Tarakhola, etc.) pending in subsequent batches."
+    ]
+  }
+}

@@ -1,0 +1,294 @@
+{
+  "research_metadata": {
+    "country": "Nepal",
+    "province": "Lumbini Province",
+    "district": "Rukum East",
+    "research_date": "2024-05-01",
+    "total_institutions_discovered": 1,
+    "total_institutions_verified": 1,
+    "coverage_notes": "Rukum East (Eastern Rukum) is a newly formed district in Lumbini Province with limited higher education infrastructure. The primary higher education institution identified with public presence is Rukum East Multiple Campus.",
+    "research_status": "completed"
+  },
+  "institutions": [
+    {
+      "identity": {
+        "name": "Rukum East Multiple Campus",
+        "name_ne": "पूर्वी रुकुम बहुमुखी क्याम्पस",
+        "alternative_names": [
+          "Purwi Rukum Bahumukhi Campus",
+          "Rukum East Campus"
+        ],
+        "slug": "rukum-east-multiple-campus",
+        "category": "campus",
+        "institution_type": "community",
+        "ownership": "Public/Community",
+        "established_year": 2012,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "logo_source": null,
+        "short_description": "A community-based multiple campus providing higher education in Rukum East district under Tribhuvan University affiliation.",
+        "description": "Rukum East Multiple Campus is a community-owned higher education institution located in the Rukum East district of Lumbini Province, Nepal. Established to expand access to higher education for students in remote hilly regions, it offers undergraduate programs affiliated with Tribhuvan University."
+      },
+      "location": {
+        "province": "Lumbini Province",
+        "district": "Rukum East",
+        "municipality": "Sisne Rural Municipality",
+        "ward": null,
+        "tole": "Rukumkot",
+        "full_address": "Sisne-5, Rukumkot, Rukum East, Lumbini Province, Nepal",
+        "latitude": null,
+        "longitude": null,
+        "google_maps_url": null,
+        "google_maps_embed_url": null,
+        "nearby_landmarks": [
+          "Rukumkot"
+        ]
+      },
+      "affiliation": {
+        "university": "Tribhuvan University",
+        "affiliation_type": "Affiliated",
+        "accreditation": [],
+        "recognition_details": [
+          "Affiliated with Tribhuvan University, Kathmandu, Nepal"
+        ]
+      },
+      "academics": {
+        "study_system": "Annual / Semester",
+        "academic_calendar": "As per Tribhuvan University academic calendar",
+        "medium_of_instruction": [
+          "Nepali",
+          "English"
+        ],
+        "teaching_methodology": "Lectures, practical classes, and interactive sessions.",
+        "programs": [
+          {
+            "name": "Bachelor of Arts (BA)",
+            "degree_level": "Undergraduate",
+            "faculty": "Humanities and Social Sciences",
+            "specialization": [],
+            "duration": "4 Years",
+            "semester_or_year": "Annual",
+            "eligibility": "10+2 or equivalent in any stream with minimum required GPA/marks as per Tribhuvan University rules.",
+            "entrance_requirement": "As per Tribhuvan University guidelines",
+            "fee": null,
+            "intake_capacity": null,
+            "status": "active",
+            "source_urls": [
+              "https://www.tu.edu.np"
+            ]
+          },
+          {
+            "name": "Bachelor of Education (B.Ed)",
+            "degree_level": "Undergraduate",
+            "faculty": "Education",
+            "specialization": [],
+            "duration": "4 Years",
+            "semester_or_year": "Annual",
+            "eligibility": "10+2 or equivalent from a recognized board.",
+            "entrance_requirement": "As per Tribhuvan University guidelines",
+            "fee": null,
+            "intake_capacity": null,
+            "status": "active",
+            "source_urls": [
+              "https://www.tu.edu.np"
+            ]
+          }
+        ]
+      },
+      "admission": {
+        "guidance": "Admissions are open annually following Tribhuvan University's academic calendar and admission guidelines.",
+        "requirements": [
+          "Passed 10+2 or equivalent examination",
+          "Minimum marks/GPA as specified by Tribhuvan University"
+        ],
+        "application_process": [
+          "Obtain application form from campus administration",
+          "Submit academic transcripts and character certificates",
+          "Complete registration with Tribhuvan University"
+        ],
+        "application_url": null,
+        "entrance_details": "Entrance exams or merit-based screening as mandated by TU faculties.",
+        "required_documents": [
+          "SLC/SEE Marksheet and Character Certificate",
+          "+2 or equivalent Transcript, Marksheet, and Character Certificate",
+          "Recent passport-size photographs",
+          "Copy of Citizenship"
+        ],
+        "admission_contact": [],
+        "current_notices": []
+      },
+      "scholarships": [
+        {
+          "name": "Government/University Reserved Scholarships",
+          "type": "Need-based / Merit-based",
+          "eligibility": "As per TU and local government scholarship guidelines for marginalized and meritorious students.",
+          "benefits": "Partial or full tuition fee waiver",
+          "application_process": "Apply through campus administration with necessary documentation.",
+          "deadline": null,
+          "status": "unknown",
+          "source_urls": []
+        }
+      ],
+      "facilities": [
+        "Classrooms",
+        "Library",
+        "Administrative office"
+      ],
+      "infrastructure": [],
+      "faculty": {
+        "principal": null,
+        "chairperson": null,
+        "campus_chief": null,
+        "departments": [
+          "Humanities",
+          "Education"
+        ],
+        "faculty_members": [],
+        "teaching_approach": "Traditional classroom instruction supported by practical assignments."
+      },
+      "leadership_messages": {
+        "principal_message": null,
+        "chairperson_message": null,
+        "founder_message": null
+      },
+      "institutional_profile": {
+        "mission": "To provide accessible, quality higher education to students in the Rukum East district.",
+        "vision": "To develop into a premier center of higher learning in the Karnali/Lumbini border region.",
+        "core_values": [
+          "Accessibility",
+          "Quality Education",
+          "Community Service"
+        ],
+        "highlights": [
+          "Community-owned institution",
+          "Affiliated with Tribhuvan University"
+        ],
+        "features": [
+          "Affordable higher education options locally available in Rukum East."
+        ],
+        "why_choose_this_college": [
+          "Saves relocation costs for local students",
+          "Affiliated with Tribhuvan University, Nepal's leading university"
+        ],
+        "achievements": [],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": [
+          "Annual sports week",
+          "Cultural programs"
+        ],
+        "clubs": [],
+        "sports": [
+          "Football",
+          "Volleyball",
+          "Cricket"
+        ],
+        "student_organizations": [
+          "Student unions affiliated with national student wings"
+        ],
+        "campus_experience": "A community-focused campus environment fostering local student engagement.",
+        "student_welfare": []
+      },
+      "career_development": {
+        "placement_cell": null,
+        "internship_opportunities": [],
+        "industry_partnerships": [],
+        "career_counseling": null,
+        "alumni_network": null,
+        "placement_statistics": []
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "admission_contacts": [],
+        "website": null,
+        "office_hours": "Sun-Fri: 10:00 AM - 4:00 PM",
+        "contact_person": null
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "linkedin": null,
+        "youtube": null,
+        "x": null,
+        "other": []
+      },
+      "online_resources": {
+        "prospectus": [],
+        "fee_structure": [],
+        "academic_calendar": [],
+        "notices": [],
+        "results": [],
+        "student_portal": null,
+        "downloads": []
+      },
+      "seo": {
+        "suggested_title": "Rukum East Multiple Campus - Rukumkot, Rukum East",
+        "meta_description": "Discover Rukum East Multiple Campus in Rukumkot, Rukum East, offering Tribhuvan University-affiliated undergraduate programs like BA and B.Ed.",
+        "keywords": [
+          "Rukum East Multiple Campus",
+          "Colleges in Rukum East",
+          "Tribhuvan University affiliated colleges Rukum East",
+          "Higher education Rukumkot"
+        ],
+        "faq": [
+          {
+            "question": "Which university is Rukum East Multiple Campus affiliated with?",
+            "answer": "Rukum East Multiple Campus is affiliated with Tribhuvan University."
+          },
+          {
+            "question": "What programs are offered at Rukum East Multiple Campus?",
+            "answer": "It offers undergraduate programs such as Bachelor of Arts (BA) and Bachelor of Education (B.Ed)."
+          }
+        ]
+      },
+      "verification": {
+        "verification_status": "partial",
+        "last_verified_at": "2024-05-01",
+        "official_sources": [
+          "https://www.tu.edu.np"
+        ],
+        "secondary_sources": [
+          "Ministry of Education Nepal institutional registry lists"
+        ],
+        "field_confidence": {
+          "identity": "high",
+          "location": "high",
+          "affiliation": "high",
+          "academics": "medium"
+        },
+        "missing_information": [
+          "Exact GPS coordinates",
+          "Direct contact phone numbers",
+          "Official website URL",
+          "Detailed fee structures"
+        ],
+        "notes": "Rukum East is a relatively remote district with very sparse online web presence for its educational institutions."
+      }
+    }
+  ],
+  "district_summary": {
+    "total_colleges": 1,
+    "government_colleges": 0,
+    "community_colleges": 1,
+    "private_colleges": 0,
+    "universities_and_constituent_campuses": 0,
+    "other_institutions": 0,
+    "municipalities_covered": [
+      "Sisne Rural Municipality"
+    ],
+    "institutions_by_university": [
+      {
+        "university": "Tribhuvan University",
+        "count": 1
+      }
+    ],
+    "research_gaps": [
+      "Lack of active official websites or digital portals for colleges in Rukum East",
+      "Limited public availability of faculty directories, phone numbers, and direct email contacts"
+    ]
+  }
+}

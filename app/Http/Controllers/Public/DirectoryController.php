@@ -4,13 +4,17 @@ namespace App\Http\Controllers\Public;
 
 use App\Enums\InstitutionStatus;
 use App\Http\Controllers\Controller;
+use App\Http\Requests\StoreContactMessageRequest;
+use App\Models\ContactMessage;
 use App\Models\District;
 use App\Models\Institution;
 use App\Models\InstitutionCategory;
 use App\Models\InstitutionType;
 use App\Models\Municipality;
+use App\Models\PageView;
 use App\Models\Province;
 use Illuminate\Contracts\Pagination\LengthAwarePaginator;
+use Illuminate\Http\RedirectResponse;
 use Illuminate\Http\Request;
 use Illuminate\Pagination\LengthAwarePaginator as Paginator;
 use Illuminate\View\View;
@@ -29,9 +33,22 @@ class DirectoryController extends Controller
             ->when($district, fn ($query) => $query->where('district_id', $district->id))
             ->find($request->integer('municipality'));
 
+        $term = trim((string) $request->string('q'));
+        $category = InstitutionCategory::query()
+            ->whereIn('slug', ['government-school', 'private-school'])
+            ->where('slug', (string) $request->string('category'))
+            ->first();
+
         $query = Institution::query()->published();
         if ($schoolType) {
             $query->where('institution_type_id', $schoolType->id);
+        }
+        if ($term !== '') {
+            $like = '%'.addcslashes($term, '%_\\').'%';
+            $query->where('name', 'like', $like);
+        }
+        if ($category) {
+            $query->whereHas('categories', fn ($categories) => $categories->whereKey($category->id));
         }
         if ($province) {
             $query->where('province_id', $province->id);
@@ -43,9 +60,18 @@ class DirectoryController extends Controller
             $query->where('municipality_id', $municipality->id);
         }
 
-        $schools = (clone $query)
-            ->with(['municipality', 'district', 'province', 'categories'])
-            ->orderBy('name')
+        $sort = (string) $request->string('sort');
+        $ordered = (clone $query)->with(['municipality', 'district', 'province', 'categories']);
+        if ($sort === 'za') {
+            $ordered->orderByDesc('name');
+        } elseif ($sort === 'new') {
+            $ordered->orderByDesc('published_at')->orderBy('name');
+        } else {
+            $sort = 'az';
+            $ordered->orderBy('name');
+        }
+
+        $schools = $ordered
             ->paginate(18)
             ->withQueryString();
 
@@ -53,7 +79,7 @@ class DirectoryController extends Controller
 
         $categories = InstitutionCategory::query()
             ->active()
-            ->where('slug', 'like', '%school%')
+            ->whereIn('slug', ['government-school', 'private-school'])
             ->withCount(['institutions' => function ($q) use ($schoolType) {
                 $q->published();
                 if ($schoolType) {
@@ -64,7 +90,7 @@ class DirectoryController extends Controller
 
         $provinces = Province::query()
             ->active()
-            ->withCount('districts')
+            ->withDirectoryCounts()
             ->orderBy('code')
             ->get();
 
@@ -86,9 +112,75 @@ class DirectoryController extends Controller
             'provinces' => $provinces,
             'districts' => $districts,
             'municipalities' => $municipalities,
+            'term' => $term,
+            'selectedCategory' => $category,
             'selectedProvince' => $province,
             'selectedDistrict' => $district,
             'selectedMunicipality' => $municipality,
+            'sort' => $sort,
+        ]);
+    }
+
+    public function colleges(Request $request): View
+    {
+        $collegeType = InstitutionType::query()->where('slug', 'college')->first();
+
+        $province = Province::query()->active()->find($request->integer('province'));
+        $district = District::query()->active()
+            ->when($province, fn ($query) => $query->where('province_id', $province->id))
+            ->find($request->integer('district'));
+        $municipality = Municipality::query()->active()
+            ->when($district, fn ($query) => $query->where('district_id', $district->id))
+            ->find($request->integer('municipality'));
+
+        $term = trim((string) $request->string('q'));
+        $query = Institution::query()->published();
+        if ($collegeType) {
+            $query->where('institution_type_id', $collegeType->id);
+        }
+        if ($province) {
+            $query->where('province_id', $province->id);
+        }
+        if ($district) {
+            $query->where('district_id', $district->id);
+        }
+        if ($municipality) {
+            $query->where('municipality_id', $municipality->id);
+        }
+
+        $listing = clone $query;
+        if ($term !== '') {
+            $like = '%'.addcslashes($term, '%_\\').'%';
+            $listing->where('name', 'like', $like);
+        } else {
+            $listing->whereNotNull('logo_path')->where('logo_path', '!=', '');
+        }
+
+        $colleges = $listing
+            ->with(['municipality', 'district', 'province', 'affiliations.university', 'programs'])
+            ->orderBy('name')
+            ->paginate(18)
+            ->withQueryString();
+
+        return view('public.colleges.index', [
+            'colleges' => $colleges,
+            'totalColleges' => (clone $query)->count(),
+            'provinces' => Province::query()->active()->withCount([
+                'institutions as colleges_count' => fn ($count) => $count->published()
+                    ->when($collegeType, fn ($inner) => $inner->where('institution_type_id', $collegeType->id)),
+            ])->orderBy('code')->get(),
+            'term' => $term,
+            'districts' => District::query()->active()->when($province, fn ($query) => $query->where('province_id', $province->id))->orderBy('name')->get(),
+            'municipalities' => $district
+                ? Municipality::query()->active()->where('district_id', $district->id)->orderBy('name')->get()
+                : collect(),
+            'selectedProvince' => $province,
+            'selectedDistrict' => $district,
+            'selectedMunicipality' => $municipality,
+            'districtMap' => District::query()->active()->withCount([
+                'institutions as colleges_count' => fn ($count) => $count->published()
+                    ->when($collegeType, fn ($inner) => $inner->where('institution_type_id', $collegeType->id)),
+            ])->orderBy('name')->get(),
         ]);
     }
 
@@ -225,8 +317,35 @@ class DirectoryController extends Controller
             'programs.university',
         ]);
 
+        PageView::record($institution->type?->slug ?? '');
+
+        $universityIds = $institution->affiliations->pluck('university_id')->filter()->unique()->values();
+        $similar = collect();
+
+        if ($institution->type?->slug === 'college') {
+            $similar = Institution::query()
+                ->where('status', InstitutionStatus::Published)
+                ->where('institution_type_id', $institution->institution_type_id)
+                ->whereKeyNot($institution->id)
+                ->where(function ($query) use ($institution, $universityIds): void {
+                    $query->where('municipality_id', $institution->municipality_id);
+
+                    if ($universityIds->isNotEmpty()) {
+                        $query->orWhereHas('affiliations', function ($affiliations) use ($universityIds): void {
+                            $affiliations->whereIn('university_id', $universityIds);
+                        });
+                    }
+                })
+                ->with(['municipality', 'district', 'affiliations.university'])
+                ->orderByRaw('case when municipality_id = ? then 0 else 1 end', [$institution->municipality_id])
+                ->orderBy('name')
+                ->limit(6)
+                ->get();
+        }
+
         return view('public.institutions.show', [
             'institution' => $institution,
+            'similarColleges' => $similar,
         ]);
     }
 
@@ -255,6 +374,21 @@ class DirectoryController extends Controller
         return view('public.contact');
     }
 
+    public function storeContact(StoreContactMessageRequest $request): RedirectResponse
+    {
+        ContactMessage::query()->create([
+            'name' => $request->validated('name'),
+            'email' => $request->validated('email'),
+            'subject' => $request->validated('subject'),
+            'institution_name' => $request->validated('institution'),
+            'message' => $request->validated('message'),
+        ]);
+
+        return redirect()
+            ->route('contact')
+            ->with('status', 'Your message was received. We aim to reply within 2–3 working days.');
+    }
+
     public function blog(Request $request): View
     {
         $filePath = base_path('data/blogs.json');
@@ -265,6 +399,7 @@ class DirectoryController extends Controller
         }
 
         $categories = collect($posts)->pluck('category')->unique()->sort()->values();
+        $categoryCounts = collect($posts)->countBy('category');
         $perPage = 9;
         $page = max(1, $request->integer('page', 1));
         $blogs = new Paginator(
@@ -278,6 +413,7 @@ class DirectoryController extends Controller
         return view('public.blog', [
             'blogs' => $blogs,
             'categories' => $categories,
+            'categoryCounts' => $categoryCounts,
         ]);
     }
 }

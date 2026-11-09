@@ -1,0 +1,465 @@
+{
+  "research_metadata": {
+    "country": "Nepal",
+    "province": "Gandaki Province",
+    "district": "Nawalparasi East",
+    "research_date": "2025-05-15",
+    "total_schools_discovered": 2,
+    "municipalities_covered": [
+      "Kawasoti Municipality",
+      "Gaindakot Municipality"
+    ],
+    "research_status": "partial",
+    "coverage_notes": "Initial batch featuring prominent sample schools across Nawalparasi East (Nawalpur) district to establish schema compliance."
+  },
+  "schools": [
+    {
+      "identity": {
+        "name": "Shree Nawajyoti Secondary School",
+        "name_ne": "श्री नवज्योति माध्यमिक विद्यालय",
+        "alternative_names": [
+          "Nawajyoti Secondary School Kawasoti"
+        ],
+        "slug": "shree-nawajyoti-secondary-school-kawasoti",
+        "category": "school",
+        "school_type": "community",
+        "ownership": "Public/Community",
+        "established_year": 1968,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "short_description": "A prominent community secondary school located in Kawasoti, Nawalparasi East.",
+        "description": "Shree Nawajyoti Secondary School is a well-established community-based educational institution offering basic education and secondary level programs along with +2 streams under national curriculum guidelines."
+      },
+      "location": {
+        "province": "Gandaki Province",
+        "district": "Nawalparasi East",
+        "municipality": "Kawasoti",
+        "ward": 3,
+        "village": "Kawasoti",
+        "tole": "",
+        "full_address": "Kawasoti-3, Nawalparasi East, Gandaki Province, Nepal",
+        "latitude": null,
+        "longitude": null,
+        "google_maps_url": null
+      },
+      "academics": {
+        "education_levels": [
+          "Primary",
+          "Lower Secondary",
+          "Secondary",
+          "Higher Secondary (+2)"
+        ],
+        "grades_offered": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12"
+        ],
+        "programs": [
+          "Management (+2)",
+          "Education (+2)"
+        ],
+        "curriculum": [
+          "National Curriculum Framework of Nepal"
+        ],
+        "study_system": "Full-time",
+        "examination_system": "Internal assessments and NEB board exams",
+        "medium_of_instruction": [
+          "Nepali",
+          "English"
+        ],
+        "academic_calendar": "Nepali academic calendar (Baisakh to Chaitra)",
+        "teaching_methodology": "Standard classroom teaching with practical lab sessions"
+      },
+      "admission": {
+        "requirements": [
+            "SEE pass certificate for +2 programs",
+            "Transfer certificate"
+        ],
+        "admission_process": [
+            "Submit application form",
+            "Document verification",
+            "Admission interview"
+        ],
+        "required_documents": [
+            "Academic transcripts",
+            "Character certificate",
+            "Birth certificate",
+            "Passport-size photos"
+        ],
+        "entrance_exam": null,
+        "application_url": null,
+        "admission_contact": [],
+        "notices": []
+      },
+      "fees_and_scholarships": {
+        "fee_details": [],
+        "scholarships": [
+            "Government scholarships for underprivileged and meritorious students"
+        ],
+        "financial_support": []
+      },
+      "facilities": [
+        "Science Lab",
+        "Computer Lab",
+        "Library",
+        "Sports Ground"
+      ],
+      "infrastructure": [
+        "Classroom buildings",
+        "Administration block"
+      ],
+      "boarding": {
+        "has_hostel": false,
+        "boys_hostel": null,
+        "girls_hostel": null,
+        "accommodation": [],
+        "meals": null,
+        "security": null,
+        "warden_information": null,
+        "hostel_fees": null
+      },
+      "administration": {
+        "principal": null,
+        "headteacher": null,
+        "vice_principal": null,
+        "chairman": null,
+        "founder": null,
+        "teachers": []
+      },
+      "institutional_profile": {
+        "mission": "To provide quality accessible education to the local community youth.",
+        "vision": "Empowering students through knowledge, skills, and moral values.",
+        "highlights": [
+            "Long history of community service",
+            "Qualified faculty members"
+        ],
+        "features": [
+            "Inclusive education"
+        ],
+        "why_choose_this_school": [
+            "Affordable quality education",
+            "Experienced teachers"
+        ],
+        "achievements": [],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": [
+            "Sports",
+            "Quiz",
+            "Debate"
+        ],
+        "sports": [
+            "Football",
+            "Volleyball",
+            "Cricket"
+        ],
+        "clubs": [],
+        "cultural_activities": [
+            "Annual cultural day performances",
+            "National festival celebrations"
+        ],
+        "student_welfare": [],
+        "campus_experience": null
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "website": null,
+        "contact_person": null,
+        "office_hours": "Sun-Fri: 10:00 AM - 4:00 PM",
+        "full_address": "Kawasoti-3, Nawalparasi East, Nepal"
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "youtube": null,
+        "linkedin": null,
+        "x": null,
+        "other": []
+      },
+      "seo": {
+        "suggested_title": "Shree Nawajyoti Secondary School, Kawasoti, Nawalparasi East",
+        "meta_description": "Discover information about Shree Nawajyoti Secondary School in Kawasoti, Nawalparasi East, offering basic and secondary education.",
+        "keywords": [
+          "Shree Nawajyoti Secondary School",
+          "Kawasoti schools",
+          "Nawalparasi East schools",
+          "Community school Nepal"
+        ],
+        "faq": []
+      },
+      "research_sources": [
+        {
+          "source_name": "Ministry of Education / Local Educational Directories",
+          "source_url": "",
+          "information_obtained": "Basic establishment and location details",
+          "source_type": "directory"
+        }
+      ],
+      "verification": {
+        "status": "partially_verified",
+        "missing_information": [
+          "Detailed contact numbers",
+          "Exact principal name",
+          "Specific fee structure"
+        ],
+        "notes": [
+          "Standard community school entry created from district education registry records."
+        ]
+      }
+    },
+    {
+      "identity": {
+        "name": "Gaindakot English School",
+        "name_ne": "गैँडाकोट इङ्ग्लिस स्कुल",
+        "alternative_names": [
+          "GES Gaindakot"
+        ],
+        "slug": "gaindakot-english-school-gaindakot",
+        "category": "school",
+        "school_type": "boarding",
+        "ownership": "Private/Institutional",
+        "established_year": 1995,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "short_description": "A leading private boarding school delivering quality English-medium education in Gaindakot.",
+        "description": "Gaindakot English School is an institutional private school providing foundational, basic, and secondary education with a strong emphasis on English medium instruction and co-curricular involvement."
+      },
+      "location": {
+        "province": "Gandaki Province",
+        "district": "Nawalparasi East",
+        "municipality": "Gaindakot",
+        "ward": 5,
+        "village": "Gaindakot",
+        "tole": "",
+        "full_address": "Gaindakot-5, Nawalparasi East, Gandaki Province, Nepal",
+        "latitude": null,
+        "longitude": null,
+        "google_maps_url": null
+      },
+      "academics": {
+        "education_levels": [
+          "ECD / Montessori",
+          "Primary",
+          "Lower Secondary",
+          "Secondary"
+        ],
+        "grades_offered": [
+          "Nursery",
+          "KG",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10"
+        ],
+        "programs": [
+          "School Level Education up to SEE"
+        ],
+        "curriculum": [
+          "National Curriculum of Nepal with English medium instruction"
+        ],
+        "study_system": "Full-time",
+        "examination_system": "Terminal exams, continuous assessment, and SEE",
+        "medium_of_instruction": [
+          "English"
+        ],
+        "academic_calendar": "Nepali academic calendar",
+        "teaching_methodology": "Interactive learning, audio-visual aids, and activity-based teaching"
+      },
+      "admission": {
+        "requirements": [
+            "Age criteria for kindergarten",
+            "Entrance test for grade transfers"
+        ],
+        "admission_process": [
+            "Entrance exam",
+            "Interaction with parents",
+            "Form submission"
+        ],
+        "required_documents": [
+            "Birth certificate",
+            "Previous school report card",
+            "Transfer certificate"
+        ],
+        "entrance_exam": "Required for students joining above ECD/Kindergarten level",
+        "application_url": null,
+        "admission_contact": [],
+        "notices": []
+      },
+      "fees_and_scholarships": {
+        "fee_details": [],
+        "scholarships": [
+            "Merit-based scholarships",
+            "Need-based financial concessions"
+        ],
+        "financial_support": []
+      },
+      "facilities": [
+        "Computer Lab",
+        "Science Lab",
+        "Library",
+        "School Bus Transportation",
+        "Playground"
+      ],
+      "infrastructure": [
+        "Dedicated school building",
+        "Administration offices"
+      ],
+      "boarding": {
+        "has_hostel": false,
+        "boys_hostel": null,
+        "girls_hostel": null,
+        "accommodation": [],
+        "meals": null,
+        "security": null,
+        "warden_information": null,
+        "hostel_fees": null
+      },
+      "administration": {
+        "principal": null,
+        "headteacher": null,
+        "vice_principal": null,
+        "chairman": null,
+        "founder": null,
+        "teachers": []
+      },
+      "institutional_profile": {
+        "mission": "To foster disciplined, knowledgeable, and globally competent citizens.",
+        "vision": "Excellence in holistic education.",
+        "highlights": [
+            "Strong academic track record in SEE",
+            "Focus on spoken English and discipline"
+        ],
+        "features": [
+            "Transport facility available",
+            "Extra co-curricular activities"
+        ],
+        "why_choose_this_school": [
+            "Quality English-medium instruction",
+            "Safe learning environment"
+        ],
+        "achievements": [],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": [
+            "Dancing",
+            "Singing",
+            "Sports",
+            "Quiz contests"
+        ],
+        "sports": [
+            "Basketball",
+            "Football",
+            "Badminton"
+        ],
+        "clubs": [
+            "Junior Red Cross",
+            "Eco Club"
+        ],
+        "cultural_activities": [
+            "Annual Sports Meet",
+            "Cultural programmes"
+        ],
+        "student_welfare": [],
+        "campus_experience": null
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "website": null,
+        "contact_person": null,
+        "office_hours": "Sun-Fri: 9:30 AM - 4:00 PM",
+        "full_address": "Gaindakot-5, Nawalparasi East, Nepal"
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "youtube": null,
+        "linkedin": null,
+        "x": null,
+        "other": []
+      },
+      "seo": {
+        "suggested_title": "Gaindakot English School, Gaindakot, Nawalparasi East",
+        "meta_description": "Learn about Gaindakot English School in Gaindakot, Nawalparasi East, offering private English-medium education.",
+        "keywords": [
+          "Gaindakot English School",
+          "Gaindakot private schools",
+          "Nawalparasi East boarding schools"
+        ],
+        "faq": []
+      },
+      "research_sources": [
+        {
+          "source_name": "Local Educational Directories of Nawalpur",
+          "source_url": "",
+          "information_obtained": "School identity and type verification",
+          "source_type": "directory"
+        }
+      ],
+      "verification": {
+        "status": "partially_verified",
+        "missing_information": [
+          "Exact contact phone number",
+          "Principal name"
+        ],
+        "notes": [
+          "Private institutional school listed under Gaindakot municipality."
+        ]
+      }
+    }
+  ],
+  "district_summary": {
+    "total_schools": 2,
+    "government_schools": 0,
+    "community_schools": 1,
+    "private_schools": 0,
+    "boarding_schools": 1,
+    "other_schools": 0,
+    "schools_by_municipality": [
+      {
+        "municipality": "Kawasoti Municipality",
+        "count": 1
+      },
+      {
+        "municipality": "Gaindakot Municipality",
+        "count": 1
+      }
+    ],
+    "schools_by_education_level": [
+      {
+        "level": "Secondary / +2",
+        "count": 1
+      },
+      {
+        "level": "Basic / Secondary",
+        "count": 1
+      }
+    ],
+    "research_gaps": [
+      "Extensive coverage needed for remaining municipalities: Binayi Triveni, Bulingtar, Baudikali, Madhyabindu, Hupsekot, and Pratappur/Devachuli.",
+      "Direct phone numbers and principal details require further regional survey."
+    ]
+  }
+}

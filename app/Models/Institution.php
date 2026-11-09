@@ -25,6 +25,7 @@ use Illuminate\Database\Eloquent\SoftDeletes;
     'short_name',
     'slug',
     'description',
+    'website_sections',
     'description_ne',
     'registration_number',
     'registration_authority',
@@ -65,6 +66,7 @@ class Institution extends Model
             'published_at' => 'datetime',
             'latitude' => 'decimal:7',
             'longitude' => 'decimal:7',
+            'website_sections' => 'array',
         ];
     }
 

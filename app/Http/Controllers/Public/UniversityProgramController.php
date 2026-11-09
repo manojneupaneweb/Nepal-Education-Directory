@@ -23,7 +23,6 @@ class UniversityProgramController extends Controller
         }
 
         $programs = Program::query()
-            ->whereNotNull('university_id')
             ->with(['university.province', 'educationLevel', 'faculty', 'institutions'])
             ->when($request->string('q')->toString(), function ($query, string $term) {
                 $query->where(function ($inner) use ($term) {
@@ -37,8 +36,21 @@ class UniversityProgramController extends Controller
                 $query->whereHas('university', fn ($university) => $university->where('province_id', $id));
             })
             ->when($request->integer('level'), fn ($query, int $id) => $query->where('education_level_id', $id))
-            ->when($facultyId, fn ($query) => $query->where('university_faculty_id', $facultyId))
-            ->orderBy('name')
+            ->when($facultyId, fn ($query) => $query->where('university_faculty_id', $facultyId));
+
+        $sort = (string) $request->string('sort');
+        if ($sort === 'za') {
+            $programs->orderByDesc('name');
+        } elseif ($sort === 'university') {
+            $programs->orderBy(
+                University::query()->select('name')->whereColumn('universities.id', 'programs.university_id')
+            )->orderBy('name');
+        } else {
+            $sort = 'az';
+            $programs->orderBy('name');
+        }
+
+        $programs = $programs
             ->paginate(20)
             ->withQueryString();
 
@@ -50,12 +62,13 @@ class UniversityProgramController extends Controller
 
         return view('public.university-programs.index', [
             'programs' => $programs,
-            'universities' => University::query()->orderBy('name')->get(),
+            'universities' => University::query()->withCount('programs')->orderBy('name')->get(),
             'provinces' => Province::query()->active()->orderBy('name')->get(),
             'levels' => EducationLevel::query()->orderBy('sort_order')->get(),
             'faculties' => $faculties,
             'selectedUniversity' => $universityId,
             'selectedFaculty' => $facultyId,
+            'sort' => $sort,
         ]);
     }
 

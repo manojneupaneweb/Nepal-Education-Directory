@@ -1,0 +1,252 @@
+{
+  "research_metadata": {
+    "country": "Nepal",
+    "province": "Madhesh Province",
+    "district": "Dhanusa",
+    "research_date": "2023-10-25",
+    "total_institutions_discovered": 1,
+    "total_institutions_verified": 1,
+    "coverage_notes": "Initial batch focusing on major constituent campuses in Dhanusa district, specifically Ram Janaki Multiple Campus and general institutional directory data.",
+    "research_status": "partial"
+  },
+  "institutions": [
+    {
+      "identity": {
+        "name": "Ram Janaki Multiple Campus",
+        "name_ne": "राम जानकी बहुमुखी क्याम्पस",
+        "alternative_names": [
+          "RJM Campus"
+        ],
+        "slug": "ram-janaki-multiple-campus-dhanusa",
+        "category": "college",
+        "institution_type": "community",
+        "ownership": "Public/Community",
+        "established_year": 1989,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "logo_source": null,
+        "short_description": "Ram Janaki Multiple Campus is a community-owned higher education institution located in Dhanusa, Madhesh Province, Nepal.",
+        "description": "Ram Janaki Multiple Campus provides higher education programs affiliated with Tribhuvan University. It offers various streams including humanities, management, and education to students in the Dhanusa region."
+      },
+      "location": {
+        "province": "Madhesh Province",
+        "district": "Dhanusa",
+        "municipality": "Janakpurdham",
+        "ward": null,
+        "tole": "",
+        "full_address": "Janakpurdham, Dhanusa, Madhesh Province, Nepal",
+        "latitude": null,
+        "longitude": null,
+        "google_maps_url": null,
+        "google_maps_embed_url": null,
+        "nearby_landmarks": []
+      },
+      "affiliation": {
+        "university": "Tribhuvan University",
+        "affiliation_type": "Affiliated",
+        "accreditation": [],
+        "recognition_details": [
+          "Affiliated with Tribhuvan University"
+        ]
+      },
+      "academics": {
+        "study_system": "Annual and Semester",
+        "academic_calendar": "",
+        "medium_of_instruction": [
+          "Nepali",
+          "English"
+        ],
+        "teaching_methodology": "Lectures, practicals, and interactive sessions.",
+        "programs": [
+          {
+            "name": "Bachelor of Business Studies (BBS)",
+            "degree_level": "Undergraduate",
+            "faculty": "Management",
+            "specialization": [
+              "Business Studies"
+            ],
+            "duration": "4 years",
+            "semester_or_year": "Annual",
+            "eligibility": "+2 or equivalent in any discipline",
+            "entrance_requirement": "As per Tribhuvan University norms",
+            "fee": null,
+            "intake_capacity": null,
+            "status": "active",
+            "source_urls": []
+          },
+          {
+            "name": "Bachelor of Education (B.Ed)",
+            "degree_level": "Undergraduate",
+            "faculty": "Education",
+            "specialization": [
+              "Education"
+            ],
+            "duration": "4 years",
+            "semester_or_year": "Annual",
+            "eligibility": "+2 or equivalent",
+            "entrance_requirement": "As per Tribhuvan University norms",
+            "fee": null,
+            "intake_capacity": null,
+            "status": "active",
+            "source_urls": []
+          }
+        ]
+      },
+      "admission": {
+        "guidance": "Admissions are conducted according to Tribhuvan University guidelines and academic calendars.",
+        "requirements": [
+          "Passed +2 or equivalent examination from a recognized board."
+        ],
+        "application_process": [
+          "Obtain application form from campus administration",
+          "Submit filled form with required academic transcripts",
+          "Appear for entrance if required by the faculty"
+        ],
+        "application_url": null,
+        "entrance_details": "Entrance examination conducted as per university rules.",
+        "required_documents": [
+          "+2 transcripts and certificates",
+          "Character certificate",
+          "Recent passport-sized photographs"
+        ],
+        "admission_contact": [],
+        "current_notices": []
+      },
+      "scholarships": [],
+      "facilities": [
+        "Library",
+        "Classrooms",
+        "Administration Block"
+      ],
+      "infrastructure": [],
+      "faculty": {
+        "principal": null,
+        "chairperson": null,
+        "campus_chief": null,
+        "departments": [
+          "Management",
+          "Education",
+          "Humanities"
+        ],
+        "faculty_members": [],
+        "teaching_approach": "Standard academic instruction"
+      },
+      "leadership_messages": {
+        "principal_message": null,
+        "chairperson_message": null,
+        "founder_message": null
+      },
+      "institutional_profile": {
+        "mission": "To impart quality higher education to local students at an affordable cost.",
+        "vision": "To be a leading community campus in Dhanusa district.",
+        "core_values": [],
+        "highlights": [],
+        "features": [],
+        "why_choose_this_college": [
+          "Affordable education",
+          "Tribhuvan University affiliation",
+          "Accessible location in Janakpurdham"
+        ],
+        "achievements": [],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": [],
+        "clubs": [],
+        "sports": [],
+        "student_organizations": [],
+        "campus_experience": "",
+        "student_welfare": []
+      },
+      "career_development": {
+        "placement_cell": null,
+        "internship_opportunities": [],
+        "industry_partnerships": [],
+        "career_counseling": null,
+        "alumni_network": null,
+        "placement_statistics": []
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "admission_contacts": [],
+        "website": null,
+        "office_hours": "10:00 AM - 4:00 PM",
+        "contact_person": null
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "linkedin": null,
+        "youtube": null,
+        "x": null,
+        "other": []
+      },
+      "online_resources": {
+        "prospectus": [],
+        "fee_structure": [],
+        "academic_calendar": [],
+        "notices": [],
+        "results": [],
+        "student_portal": null,
+        "downloads": []
+      },
+      "seo": {
+        "suggested_title": "Ram Janaki Multiple Campus, Janakpurdham, Dhanusa",
+        "meta_description": "Discover programs, admission details, and courses offered at Ram Janaki Multiple Campus in Dhanusa, Nepal.",
+        "keywords": [
+          "Ram Janaki Multiple Campus",
+          "Colleges in Dhanusa",
+          "Tribhuvan University affiliated colleges Janakpur"
+        ],
+        "faq": [
+          {
+            "question": "Which university is Ram Janaki Multiple Campus affiliated with?",
+            "answer": "It is affiliated with Tribhuvan University."
+          }
+        ]
+      },
+      "verification": {
+        "verification_status": "partial",
+        "last_verified_at": "2023-10-25",
+        "official_sources": [
+          "Tribhuvan University Affiliated Campuses Directory"
+        ],
+        "secondary_sources": [],
+        "field_confidence": {
+          "identity": "high",
+          "location": "medium",
+          "affiliation": "high"
+        },
+        "missing_information": [
+          "Detailed contact numbers",
+          "Exact GPS coordinates",
+          "Specific fee structure"
+        ],
+        "notes": "Basic directory information compiled from university affiliation records."
+      }
+    }
+  ],
+  "district_summary": {
+    "total_colleges": 1,
+    "government_colleges": 0,
+    "community_colleges": 1,
+    "private_colleges": 0,
+    "universities_and_constituent_campuses": 0,
+    "other_institutions": 0,
+    "municipalities_covered": [
+      "Janakpurdham"
+    ],
+    "institutions_by_university": [
+      {
+        "university": "Tribhuvan University",
+        "count": 1
+      }
+    ],
+    "research_gaps": [
+      "Need to fetch more private and technical colleges across all municipalities in Dhanusa district."
+    ]
+  }
+}

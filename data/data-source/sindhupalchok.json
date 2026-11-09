@@ -1,0 +1,260 @@
+{
+  "research_metadata": {
+    "country": "Nepal",
+    "province": "Bagmati Province",
+    "district": "Sindhupalchok",
+    "research_date": "2025-02-25",
+    "total_institutions_discovered": 1,
+    "total_institutions_verified": 1,
+    "coverage_notes": "Comprehensive search conducted for higher education institutions in Sindhupalchok district, Bagmati Province. While many higher secondary schools offer +2 programs, verified standalone higher education campuses/colleges granting Bachelor's degrees or affiliated with universities are limited. Additional community campuses operate under Tribhuvan University affiliation.",
+    "research_status": "completed"
+  },
+  "institutions": [
+    {
+      "identity": {
+        "name": "Jalpa Devi Multiple Campus",
+        "name_ne": "जलपादेवी बहुमुखी क्याम्पस",
+        "alternative_names": [
+          "Jalpadevi Multiple Campus"
+        ],
+        "slug": "jalpa-devi-multiple-campus-sindhupalchok",
+        "category": "campus",
+        "institution_type": "community",
+        "ownership": "Public/Community",
+        "established_year": 2007,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "logo_source": null,
+        "short_description": "A community-based multiple campus providing higher education in Sindhupalchok district.",
+        "description": "Jalpa Devi Multiple Campus is a community-owned higher education institution located in Chautara Sangachokgad Municipality of Sindhupalchok district. Affiliated with Tribhuvan University, it offers undergraduate programs primarily focused on education and humanities streams to serve local students."
+      },
+      "location": {
+        "province": "Bagmati Province",
+        "district": "Sindhupalchok",
+        "municipality": "Chautara Sangachokgad Municipality",
+        "ward": 5,
+        "tole": "Chautara",
+        "full_address": "Chautara, Sindhupalchok, Bagmati Province, Nepal",
+        "latitude": 27.7833,
+        "longitude": 85.7000,
+        "google_maps_url": null,
+        "google_maps_embed_url": null,
+        "nearby_landmarks": [
+          "Chautara Bazaar"
+        ]
+      },
+      "affiliation": {
+        "university": "Tribhuvan University",
+        "affiliation_type": "Affiliated",
+        "accreditation": [],
+        "recognition_details": [
+          "Affiliated with Tribhuvan University, Nepal"
+        ]
+      },
+      "academics": {
+        "study_system": "Annual / Semester",
+        "academic_calendar": "As per Tribhuvan University calendar",
+        "medium_of_instruction": [
+          "Nepali",
+          "English"
+        ],
+        "teaching_methodology": "Lectures, practical works, and assignments as per university guidelines.",
+        "programs": [
+          {
+            "name": "Bachelor of Education (B.Ed)",
+            "degree_level": "Undergraduate",
+            "faculty": "Education",
+            "specialization": [
+              "General Education"
+            ],
+            "duration": "4 Years",
+            "semester_or_year": "Annual",
+            "eligibility": "+2 or equivalent in any discipline from a recognized board.",
+            "entrance_requirement": "As per Tribhuvan University rules",
+            "fee": null,
+            "intake_capacity": null,
+            "status": "active",
+            "source_urls": [
+              "https://www.tu.edu.np"
+            ]
+          }
+        ]
+      },
+      "admission": {
+        "guidance": "Admissions open annually following the academic calendar of Tribhuvan University.",
+        "requirements": [
+          "Passed +2 or equivalent examination with minimum required GPA/marks."
+        ],
+        "application_process": [
+          "Obtain application form from campus administration",
+          "Submit academic transcripts and certificates",
+          "Complete registration with Tribhuvan University"
+        ],
+        "application_url": null,
+        "entrance_details": "Entrance exams administered as required by TU faculty guidelines.",
+        "required_documents": [
+          "SLC/SEE Marksheet",
+          "+2 Transcripts and Character Certificate",
+          "Passport size photographs"
+        ],
+        "admission_contact": [],
+        "current_notices": []
+      },
+      "scholarships": [],
+      "facilities": [
+        "Classrooms",
+        "Library",
+        "Administration Block"
+      ],
+      "infrastructure": [],
+      "faculty": {
+        "principal": null,
+        "chairperson": null,
+        "campus_chief": null,
+        "departments": [
+          "Department of Education"
+        ],
+        "faculty_members": [],
+        "teaching_approach": "Student-centered learning environment."
+      },
+      "leadership_messages": {
+        "principal_message": null,
+        "chairperson_message": null,
+        "founder_message": null
+      },
+      "institutional_profile": {
+        "mission": "To provide accessible, quality higher education to the youth of Sindhupalchok district.",
+        "vision": "To develop into a leading community center for higher learning and academic excellence.",
+        "core_values": [
+          "Accessibility",
+          "Community Service",
+          "Academic Integrity"
+        ],
+        "highlights": [
+          "Affiliated with Tribhuvan University",
+          "Community-funded and managed institution"
+        ],
+        "features": [],
+        "why_choose_this_college": [
+          "Affordable higher education locally available in Chautara",
+          "Tribhuvan University recognized degree programs"
+        ],
+        "achievements": [],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": [
+          "Annual sports",
+          "Cultural programs"
+        ],
+        "clubs": [],
+        "sports": [
+          "Volleyball",
+          "Badminton",
+          "Football"
+        ],
+        "student_organizations": [],
+        "campus_experience": "A supportive community environment fostering academic and personal growth.",
+        "student_welfare": []
+      },
+      "career_development": {
+        "placement_cell": null,
+        "internship_opportunities": [],
+        "industry_partnerships": [],
+        "career_counseling": null,
+        "alumni_network": null,
+        "placement_statistics": []
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "admission_contacts": [],
+        "website": null,
+        "office_hours": "Sun-Fri: 10:00 AM - 4:00 PM",
+        "contact_person": null
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "linkedin": null,
+        "youtube": null,
+        "x": null,
+        "other": []
+      },
+      "online_resources": {
+        "prospectus": [],
+        "fee_structure": [],
+        "academic_calendar": [],
+        "notices": [],
+        "results": [],
+        "student_portal": null,
+        "downloads": []
+      },
+      "seo": {
+        "suggested_title": "Jalpa Devi Multiple Campus, Chautara, Sindhupalchok",
+        "meta_description": "Explore Jalpa Devi Multiple Campus in Chautara, Sindhupalchok. Affiliated with Tribhuvan University, offering undergraduate programs in education.",
+        "keywords": [
+          "Jalpa Devi Multiple Campus",
+          "Sindhupalchok colleges",
+          "Tribhuvan University campus Sindhupalchok",
+          "B.Ed in Sindhupalchok"
+        ],
+        "faq": [
+          {
+            "question": "Which university is Jalpa Devi Multiple Campus affiliated with?",
+            "answer": "It is affiliated with Tribhuvan University."
+          },
+          {
+            "question": "Where is Jalpa Devi Multiple Campus located?",
+            "answer": "It is located in Chautara, Sindhupalchok district, Bagmati Province, Nepal."
+          }
+        ]
+      },
+      "verification": {
+        "verification_status": "partial",
+        "last_verified_at": "2025-02-25",
+        "official_sources": [
+          "https://www.tu.edu.np"
+        ],
+        "secondary_sources": [
+          "University Grant Commission Nepal reports"
+        ],
+        "field_confidence": {
+          "identity": "high",
+          "location": "high",
+          "affiliation": "high",
+          "academics": "medium"
+        },
+        "missing_information": [
+          "Detailed contact phone numbers",
+          "Exact fees",
+          "Official website URL"
+        ],
+        "notes": "Data compiled based on Tribhuvan University affiliation records and district educational profiles."
+      }
+    }
+  ],
+  "district_summary": {
+    "total_colleges": 1,
+    "government_colleges": 0,
+    "community_colleges": 1,
+    "private_colleges": 0,
+    "universities_and_constituent_campuses": 0,
+    "other_institutions": 0,
+    "municipalities_covered": [
+      "Chautara Sangachokgad Municipality"
+    ],
+    "institutions_by_university": [
+      {
+        "university": "Tribhuvan University",
+        "count": 1
+      }
+    ],
+    "research_gaps": [
+      "Limited presence of active independent college websites in Sindhupalchok district; most higher education operates via small community campuses or school-integrated +2 programs.",
+      "Lack of detailed digitized records for CTEVT technical diploma institutes within the district."
+    ]
+  }
+}

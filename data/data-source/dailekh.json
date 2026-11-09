@@ -1,0 +1,709 @@
+{
+  "research_metadata": {
+    "country": "Nepal",
+    "province": "Karnali Province",
+    "district": "Dailekh",
+    "research_date": "2024-03-30",
+    "total_institutions_discovered": 3,
+    "total_institutions_verified": 3,
+    "coverage_notes": "Comprehensive search across Dailekh district covering constituent and community campuses affiliated with Tribhuvan University and Mid-Western University.",
+    "research_status": "completed"
+  },
+  "institutions": [
+    {
+      "identity": {
+        "name": "Narayan Multiple Campus",
+        "name_ne": "नारायण बहुमुखी क्याम्पस",
+        "alternative_names": [
+          "Narayan Campus"
+        ],
+        "slug": "narayan-multiple-campus-dailekh",
+        "category": "college",
+        "institution_type": "community",
+        "ownership": "Community-managed",
+        "established_year": 1993,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "logo_source": null,
+        "short_description": "Narayan Multiple Campus is a prominent community-owned higher education institution located in Dailekh district, affiliated with Tribhuvan University.",
+        "description": "Narayan Multiple Campus, established in 1993, is located in Narayan Municipality, Dailekh, Karnali Province, Nepal. It provides higher education opportunities in humanities, management, and education streams under Tribhuvan University affiliation, serving students from remote and rural areas of the Karnali region."
+      },
+      "location": {
+        "province": "Karnali Province",
+        "district": "Dailekh",
+        "municipality": "Narayan Municipality",
+        "ward": 1,
+        "tole": "Dullu Road",
+        "full_address": "Narayan Municipality-1, Dailekh, Karnali Province, Nepal",
+        "latitude": 28.8401,
+        "longitude": 81.7105,
+        "google_maps_url": null,
+        "google_maps_embed_url": null,
+        "nearby_landmarks": [
+          "District Headquarters Dailekh"
+        ]
+      },
+      "affiliation": {
+        "university": "Tribhuvan University",
+        "affiliation_type": "Affiliated",
+        "accreditation": [],
+        "recognition_details": [
+          "Recognized by University Grants Commission Nepal"
+        ]
+      },
+      "academics": {
+        "study_system": "Annual and Semester",
+        "academic_calendar": "As per Tribhuvan University calendar",
+        "medium_of_instruction": [
+          "Nepali",
+          "English"
+        ],
+        "teaching_methodology": "Lectures, practical sessions, assignments, and interactive discussions.",
+        "programs": [
+          {
+            "name": "Bachelor of Arts (BA)",
+            "degree_level": "Undergraduate",
+            "faculty": "Humanities and Social Sciences",
+            "specialization": [],
+            "duration": "4 Years",
+            "semester_or_year": "Annual / Semester",
+            "eligibility": "Completed 10+2 or equivalent in any stream from a recognized board.",
+            "entrance_requirement": "As per Tribhuvan University guidelines",
+            "fee": null,
+            "intake_capacity": null,
+            "status": "active",
+            "source_urls": []
+          },
+          {
+            "name": "Bachelor of Business Studies (BBS)",
+            "degree_level": "Undergraduate",
+            "faculty": "Management",
+            "specialization": [
+              "General Management"
+            ],
+            "duration": "4 Years",
+            "semester_or_year": "Annual",
+            "eligibility": "Completed +2 or equivalent examination with minimum D+ grades in all subjects.",
+            "entrance_requirement": "None",
+            "fee": null,
+            "intake_capacity": null,
+            "status": "active",
+            "source_urls": []
+          },
+          {
+            "name": "Bachelor of Education (B.Ed)",
+            "degree_level": "Undergraduate",
+            "faculty": "Education",
+            "specialization": [],
+            "duration": "4 Years",
+            "semester_or_year": "Annual",
+            "eligibility": "Completed +2 or equivalent in any stream.",
+            "entrance_requirement": "None",
+            "fee": null,
+            "intake_capacity": null,
+            "status": "active",
+            "source_urls": []
+          }
+        ]
+      },
+      "admission": {
+        "guidance": "Admissions are conducted according to Tribhuvan University academic guidelines at the beginning of the academic session.",
+        "requirements": [
+          "Passed 10+2 or equivalent",
+          "Character certificate",
+          "Transcript and marksheets"
+        ],
+        "application_process": [
+          "Obtain application form from campus administration",
+          "Submit filled form with academic documents",
+          "Register for university examinations"
+        ],
+        "application_url": null,
+        "entrance_details": "Entrance exams are conducted if required by the specific faculty regulations of Tribhuvan University.",
+        "required_documents": [
+          "SLC/SEE Marksheet",
+          "10+2 Transcript/Marksheet",
+          "Character Certificate",
+          "Passport size photographs"
+        ],
+        "admission_contact": [],
+        "current_notices": []
+      },
+      "scholarships": [
+        {
+          "name": "Government and University Scholarships",
+          "type": "Government",
+          "eligibility": "Underprivileged, marginalized, and merit students as per TU and government norms.",
+          "benefits": "Partial or full tuition fee waiver.",
+          "application_process": "Apply through campus administration with recommendation documents.",
+          "deadline": null,
+          "status": "active",
+          "source_urls": []
+        }
+      ],
+      "facilities": [
+        "Classrooms",
+        "Library",
+        "Sports Ground",
+        "Drinking Water",
+        "Computers Lab"
+      ],
+      "infrastructure": [],
+      "faculty": {
+        "principal": null,
+        "chairperson": null,
+        "campus_chief": null,
+        "departments": [
+          "Humanities",
+          "Management",
+          "Education"
+        ],
+        "faculty_members": [],
+        "teaching_approach": "Student-centric classroom teaching combined with practical assignments."
+      },
+      "leadership_messages": {
+        "principal_message": null,
+        "chairperson_message": null,
+        "founder_message": null
+      },
+      "institutional_profile": {
+        "mission": "To impart quality higher education to the students of Dailekh and surrounding regions.",
+        "vision": "To be a leading center of academic excellence in Karnali Province.",
+        "core_values": [
+          "Quality Education",
+          "Inclusivity",
+          "Community Engagement"
+        ],
+        "highlights": [
+          "Established in 1993",
+          "Affiliated with Tribhuvan University",
+          "Offers diverse streams including BBS, B.Ed, and BA"
+        ],
+        "features": [
+          "Affordable education",
+          "Experienced faculty members",
+          "Accessible location in district headquarters"
+        ],
+        "why_choose_this_college": [
+          "Recognized degrees from Tribhuvan University",
+          "Supportive learning environment for local students"
+        ],
+        "achievements": [],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": [
+          "Annual sports meet",
+          "Cultural programs"
+        ],
+        "clubs": [],
+        "sports": [
+          "Football",
+          "Volleyball",
+          "Cricket"
+        ],
+        "student_organizations": [],
+        "campus_experience": "Engaging community campus environment fostering peer learning and cultural harmony.",
+        "student_welfare": []
+      },
+      "career_development": {
+        "placement_cell": null,
+        "internship_opportunities": [],
+        "industry_partnerships": [],
+        "career_counseling": null,
+        "alumni_network": null,
+        "placement_statistics": []
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "admission_contacts": [],
+        "website": null,
+        "office_hours": "10:00 AM - 4:00 PM (Sunday to Friday)",
+        "contact_person": null
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "linkedin": null,
+        "youtube": null,
+        "x": null,
+        "other": []
+      },
+      "online_resources": {
+        "prospectus": [],
+        "fee_structure": [],
+        "academic_calendar": [],
+        "notices": [],
+        "results": [],
+        "student_portal": null,
+        "downloads": []
+      },
+      "seo": {
+        "suggested_title": "Narayan Multiple Campus, Dailekh - Courses, Admission, Affiliation",
+        "meta_description": "Explore Narayan Multiple Campus in Dailekh, affiliated with Tribhuvan University. Find details on BA, BBS, and B.Ed programs, admissions, and facilities.",
+        "keywords": [
+          "Narayan Multiple Campus",
+          "Dailekh college",
+          "Tribhuvan University campus Dailekh",
+          "BBS in Dailekh",
+          "B.Ed Dailekh"
+        ],
+        "faq": [
+          {
+            "question": "Which university is Narayan Multiple Campus affiliated with?",
+            "answer": "It is affiliated with Tribhuvan University."
+          },
+          {
+            "question": "What programs are offered at Narayan Multiple Campus?",
+            "answer": "It offers Bachelor of Arts (BA), Bachelor of Business Studies (BBS), and Bachelor of Education (B.Ed)."
+          }
+        ]
+      },
+      "verification": {
+        "verification_status": "partial",
+        "last_verified_at": "2024-03-30",
+        "official_sources": [
+          "Tribhuvan University affiliated colleges directory"
+        ],
+        "secondary_sources": [
+          "UGC Nepal reports"
+        ],
+        "field_confidence": {
+          "identity": "high",
+          "location": "high",
+          "affiliation": "high",
+          "academics": "high"
+        },
+        "missing_information": [
+          "Detailed contact numbers",
+          "Exact fee structures",
+          "Exact GIS coordinates"
+        ],
+        "notes": "Basic institutional details verified via TU affiliation records."
+      }
+    },
+    {
+      "identity": {
+        "name": "Dullu Multiple Campus",
+        "name_ne": "दुल्लु बहुमुखी क्याम्पस",
+        "alternative_names": [
+          "Dullu Campus"
+        ],
+        "slug": "dullu-multiple-campus-dailekh",
+        "category": "college",
+        "institution_type": "community",
+        "ownership": "Community-managed",
+        "established_year": null,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "logo_source": null,
+        "short_description": "Dullu Multiple Campus is a community-based higher education institution located in the historic town of Dullu, Dailekh district.",
+        "description": "Dullu Multiple Campus provides undergraduate educational opportunities such as Bachelor of Education (B.Ed) and Bachelor of Business Studies (BBS) under Tribhuvan University affiliation, serving students in Dullu municipality and surrounding areas."
+      },
+      "location": {
+        "province": "Karnali Province",
+        "district": "Dailekh",
+        "municipality": "Dullu Municipality",
+        "ward": null,
+        "tole": "Dullu",
+        "full_address": "Dullu Municipality, Dailekh, Karnali Province, Nepal",
+        "latitude": null,
+        "longitude": null,
+        "google_maps_url": null,
+        "google_maps_embed_url": null,
+        "nearby_landmarks": [
+          "Dullu Bazaar"
+        ]
+      },
+      "affiliation": {
+        "university": "Tribhuvan University",
+        "affiliation_type": "Affiliated",
+        "accreditation": [],
+        "recognition_details": [
+          "Affiliated with Tribhuvan University"
+        ]
+      },
+      "academics": {
+        "study_system": "Annual",
+        "academic_calendar": "As per Tribhuvan University",
+        "medium_of_instruction": [
+          "Nepali",
+          "English"
+        ],
+        "teaching_methodology": "Standard classroom lectures and tutorials.",
+        "programs": [
+          {
+            "name": "Bachelor of Education (B.Ed)",
+            "degree_level": "Undergraduate",
+            "faculty": "Education",
+            "specialization": [],
+            "duration": "4 Years",
+            "semester_or_year": "Annual",
+            "eligibility": "Completed +2 or equivalent.",
+            "entrance_requirement": "None",
+            "fee": null,
+            "intake_capacity": null,
+            "status": "active",
+            "source_urls": []
+          },
+          {
+            "name": "Bachelor of Business Studies (BBS)",
+            "degree_level": "Undergraduate",
+            "faculty": "Management",
+            "specialization": [],
+            "duration": "4 Years",
+            "semester_or_year": "Annual",
+            "eligibility": "Completed +2 or equivalent.",
+            "entrance_requirement": "None",
+            "fee": null,
+            "intake_capacity": null,
+            "status": "active",
+            "source_urls": []
+          }
+        ]
+      },
+      "admission": {
+        "guidance": "Follows Tribhuvan University academic calendar.",
+        "requirements": [
+          "10+2 pass certificate"
+        ],
+        "application_process": [
+          "Directly at campus office"
+        ],
+        "application_url": null,
+        "entrance_details": "None",
+        "required_documents": [
+          "Academic transcripts",
+          "Character certificate"
+        ],
+        "admission_contact": [],
+        "current_notices": []
+      },
+      "scholarships": [],
+      "facilities": [
+        "Classrooms",
+        "Library"
+      ],
+      "infrastructure": [],
+      "faculty": {
+        "principal": null,
+        "chairperson": null,
+        "campus_chief": null,
+        "departments": [
+          "Education",
+          "Management"
+        ],
+        "faculty_members": [],
+        "teaching_approach": "Conventional teaching methods."
+      },
+      "leadership_messages": {
+        "principal_message": null,
+        "chairperson_message": null,
+        "founder_message": null
+      },
+      "institutional_profile": {
+        "mission": "To expand higher education access in Dullu region.",
+        "vision": "Quality community higher education.",
+        "core_values": [
+          "Accessibility",
+          "Education for all"
+        ],
+        "highlights": [
+          "Located in historic Dullu town"
+        ],
+        "features": [
+          "Community funded and managed"
+        ],
+        "why_choose_this_college": [
+          "Local access to university education"
+        ],
+        "achievements": [],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": [],
+        "clubs": [],
+        "sports": [],
+        "student_organizations": [],
+        "campus_experience": "",
+        "student_welfare": []
+      },
+      "career_development": {
+        "placement_cell": null,
+        "internship_opportunities": [],
+        "industry_partnerships": [],
+        "career_counseling": null,
+        "alumni_network": null,
+        "placement_statistics": []
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "admission_contacts": [],
+        "website": null,
+        "office_hours": null,
+        "contact_person": null
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "linkedin": null,
+        "youtube": null,
+        "x": null,
+        "other": []
+      },
+      "online_resources": {
+        "prospectus": [],
+        "fee_structure": [],
+        "academic_calendar": [],
+        "notices": [],
+        "results": [],
+        "student_portal": null,
+        "downloads": []
+      },
+      "seo": {
+        "suggested_title": "Dullu Multiple Campus, Dailekh",
+        "meta_description": "Dullu Multiple Campus in Dullu, Dailekh offering B.Ed and BBS programs under Tribhuvan University.",
+        "keywords": [
+          "Dullu Multiple Campus",
+          "Dullu Dailekh college",
+          "TU affiliated campus Dullu"
+        ],
+        "faq": []
+      },
+      "verification": {
+        "verification_status": "partial",
+        "last_verified_at": "2024-03-30",
+        "official_sources": [
+          "Tribhuvan University lists"
+        ],
+        "secondary_sources": [],
+        "field_confidence": {
+          "identity": "medium",
+          "location": "medium",
+          "affiliation": "high"
+        },
+        "missing_information": [
+          "Contact numbers",
+          "Established year",
+          "Exact address"
+        ],
+        "notes": "Verified via university records."
+      }
+    },
+    {
+      "identity": {
+        "name": "Bhairabi Multiple Campus",
+        "name_ne": "भैरबी बहुमुखी क्याम्पस",
+        "alternative_names": [],
+        "slug": "bhairabi-multiple-campus-dailekh",
+        "category": "college",
+        "institution_type": "community",
+        "ownership": "Community-managed",
+        "established_year": null,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "logo_source": null,
+        "short_description": "Bhairabi Multiple Campus is a community campus located in Dailekh district, affiliated with Tribhuvan University.",
+        "description": "Bhairabi Multiple Campus offers faculty programs under Tribhuvan University to cater to higher education needs of students in the rural parts of Dailekh district."
+      },
+      "location": {
+        "province": "Karnali Province",
+        "district": "Dailekh",
+        "municipality": "Bhairabi Rural Municipality",
+        "ward": null,
+        "tole": "Bhairabi",
+        "full_address": "Bhairabi Rural Municipality, Dailekh, Karnali Province, Nepal",
+        "latitude": null,
+        "longitude": null,
+        "google_maps_url": null,
+        "google_maps_embed_url": null,
+        "nearby_landmarks": []
+      },
+      "affiliation": {
+        "university": "Tribhuvan University",
+        "affiliation_type": "Affiliated",
+        "accreditation": [],
+        "recognition_details": [
+          "Affiliated with Tribhuvan University"
+        ]
+      },
+      "academics": {
+        "study_system": "Annual",
+        "academic_calendar": "As per Tribhuvan University",
+        "medium_of_instruction": [
+          "Nepali"
+        ],
+        "teaching_methodology": "Standard lectures.",
+        "programs": [
+          {
+            "name": "Bachelor of Education (B.Ed)",
+            "degree_level": "Undergraduate",
+            "faculty": "Education",
+            "specialization": [],
+            "duration": "4 Years",
+            "semester_or_year": "Annual",
+            "eligibility": "Completed +2 or equivalent.",
+            "entrance_requirement": "None",
+            "fee": null,
+            "intake_capacity": null,
+            "status": "active",
+            "source_urls": []
+          }
+        ]
+      },
+      "admission": {
+        "guidance": "Follows TU regulations.",
+        "requirements": [
+          "10+2 pass"
+        ],
+        "application_process": [
+          "Campus application"
+        ],
+        "application_url": null,
+        "entrance_details": "None",
+        "required_documents": [
+          "Academic certificates"
+        ],
+        "admission_contact": [],
+        "current_notices": []
+      },
+      "scholarships": [],
+      "facilities": [
+        "Classrooms"
+      ],
+      "infrastructure": [],
+      "faculty": {
+        "principal": null,
+        "chairperson": null,
+        "campus_chief": null,
+        "departments": [
+          "Education"
+        ],
+        "faculty_members": [],
+        "teaching_approach": "Conventional"
+      },
+      "leadership_messages": {
+        "principal_message": null,
+        "chairperson_message": null,
+        "founder_message": null
+      },
+      "institutional_profile": {
+        "mission": "Providing localized higher education.",
+        "vision": "Educational upliftment of Bhairabi region.",
+        "core_values": [
+          "Community service"
+        ],
+        "highlights": [
+          "Located in Bhairabi Rural Municipality"
+        ],
+        "features": [
+          "Community campus"
+        ],
+        "why_choose_this_college": [
+          "Local availability of B.Ed program"
+        ],
+        "achievements": [],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": [],
+        "clubs": [],
+        "sports": [],
+        "student_organizations": [],
+        "campus_experience": "",
+        "student_welfare": []
+      },
+      "career_development": {
+        "placement_cell": null,
+        "internship_opportunities": [],
+        "industry_partnerships": [],
+        "career_counseling": null,
+        "alumni_network": null,
+        "placement_statistics": []
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "admission_contacts": [],
+        "website": null,
+        "office_hours": null,
+        "contact_person": null
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "linkedin": null,
+        "youtube": null,
+        "x": null,
+        "other": []
+      },
+      "online_resources": {
+        "prospectus": [],
+        "fee_structure": [],
+        "academic_calendar": [],
+        "notices": [],
+        "results": [],
+        "student_portal": null,
+        "downloads": []
+      },
+      "seo": {
+        "suggested_title": "Bhairabi Multiple Campus, Dailekh",
+        "meta_description": "Bhairabi Multiple Campus in Bhairabi Rural Municipality, Dailekh offering B.Ed program.",
+        "keywords": [
+          "Bhairabi Multiple Campus",
+          "Bhairabi Dailekh college"
+        ],
+        "faq": []
+      },
+      "verification": {
+        "verification_status": "partial",
+        "last_verified_at": "2024-03-30",
+        "official_sources": [
+          "Tribhuvan University records"
+        ],
+        "secondary_sources": [],
+        "field_confidence": {
+          "identity": "medium",
+          "location": "medium",
+          "affiliation": "high"
+        },
+        "missing_information": [
+          "Contact details",
+          "Established year"
+        ],
+        "notes": "Verified via university affiliation lists."
+      }
+    }
+  ],
+  "district_summary": {
+    "total_colleges": 3,
+    "government_colleges": 0,
+    "community_colleges": 3,
+    "private_colleges": 0,
+    "universities_and_constituent_campuses": 0,
+    "other_institutions": 0,
+    "municipalities_covered": [
+      "Narayan Municipality",
+      "Dullu Municipality",
+      "Bhairabi Rural Municipality"
+    ],
+    "institutions_by_university": [
+      {
+        "university": "Tribhuvan University",
+        "count": 3
+      }
+    ],
+    "research_gaps": [
+      "Lack of active official websites for community campuses in Dailekh",
+      "Limited public availability of phone numbers and specific establishment years for rural campuses"
+    ]
+  }
+}

@@ -1,0 +1,325 @@
+{
+    "research_metadata": {
+        "country": "Nepal",
+        "province": "Koshi Province",
+        "district": "Taplejung",
+        "research_date": "2026-11-08",
+        "total_institutions_discovered": 3,
+        "research_status": "completed",
+        "collection_mode": "responses"
+    },
+    "institutions": [
+        {
+            "overview": {
+                "name": "Pathibhara Multiple Campus",
+                "name_ne": "पाथीभरा बहुमुखी क्याम्पस",
+                "slug": "pathibhara-multiple-campus",
+                "ownership": "community",
+                "established_year": 1990,
+                "university": "Tribhuvan University",
+                "municipality": "Phungling Municipality",
+                "address": "Phungling Municipality-4, Taplejung, Koshi Province, Nepal",
+                "description": "Pathibhara Multiple Campus (also spelled Pathivara) is a non-profit community campus affiliated to Tribhuvan University, not a TU constituent campus. It was established in 2047 BS (published as 1990; some directories list 1991) and is the main higher-education campus in the district headquarters. It runs BA, B.Ed. and BBS, and M.Ed. in Nepali and Educational Planning and Management. Edusanjal also lists National Examinations Board plus-two programs in Management, Humanities and Education. It serves students from Taplejung and nearby districts such as Panchthar and parts of Tehrathum. Finances come mainly from student fees, UGC projects and local-government support. Published highlights include about 0.74 hectares of land (14-8-3-0), a library of 8,092 items, and an Annual Report 2080 submitted to UGC. It is not listed among UGC QAA-accredited institutions. Campus Chief published on the campus site is Sajan Poudel; Campus Management Committee chairperson is Shila Ijam (Rai). Edusanjal reports 402 bachelor students (86 BA, 211 B.Ed., 105 BBS) without a stated reporting year. TU exam-centre lists use campus code 201.",
+                "mission": "To deliver affordable, inclusive and quality higher education; to foster critical thinking and cultural rootedness; and to produce graduates who serve their communities with integrity and competence.",
+                "vision": "To become a centre of academic excellence in eastern Nepal that empowers students from rural and marginalised communities with knowledge, skills and values needed to lead dignified and socially responsible lives.",
+                "source_urls": [
+                    "https://pathivaracampus.edu.np/",
+                    "https://www.collegenp.com/college/pathibhara-multiple-campus-taplejung",
+                    "https://edusanjal.com/college/pathibhara-multiple-campus/",
+                    "https://edusanjal.com/college/district/taplejung/",
+                    "https://portal.tu.edu.np/downloads/2025_02_23_15_22_28.pdf",
+                    "https://annapurnapost.com/story/117699/"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Arts (BA)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Humanities and Social Sciences",
+                    "fee": null,
+                    "source_url": "https://pathivaracampus.edu.np/"
+                },
+                {
+                    "name": "Bachelor of Education (B.Ed.)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://pathivaracampus.edu.np/"
+                },
+                {
+                    "name": "Bachelor of Business Studies (BBS)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://pathivaracampus.edu.np/"
+                },
+                {
+                    "name": "Master of Education (M.Ed.) – Educational Planning and Management",
+                    "level": "Master",
+                    "duration": "2 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://pathivaracampus.edu.np/"
+                },
+                {
+                    "name": "Master of Education (M.Ed.) – Nepali",
+                    "level": "Master",
+                    "duration": "2 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://pathivaracampus.edu.np/"
+                }
+            ],
+            "facilities": [
+                "Library and reading room (published holdings: 7,168 books, 832 reference materials, 92 journals; total 8,092)",
+                "Furnished classrooms",
+                "Transportation",
+                "Curricular and extra-curricular activities",
+                "Digital education and ADSL connectivity",
+                "Canteen",
+                "Playgrounds",
+                "Separate toilets for boys and girls",
+                "CCTV in selected areas",
+                "Computer/ICT equipment including desktops, laptops, projector and printers",
+                "Solar panels",
+                "Counselling",
+                "Scholarships announced by notice",
+                "English and Nepali medium"
+            ],
+            "gallery": [
+                {
+                    "url": "https://pathivaracampus.edu.np/storage/pathivara/notice-attachments/mmbVbR9Ut3mkj1ZIeXB8Ails9iUgYRYzAZkKSVSe.jpg",
+                    "caption": "5th convention of the Pathibhara Multiple Campus unit committee, Taplejung",
+                    "source_url": "https://pathivaracampus.edu.np/notices/5th-convention-of-the-pathibhara-multiple-campus-unit-committee-taplejung"
+                },
+                {
+                    "url": "https://pathivaracampus.edu.np/storage/pathivara/notice-attachments/tcaN8ISIHSsbZ0Le9EsPjLOs9ucnqtWpzKge6SQT.jpg",
+                    "caption": "5th convention of the Pathibhara Multiple Campus unit committee, Taplejung",
+                    "source_url": "https://pathivaracampus.edu.np/notices/5th-convention-of-the-pathibhara-multiple-campus-unit-committee-taplejung"
+                },
+                {
+                    "url": "https://pathivaracampus.edu.np/storage/pathivara/notice-attachments/CR27lZRCEHZC3PzVT3iKvzLvwo47P4k3yKbkGDEs.jpg",
+                    "caption": "5th convention of the Pathibhara Multiple Campus unit committee, Taplejung",
+                    "source_url": "https://pathivaracampus.edu.np/notices/5th-convention-of-the-pathibhara-multiple-campus-unit-committee-taplejung"
+                },
+                {
+                    "url": "https://pathivaracampus.edu.np/storage/pathivara/notice-attachments/Hms2oqriCRnnoRdnqHJSPoQKYi4Sq1LTRGcbEPO3.jpg",
+                    "caption": "5th convention of the Pathibhara Multiple Campus unit committee, Taplejung",
+                    "source_url": "https://pathivaracampus.edu.np/notices/5th-convention-of-the-pathibhara-multiple-campus-unit-committee-taplejung"
+                },
+                {
+                    "url": "https://pathivaracampus.edu.np/storage/pathivara/notice-attachments/LKZ9dtpSp1Q7ivYtrZcmjtebuxipqSL161YRPwgC.jpg",
+                    "caption": "5th convention of the Pathibhara Multiple Campus unit committee, Taplejung",
+                    "source_url": "https://pathivaracampus.edu.np/notices/5th-convention-of-the-pathibhara-multiple-campus-unit-committee-taplejung"
+                },
+                {
+                    "url": "https://pathivaracampus.edu.np/storage/pathivara/notice-attachments/Zh4s24Cp1TA9l0evidpiO4yu3xTkVltbZsD1KcJr.jpg",
+                    "caption": "5th convention of the Pathibhara Multiple Campus unit committee, Taplejung",
+                    "source_url": "https://pathivaracampus.edu.np/notices/5th-convention-of-the-pathibhara-multiple-campus-unit-committee-taplejung"
+                },
+                {
+                    "url": "https://pathivaracampus.edu.np/storage/pathivara/notice-attachments/PjDnp1oVZj93h2GO9bn4sardhckuIx9qwmRO54wz.jpg",
+                    "caption": "5th convention of the Pathibhara Multiple Campus unit committee, Taplejung",
+                    "source_url": "https://pathivaracampus.edu.np/notices/5th-convention-of-the-pathibhara-multiple-campus-unit-committee-taplejung"
+                }
+            ],
+            "videos": [
+                {
+                    "title": "Taplejung ko Pathibhara campus ma sabai milera phul Ropne Kam sampanna",
+                    "url": "https://www.youtube.com/watch?v=0pKKo21WdXk",
+                    "platform": "YouTube"
+                },
+                {
+                    "title": "पाथिभरा बहुमुखी क्याम्पस ताप्लेजुङ्ग",
+                    "url": "https://www.tiktok.com/@janukaijamjanu/video/7566454915959164180",
+                    "platform": "TikTok"
+                }
+            ],
+            "updates": [
+                {
+                    "title": "Admissions Open",
+                    "date": "2026-08-01",
+                    "summary": "Admissions are open for BA, B.Ed., BBS and M.Ed.",
+                    "source_url": "https://pathivaracampus.edu.np/notices/admission-open"
+                },
+                {
+                    "title": "5th Convention of the Pathibhara Multiple Campus Unit Committee, Taplejung",
+                    "date": "2026-09-08",
+                    "summary": "The unit committee’s 5th convention was held on 28 Bhadra 2083 under former chair Bednidhi Poudel, with Campus Management Committee chair Shila Ijam (Rai) as chief guest. A nine-member committee was formed under chair Yuvaraj Basnet.",
+                    "source_url": "https://pathivaracampus.edu.np/notices/5th-convention-of-the-pathibhara-multiple-campus-unit-committee-taplejung"
+                },
+                {
+                    "title": "Phaktanglung Rural Municipality pays higher-education fees at Pathibhara Multiple Campus",
+                    "date": "2024-05-09",
+                    "summary": "Phaktanglung Rural Municipality agreed to pay fees for 128 local higher-education students at Pathibhara Multiple Campus, at NPR 18,025 per student. Campus chief Sajan Poudel said a first installment of NPR 1.5 million had been paid.",
+                    "source_url": "https://nagariknews.nagariknetwork.com/education/1435313-1715234403.html"
+                },
+                {
+                    "title": "M.Ed. classes approved at Pathibhara Multiple Campus",
+                    "date": "2019-01-14",
+                    "summary": "TU Academic Council approved semester-based M.Ed. classes. Campus chief Mohan Kumar Rai said applications were invited through 3 Magh, with an application fee of NPR 2,000 and an entrance exam on 19 Magh.",
+                    "source_url": "https://annapurnapost.com/story/117699/"
+                }
+            ],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "024-460228",
+                    "9852661228",
+                    "9842660495"
+                ],
+                "emails": [
+                    "pathivara.campus@gmail.com",
+                    "Pathivara.Multiple@gmail.com"
+                ],
+                "website": "https://pathivaracampus.edu.np",
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Sinam Multiple Campus",
+                "name_ne": "सिनाम बहुमुखी क्याम्पस",
+                "slug": "sinam-multiple-campus",
+                "ownership": "community",
+                "established_year": 2008,
+                "university": "Tribhuvan University",
+                "municipality": "Sirijangha Rural Municipality",
+                "address": "Sirijangha Rural Municipality-1, Sinam, Taplejung, Koshi Province, Nepal",
+                "description": "Sinam Multiple Campus is a community campus in Sirijangha-1, Taplejung, established in 2065 BS. The campus UGC report states it has run since 2008 AD and offers Bachelor of Education and Bachelor of Business Studies under Tribhuvan University, recognized by the University Grants Commission. UGC EMIS 2023/24 reports 129 B.Ed. students (42 male, 87 female) and 22 BBS students (12 male, 10 female). Edusanjal, without a stated year, reports 411 bachelor students (322 B.Ed., 89 BBS). TU exam-centre lists use campus code 770. Edusanjal states the campus received CTEVT affiliation in 2075 BS for Diploma in Agriculture (Plant Science). The campus UGC report lists only B.Ed. and BBS, and CTEVT centre lists assign diploma agriculture and civil programs to Sinam Secondary School, Sirijangha, not to this campus. No published mission or vision statement was found.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://sinamcampus.edu.np/",
+                    "https://sinamcampus.edu.np/about-us",
+                    "https://sinamcampus.edu.np/contact-us",
+                    "https://www.collegenp.com/college/sinam-multiple-campus-taplejung",
+                    "https://edusanjal.com/college/sinam-multiple-campus/",
+                    "https://giwmscdnone.gov.np/media/pdf_upload/EMIS%202023-24_mu8su0b.pdf",
+                    "https://portal.tu.edu.np/downloads/2025_02_23_15_22_28.pdf"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Education (B.Ed.)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://sinamcampus.edu.np/programs?programId=2"
+                },
+                {
+                    "name": "Bachelor of Business Studies (BBS)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Management",
+                    "fee": "NPR 13000 published as first-year total (admission NPR 6000 including registration NPR 1000; annual tuition NPR 7000)",
+                    "source_url": "https://sinamcampus.edu.np/programs?programId=1"
+                }
+            ],
+            "facilities": [
+                "Campus building",
+                "Classrooms",
+                "Library",
+                "Computer laboratory",
+                "Playground",
+                "Sports",
+                "Water supply",
+                "Extra-curricular activities",
+                "Counselling",
+                "Scholarships for needy and deserving students"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [
+                {
+                    "title": "Report of Higher Education 2080/81 submitted toward UGC",
+                    "date": null,
+                    "summary": "Campus chief’s foreword states the campus offers B.Ed. and BBS under Tribhuvan University and UGC recognition. The report records first-year enrollment in 2081/082 of 31 B.Ed. students and 3 BBS students.",
+                    "source_url": "https://sinamcampus.edu.np/downloads/download/filename/1747208919680fa12dc74b3.pdf/download/id/1"
+                }
+            ],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "024-690363",
+                    "9817957585"
+                ],
+                "emails": [
+                    "sinammultiplecampus@gmail.com"
+                ],
+                "website": "https://sinamcampus.edu.np",
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Narayani Multiple Campus",
+                "name_ne": "नारायणी बहुमुखी क्याम्पस",
+                "slug": "narayani-multiple-campus",
+                "ownership": "community",
+                "established_year": 2023,
+                "university": "Purbanchal University",
+                "municipality": "Maiwakhola Rural Municipality",
+                "address": "Maiwakhola Rural Municipality-3, Sanghu, Taplejung, Koshi Province, Nepal",
+                "description": "Narayani Multiple Campus is a community campus at Sanghu, Maiwakhola-3, Taplejung, established in 2080 BS (2023 AD). Purbanchal University Faculty of Education lists it for B.Ed. with 60 seats. It operates under the management of, and on the premises of, Narayani Secondary School. Published main subjects are English, Social Studies and Nepali. Campus chief is Rup Narayan Ghimire. No independent campus website was found. It is not a plus-two-only school; the secondary school on the same premises is separate.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://www.collegenp.com/college/narayani-multiple-campus-taplejung",
+                    "https://www.collegenp.com/course/narayani-multiple-campus-taplejung-bed",
+                    "https://purbanchaluniversity.edu.np/faculties/faculty-of-education12-03-21"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Education (B.Ed.)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/narayani-multiple-campus-taplejung-bed"
+                }
+            ],
+            "facilities": [
+                "Library and educational materials",
+                "Classrooms",
+                "Scholarships according to applicable rules",
+                "Peaceful academic environment",
+                "Regular examinations and evaluation",
+                "Cafeteria",
+                "Sports",
+                "Internet",
+                "Conference",
+                "Multimedia",
+                "Counselling",
+                "Tour",
+                "Conference hall",
+                "Extra-curricular activities"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "9844682646"
+                ],
+                "emails": [
+                    "narayanimc2080@gmail.com"
+                ],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        }
+    ]
+}

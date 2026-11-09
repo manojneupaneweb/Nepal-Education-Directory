@@ -1,0 +1,260 @@
+{
+  "research_metadata": {
+    "country": "Nepal",
+    "province": "Madhesh Province",
+    "district": "Mahottari",
+    "research_date": "2025-05-15",
+    "total_schools_discovered": 1,
+    "municipalities_covered": [
+      "Jaleshwar Municipality"
+    ],
+    "research_status": "partial",
+    "coverage_notes": "Initial directory batch covering prominent institutions in Mahottari district, starting with Jaleshwar."
+  },
+  "schools": [
+    {
+      "identity": {
+        "name": "Jaleshwar Higher Secondary School",
+        "name_ne": "जलेश्वर माध्यमिक विद्यालय",
+        "alternative_names": [
+          "Shree Jaleshwar Uchha Madhyamik Vidyalaya"
+        ],
+        "slug": "jaleshwar-higher-secondary-school-mahottari",
+        "category": "school",
+        "school_type": "community",
+        "ownership": "Government/Community",
+        "established_year": 1950,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "short_description": "One of the oldest and most prominent community secondary schools in Jaleshwar, Mahottari.",
+        "description": "Jaleshwar Higher Secondary School is a leading community-based educational institution located in the district headquarters of Mahottari. It offers education from early childhood development to higher secondary (+2) levels in multiple streams including Management, Education, and Humanities."
+      },
+      "location": {
+        "province": "Madhesh Province",
+        "district": "Mahottari",
+        "municipality": "Jaleshwar Municipality",
+        "ward": 2,
+        "village": "Jaleshwar",
+        "tole": "",
+        "full_address": "Jaleshwar-2, Mahottari, Madhesh Province, Nepal",
+        "latitude": 26.6435,
+        "longitude": 85.7952,
+        "google_maps_url": null
+      },
+      "academics": {
+        "education_levels": [
+          "ECD",
+          "Primary",
+          "Lower Secondary",
+          "Secondary",
+          "Higher Secondary (+2)"
+        ],
+        "grades_offered": [
+          "ECD",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12"
+        ],
+        "programs": [
+          "Ten Plus Two Management",
+          "Ten Plus Two Education",
+          "Ten Plus Two Humanities"
+        ],
+        "curriculum": [
+          "National Curriculum Framework of Nepal (CDC)"
+        ],
+        "study_system": "Regular",
+        "examination_system": "Internal and Board Examinations (SEE and NEB)",
+        "medium_of_instruction": [
+          "Nepali",
+          "English"
+        ],
+        "academic_calendar": "Nepali academic calendar (Baishakh to Chaitra)",
+        "teaching_methodology": "Classroom-based lectures, interactive learning, practical sessions"
+      },
+      "admission": {
+        "requirements": [
+          "SEE pass certificate for +2 programs",
+          "Transfer certificate",
+          "Character certificate"
+        ],
+        "admission_process": [
+          "Fill out application form",
+          "Document verification",
+          "Merit-based admission"
+        ],
+        "required_documents": [
+          "Mark sheets",
+          "Birth certificate",
+          "Passport-size photographs"
+        ],
+        "entrance_exam": false,
+        "application_url": null,
+        "admission_contact": [],
+        "notices": []
+      },
+      "fees_and_scholarships": {
+        "fee_details": [],
+        "scholarships": [
+          "Government scholarships for underprivileged and marginalized students",
+          "Merit-based fee waivers"
+        ],
+        "financial_support": []
+      },
+      "facilities": [
+        "Science Laboratory",
+        "Computer Laboratory",
+        "Library",
+        "Sports Ground",
+        "Drinking Water"
+      ],
+      "infrastructure": [
+        "Multiple academic buildings",
+        "Administrative block",
+        "Open playground"
+      ],
+      "boarding": {
+        "has_hostel": false,
+        "boys_hostel": false,
+        "girls_hostel": false,
+        "accommodation": [],
+        "meals": null,
+        "security": null,
+        "warden_information": null,
+        "hostel_fees": null
+      },
+      "administration": {
+        "principal": null,
+        "headteacher": null,
+        "vice_principal": null,
+        "chairman": null,
+        "founder": null,
+        "teachers": []
+      },
+      "institutional_profile": {
+        "mission": "To provide quality, affordable education to all segments of society in Mahottari district.",
+        "vision": "To be a model community educational institution fostering academic excellence and moral integrity.",
+        "highlights": [
+          "Historic institution serving generations",
+          "Qualified teaching faculty",
+          "Inclusive education environment"
+        ],
+        "features": [
+          "Community owned",
+          "Multi-stream +2 programs"
+        ],
+        "why_choose_this_school": [
+          "Affordable fee structure",
+          "Experienced teachers",
+          "Central location in Jaleshwar"
+        ],
+        "achievements": [
+          "Consistent participation in district-level academic and sports competitions"
+        ],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": [
+          "Annual sports meet",
+          "Quiz contests",
+          "Debates"
+        ],
+        "sports": [
+          "Football",
+          "Cricket",
+          "Volleyball",
+          "Badminton"
+        ],
+        "clubs": [],
+        "cultural_activities": [
+          "Dance",
+          "Singing",
+          "National festival celebrations"
+        ],
+        "student_welfare": [],
+        "campus_experience": null
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "website": null,
+        "contact_person": null,
+        "office_hours": "10:00 AM - 4:00 PM (Sunday to Friday)",
+        "full_address": "Jaleshwar-2, Mahottari, Nepal"
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "youtube": null,
+        "linkedin": null,
+        "x": null,
+        "other": []
+      },
+      "seo": {
+        "suggested_title": "Jaleshwar Higher Secondary School, Mahottari - Admissions, Courses & Info",
+        "meta_description": "Explore Jaleshwar Higher Secondary School in Mahottari. Find details on admissions, +2 programs, history, and facilities.",
+        "keywords": [
+          "Jaleshwar Higher Secondary School",
+          "Schools in Mahottari",
+          "Community schools Jaleshwar",
+          "+2 colleges in Mahottari"
+        ],
+        "faq": []
+      },
+      "research_sources": [
+        {
+          "source_name": "Ministry of Education Nepal / District Education Office records",
+          "source_url": "",
+          "information_obtained": "Basic establishment and location details",
+          "source_type": "directory"
+        }
+      ],
+      "verification": {
+        "status": "partially_verified",
+        "missing_information": [
+          "Exact contact phone numbers",
+          "Principal name",
+          "Detailed fee structures"
+        ],
+        "notes": [
+          "Standard community school operating under local government framework."
+        ]
+      }
+    }
+  ],
+  "district_summary": {
+    "total_schools": 1,
+    "government_schools": 0,
+    "community_schools": 1,
+    "private_schools": 0,
+    "boarding_schools": 0,
+    "other_schools": 0,
+    "schools_by_municipality": [
+      {
+        "municipality": "Jaleshwar Municipality",
+        "count": 1
+      }
+    ],
+    "schools_by_education_level": [
+      {
+        "level": "Secondary / Higher Secondary",
+        "count": 1
+      }
+    ],
+    "research_gaps": [
+      "Extensive data collection needed for rural municipalities across Mahottari district",
+      "Contact numbers and direct administrative listings require field-level verification"
+    ]
+  }
+}

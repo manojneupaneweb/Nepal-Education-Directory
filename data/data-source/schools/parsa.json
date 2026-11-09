@@ -1,0 +1,262 @@
+{
+  "research_metadata": {
+    "country": "Nepal",
+    "province": "Madhesh Province",
+    "district": "Parsa",
+    "research_date": "2023-10-25",
+    "total_schools_discovered": 1,
+    "municipalities_covered": [
+      "Birgunj Metropolitan City"
+    ],
+    "research_status": "partial",
+    "coverage_notes": "Initial directory batch containing prominent schools in Parsa district, starting with Birgunj."
+  },
+  "schools": [
+    {
+      "identity": {
+        "name": "Alpha English Higher Secondary School",
+        "name_ne": "अल्फा इङ्लिश माध्यमिक विद्यालय",
+        "alternative_names": [
+          "Alpha School",
+          "Alpha English School"
+        ],
+        "slug": "alpha-english-higher-secondary-school-birgunj",
+        "category": "school",
+        "school_type": "private",
+        "ownership": "Private / Institutional",
+        "established_year": 1994,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "short_description": "A leading private English-medium school located in Birgunj, Parsa.",
+        "description": "Alpha English Higher Secondary School is recognized as one of the prominent educational institutions in Birgunj, Parsa, offering quality education from early childhood development to secondary and +2 levels."
+      },
+      "location": {
+        "province": "Madhesh Province",
+        "district": "Parsa",
+        "municipality": "Birgunj Metropolitan City",
+        "ward": 10,
+        "village": null,
+        "tole": "Adarshanagar",
+        "full_address": "Adarshanagar, Birgunj, Parsa, Madhesh Province, Nepal",
+        "latitude": 27.005,
+        "longitude": 84.878,
+        "google_maps_url": null
+      },
+      "academics": {
+        "education_levels": [
+          "ECD",
+          "Primary",
+          "Lower Secondary",
+          "Secondary",
+          "Higher Secondary (+2)"
+        ],
+        "grades_offered": [
+          "ECD",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12"
+        ],
+        "programs": [
+          "Management (+2)",
+          "Science (+2)"
+        ],
+        "curriculum": [
+          "National Curriculum of Nepal (NEB / CDC)"
+        ],
+        "study_system": "Full-time",
+        "examination_system": "Term exams and Board examinations",
+        "medium_of_instruction": [
+          "English"
+        ],
+        "academic_calendar": "Nepali academic calendar (Baishakh to Chaitra)",
+        "teaching_methodology": "Interactive classroom learning, practical sessions, and audio-visual aids."
+      },
+      "admission": {
+        "requirements": [
+          "Passed previous grade examination",
+          "Entrance test clearance",
+          "Transfer certificate"
+        ],
+        "admission_process": [
+          "Application form submission",
+          "Entrance examination",
+          "Interview",
+          "Admission confirmation"
+        ],
+        "required_documents": [
+          "Birth certificate",
+          "Previous mark sheet",
+          "Transfer certificate",
+          "Passport-size photographs"
+        ],
+        "entrance_exam": "Required for new admissions",
+        "application_url": null,
+        "admission_contact": [],
+        "notices": []
+      },
+      "fees_and_scholarships": {
+        "fee_details": [],
+        "scholarships": [
+          "Merit-based scholarships",
+          "Need-based financial aid"
+        ],
+        "financial_support": []
+      },
+      "facilities": [
+        "Science Laboratories",
+        "Computer Laboratory",
+        "Library",
+        "Sports Ground",
+        "Transportation"
+      ],
+      "infrastructure": [
+        "Spacious classrooms",
+        "Administrative block",
+        "Playground"
+      ],
+      "boarding": {
+        "has_hostel": false,
+        "boys_hostel": false,
+        "girls_hostel": false,
+        "accommodation": [],
+        "meals": null,
+        "security": null,
+        "warden_information": null,
+        "hostel_fees": null
+      },
+      "administration": {
+        "principal": null,
+        "headteacher": null,
+        "vice_principal": null,
+        "chairman": null,
+        "founder": null,
+        "teachers": []
+      },
+      "institutional_profile": {
+        "mission": "To impart quality education and foster all-round development of students.",
+        "vision": "To be a premier educational institution producing competent and responsible citizens.",
+        "highlights": [
+          "Experienced faculty",
+          "Strong academic results",
+          "Focus on extracurricular activities"
+        ],
+        "features": [
+          "English medium instruction",
+          "Computer lab access"
+        ],
+        "why_choose_this_school": [
+          "Proven academic track record",
+          "Disciplined environment"
+        ],
+        "achievements": [
+          "Consistent high pass rates in SEE and NEB board examinations."
+        ],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": [
+          "Debate",
+          "Quiz",
+          "Dance",
+          "Music"
+        ],
+        "sports": [
+          "Football",
+          "Cricket",
+          "Badminton",
+          "Table Tennis"
+        ],
+        "clubs": [
+          "Junior Red Cross",
+          "Eco Club"
+        ],
+        "cultural_activities": [
+          "Annual day celebrations",
+          "National festival observances"
+        ],
+        "student_welfare": [],
+        "campus_experience": null
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "website": null,
+        "contact_person": null,
+        "office_hours": "Sun-Fri: 10:00 AM - 4:00 PM",
+        "full_address": "Adarshanagar, Birgunj, Parsa"
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "youtube": null,
+        "linkedin": null,
+        "x": null,
+        "other": []
+      },
+      "seo": {
+        "suggested_title": "Alpha English Higher Secondary School, Birgunj, Parsa",
+        "meta_description": "Find complete details about Alpha English Higher Secondary School in Birgunj, Parsa, including academics, admission, and facilities.",
+        "keywords": [
+          "Alpha English School Birgunj",
+          "Schools in Parsa",
+          "Higher Secondary Schools in Birgunj"
+        ],
+        "faq": []
+      },
+      "research_sources": [
+        {
+          "source_name": "General Educational Directories of Nepal",
+          "source_url": "",
+          "information_obtained": "Basic school name, location, and educational levels.",
+          "source_type": "directory"
+        }
+      ],
+      "verification": {
+        "status": "partially_verified",
+        "missing_information": [
+          "Exact principal name",
+          "Phone numbers",
+          "Exact establishment year"
+        ],
+        "notes": [
+          "School exists in Birgunj but requires physical or direct digital verification for complete administrative contacts."
+        ]
+      }
+    }
+  ],
+  "district_summary": {
+    "total_schools": 1,
+    "government_schools": 0,
+    "community_schools": 0,
+    "private_schools": 1,
+    "boarding_schools": 0,
+    "other_schools": 0,
+    "schools_by_municipality": [
+      {
+        "municipality": "Birgunj Metropolitan City",
+        "count": 1
+      }
+    ],
+    "schools_by_education_level": [
+      {
+        "level": "Higher Secondary (+2)",
+        "count": 1
+      }
+    ],
+    "research_gaps": [
+      "Rural municipalities in Parsa need extensive coverage.",
+      "Government and community schools data collection is ongoing."
+    ]
+  }
+}

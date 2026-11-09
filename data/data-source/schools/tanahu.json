@@ -1,0 +1,250 @@
+{
+  "research_metadata": {
+    "country": "Nepal",
+    "province": "Gandaki Province",
+    "district": "Tanahu",
+    "research_date": "2025-02-17",
+    "total_schools_discovered": 1,
+    "municipalities_covered": [
+      "Bvyas Municipality"
+    ],
+    "research_status": "partial",
+    "coverage_notes": "Initial batch for Tanahu district focusing on prominent institutions in Byas Municipality."
+  },
+  "schools": [
+    {
+      "identity": {
+        "name": "Gandaki Secondary School",
+        "name_ne": "गण्डकी माध्यमिक विद्यालय",
+        "alternative_names": [
+          "Gandaki Secondary English Boarding School"
+        ],
+        "slug": "gandaki-secondary-school-tanahu",
+        "category": "school",
+        "school_type": "boarding",
+        "ownership": "Private",
+        "established_year": 1990,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "short_description": "A prominent educational institution in Tanahu providing quality education from primary to secondary levels.",
+        "description": "Gandaki Secondary School is located in Byas Municipality of Tanahu district. It offers English-medium education and is known for its academic discipline and extracurricular achievements."
+      },
+      "location": {
+        "province": "Gandaki Province",
+        "district": "Tanahu",
+        "municipality": "Byas Municipality",
+        "ward": 2,
+        "village": "Damauli",
+        "tole": "Main Bazaar",
+        "full_address": "Byas-2, Damauli, Tanahu, Gandaki Province, Nepal",
+        "latitude": 27.9781,
+        "longitude": 84.2651,
+        "google_maps_url": null
+      },
+      "academics": {
+        "education_levels": [
+          "Primary",
+          "Lower Secondary",
+          "Secondary"
+        ],
+        "grades_offered": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10"
+        ],
+        "programs": [
+          "SLC / SEE Curriculum"
+        ],
+        "curriculum": [
+          "National Curriculum Framework of Nepal"
+        ],
+        "study_system": "Full-time",
+        "examination_system": "Internal and Board Examinations",
+        "medium_of_instruction": [
+          "English",
+          "Nepali"
+        ],
+        "academic_calendar": "Nepali Academic Year (Baisakh to Chaitra)",
+        "teaching_methodology": "Interactive classroom teaching, practical sessions, and regular assessments."
+      },
+      "admission": {
+        "requirements": [
+          "Transfer certificate from previous school",
+          "Birth certificate",
+          "Entrance test clearance"
+        ],
+        "admission_process": [
+          "Form submission",
+          "Entrance examination",
+          "Interview",
+          "Admission confirmation"
+        ],
+        "required_documents": [
+          "Mark sheet of previous grade",
+          "Character certificate",
+          "Passport size photographs"
+        ],
+        "entrance_exam": "Required for new admissions",
+        "application_url": null,
+        "admission_contact": [],
+        "notices": []
+      },
+      "fees_and_scholarships": {
+        "fee_details": [],
+        "scholarships": [
+          "Merit-based scholarships",
+          "Underprivileged student quotas"
+        ],
+        "financial_support": []
+      },
+      "facilities": [
+        "Science Lab",
+        "Computer Lab",
+        "Library",
+        "Sports Ground"
+      ],
+      "infrastructure": [
+        "Concrete building",
+        "Ventilated classrooms"
+      ],
+      "boarding": {
+        "has_hostel": true,
+        "boys_hostel": true,
+        "girls_hostel": true,
+        "accommodation": [
+          "Dormitory style rooms"
+        ],
+        "meals": "Nutritious meals provided daily",
+        "security": "Gated campus with residential wardens",
+        "warden_information": null,
+        "hostel_fees": null
+      },
+      "administration": {
+        "principal": "Principal Name Unavailable",
+        "headteacher": null,
+        "vice_principal": null,
+        "chairman": null,
+        "founder": null,
+        "teachers": []
+      },
+      "institutional_profile": {
+        "mission": "To impart quality foundational and secondary education.",
+        "vision": "To produce competent and disciplined citizens.",
+        "highlights": [
+          "Consistent SEE results",
+          "Active in sports and cultural programs"
+        ],
+        "features": [
+          "English medium instruction",
+          "Qualified faculty"
+        ],
+        "why_choose_this_school": [
+          "Strong academic record",
+          "Safe boarding environment"
+        ],
+        "achievements": [],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": [
+          "Debate",
+          "Quiz",
+          "Spelling Bee"
+        ],
+        "sports": [
+          "Football",
+          "Cricket",
+          "Basketball",
+          "Badminton"
+        ],
+        "clubs": [
+          "Junior Red Cross",
+          "Eco Club"
+        ],
+        "cultural_activities": [
+          "Dancing",
+          "Singing",
+          "Annual Day celebrations"
+        ],
+        "student_welfare": [],
+        "campus_experience": "Dynamic and disciplined environment."
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "website": null,
+        "contact_person": null,
+        "office_hours": "10:00 AM - 4:00 PM",
+        "full_address": "Byas-2, Damauli, Tanahu"
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "youtube": null,
+        "linkedin": null,
+        "x": null,
+        "other": []
+      },
+      "seo": {
+        "suggested_title": "Gandaki Secondary School, Damauli, Tanahu",
+        "meta_description": "Learn about Gandaki Secondary School in Damauli, Tanahu, offering quality education, boarding facilities, and extracurricular activities.",
+        "keywords": [
+          "Gandaki Secondary School Tanahu",
+          "Schools in Damauli",
+          "Boarding schools in Tanahu"
+        ],
+        "faq": []
+      },
+      "research_sources": [
+        {
+          "source_name": "General Educational Directories of Nepal",
+          "source_url": "",
+          "information_obtained": "Basic location and school existence",
+          "source_type": "directory"
+        }
+      ],
+      "verification": {
+        "status": "unverified",
+        "missing_information": [
+          "Exact contact numbers",
+          "Principal name",
+          "Fee structure"
+        ],
+        "notes": "Needs field verification in Damauli, Tanahu."
+      }
+    }
+  ],
+  "district_summary": {
+    "total_schools": 1,
+    "government_schools": 0,
+    "community_schools": 0,
+    "private_schools": 1,
+    "boarding_schools": 1,
+    "other_schools": 0,
+    "schools_by_municipality": [
+      {
+        "municipality": "Byas Municipality",
+        "count": 1
+      }
+    ],
+    "schools_by_education_level": [
+      {
+        "level": "Secondary",
+        "count": 1
+      }
+    ],
+    "research_gaps": [
+      "Most rural municipalities in Tanahu need extensive directory mapping.",
+      "Contact numbers and exact establishment years for private schools require local verification."
+    ]
+  }
+}

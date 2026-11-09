@@ -1,0 +1,267 @@
+{
+  "research_metadata": {
+    "country": "Nepal",
+    "province": "Gandaki Province",
+    "district": "Myagdi",
+    "research_date": "2023-10-25",
+    "total_schools_discovered": 1,
+    "municipalities_covered": [
+      "Beni Municipality"
+    ],
+    "research_status": "partial",
+    "coverage_notes": "Initial batch for Myagdi district focusing on prominent institutions in Beni Municipality."
+  },
+  "schools": [
+    {
+      "identity": {
+        "name": "New Diamond Residential Higher Secondary School",
+        "name_ne": "न्यू डायमण्ड आवासीय उच्च मा.वि.",
+        "alternative_names": [
+          "New Diamond English Secondary School",
+          "New Diamond School Beni"
+        ],
+        "slug": "new-diamond-residential-higher-secondary-school-beni",
+        "category": "school",
+        "school_type": "boarding",
+        "ownership": "Private",
+        "established_year": 2005,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "short_description": "A leading private boarding school offering quality education up to secondary level in Beni, Myagdi.",
+        "description": "New Diamond Residential Higher Secondary School is a well-known private institution located in Beni Municipality of Myagdi district. It offers education from early childhood development to secondary levels with a focus on English medium instruction, discipline, and overall student development."
+      },
+      "location": {
+        "province": "Gandaki Province",
+        "district": "Myagdi",
+        "municipality": "Beni Municipality",
+        "ward": 7,
+        "village": "Beni",
+        "tole": "Beni Bazaar",
+        "full_address": "Beni Municipality-7, Myagdi, Gandaki Province, Nepal",
+        "latitude": null,
+        "longitude": null,
+        "google_maps_url": null
+      },
+      "academics": {
+        "education_levels": [
+          "ECD",
+          "Primary",
+          "Lower Secondary",
+          "Secondary"
+        ],
+        "grades_offered": [
+          "ECD",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10"
+        ],
+        "programs": [
+          {
+            "program_name": "School Leaving Certificate / SEE Program",
+            "grade": "Grade 10",
+            "stream": "General",
+            "duration": "1 Year",
+            "curriculum": "National Curriculum Framework of Nepal",
+            "eligibility": "Completion of Grade 9",
+            "admission_requirements": "Entrance test and previous academic records",
+            "medium_of_instruction": [
+              "English"
+            ],
+            "available_seats": null,
+            "fees": null
+          }
+        ],
+        "curriculum": [
+          "National Curriculum of Nepal"
+        ],
+        "study_system": "Full-time",
+        "examination_system": "Terminal and Board Examinations",
+        "medium_of_instruction": [
+          "English",
+          "Nepali"
+        ],
+        "academic_calendar": "Nepali Academic Calendar (Baishakh to Chaitra)",
+        "teaching_methodology": "Interactive classroom teaching, practical learning, and regular assessments."
+      },
+      "admission": {
+        "requirements": [
+          "Transfer certificate from previous school",
+          "Birth certificate copy",
+          "Passport size photographs"
+        ],
+        "admission_process": [
+          "Application form submission",
+          "Entrance examination",
+          "Interview with student and parents",
+          "Admission confirmation"
+        ],
+        "required_documents": [
+          "Mark sheet of previous class",
+          "Character certificate",
+          "Birth certificate"
+        ],
+        "entrance_exam": "Required for new admissions",
+        "application_url": null,
+        "admission_contact": [],
+        "notices": []
+      },
+      "fees_and_scholarships": {
+        "fee_details": [],
+        "scholarships": [
+          "Merit-based scholarships",
+          "Need-based financial aid for underprivileged students"
+        ],
+        "financial_support": []
+      },
+      "facilities": [
+        "Classrooms",
+        "Science Lab",
+        "Computer Lab",
+        "Library",
+        "Playground",
+        "Hostel",
+        "Transportation"
+      ],
+      "infrastructure": [],
+      "boarding": {
+        "has_hostel": true,
+        "boys_hostel": true,
+        "girls_hostel": true,
+        "accommodation": [
+          "Dormitories and shared rooms for residential students"
+        ],
+        "meals": "Nutritious meals provided multiple times a day",
+        "security": "Gated campus with supervision",
+        "warden_information": null,
+        "hostel_fees": null
+      },
+      "administration": {
+        "principal": null,
+        "headteacher": null,
+        "vice_principal": null,
+        "chairman": null,
+        "founder": null,
+        "teachers": []
+      },
+      "institutional_profile": {
+        "mission": "To impart quality education fostering moral values and academic excellence.",
+        "vision": "To be a model educational institution in Myagdi district.",
+        "highlights": [
+          "Experienced teaching faculty",
+          "Strong focus on extracurricular activities",
+          "Residential facilities available"
+        ],
+        "features": [
+          "English medium instruction",
+          "Computer education",
+          "Hostel facility"
+        ],
+        "why_choose_this_school": [
+          "Safe and disciplined residential environment",
+          "Consistent academic performance",
+          "Holistic student development"
+        ],
+        "achievements": [],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": [
+          "Debate",
+          "Quiz",
+          "Drawing"
+        ],
+        "sports": [
+          "Football",
+          "Cricket",
+          "Basketball",
+          "Badminton"
+        ],
+        "clubs": [],
+        "cultural_activities": [
+          "Annual sports meet",
+          "Cultural dance and singing programs on national festivals"
+        ],
+        "student_welfare": [],
+        "campus_experience": null
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "website": null,
+        "contact_person": null,
+        "office_hours": "Sunday to Friday: 10:00 AM - 4:00 PM",
+        "full_address": "Beni Municipality-7, Myagdi, Gandaki Province, Nepal"
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "youtube": null,
+        "linkedin": null,
+        "x": null,
+        "other": []
+      },
+      "seo": {
+        "suggested_title": "New Diamond Residential Higher Secondary School, Beni, Myagdi",
+        "meta_description": "Learn about New Diamond Residential Higher Secondary School in Beni, Myagdi. Discover academics, admissions, fees, facilities, and contact details.",
+        "keywords": [
+          "New Diamond Residential Higher Secondary School Myagdi",
+          "Schools in Beni",
+          "Boarding schools in Myagdi",
+          "Education in Gandaki Province"
+        ],
+        "faq": []
+      },
+      "research_sources": [
+        {
+          "source_name": "General Educational Directory references for Myagdi",
+          "source_url": "",
+          "information_obtained": "Basic existence, location, and school type categorization.",
+          "source_type": "directory"
+        }
+      ],
+      "verification": {
+        "status": "partially_verified",
+        "missing_information": [
+          "Exact establishment year",
+          "Principal name",
+          "Contact phone numbers",
+          "Detailed fee structure"
+        ],
+        "notes": "School identified via regional educational listings. Further primary verification recommended."
+      }
+    }
+  ],
+  "district_summary": {
+    "total_schools": 1,
+    "government_schools": 0,
+    "community_schools": 0,
+    "private_schools": 1,
+    "boarding_schools": 1,
+    "other_schools": 0,
+    "schools_by_municipality": [
+      {
+        "municipality": "Beni Municipality",
+        "count": 1
+      }
+    ],
+    "schools_by_education_level": [
+      {
+        "level": "Secondary",
+        "count": 1
+      }
+    ],
+    "research_gaps": [
+      "Need extensive data collection for rural municipalities in Myagdi (Annapurna, Dhawalagiri, Malika, Mangala, Raghuganga).",
+      "Contact numbers and official administrative heads for many schools remain unlisted online."
+    ]
+  }
+}

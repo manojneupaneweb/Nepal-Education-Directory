@@ -1,0 +1,258 @@
+{
+  "research_metadata": {
+    "country": "Nepal",
+    "province": "Madhesh Province",
+    "district": "Saptari",
+    "research_date": "2023-10-25",
+    "total_schools_discovered": 1,
+    "municipalities_covered": [
+      "Rajbiraj Municipality"
+    ],
+    "research_status": "partial",
+    "coverage_notes": "Initial batch for Saptari district focusing on prominent institutions in Rajbiraj."
+  },
+  "schools": [
+    {
+      "identity": {
+        "name": "Rajbiraj Model Higher Secondary School",
+        "name_ne": "राजविराज मोडल उच्च माध्यमिक विद्यालय",
+        "alternative_names": [
+          "Rajbiraj Model School"
+        ],
+        "slug": "rajbiraj-model-higher-secondary-school",
+        "category": "school",
+        "school_type": "community",
+        "ownership": "Public/Community",
+        "established_year": 1960,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "short_description": "A prominent community school in Rajbiraj, Saptari, offering education up to higher secondary levels.",
+        "description": "Rajbiraj Model Higher Secondary School is one of the oldest and most established community educational institutions in the Saptari district. It provides quality education from primary to +2 levels across various streams."
+      },
+      "location": {
+        "province": "Madhesh Province",
+        "district": "Saptari",
+        "municipality": "Rajbiraj Municipality",
+        "ward": 3,
+        "village": "Rajbiraj",
+        "tole": "Campus Road area",
+        "full_address": "Rajbiraj-3, Saptari, Madhesh Province, Nepal",
+        "latitude": 26.5431,
+        "longitude": 86.7468,
+        "google_maps_url": null
+      },
+      "academics": {
+        "education_levels": [
+          "Primary",
+          "Basic",
+          "Secondary",
+          "Higher Secondary (+2)"
+        ],
+        "grades_offered": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12"
+        ],
+        "programs": [
+          "SLC / SEE",
+          "+2 Management",
+          "+2 Education",
+          "+2 Humanities"
+        ],
+        "curriculum": [
+          "National Curriculum Framework of Nepal"
+        ],
+        "study_system": "Annual / Semester",
+        "examination_system": "Board examinations and internal assessments",
+        "medium_of_instruction": [
+          "Nepali",
+          "English"
+        ],
+        "academic_calendar": "Nepali academic calendar (Baisakh to Chaitra)",
+        "teaching_methodology": "Classroom lectures, practical sessions, interactive learning"
+      },
+      "admission": {
+        "requirements": [
+          "SEE pass certificate for +2 programs",
+          "Transfer certificate",
+          "Character certificate"
+        ],
+        "admission_process": [
+          "Fill out the application form",
+          "Submit academic transcripts",
+          "Interview or merit-based selection"
+        ],
+        "required_documents": [
+          "Mark sheets",
+          "Character certificate",
+          "Passport-size photographs"
+        ],
+        "entrance_exam": null,
+        "application_url": null,
+        "admission_contact": [],
+        "notices": []
+      },
+      "fees_and_scholarships": {
+        "fee_details": [],
+        "scholarships": [
+          "Government-funded scholarships for underprivileged students",
+          "Merit-based fee waivers"
+        ],
+        "financial_support": [
+          "Free textbooks provided by the government up to secondary level"
+        ]
+      },
+      "facilities": [
+        "Classrooms",
+        "Science Lab",
+        "Library",
+        "Sports Ground"
+      ],
+      "infrastructure": [
+        "Multi-story academic buildings",
+        "Administration block",
+        "Playground"
+      ],
+      "boarding": {
+        "has_hostel": false,
+        "boys_hostel": false,
+        "girls_hostel": false,
+        "accommodation": [],
+        "meals": null,
+        "security": null,
+        "warden_information": null,
+        "hostel_fees": null
+      },
+      "administration": {
+        "principal": null,
+        "headteacher": null,
+        "vice_principal": null,
+        "chairman": null,
+        "founder": null,
+        "teachers": []
+      },
+      "institutional_profile": {
+        "mission": "To provide accessible and quality education to all sections of society.",
+        "vision": "To be a leading educational institution fostering academic excellence and moral values.",
+        "highlights": [
+          "Long-standing history in Saptari",
+          "Experienced faculty",
+          "Diverse +2 programs"
+        ],
+        "features": [
+          "Inclusive education",
+          "Affordable fee structure"
+        ],
+        "why_choose_this_school": [
+          "Trusted public institution with proven track record"
+        ],
+        "achievements": [
+          "Consistent satisfactory SEE and +2 results"
+        ],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": [
+          "Annual sports meet",
+          "Quiz competitions",
+          "Debates"
+        ],
+        "sports": [
+          "Football",
+          "Cricket",
+          "Volleyball",
+          "Badminton"
+        ],
+        "clubs": [],
+        "cultural_activities": [
+          "Dancing",
+          "Singing",
+          "Drama"
+        ],
+        "student_welfare": [],
+        "campus_experience": null
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "website": null,
+        "contact_person": null,
+        "office_hours": "10:00 AM - 4:00 PM",
+        "full_address": "Rajbiraj-3, Saptari, Nepal"
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "youtube": null,
+        "linkedin": null,
+        "x": null,
+        "other": []
+      },
+      "seo": {
+        "suggested_title": "Rajbiraj Model Higher Secondary School, Saptari",
+        "meta_description": "Discover information about Rajbiraj Model Higher Secondary School in Saptari, Nepal, including academics, admissions, and facilities.",
+        "keywords": [
+          "Rajbiraj Model School",
+          "Saptari schools",
+          "Community school Rajbiraj",
+          "+2 education Saptari"
+        ],
+        "faq": []
+      },
+      "research_sources": [
+        {
+          "source_name": "General District Educational Directories",
+          "source_url": "",
+          "information_obtained": "Basic establishment and location details",
+          "source_type": "directory"
+        }
+      ],
+      "verification": {
+        "status": "partially_verified",
+        "missing_information": [
+          "Exact contact numbers",
+          "Principal name",
+          "Detailed fee structure"
+        ],
+        "notes": [
+          "School exists in official district educational records but lacks a robust web presence."
+        ]
+      }
+    }
+  ],
+  "district_summary": {
+    "total_schools": 1,
+    "government_schools": 0,
+    "community_schools": 1,
+    "private_schools": 0,
+    "boarding_schools": 0,
+    "other_schools": 0,
+    "schools_by_municipality": [
+      {
+        "municipality": "Rajbiraj Municipality",
+        "count": 1
+      }
+    ],
+    "schools_by_education_level": [
+      {
+        "level": "Higher Secondary (+2)",
+        "count": 1
+      }
+    ],
+    "research_gaps": [
+      "Most rural municipalities in Saptari require deep-dive local directory scraping as online presence is minimal.",
+      "Contact numbers and administrative details are frequently missing for community schools."
+    ]
+  }
+}

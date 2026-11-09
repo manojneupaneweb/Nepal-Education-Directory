@@ -1,0 +1,424 @@
+{
+    "research_metadata": {
+        "country": "Nepal",
+        "province": "Koshi Province",
+        "district": "Bhojpur",
+        "research_date": "2026-11-07",
+        "total_institutions_discovered": 5,
+        "research_status": "completed",
+        "collection_mode": "responses"
+    },
+    "institutions": [
+        {
+            "overview": {
+                "name": "Bhojpur Multiple Campus",
+                "name_ne": "भोजपुर बहुमुखी क्याम्पस",
+                "slug": "bhojpur-multiple-campus",
+                "ownership": "constituent",
+                "established_year": 1965,
+                "university": "Tribhuvan University",
+                "municipality": "Bhojpur Municipality",
+                "address": "Bhojpur (district headquarters), Bhojpur Municipality, Bhojpur, Koshi Province, Nepal",
+                "description": "Constituent campus of Tribhuvan University in the district headquarters of Bhojpur. Founded in 2022 BS (1965 AD) as Bhojpur Mahavidyalay by local social activists, education supporters and government officials to provide higher education in the district. It runs bachelor programs in Humanities, Management and Education and a master's program in Education Planning and Management (EPM). A March 2026 campus report said 674 students were enrolled. Directory sources also list M.Ed. Nepali Language Education. The campus has an e-learning centre and access to the TU Central Library e-library.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://bhmc.tu.edu.np/",
+                    "https://bhmc.tu.edu.np/about-us",
+                    "https://tu.edu.np/campuses?letter=B",
+                    "https://www.collegenp.com/college/bhojpur-multiple-campus-bhojpur",
+                    "https://www.collegesnepal.com/bhojpur-multiple-campus/",
+                    "https://edusanjal.com/college/bhojpur-multiple-campus/"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Arts (BA)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Humanities",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/bhojpur-multiple-campus-bhojpur"
+                },
+                {
+                    "name": "Bachelor of Business Studies (BBS)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/bhojpur-multiple-campus-bhojpur"
+                },
+                {
+                    "name": "Bachelor of Education (B.Ed.)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/bhojpur-multiple-campus-bhojpur"
+                },
+                {
+                    "name": "M.Ed. Education Planning and Management",
+                    "level": "Master",
+                    "duration": "2 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/bhojpur-multiple-campus-bhojpur-med-education-planning-and-management-med"
+                },
+                {
+                    "name": "M.Ed. Nepali Language Education",
+                    "level": "Master",
+                    "duration": "2 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/bhojpur-multiple-campus-bhojpur-med-nepali-language-education-med"
+                }
+            ],
+            "facilities": [
+                "Library with TU Central Library e-library access",
+                "E-learning centre",
+                "Computer lab",
+                "Science lab",
+                "Interactive / smart boards",
+                "Multimedia classrooms",
+                "Wi-Fi",
+                "Sports",
+                "Counselling",
+                "Scholarships",
+                "Classrooms"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [
+                {
+                    "title": "Exam Form Open",
+                    "date": "2024-06-06",
+                    "summary": "Campus notice that the exam form was open.",
+                    "source_url": "https://bhmc.tu.edu.np/notices/3407"
+                },
+                {
+                    "title": "National Seminar cum Paper Presentation",
+                    "date": "2024-06-10",
+                    "summary": "Event listed on the campus website.",
+                    "source_url": "https://bhmc.tu.edu.np/"
+                },
+                {
+                    "title": "Part-time teacher vacancy",
+                    "date": "2026-04-17",
+                    "summary": "Applications invited for part-time teachers in Rural Development (Humanities), English Education and Nepali Education. Deadline Jestha 5, 2083 (19 May 2026). Contact 029-420106, 029-420287 or 9842086874.",
+                    "source_url": "https://edusanjal.com/vacancy/vacancy-for-part-time-teachers-at-bhojpur-multiple-campus/"
+                },
+                {
+                    "title": "Smart boards handed over",
+                    "date": "2025-07-03",
+                    "summary": "Ramprasad Rai Rural Municipality handed over three smart boards worth Rs 600,000 for technology-friendly teaching.",
+                    "source_url": "https://english.makalukhabar.com/bhojpur-campus-given-smart-boards/"
+                }
+            ],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-29-420106",
+                    "+977-29-420287",
+                    "+977-9842086874"
+                ],
+                "emails": [
+                    "info@bhmc.tu.edu.np",
+                    "bhojpurmc@gmail.com"
+                ],
+                "website": "https://bhmc.tu.edu.np/",
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Shree Shadananda Multiple Campus",
+                "name_ne": "श्री षडानन्द बहुमुखी क्याम्पस",
+                "slug": "shadananda-multiple-campus",
+                "ownership": "community",
+                "established_year": 2010,
+                "university": "Tribhuvan University",
+                "municipality": "Shadananda Municipality",
+                "address": "Shadananda Municipality Ward No. 7, Dingla, Bhojpur, Koshi Province, Nepal",
+                "description": "Community campus established with local participation and affiliated to Tribhuvan University in 2067 BS (2010 AD). Named after educationist and social reformer Balaguru Shadananda. It offers four-year B.Ed. and BBS programs aimed at students in the northern part of Bhojpur, including women, Dalit, indigenous and marginalized students. B.Ed. subjects published by the campus and its reports include English Education, Nepali Education, Economics Education, Health and Physical Education, Population Education and Educational Planning and Management. The campus website's master's page did not publish a running master's program.",
+                "mission": "षडानन्द बहुमुखी क्याम्पस शैक्षिक, प्राज्ञिक अनुसन्धान, तथा रचनात्मक शिक्षण सिकाइ कार्यले समुदायमा एक प्रतिष्ठित क्याम्पसको रुपमा स्थापित भएको हुनेछ।",
+                "vision": null,
+                "source_urls": [
+                    "https://www.shadanandacampus.edu.np/",
+                    "https://www.shadanandacampus.edu.np/introduction",
+                    "https://www.shadanandacampus.edu.np/vision_mission",
+                    "https://suchanaa.com/directory/shadananda-multiple-campus/",
+                    "https://edusanjal.com/college/shadananda-multiple-campus/",
+                    "https://www.collegenp.com/college/shadananda-multiple-campus-bhojpur"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Education (B.Ed.)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.shadanandacampus.edu.np/introduction"
+                },
+                {
+                    "name": "Bachelor of Business Studies (BBS)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/shadananda-multiple-campus-bhojpur-bachelor-of-business-studies-bbs-bbs"
+                }
+            ],
+            "facilities": [
+                "Library",
+                "Classrooms",
+                "Smart boards",
+                "Sports",
+                "Science lab",
+                "Counselling",
+                "Scholarships",
+                "ECA"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-29-421116",
+                    "+977-9852099705"
+                ],
+                "emails": [
+                    "smcdingla@gmail.com"
+                ],
+                "website": "https://www.shadanandacampus.edu.np/",
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Kulung Multiple Campus",
+                "name_ne": "कुलुङ बहुमुखी क्याम्पस",
+                "slug": "kulung-multiple-campus",
+                "ownership": "community",
+                "established_year": 2009,
+                "university": "Tribhuvan University",
+                "municipality": "Salpasilichho Rural Municipality",
+                "address": "Salpasilichho-1, Kulung, Bhojpur, Koshi Province, Nepal",
+                "description": "Community campus in Kulung, northern Bhojpur, affiliated to Tribhuvan University in 2066 BS (2009 AD) and approved by the University Grants Commission. It offers bachelor programs in management and education (BBS and B.Ed.) for students from Kulung and nearby villages, including adjoining areas of Sankhuwasabha. No campus website, email, published fee, or published review text was found.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://www.collegenp.com/college/kulung-multiple-campus-bhojpur",
+                    "https://edusanjal.com/college/kulung-multiple-campus/",
+                    "https://kaha6.com/company/kulung-multiple-campus-bhojpur/",
+                    "https://annapurnapost.com/story/97002/"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Business Studies (BBS)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/kulung-multiple-campus-bhojpur-bachelor-of-business-studies-bbs-bbs"
+                },
+                {
+                    "name": "Bachelor of Education (B.Ed.)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/kulung-multiple-campus-bhojpur-bachelor-of-education-bed-bed"
+                }
+            ],
+            "facilities": [
+                "Library",
+                "Sports",
+                "Science lab",
+                "Multimedia",
+                "Journal",
+                "Counselling",
+                "Scholarships",
+                "Tour",
+                "Classrooms",
+                "ECA"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-9866590002",
+                    "+977-9865589747"
+                ],
+                "emails": [],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Sumnima Polytechnic Institute",
+                "name_ne": "सुम्निमा बहुप्राविधिक शिक्षालय",
+                "slug": "sumnima-polytechnic-institute",
+                "ownership": "constituent",
+                "established_year": 2012,
+                "university": "Council for Technical Education and Vocational Training (CTEVT)",
+                "municipality": "Bhojpur Municipality",
+                "address": "Bhojpur Municipality-6, Deurali, Bhojpur, Koshi Province, Nepal",
+                "description": "CTEVT constituent technical institute established in 2069 BS at Deurali. It produces middle-level technical workers in construction and agriculture. Published diploma programs are Civil Engineering (48 seats), Agriculture (Plant Science) (40 seats) and Agriculture (Animal Science) (40 seats), each three years after SEE, plus shorter vocational training. The institute describes itself as a CTEVT constituent school. A regular-program fee of NPR 50,000 for three years, applicable from admission year 2080/81, is published on the civil and plant-science course pages.",
+                "mission": "Our mission is to guide and prepare learners in attaining their highest academic goals and competency levels to qualify them for initial employment and/or career advancement.",
+                "vision": "SPI committed to providing quality TVET programs and services for adult learners.",
+                "source_urls": [
+                    "https://spi.edu.np/",
+                    "https://spi.edu.np/about/",
+                    "https://spi.edu.np/courses/",
+                    "https://edusanjal.com/school/sumnima-polytechnic-institute/",
+                    "https://www.collegesnepal.com/sumnima-polytechnic-institute/"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Diploma in Civil Engineering",
+                    "level": "Diploma",
+                    "duration": "3 years",
+                    "faculty": "Engineering",
+                    "fee": "NPR 50000 total for 3 years (regular program, from admission year 2080/81); special scholarship track published as free for listed disadvantaged groups",
+                    "source_url": "https://spi.edu.np/diploma-in-civil-engineering/"
+                },
+                {
+                    "name": "Diploma in Agriculture (Plant Science)",
+                    "level": "Diploma",
+                    "duration": "3 years",
+                    "faculty": "Agriculture",
+                    "fee": "NPR 50000 total for 3 years (regular program, from admission year 2080/81); special scholarship track published as free for listed disadvantaged groups",
+                    "source_url": "https://spi.edu.np/diploma-in-agriculture-plant-science/"
+                },
+                {
+                    "name": "Diploma in Agriculture (Animal Science)",
+                    "level": "Diploma",
+                    "duration": "3 years",
+                    "faculty": "Agriculture",
+                    "fee": "NPR 50000 total for 3 years stated in the institute's admission notice covering this program",
+                    "source_url": "https://spi.edu.np/ag-animal-science/"
+                }
+            ],
+            "facilities": [
+                "Academic block",
+                "Lecture halls",
+                "Computer lab",
+                "Library",
+                "Laboratories",
+                "Conference hall",
+                "Workshop",
+                "Practical fields",
+                "Playground",
+                "Hostel",
+                "Sports and extra-curricular activities"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [
+                {
+                    "title": "Diploma admission open",
+                    "date": "2026-05-14",
+                    "summary": "Institute notice that SEE graduates can apply online from 2083/01/29 for three-year diplomas in Civil Engineering, Agriculture (Plant Science) and Agriculture (Animal Science). Published full fee NPR 50,000; online form fee NPR 1,000 via ctevtexam.org.np.",
+                    "source_url": "https://www.facebook.com/spibhojpur"
+                }
+            ],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-29-420716",
+                    "+977-9852052256",
+                    "+977-9852052446"
+                ],
+                "emails": [
+                    "info@spi.edu.np",
+                    "exam@spi.edu.np"
+                ],
+                "website": "https://spi.edu.np/",
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": [
+                {
+                    "question": "Is there will be entrance exam?",
+                    "answer": null,
+                    "source_url": "https://www.collegenp.com/college/sumnima-polytechnic-institute-bhojpur"
+                }
+            ]
+        },
+        {
+            "overview": {
+                "name": "Shreeram Mithila Polytechnic Institute",
+                "name_ne": "श्रीराम मिथिला बहुप्राविधिक शिक्षालय",
+                "slug": "shreeram-mithila-polytechnic-institute",
+                "ownership": "constituent",
+                "established_year": 2019,
+                "university": "Council for Technical Education and Vocational Training (CTEVT)",
+                "municipality": "Ramprasad Rai Rural Municipality",
+                "address": "Ramprasad Rai Rural Municipality-5, Aambote (Manebhanjyang), Bhojpur, Koshi Province, Nepal",
+                "description": "CTEVT constituent polytechnic at Aambote, described by the institute as founded in 2076 BS and the seventh constituent institute in Koshi Province. The building was inaugurated on 14 December 2022. The official site says it offers three-year full-time diploma programs in agriculture. The confirmed running program is Diploma in Agriculture (Plant Science). Shorter pre-diploma programs were described as proposed, not as currently offered, on an institute admission post. No published fee was found on the institute website.",
+                "mission": "To mould the young talent into a skilled dedicated technocrat capable of fulfilling the technical needs of our developing country.",
+                "vision": "Provide state of art quality technical education and ensure creative development of talents.",
+                "source_urls": [
+                    "https://srm.edu.np/",
+                    "https://srm.edu.np/about/",
+                    "https://edusanjal.com/school/shreeram-mithila-polytechnic-institute/",
+                    "https://www.collegenp.com/college/shreeram-mithila-polytechnic-institute",
+                    "https://thehimalayantimes.com/kathmandu/prez-bhandari-inaugurates-shreeram-mithila-polytechnic-institute"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Diploma in Agriculture (Plant Science)",
+                    "level": "Diploma",
+                    "duration": "3 years",
+                    "faculty": "Agriculture",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/shreeram-mithila-polytechnic-institute-diploma-in-agriculture-plant-science-diploma-in-agriculture/write-review"
+                }
+            ],
+            "facilities": [
+                "Academic building",
+                "Hostel",
+                "Computer lab",
+                "Practical classrooms",
+                "Library",
+                "Cafeteria",
+                "Sports",
+                "Internet",
+                "Classrooms"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-9857070100",
+                    "+977-9852052882",
+                    "+977-9844187559",
+                    "+977-9869818261"
+                ],
+                "emails": [
+                    "srmctevt@gmail.com"
+                ],
+                "website": "https://srm.edu.np/",
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        }
+    ]
+}

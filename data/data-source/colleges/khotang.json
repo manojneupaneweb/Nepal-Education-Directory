@@ -1,0 +1,781 @@
+{
+    "research_metadata": {
+        "country": "Nepal",
+        "province": "Koshi Province",
+        "district": "Khotang",
+        "research_date": "2026-11-07",
+        "total_institutions_discovered": 10,
+        "research_status": "completed",
+        "collection_mode": "responses"
+    },
+    "institutions": [
+        {
+            "overview": {
+                "name": "Diktel Multiple Campus",
+                "name_ne": "दिक्तेल बहुमुखी क्याम्पस",
+                "slug": "diktel-multiple-campus",
+                "ownership": "community",
+                "established_year": 1980,
+                "university": "Tribhuvan University",
+                "municipality": "Diktel Rupakot Majhuwagadhi Municipality",
+                "address": "Diktel Rupakot Majhuwagadhi Municipality-2, Diktel, Khotang, Nepal",
+                "description": "Community campus at the Khotang district headquarters, established on 16 Asoj 2037 BS (1980 AD) and affiliated to Tribhuvan University. It is the oldest higher-education campus in the district and the only QAA-accredited campus in Khotang; UGC accreditation was reported on 12 Magh 2080 BS. It runs bachelor and master programs in humanities, education, and management, and also +2 programs under the National Examinations Board. A 2025 news report listed it among seven TU-affiliated community campuses operating in the district.",
+                "mission": "To produce skilled and competent educational human resources through technology-friendly, research-based, professional, life-oriented, interactive, and competitive teaching and learning for the construction of sustainable, quality educational institutions.",
+                "vision": "To develop a shared educational heritage that provides quality education.",
+                "source_urls": [
+                    "https://www.diktelcampus.edu.np/",
+                    "https://www.collegenp.com/college/diktel-campus-khotang",
+                    "https://edusanjal.com/college/diktel-campus/",
+                    "https://npca.edu.np/campus_details/187",
+                    "https://ehimalayatimes.com/2024/03/207869/",
+                    "https://nagariknews.nagariknetwork.com/education/1468810-1742355806.html"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Arts (BA)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Humanities and Social Sciences",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/diktel-campus-khotang"
+                },
+                {
+                    "name": "Bachelor of Business Studies (BBS)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/diktel-campus-khotang"
+                },
+                {
+                    "name": "Bachelor of Education (B.Ed.)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/diktel-campus-khotang"
+                },
+                {
+                    "name": "One-Year Bachelor of Education (B.Ed.)",
+                    "level": "Bachelor",
+                    "duration": "1 year",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/diktel-campus-khotang"
+                },
+                {
+                    "name": "Master of Arts (MA) in Nepali",
+                    "level": "Master",
+                    "duration": "2 years",
+                    "faculty": "Humanities and Social Sciences",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/diktel-campus-khotang"
+                },
+                {
+                    "name": "Master of Arts (MA) in Sociology",
+                    "level": "Master",
+                    "duration": "2 years",
+                    "faculty": "Humanities and Social Sciences",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/diktel-campus-khotang"
+                },
+                {
+                    "name": "Master of Education (M.Ed.) in Nepali",
+                    "level": "Master",
+                    "duration": "2 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.diktelcampus.edu.np/"
+                },
+                {
+                    "name": "Master of Education (M.Ed.) in Educational Planning and Management (EPM)",
+                    "level": "Master",
+                    "duration": "2 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.diktelcampus.edu.np/"
+                }
+            ],
+            "facilities": [
+                "Hostel",
+                "Cafeteria",
+                "Library",
+                "Computer lab",
+                "Sports",
+                "Science lab",
+                "Conference hall",
+                "Multimedia",
+                "Journal",
+                "Counselling",
+                "Scholarships",
+                "Canteen",
+                "First aid room"
+            ],
+            "gallery": [],
+            "videos": [
+                {
+                    "title": "खोटाङको दिक्तेल बहुमुखी क्याम्पसको शैक्षिक सेवा नयाँ भवनबाट सुरु",
+                    "url": "https://www.youtube.com/watch?v=r5HldzO9FIs",
+                    "platform": "YouTube"
+                }
+            ],
+            "updates": [
+                {
+                    "title": "Exam Form Open - 4 Yrs. B.A, BFA, B.B.S., B.Ed., B.Sc., Fourth Year Supplementary-2082",
+                    "date": null,
+                    "summary": "Exam-form notice listed on the campus website.",
+                    "source_url": "https://www.diktelcampus.edu.np/image/notice/39371.pdf"
+                },
+                {
+                    "title": "Notice regarding filling up the exam form for M.Ed./MSSEd 4th Semester 2083",
+                    "date": null,
+                    "summary": "Master-level exam-form notice listed on the campus website.",
+                    "source_url": "https://www.diktelcampus.edu.np/image/notice/567860.pdf"
+                },
+                {
+                    "title": "Revised Exam Schedule: 4-Years B.A., B.B.S, B.Sc., B.Ed., Second Year Partial - 2082 (Revised: 2083/05/15)",
+                    "date": null,
+                    "summary": "Revised bachelor second-year partial exam schedule posted by the campus.",
+                    "source_url": "https://www.diktelcampus.edu.np/image/notice/368896.pdf"
+                },
+                {
+                    "title": "दिक्तेल बहुमुखी क्याम्पसलाई क्यूएएको मान्यता",
+                    "date": "2024-03-06",
+                    "summary": "Report that the campus received UGC Quality Assurance and Accreditation.",
+                    "source_url": "https://ehimalayatimes.com/2024/03/207869/"
+                }
+            ],
+            "faqs": [
+                {
+                    "question": "Where is it located?",
+                    "answer": "Diktel Road, Diktel, Khotang"
+                },
+                {
+                    "question": "What is the contact number?",
+                    "answer": "036420119, 9852849119"
+                }
+            ],
+            "contact": {
+                "phones": [
+                    "+977-36-420119",
+                    "+977-9852849119",
+                    "9764497071",
+                    "9842877107"
+                ],
+                "emails": [
+                    "diktelcampus@gmail.com"
+                ],
+                "website": "https://www.diktelcampus.edu.np/",
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Simpani Campus",
+                "name_ne": "सिम्पानी क्याम्पस",
+                "slug": "simpani-campus",
+                "ownership": "community",
+                "established_year": 2007,
+                "university": "Tribhuvan University",
+                "municipality": "Khotehang Rural Municipality",
+                "address": "Khotehang Rural Municipality-8, Simpani, Khotang, Nepal",
+                "description": "Community campus established in 2064 BS (2007 AD) at Simpani, affiliated to Tribhuvan University and listed by UGC directories. Published program pages list a four-year B.Ed. and a two-year M.Ed. Edusanjal lists only B.Ed. and reported 52 students at the time of that listing. It is one of seven TU community campuses named in a 2025 district report.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://www.collegenp.com/college/simpani-campus-khotang",
+                    "https://www.collegenp.com/course/simpani-campus-khotang-bachelor-of-education-bed-bed",
+                    "https://www.collegenp.com/course/simpani-campus-khotang-master-of-education-med",
+                    "https://edusanjal.com/college/simpani-campus/",
+                    "https://nagariknews.nagariknetwork.com/education/1468810-1742355806.html"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Education (B.Ed.)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/simpani-campus-khotang-bachelor-of-education-bed-bed"
+                },
+                {
+                    "name": "Master of Education (M.Ed.)",
+                    "level": "Master",
+                    "duration": "2 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/simpani-campus-khotang-master-of-education-med"
+                }
+            ],
+            "facilities": [
+                "Library",
+                "Sports",
+                "Science lab",
+                "Conference",
+                "Multimedia",
+                "Journal",
+                "Counselling",
+                "Scholarships",
+                "E-library",
+                "Tour",
+                "Computer lab",
+                "Classrooms",
+                "Alumni",
+                "ECA"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-9842986445"
+                ],
+                "emails": [],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Rawa Campus",
+                "name_ne": "रावा क्याम्पस",
+                "slug": "rawa-campus",
+                "ownership": "community",
+                "established_year": 2008,
+                "university": "Tribhuvan University",
+                "municipality": "Rawabesi Rural Municipality",
+                "address": "Rawabeshi Rural Municipality-2, Kharpa, Khotang, Nepal",
+                "description": "Community campus established in 2065 BS (2008 AD) at Kharpa in the north of Khotang, affiliated to Tribhuvan University. It offers a four-year B.Ed. under the Faculty of Education, with published subject areas including Economics, English, Nepali, and Population Studies. Directories report students from Khotang and neighbouring Okhaldhunga. A 2024 notice stated an annual fee of NPR 10,000, reduced to NPR 7,500 for other students and NPR 5,000 for women and Dalit students.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://www.collegenp.com/college/rawa-campus-khotang",
+                    "https://www.collegenp.com/course/rawa-campus-khotang-bachelor-of-education-bed-bed",
+                    "https://www.collegenp.com/scholarship/rawa-campus-announces-fee-discount-for-women-and-dalit-students",
+                    "https://edusanjal.com/college/rawa-campus/",
+                    "https://nagariknews.nagariknetwork.com/education/1468810-1742355806.html"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Education (B.Ed.)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Education",
+                    "fee": "NPR 40000 total published on course page; annual NPR 10000 general, NPR 7500 with 25 percent discount, NPR 5000 for women and Dalit students",
+                    "source_url": "https://www.collegenp.com/course/rawa-campus-khotang-bachelor-of-education-bed-bed"
+                }
+            ],
+            "facilities": [
+                "Library",
+                "Computer lab",
+                "Hostel",
+                "Internet",
+                "Multimedia",
+                "Journal",
+                "Counselling",
+                "Scholarships",
+                "Tour",
+                "Classrooms",
+                "ECA"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [
+                {
+                    "title": "Rawa Campus Announces Fee Discount for Women and Dalit Students",
+                    "date": "2024-11-10",
+                    "summary": "Campus management decision reported as 50 percent tuition discount for women and Dalit students and 25 percent for other bachelor students, from an annual fee of NPR 10,000.",
+                    "source_url": "https://www.collegenp.com/scholarship/rawa-campus-announces-fee-discount-for-women-and-dalit-students"
+                }
+            ],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-9852888882",
+                    "+977-9844567768"
+                ],
+                "emails": [
+                    "rawacampus@gmail.com"
+                ],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Khotang Campus",
+                "name_ne": "खोटाङ क्याम्पस",
+                "slug": "khotang-campus",
+                "ownership": "community",
+                "established_year": null,
+                "university": "Tribhuvan University",
+                "municipality": "Khotehang Rural Municipality",
+                "address": "Khotehang Rural Municipality, Khotang Bazar, Khotang, Nepal",
+                "description": "Community campus at Khotang Bazar, Khotehang Rural Municipality, affiliated to Tribhuvan University and listed in TU affiliated-campus records. Published directories state that it offers a bachelor program in education and provides scholarships for deserving and economically disadvantaged students. Establishment year was not published on the pages reviewed. A 2025 news report named it among the seven TU community campuses in the district.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://www.collegenp.com/college/khotang-campus-khotang",
+                    "https://www.collegenp.com/course/khotang-campus-khotang-bachelor-of-education-bed-bed",
+                    "https://edusanjal.com/college/district/khotang/",
+                    "https://nagariknews.nagariknetwork.com/education/1468810-1742355806.html"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Education (B.Ed.)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/khotang-campus-khotang-bachelor-of-education-bed-bed"
+                }
+            ],
+            "facilities": [
+                "Library",
+                "Sports",
+                "Conference",
+                "Counselling",
+                "Scholarships",
+                "Tour",
+                "Classrooms",
+                "ECA"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-36-690125"
+                ],
+                "emails": [],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Chisapani Campus",
+                "name_ne": "चिसापानी क्याम्पस",
+                "slug": "chisapani-campus",
+                "ownership": "community",
+                "established_year": 2012,
+                "university": "Tribhuvan University",
+                "municipality": "Jantedhunga Rural Municipality",
+                "address": "Jantedhunga Rural Municipality-5, Chisapani, Khotang, Nepal",
+                "description": "Community campus established in 2069 BS (2012 AD) at Chisapani, affiliated to Tribhuvan University. Published pages describe a four-year B.Ed. under the Faculty of Education. It is one of seven TU community campuses named in a 2025 district report.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://www.collegenp.com/college/chisapani-campus-khotang",
+                    "https://www.collegenp.com/course/chisapani-campus-khotang-bachelor-of-education-bed",
+                    "https://nagariknews.nagariknetwork.com/education/1468810-1742355806.html"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Education (B.Ed.)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/chisapani-campus-khotang-bachelor-of-education-bed"
+                }
+            ],
+            "facilities": [
+                "Library",
+                "Sports",
+                "Conference",
+                "Multimedia",
+                "Journal",
+                "Counselling",
+                "Scholarships",
+                "Tour",
+                "Computer lab",
+                "Classrooms",
+                "ECA"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-9862582347",
+                    "+977-9843008778",
+                    "+977-9842544664"
+                ],
+                "emails": [],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Halesi Campus",
+                "name_ne": "हलेसी क्याम्पस",
+                "slug": "halesi-campus",
+                "ownership": "community",
+                "established_year": 2012,
+                "university": "Tribhuvan University",
+                "municipality": "Halesi Tuwachung Municipality",
+                "address": "Halesi Tuwachung Municipality-7, Mahadevsthan, Khotang, Nepal",
+                "description": "Community campus established in 2069 BS (2012 AD) at Mahadevsthan, near Halesi, affiliated to Tribhuvan University. It offers a four-year B.Ed. Published scholarship funds include Late Bhagisara Rai Memorial Scholarship Endowment Fund-2070, Late Panch-Kirtimaya Rai Memorial Scholarship Endowment Fund-2076, and Late Rina Rai Memorial Scholarship Endowment Fund-2079. It is one of seven TU community campuses named in a 2025 district report.",
+                "mission": "To provide affordable and inclusive higher education, especially for rural and underprivileged students. To prepare skilled, ethical, and committed educators who can contribute to Nepal’s education sector. To create a strong connection between academic learning and community development.",
+                "vision": "To grow as a trusted academic institution that empowers students through quality education, social responsibility, and local engagement.",
+                "source_urls": [
+                    "https://www.collegenp.com/college/halesi-campus-khotang",
+                    "https://www.collegenp.com/course/halesi-campus-khotang-bachelor-of-education-bed",
+                    "https://edusanjal.com/college/halesi-campus/",
+                    "https://nagariknews.nagariknetwork.com/education/1468810-1742355806.html"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Education (B.Ed.)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/halesi-campus-khotang-bachelor-of-education-bed"
+                }
+            ],
+            "facilities": [
+                "Library",
+                "Sports",
+                "Conference",
+                "Multimedia",
+                "Journal",
+                "Counselling",
+                "Scholarships",
+                "Tour",
+                "Computer lab",
+                "Classrooms",
+                "ECA"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-9862819481",
+                    "+977-9805987888",
+                    "+977-9849304038",
+                    "+977-9862819457"
+                ],
+                "emails": [],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Sakela Multiple Campus",
+                "name_ne": "साकेला बहुमुखी क्याम्पस",
+                "slug": "sakela-multiple-campus",
+                "ownership": "community",
+                "established_year": 2014,
+                "university": "Tribhuvan University",
+                "municipality": "Sakela Rural Municipality",
+                "address": "Sakela Rural Municipality-2, Ratanchha, Khotang, Nepal",
+                "description": "Community campus established in 2070 BS (2014 AD) at Ratanchha, affiliated to Tribhuvan University. Published pages state that it offers a Bachelor of Arts. A course directory lists 125 seats and a four-year program. It is one of seven TU community campuses named in a 2025 district report. It is distinct from Sakela Secondary School at Ratanchha, which runs a CTEVT diploma.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://www.collegenp.com/college/sakela-multiple-campus",
+                    "https://www.collegenp.com/course/sakela-multiple-campus-bachelor-of-arts-ba",
+                    "https://nagariknews.nagariknetwork.com/education/1468810-1742355806.html",
+                    "https://www.nayapatrikadaily.com/news-details/110407/2023-03-22"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Arts (BA)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Humanities and Social Sciences",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/sakela-multiple-campus-bachelor-of-arts-ba"
+                }
+            ],
+            "facilities": [
+                "Library",
+                "Sports",
+                "Conference",
+                "Multimedia",
+                "Journal",
+                "Counselling",
+                "Scholarships",
+                "Tour",
+                "Classrooms",
+                "ECA"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-9842906682"
+                ],
+                "emails": [
+                    "sakelamultiplecampus1@gmail.com"
+                ],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Mahuregadhi Polytechnic Institute",
+                "name_ne": "महुरेगढी प्राविधिक शिक्षालय",
+                "slug": "mahuregadhi-polytechnic-institute",
+                "ownership": "government",
+                "established_year": 2018,
+                "university": "Council for Technical Education and Vocational Training (CTEVT)",
+                "municipality": "Diktel Rupakot Majhuwagadhi Municipality",
+                "address": "Diktel Rupakot Majhuwagadhi Municipality-13, Nunthala, Khotang, Nepal",
+                "description": "CTEVT constituent polytechnic established in 2075 BS at Nunthala, about 17 km from Diktel. The institute states that 68 ropanis of land were obtained for infrastructure. It offers three-year diplomas in Civil Engineering (48 seats) and Forestry (40 seats), plus short-term vocational courses. Official pages publish a three-year full-fee figure of Rs. 60,000 for Diploma in Civil Engineering, Rs. 40,000 for the targeted-group scholarship track, and deposit-plus-tour fee only for the merit scholarship track.",
+                "mission": "To be the innovative and constructive polytechnic linking people for tomorrow, linking skills for the future.",
+                "vision": "To prepare our students to be industry-ready, life-ready, and world ready for the transformation of Nepal through skill and competencies.",
+                "source_urls": [
+                    "https://www.mpi.edu.np/about-mpi/",
+                    "https://www.mpi.edu.np/diploma-in-civil-engineering/",
+                    "https://www.mpi.edu.np/diploma-in-forestry/",
+                    "https://www.collegenp.com/college/mahuregadhi-polytechnic-institute",
+                    "https://nagariknews.nagariknetwork.com/education/600111-1629038509.html"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Diploma in Civil Engineering",
+                    "level": "Diploma",
+                    "duration": "3 years",
+                    "faculty": "Engineering",
+                    "fee": "Full-fee Rs. 60000 for 3 years including deposit and tour; targeted-group scholarship Rs. 40000 for 3 years including deposit and tour; merit scholarship deposit and tour fee only",
+                    "source_url": "https://www.mpi.edu.np/diploma-in-civil-engineering/"
+                },
+                {
+                    "name": "Diploma in Forestry",
+                    "level": "Diploma",
+                    "duration": "3 years",
+                    "faculty": "Forestry",
+                    "fee": null,
+                    "source_url": "https://www.mpi.edu.np/diploma-in-forestry/"
+                }
+            ],
+            "facilities": [
+                "Classrooms with multimedia and smart board",
+                "Practical labs",
+                "Library",
+                "Playground",
+                "Science lab",
+                "Sports",
+                "Multimedia",
+                "Journal",
+                "Placement",
+                "Counselling",
+                "Scholarships",
+                "Tour",
+                "ECA"
+            ],
+            "gallery": [],
+            "videos": [
+                {
+                    "title": "Mahuregadhi Polytechnic Institute, Khotang | CTEVT School | Diploma Civil and Forestry | TVET TIMES",
+                    "url": "https://www.youtube.com/watch?v=lxny412YwF4",
+                    "platform": "YouTube"
+                }
+            ],
+            "updates": [
+                {
+                    "title": "धरौटी सम्बन्धि सूचना",
+                    "date": "2026-02-02",
+                    "summary": "Deposit-related notice posted on the institute site.",
+                    "source_url": "https://www.mpi.edu.np/%e0%a4%a7%e0%a4%b0%e0%a5%8c%e0%a4%9f%e0%a5%80-%e0%a4%b8%e0%a4%ae%e0%a5%8d%e0%a4%ac%e0%a4%a8%e0%a5%8d%e0%a4%a7%e0%a4%bf-%e0%a4%b8%e0%a5%82%e0%a4%9a%e0%a4%a8%e0%a4%be/"
+                },
+                {
+                    "title": "Sixth semester result has been published",
+                    "date": "2026-01-03",
+                    "summary": "Institute blog entry stating that the sixth-semester result was published.",
+                    "source_url": "https://www.mpi.edu.np/author/mpiadmin/"
+                },
+                {
+                    "title": "हिउँदे विदा सम्बन्धि सुचना",
+                    "date": "2025-12-28",
+                    "summary": "Winter-vacation notice listed on the institute site.",
+                    "source_url": "https://www.mpi.edu.np/author/mpiadmin/"
+                },
+                {
+                    "title": "भर्ना खुल्यो",
+                    "date": null,
+                    "summary": "Admission-open notice linked from the institute website news ticker.",
+                    "source_url": "https://www.mpi.edu.np/%e0%a4%ad%e0%a4%b0%e0%a5%8d%e0%a4%a8%e0%a4%be-%e0%a4%96%e0%a5%81%e0%a4%b2%e0%a5%8d%e0%a4%af%e0%a5%8b-%e0%a4%ad%e0%a4%b0%e0%a5%8d%e0%a4%a8%e0%a4%be-%e0%a4%96%e0%a5%81%e0%a4%b2%e0%a5%8d%e0%a4%af/"
+                }
+            ],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "9852852811",
+                    "9842905278",
+                    "9863880055",
+                    "+977-9801100233"
+                ],
+                "emails": [
+                    "mpikhotang@gmail.com"
+                ],
+                "website": "https://www.mpi.edu.np/",
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Sakela Secondary School",
+                "name_ne": "साकेला माध्यमिक विद्यालय",
+                "slug": "sakela-secondary-school-khotang",
+                "ownership": "community",
+                "established_year": null,
+                "university": "Council for Technical Education and Vocational Training (CTEVT)",
+                "municipality": "Sakela Rural Municipality",
+                "address": "Ratanchha, Sakela, Khotang, Nepal",
+                "description": "Community school at Ratanchha that also runs school-level and +2 programs. Edusanjal states it received CTEVT affiliation in 2075 BS for a three-year Diploma in Agriculture (Plant Science). A course page lists 40 seats. It is not a university campus; the separate Sakela Multiple Campus at Ratanchha offers TU BA. Included here only for the CTEVT diploma.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://edusanjal.com/school/sakela-higher-secondary-school/",
+                    "https://www.collegenp.com/school/sakela-secondary-school-khotang",
+                    "https://www.collegenp.com/course/sakela-secondary-school-diploma-in-agriculture-plant-science-diploma-in-agriculture"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Diploma in Agriculture (Plant Science)",
+                    "level": "Diploma",
+                    "duration": "3 years",
+                    "faculty": "Agriculture",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/sakela-secondary-school-diploma-in-agriculture-plant-science-diploma-in-agriculture"
+                }
+            ],
+            "facilities": [
+                "Library",
+                "Sports",
+                "Music",
+                "Dance",
+                "Science lab",
+                "Multimedia",
+                "Counselling",
+                "Scholarships",
+                "Tour",
+                "Computer lab",
+                "Classrooms",
+                "ECA"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-9849320872"
+                ],
+                "emails": [
+                    "sakelamavi@gmail.com"
+                ],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Saraswati Secondary School, Diktel",
+                "name_ne": "सरस्वती माध्यमिक विद्यालय, दिक्तेल",
+                "slug": "saraswati-secondary-school-diktel",
+                "ownership": "community",
+                "established_year": 1952,
+                "university": "Council for Technical Education and Vocational Training (CTEVT)",
+                "municipality": "Diktel Rupakot Majhuwagadhi Municipality",
+                "address": "Diktel Rupakot Majhuwagadhi Municipality-1, Diktel, Khotang, Nepal",
+                "description": "Community school at Diktel, established in 2009 BS (1952 AD), which also runs ECD to Grade 12 programs under the National Examinations Board. College directories state that it offers a CTEVT Diploma in Plant Science, and a government CTEVT institute list names Diploma in Agriculture (Plant Science) at Saraswati Ma. Vi., Rupakot Majhuwagadhi, Diktel. The same sources also list a pre-diploma in plant science, which is not treated here as a higher program. A dedicated duration and fee for the Diktel diploma offering were not published on the pages reviewed.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://www.collegenp.com/school/saraswati-secondary-school-diktel-khotang",
+                    "https://edusanjal.com/school/saraswati-higher-secondary-school-khotang/",
+                    "https://giwmscdntwo.gov.np/media/pdf_upload/%E0%A4%B8%E0%A5%8D%E0%A4%B5%E0%A4%A4%E0%A4%83%20%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%BE%E0%A4%B6%20%E0%A4%AA%E0%A5%81%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A4%BF%E0%A4%95%E0%A4%BE%20(2081%20%E0%A4%AC%E0%A5%88%E0%A4%B6%E0%A4%BE%E0%A4%96%20%E0%A4%A6%E0%A5%87%E0%A4%96%E0%A5%80%20%E0%A4%85%E0%A4%B7%E0%A4%BE%E0%A4%A2%20%E0%A4%B8%E0%A4%AE%E0%A5%8D%E0%A4%AE)_g0x3clv.pdf"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Diploma in Agriculture (Plant Science)",
+                    "level": "Diploma",
+                    "duration": null,
+                    "faculty": "Agriculture",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/school/saraswati-secondary-school-diktel-khotang"
+                }
+            ],
+            "facilities": [
+                "Cafeteria",
+                "Library",
+                "Sports",
+                "Internet",
+                "Music",
+                "Dance",
+                "Science lab",
+                "Multimedia",
+                "Journal",
+                "Counselling",
+                "Scholarships",
+                "Tour",
+                "Computer lab",
+                "Classrooms",
+                "ECA",
+                "Agricultural laboratory"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-36-420124",
+                    "+977-36-420322",
+                    "+977-9852849332",
+                    "+977-9842905816"
+                ],
+                "emails": [
+                    "saraswatidiktel1@gmail.com"
+                ],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        }
+    ]
+}

@@ -1,0 +1,315 @@
+{
+  "research_metadata": {
+    "country": "Nepal",
+    "province": "Sudurpashchim Province",
+    "district": "Kailali",
+    "research_date": "2025-05-01",
+    "total_institutions_discovered": 1,
+    "total_institutions_verified": 1,
+    "coverage_notes": "Initial directory build featuring major institutions such as Kailali Multiple Campus. Additional constituent and affiliated campuses will follow in subsequent updates.",
+    "research_status": "partial"
+  },
+  "institutions": [
+    {
+      "identity": {
+        "name": "Kailali Multiple Campus",
+        "name_ne": "कैali बहुमुखी क्याम्पस",
+        "alternative_names": [
+          "KMC Dhangadhi"
+        ],
+        "slug": "kailali-multiple-campus",
+        "category": "campus",
+        "institution_type": "Community",
+        "ownership": "Public/Community",
+        "established_year": 1979,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "logo_source": null,
+        "short_description": "One of the largest community campuses in the Sudurpashchim Province of Nepal, affiliated with Tribhuvan University.",
+        "description": "Kailali Multiple Campus (KMC), established in 1979, is a prominent community-owned higher education institution located in Dhangadhi, Kailali. It offers diverse academic programs under Tribhuvan University, ranging from humanities and management to science and education streams."
+      },
+      "location": {
+        "province": "Sudurpashchim Province",
+        "district": "Kailali",
+        "municipality": "Dhangadhi Sub-Metropolitan City",
+        "ward": 4,
+        "tole": "Campus Road",
+        "full_address": "Dhangadhi-4, Kailali, Sudurpashchim Province, Nepal",
+        "latitude": 28.6841,
+        "longitude": 80.5925,
+        "google_maps_url": null,
+        "google_maps_embed_url": null,
+        "nearby_landmarks": [
+          "Traffic Chowk"
+        ]
+      },
+      "affiliation": {
+        "university": "Tribhuvan University",
+        "affiliation_type": "Constituent/Affiliated Community Campus",
+        "accreditation": [
+          "University Grants Commission (UGC) Nepal"
+        ],
+        "recognition_details": [
+          "Approved by Tribhuvan University and UGC Nepal"
+        ]
+      },
+      "academics": {
+        "study_system": "Semester and Annual",
+        "academic_calendar": "As per Tribhuvan University schedule",
+        "medium_of_instruction": [
+          "Nepali",
+          "English"
+        ],
+        "teaching_methodology": "Lectures, practical sessions, assignments, and interactive discussions.",
+        "programs": [
+          {
+            "name": "Bachelor of Business Studies (BBS)",
+            "degree_level": "Undergraduate",
+            "faculty": "Management",
+            "specialization": [
+              "Management"
+            ],
+            "duration": "4 Years",
+            "semester_or_year": "Annual",
+            "eligibility": "+2 or equivalent in any stream with minimum second division.",
+            "entrance_requirement": "As per Tribhuvan University norms",
+            "fee": null,
+            "intake_capacity": null,
+            "status": "active",
+            "source_urls": []
+          },
+          {
+            "name": "Bachelor of Science (B.Sc.)",
+            "degree_level": "Undergraduate",
+            "faculty": "Science",
+            "specialization": [
+              "Physics",
+              "Chemistry",
+              "Mathematics",
+              "Botany",
+              "Zoology"
+            ],
+            "duration": "4 Years",
+            "semester_or_year": "Annual/Semester",
+            "eligibility": "+2 Science or equivalent.",
+            "entrance_requirement": "Entrance exam conducted by TU IOST",
+            "fee": null,
+            "intake_capacity": null,
+            "status": "active",
+            "source_urls": []
+          }
+        ]
+      },
+      "admission": {
+        "guidance": "Admissions are conducted according to Tribhuvan University guidelines and academic calendars.",
+        "requirements": [
+          "Completed +2 or equivalent education",
+          "Passing score in respective university entrance examinations where applicable"
+        ],
+        "application_process": [
+          "Obtain application form or apply online via institutional/university portal",
+          "Submit academic transcripts and certificates",
+          "Appear for entrance test if required"
+        ],
+        "application_url": null,
+        "entrance_details": "Mandatory entrance tests for specific professional and science programs as regulated by Tribhuvan University.",
+        "required_documents": [
+          "SLC/SEE mark sheet and character certificate",
+          "+2 transcript, migration, and provisional certificates",
+          "Recent passport size photographs"
+        ],
+        "admission_contact": [],
+        "current_notices": []
+      },
+      "scholarships": [
+        {
+          "name": "Merit and Need-Based Scholarships",
+          "type": "Institutional/Government",
+          "eligibility": "Outstanding academic performance and financially marginalized backgrounds.",
+          "benefits": "Partial or full tuition fee waiver.",
+          "application_process": "Apply through the campus administration scholarship committee.",
+          "deadline": null,
+          "status": "active",
+          "source_urls": []
+        }
+      ],
+      "facilities": [
+        "Library",
+        "Science Laboratories",
+        "Computer Lab",
+        "Sports Ground",
+        "Cafeteria",
+        "Parking"
+      ],
+      "infrastructure": [
+        "Multiple academic buildings",
+        "Administrative block",
+        "Auditorium hall"
+      ],
+      "faculty": {
+        "principal": null,
+        "chairperson": null,
+        "campus_chief": null,
+        "departments": [
+          "Management",
+          "Humanities",
+          "Science",
+          "Education"
+        ],
+        "faculty_members": [],
+        "teaching_approach": "Student-centered learning combining theoretical instruction with practical exposure."
+      },
+      "leadership_messages": {
+        "principal_message": null,
+        "chairperson_message": null,
+        "founder_message": null
+      },
+      "institutional_profile": {
+        "mission": "To provide accessible, high-quality higher education to empower the youth of the region.",
+        "vision": "To become a leading center of academic excellence in Western Nepal.",
+        "core_values": [
+          "Academic integrity",
+          "Inclusivity",
+          "Community service",
+          "Quality education"
+        ],
+        "highlights": [
+          "Established in 1979",
+          "Large student enrollment",
+          "Diverse program offerings across multiple faculties"
+        ],
+        "features": [
+          "Experienced faculty members",
+          "Affordable public education model"
+        ],
+        "why_choose_this_college": [
+          "Reputable legacy under Tribhuvan University",
+          "Comprehensive course choices",
+          "Cost-effective learning options"
+        ],
+        "achievements": [],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": [
+          "Annual sports meet",
+          "Cultural programs",
+          "Debates and symposia"
+        ],
+        "clubs": [
+          "Red Cross Circle",
+          "Sports Club",
+          "Cultural Committee"
+        ],
+        "sports": [
+          "Football",
+          "Cricket",
+          "Volleyball",
+          "Badminton"
+        ],
+        "student_organizations": [
+          "Active student union chapters"
+        ],
+        "campus_experience": "Vibrant campus life with active student participation in cultural, literary, and sports events.",
+        "student_welfare": [
+          "Counseling support",
+          "Health first-aid services"
+        ]
+      },
+      "career_development": {
+        "placement_cell": null,
+        "internship_opportunities": [],
+        "industry_partnerships": [],
+        "career_counseling": null,
+        "alumni_network": null,
+        "placement_statistics": []
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "admission_contacts": [],
+        "website": null,
+        "office_hours": "10:00 AM - 5:00 PM (Sunday to Friday)",
+        "contact_person": null
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "linkedin": null,
+        "youtube": null,
+        "x": null,
+        "other": []
+      },
+      "online_resources": {
+        "prospectus": [],
+        "fee_structure": [],
+        "academic_calendar": [],
+        "notices": [],
+        "results": [],
+        "student_portal": null,
+        "downloads": []
+      },
+      "seo": {
+        "suggested_title": "Kailali Multiple Campus, Dhangadhi, Kailali - Courses, Admission, Info",
+        "meta_description": "Explore Kailali Multiple Campus in Dhangadhi, Kailali. Find details on TU-affiliated programs, admissions, fees, scholarships, and campus facilities.",
+        "keywords": [
+          "Kailali Multiple Campus",
+          "KMC Dhangadhi",
+          "Colleges in Kailali",
+          "Tribhuvan University colleges in Dhangadhi"
+        ],
+        "faq": [
+          {
+            "question": "Which university is Kailali Multiple Campus affiliated with?",
+            "answer": "Kailali Multiple Campus is affiliated with Tribhuvan University."
+          },
+          {
+            "question": "Where is Kailali Multiple Campus located?",
+            "answer": "It is located in Dhangadhi Sub-Metropolitan City, Ward No. 4, Kailali district, Sudurpashchim Province, Nepal."
+          }
+        ]
+      },
+      "verification": {
+        "verification_status": "partial",
+        "last_verified_at": "2025-05-01",
+        "official_sources": [],
+        "secondary_sources": [
+          "Tribhuvan University directory records"
+        ],
+        "field_confidence": {
+          "identity": "high",
+          "location": "high",
+          "affiliation": "high"
+        },
+        "missing_information": [
+          "Exact current principal name",
+          "Detailed fee structures",
+          "Official website URL"
+        ],
+        "notes": "Verified basic existence and institutional category via public educational databases."
+      }
+    }
+  ],
+  "district_summary": {
+    "total_colleges": 1,
+    "government_colleges": 0,
+    "community_colleges": 1,
+    "private_colleges": 0,
+    "universities_and_constituent_campuses": 0,
+    "other_institutions": 0,
+    "municipalities_covered": [
+      "Dhangadhi Sub-Metropolitan City"
+    ],
+    "institutions_by_university": [
+      {
+        "university": "Tribhuvan University",
+        "count": 1
+      }
+    ],
+    "research_gaps": [
+      "Need further exploration of private and technical campuses in Tikapur, Lamkichuha, and Godawari municipalities."
+    ]
+  }
+}

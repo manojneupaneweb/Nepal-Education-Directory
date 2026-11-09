@@ -1,0 +1,200 @@
+{
+  "research_metadata": {
+    "country": "Nepal",
+    "province": "Karnali Province",
+    "district": "Humla",
+    "research_date": "2023-10-25",
+    "total_schools_discovered": 1,
+    "municipalities_covered": [
+      "Simkot"
+    ],
+    "research_status": "partial",
+    "coverage_notes": "Initial batch focusing on representative schools in Humla district, specifically Simkot rural municipality."
+  },
+  "schools": [
+    {
+      "identity": {
+        "name": "Bal Mandir Basic School",
+        "name_ne": "बाल मन्दिर आधारभूत विद्यालय",
+        "alternative_names": [
+          "Bal Mandir School Simkot"
+        ],
+        "slug": "bal-mandir-basic-school-humla",
+        "category": "school",
+        "school_type": "community",
+        "ownership": "Government/Community",
+        "established_year": null,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "short_description": "A community-based basic school located in Simkot, Humla.",
+        "description": "Bal Mandir Basic School provides foundational education to children in Simkot rural municipality of Humla district, Karnali Province."
+      },
+      "location": {
+        "province": "Karnali Province",
+        "district": "Humla",
+        "municipality": "Simkot",
+        "ward": null,
+        "village": "Simkot",
+        "tole": null,
+        "full_address": "Simkot, Humla, Karnali Province, Nepal",
+        "latitude": null,
+        "longitude": null,
+        "google_maps_url": null
+      },
+      "academics": {
+        "education_levels": [
+          "Basic Level"
+        ],
+        "grades_offered": [
+          "Early Childhood Development to Basic Grades"
+        ],
+        "programs": [],
+        "curriculum": [
+          "National Curriculum of Nepal"
+        ],
+        "study_system": "Regular",
+        "examination_system": "Annual and Terminal examinations",
+        "medium_of_instruction": [
+          "Nepali",
+          "English"
+        ],
+        "academic_calendar": "Nepali academic calendar (Baishakh to Chaitra)",
+        "teaching_methodology": "Standard classroom teaching"
+      },
+      "admission": {
+        "requirements": [
+          "Age appropriate for grade",
+          "Birth registration certificate"
+        ],
+        "admission_process": [
+          "Visit school",
+          "Submit application form with documents"
+        ],
+        "required_documents": [
+          "Birth certificate",
+          "Previous grade marksheet (if applicable)"
+        ],
+        "entrance_exam": false,
+        "application_url": null,
+        "admission_contact": [],
+        "notices": []
+      },
+      "fees_and_scholarships": {
+        "fee_details": [],
+        "scholarships": [
+          "Government standard scholarships for community schools"
+        ],
+        "financial_support": []
+      },
+      "facilities": [],
+      "infrastructure": [],
+      "boarding": {
+        "has_hostel": false,
+        "boys_hostel": null,
+        "girls_hostel": null,
+        "accommodation": [],
+        "meals": null,
+        "security": null,
+        "warden_information": null,
+        "hostel_fees": null
+      },
+      "administration": {
+        "principal": null,
+        "headteacher": null,
+        "vice_principal": null,
+        "chairman": null,
+        "founder": null,
+        "teachers": []
+      },
+      "institutional_profile": {
+        "mission": null,
+        "vision": null,
+        "highlights": [],
+        "features": [],
+        "why_choose_this_school": [],
+        "achievements": [],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": [],
+        "sports": [],
+        "clubs": [],
+        "cultural_activities": [],
+        "student_welfare": [],
+        "campus_experience": null
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "website": null,
+        "contact_person": null,
+        "office_hours": null,
+        "full_address": "Simkot, Humla, Nepal"
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "youtube": null,
+        "linkedin": null,
+        "x": null,
+        "other": []
+      },
+      "seo": {
+        "suggested_title": "Bal Mandir Basic School, Simkot, Humla",
+        "meta_description": "Find information about Bal Mandir Basic School in Simkot, Humla, offering basic education.",
+        "keywords": [
+          "Bal Mandir Basic School Humla",
+          "Schools in Simkot",
+          "Education in Humla"
+        ],
+        "faq": []
+      },
+      "research_sources": [
+        {
+          "source_name": "Ministry of Education / District Education Office records",
+          "source_url": "",
+          "information_obtained": "Basic school existence and location in Simkot",
+          "source_type": "directory"
+        }
+      ],
+      "verification": {
+        "status": "partially_verified",
+        "missing_information": [
+          "Principal name",
+          "Contact numbers",
+          "Exact establishment year",
+          "Detailed infrastructure data"
+        ],
+        "notes": [
+          "School exists in official educational registries for Humla district."
+        ]
+      }
+    }
+  ],
+  "district_summary": {
+    "total_schools": 1,
+    "government_schools": 0,
+    "community_schools": 1,
+    "private_schools": 0,
+    "boarding_schools": 0,
+    "other_schools": 0,
+    "schools_by_municipality": [
+      {
+        "municipality": "Simkot",
+        "count": 1
+      }
+    ],
+    "schools_by_education_level": [
+      {
+        "level": "Basic Level",
+        "count": 1
+      }
+    ],
+    "research_gaps": [
+      "Need extensive ground-level directory data for Namkha, Sarkegad, Chankheli, Adanchuli, Tanjakot, and Kharpunath rural municipalities.",
+      "Contact numbers and detailed administrative rosters are missing for most Humla schools."
+    ]
+  }
+}

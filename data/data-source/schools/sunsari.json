@@ -1,0 +1,245 @@
+{
+  "research_metadata": {
+    "country": "Nepal",
+    "province": "Koshi Province",
+    "district": "Sunsari",
+    "research_date": "2023-10-25",
+    "total_schools_discovered": 1,
+    "municipalities_covered": [
+      "Dharan Sub-Metropolitan City"
+    ],
+    "research_status": "partial",
+    "coverage_notes": "Initial batch for Sunsari district, focusing on prominent schools in Dharan Sub-Metropolitan City."
+  },
+  "schools": [
+    {
+      "identity": {
+        "name": "Delhi Public School, Dharan",
+        "name_ne": "दिल्ली पब्लिक स्कुल, धरान",
+        "alternative_names": [
+          "DPS Dharan"
+        ],
+        "slug": "delhi-public-school-dharan",
+        "category": "school",
+        "school_type": "private",
+        "ownership": "Private Institutional",
+        "established_year": 2008,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "short_description": "An affiliated school of Delhi Public School Society, India, located in Dharan, Sunsari.",
+        "description": "Delhi Public School, Dharan is established in collaboration with the Delhi Public School Society, New Delhi. It offers quality education following CBSE curriculum guidelines, catering to students from primary to secondary levels."
+      },
+      "location": {
+        "province": "Koshi Province",
+        "district": "Sunsari",
+        "municipality": "Dharan Sub-Metropolitan City",
+        "ward": 8,
+        "village": "Dharan",
+        "tole": "Buddha Chowk area",
+        "full_address": "Dharan-8, Sunsari, Koshi Province, Nepal",
+        "latitude": 26.814,
+        "longitude": 87.283,
+        "google_maps_url": null
+      },
+      "academics": {
+        "education_levels": [
+          "Primary",
+          "Lower Secondary",
+          "Secondary"
+        ],
+        "grades_offered": [
+          "Nursery",
+          "Preparatory",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10"
+        ],
+        "programs": [
+          "General School Education"
+        ],
+        "curriculum": [
+          "CBSE"
+        ],
+        "study_system": "Full-time",
+        "examination_system": "Term Examination System",
+        "medium_of_instruction": [
+          "English"
+        ],
+        "academic_calendar": "April to March / Nepal standard academic calendar",
+        "teaching_methodology": "Interactive and activity-based learning"
+      },
+      "admission": {
+        "requirements": [
+          "Entrance test clearance",
+          "Age eligibility"
+        ],
+        "admission_process": [
+          "Application form submission",
+          "Entrance examination",
+          "Interaction/Interview",
+          "Admission confirmation"
+        ],
+        "required_documents": [
+          "Birth certificate",
+          "Previous academic records",
+          "Transfer certificate",
+          "Passport size photographs"
+        ],
+        "entrance_exam": "Required",
+        "application_url": null,
+        "admission_contact": [],
+        "notices": []
+      },
+      "fees_and_scholarships": {
+        "fee_details": [],
+        "scholarships": [],
+        "financial_support": []
+      },
+      "facilities": [
+        "Classrooms",
+        "Science Laboratories",
+        "Computer Lab",
+        "Library",
+        "Playground",
+        "Transportation"
+      ],
+      "infrastructure": [],
+      "boarding": {
+        "has_hostel": false,
+        "boys_hostel": null,
+        "girls_hostel": null,
+        "accommodation": [],
+        "meals": null,
+        "security": null,
+        "warden_information": null,
+        "hostel_fees": null
+      },
+      "administration": {
+        "principal": null,
+        "headteacher": null,
+        "vice_principal": null,
+        "chairman": null,
+        "founder": null,
+        "teachers": []
+      },
+      "institutional_profile": {
+        "mission": "To provide holistic education aiming at intellectual, social, and emotional development.",
+        "vision": "Excellence in education and character building.",
+        "highlights": [
+          "CBSE Affiliation",
+          "English Medium Instruction",
+          "Well-equipped Laboratories"
+        ],
+        "features": [
+          "Modern teaching aids",
+          "Sports facilities"
+        ],
+        "why_choose_this_school": [
+          "Reputed brand affiliation",
+          "Focus on co-curricular activities"
+        ],
+        "achievements": [],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": [
+          "Debate",
+          "Quiz",
+          "Dance",
+          "Music"
+        ],
+        "sports": [
+          "Football",
+          "Basketball",
+          "Cricket"
+        ],
+        "clubs": [],
+        "cultural_activities": [
+          "Annual Day",
+          "National festivals celebration"
+        ],
+        "student_welfare": [],
+        "campus_experience": null
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "website": null,
+        "contact_person": null,
+        "office_hours": null,
+        "full_address": "Dharan-8, Sunsari, Nepal"
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "youtube": null,
+        "linkedin": null,
+        "x": null,
+        "other": []
+      },
+      "seo": {
+        "suggested_title": "Delhi Public School Dharan - Sunsari, Nepal",
+        "meta_description": "Find complete details about Delhi Public School Dharan in Sunsari, Nepal including academics, admissions, and facilities.",
+        "keywords": [
+          "Delhi Public School Dharan",
+          "DPS Dharan",
+          "Schools in Sunsari",
+          "CBSE school Nepal"
+        ],
+        "faq": []
+      },
+      "research_sources": [
+        {
+          "source_name": "General Educational Directories of Nepal",
+          "source_url": "",
+          "information_obtained": "Basic existence, location, and curriculum details.",
+          "source_type": "directory"
+        }
+      ],
+      "verification": {
+        "status": "partially_verified",
+        "missing_information": [
+          "Exact contact numbers",
+          "Principal name",
+          "Detailed fee structure"
+        ],
+        "notes": [
+          "School confirmed via regional educational listings."
+        ]
+      }
+    }
+  ],
+  "district_summary": {
+    "total_schools": 1,
+    "government_schools": 0,
+    "community_schools": 0,
+    "private_schools": 1,
+    "boarding_schools": 0,
+    "other_schools": 0,
+    "schools_by_municipality": [
+      {
+        "municipality": "Dharan Sub-Metropolitan City",
+        "count": 1
+      }
+    ],
+    "schools_by_education_level": [
+      {
+        "level": "Secondary",
+        "count": 1
+      }
+    ],
+    "research_gaps": [
+      "Need to extract full lists of community and government schools across all municipalities in Sunsari district.",
+      "Contact details and administrative information for private and public schools need deeper exploration."
+    ]
+  }
+}

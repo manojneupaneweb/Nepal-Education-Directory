@@ -1,0 +1,216 @@
+{
+    "research_metadata": {
+        "country": "Nepal",
+        "province": "Bagmati Province",
+        "district": "Rasuwa",
+        "research_date": "2026-11-09",
+        "total_institutions_discovered": 4,
+        "research_status": "completed",
+        "collection_mode": "responses"
+    },
+    "institutions": [
+        {
+            "overview": {
+                "name": "Kalika Himalaya Campus",
+                "name_ne": "श्री कालिका हिमालय क्याम्पस",
+                "slug": "kalika-himalaya-campus-rasuwa",
+                "ownership": "community",
+                "established_year": 2005,
+                "university": "Tribhuvan University",
+                "municipality": "Kalika Rural Municipality",
+                "address": "Kalikasthan, Dhaibung-5 / Kalika-2, Kalika Rural Municipality, Rasuwa, Nepal",
+                "description": "Community campus in Kalikasthan, Rasuwa, affiliated to Tribhuvan University and listed by the Nepal Public Campus Association. It opened in 2005 AD (2062 BS). Published directories report Bachelor of Education and Bachelor of Business Studies; Edusanjal recorded 109 students in B.Ed. and 107 in BBS. CollegeNP states B.Ed. began in 2062/63 and BBS in 2067/68, and that an M.Ed. program was launched in 2075/76 BS. NPCA lists M.Ed. among offered programs and records QAA status as Applied. It also appears as a TU examination centre.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://www.collegenp.com/college/kalika-himalaya-campus-rasuwa",
+                    "https://edusanjal.com/college/kalika-himalaya-campus/",
+                    "https://npca.edu.np/campus_details/146",
+                    "https://kalikacampus.edu.np/",
+                    "https://portal.tu.edu.np/downloads/2025_02_23_15_22_28.pdf",
+                    "https://www.educatenepal.com/institutions/detail/kalika-himalaya-campus"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Education (B.Ed.)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/kalika-himalaya-campus-rasuwa-bachelor-of-education-bed-bed"
+                },
+                {
+                    "name": "Bachelor of Business Studies (BBS)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/kalika-himalaya-campus-rasuwa-bachelor-of-business-studies-bbs-bbs"
+                },
+                {
+                    "name": "Master of Education (M.Ed.)",
+                    "level": "Master",
+                    "duration": null,
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://npca.edu.np/campus_details/146"
+                }
+            ],
+            "facilities": [
+                "Library",
+                "Laboratories",
+                "Computer lab",
+                "Classrooms",
+                "Audio-visual classrooms",
+                "Seminar hall",
+                "Conference",
+                "Playground",
+                "Sports",
+                "Parking",
+                "Counselling",
+                "Scholarships",
+                "Educational tours",
+                "ECA"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-10-670159",
+                    "+977-9851096008",
+                    "010542001"
+                ],
+                "emails": [
+                    "kalika.campus2013@gmail.com"
+                ],
+                "website": "https://kalikacampus.edu.np",
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Rasuwa Campus",
+                "name_ne": null,
+                "slug": "rasuwa-campus-dhunche",
+                "ownership": null,
+                "established_year": null,
+                "university": "Tribhuvan University",
+                "municipality": "Gosaikunda Rural Municipality",
+                "address": "Dhunche, Rasuwa, Nepal",
+                "description": "Named as an affiliated campus of Tribhuvan University at Dhunche, Rasuwa (serial 560) in TU's affiliated campus directory published at portal.tu.edu.np. No separate public page was found giving programs, fees, facilities, notices, reviews, or contact details. It is distinct from Rasuwa Secondary School, which offers only up to grade 12.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://portal.tu.edu.np/downloads/2025_02_23_15_22_28.pdf"
+                ]
+            },
+            "courses": [],
+            "facilities": [],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [],
+                "emails": [],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Uttargaya Campus",
+                "name_ne": null,
+                "slug": "uttargaya-campus-laharepauwa",
+                "ownership": null,
+                "established_year": null,
+                "university": "Tribhuvan University",
+                "municipality": "Uttargaya Rural Municipality",
+                "address": "Laharepauwa, Rasuwa, Nepal",
+                "description": "Named as an affiliated campus of Tribhuvan University at Laharepauwa, Rasuwa (serial 561) in TU's affiliated campus directory published at portal.tu.edu.np. No separate public page was found giving programs, fees, facilities, notices, reviews, or contact details.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://portal.tu.edu.np/downloads/2025_02_23_15_22_28.pdf"
+                ]
+            },
+            "courses": [],
+            "facilities": [],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [],
+                "emails": [],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Nilkantha Namuna Secondary School",
+                "name_ne": "नीलकण्ठ नामुना माध्यमिक विद्यालय",
+                "slug": "nilkantha-namuna-secondary-school-rasuwa",
+                "ownership": "public",
+                "established_year": null,
+                "university": "Council for Technical Education and Vocational Training (CTEVT)",
+                "municipality": "Kalika Rural Municipality",
+                "address": "Jibjibe, Kalika-5, Rasuwa, Nepal",
+                "description": "Public secondary school at Jibjibe that also runs a CTEVT Technical Education in Community School (TECS) program. A Ministry of Education CTEVT institutions list records a three-year Diploma in Agriculture (Animal Science) here, with 40 seats and a published fee of NPR 175,000 for three years. The same school also offers NEB plus-two in Management and Education; plus-two is not listed below. A pre-diploma livestock program is also recorded in the CTEVT list and is omitted as below diploma level.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://cgs.moest.gov.np/Uploads/Resource/CTEVT%20Institutions%20and%20Programs.pdf",
+                    "https://edusanjal.com/school/nilkantha-namuna-higher-secondary-school/",
+                    "https://www.collegenp.com/school/nilkantha-namuna-secondary-school",
+                    "https://www.collegenp.com/college/nilkantha-namuna-secondary-school"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Diploma in Agriculture (Animal Science)",
+                    "level": "Diploma",
+                    "duration": "3 years",
+                    "faculty": "Agriculture",
+                    "fee": "NPR 175000 for 3 years",
+                    "source_url": "https://cgs.moest.gov.np/Uploads/Resource/CTEVT%20Institutions%20and%20Programs.pdf"
+                }
+            ],
+            "facilities": [
+                "Library",
+                "Sports",
+                "Science lab",
+                "Computer lab",
+                "Multimedia",
+                "Counselling",
+                "Scholarships",
+                "Classrooms",
+                "ECA"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-1-0544001"
+                ],
+                "emails": [],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        }
+    ]
+}

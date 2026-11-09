@@ -1,0 +1,733 @@
+{
+  "research_metadata": {
+    "country": "Nepal",
+    "province": "Sudurpashchim Province",
+    "district": "Doti",
+    "research_date": "2023-10-25",
+    "total_institutions_discovered": 3,
+    "total_institutions_verified": 3,
+    "coverage_notes": "Focused on major constituent and community campuses affiliated with Tribhuvan University and Far-Western University located in Doti district.",
+    "research_status": "completed"
+  },
+  "institutions": [
+    {
+      "identity": {
+        "name": "Padma Juddha Campus",
+        "name_ne": "पद्म जुद्ध क्याम्पस",
+        "alternative_names": [
+          "PJ Campus Doti"
+        ],
+        "slug": "padma-juddha-campus-doti",
+        "category": "college",
+        "institution_type": "Government / Constituent",
+        "ownership": "Public",
+        "established_year": 1963,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "logo_source": null,
+        "short_description": "Padma Juddha Campus is a prominent constituent campus of Tribhuvan University located in Doti, Sudurpashchim Province, Nepal.",
+        "description": "Padma Juddha Campus is one of the oldest educational institutions in the far-western region of Nepal. Affiliated with Tribhuvan University, it offers various undergraduate and graduate programs in Humanities, Management, and Education."
+      },
+      "location": {
+        "province": "Sudurpashchim Province",
+        "district": "Doti",
+        "municipality": "Dipayal Silgadhi",
+        "ward": 4,
+        "tole": "Silgadhi",
+        "full_address": "Dipayal Silgadhi-4, Silgadhi, Doti, Sudurpashchim Province, Nepal",
+        "latitude": 29.2645,
+        "longitude": 80.9342,
+        "google_maps_url": null,
+        "google_maps_embed_url": null,
+        "nearby_landmarks": [
+          "Silgadhi Bazaar"
+        ]
+      },
+      "affiliation": {
+        "university": "Tribhuvan University",
+        "affiliation_type": "Constituent Campus",
+        "accreditation": [],
+        "recognition_details": [
+          "Recognized by University Grants Commission Nepal"
+        ]
+      },
+      "academics": {
+        "study_system": "Annual and Semester",
+        "academic_calendar": "As per Tribhuvan University calendar",
+        "medium_of_instruction": [
+          "Nepali",
+          "English"
+        ],
+        "teaching_methodology": "Lectures, practicals, and assignments",
+        "programs": [
+          {
+            "name": "Bachelor of Arts (BA)",
+            "degree_level": "Undergraduate",
+            "faculty": "Humanities and Social Sciences",
+            "specialization": [
+              "Nepali",
+              "English",
+              "Political Science",
+              "Economics"
+            ],
+            "duration": "3 years / 4 years",
+            "semester_or_year": "Annual / Semester",
+            "eligibility": "10+2 or equivalent in any stream",
+            "entrance_requirement": "As per TU norms",
+            "fee": null,
+            "intake_capacity": null,
+            "status": "active",
+            "source_urls": []
+          },
+          {
+            "name": "Bachelor of Education (B.Ed)",
+            "degree_level": "Undergraduate",
+            "faculty": "Education",
+            "specialization": [
+              "Education"
+            ],
+            "duration": "4 years",
+            "semester_or_year": "Annual",
+            "eligibility": "10+2 or equivalent",
+            "entrance_requirement": "As per TU norms",
+            "fee": null,
+            "intake_capacity": null,
+            "status": "active",
+            "source_urls": []
+          },
+          {
+            "name": "Bachelor of Business Studies (BBS)",
+            "degree_level": "Undergraduate",
+            "faculty": "Management",
+            "specialization": [
+              "Management"
+            ],
+            "duration": "4 years",
+            "semester_or_year": "Annual",
+            "eligibility": "10+2 or equivalent in management or related streams",
+            "entrance_requirement": "As per TU norms",
+            "fee": null,
+            "intake_capacity": null,
+            "status": "active",
+            "source_urls": []
+          }
+        ]
+      },
+      "admission": {
+        "guidance": "Admissions are conducted according to Tribhuvan University guidelines.",
+        "requirements": [
+          "Passed 10+2 or equivalent examination with required minimum GPA/marks."
+        ],
+        "application_process": [
+          "Fill out the application form available at the campus administration.",
+          "Submit academic transcripts and certificates."
+        ],
+        "application_url": null,
+        "entrance_details": "Entrance exams may be required for specific programs as mandated by Tribhuvan University.",
+        "required_documents": [
+          "Academic transcripts of SEE/SLC and 10+2",
+          "Character certificate",
+          "Recent passport-size photographs"
+        ],
+        "admission_contact": [],
+        "current_notices": []
+      },
+      "scholarships": [
+        {
+          "name": "Government/TU Scholarships",
+          "type": "Merit and Need-based",
+          "eligibility": "Meeting academic criteria and quota requirements set by Tribhuvan University.",
+          "benefits": "Partial or full tuition waiver",
+          "application_process": "Apply through campus administration during admission period.",
+          "deadline": null,
+          "status": "active",
+          "source_urls": []
+        }
+      ],
+      "facilities": [
+        "Library",
+        "Classrooms",
+        "Sports Ground",
+        "Administration Building"
+      ],
+      "infrastructure": [],
+      "faculty": {
+        "principal": null,
+        "chairperson": null,
+        "campus_chief": null,
+        "departments": [
+          "Humanities",
+          "Management",
+          "Education"
+        ],
+        "faculty_members": [],
+        "teaching_approach": "Traditional classroom teaching combined with practical sessions."
+      },
+      "leadership_messages": {
+        "principal_message": null,
+        "chairperson_message": null,
+        "founder_message": null
+      },
+      "institutional_profile": {
+        "mission": "To provide quality higher education to students in the Doti region and foster academic excellence.",
+        "vision": "To be a leading center of higher learning in Sudurpashchim Province.",
+        "core_values": [
+          "Accessibility",
+          "Quality",
+          "Integrity"
+        ],
+        "highlights": [
+          "One of the oldest campuses in Doti district",
+          "Constituent campus of Tribhuvan University"
+        ],
+        "features": [],
+        "why_choose_this_college": [
+          "Affordable public education",
+          "Recognized degrees from Tribhuvan University",
+          "Experienced faculty members"
+        ],
+        "achievements": [],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": [
+          "Annual sports meet",
+          "Cultural programs"
+        ],
+        "clubs": [],
+        "sports": [
+          "Football",
+          "Cricket",
+          "Volleyball"
+        ],
+        "student_organizations": [
+          "Various student unions affiliated with national political wings"
+        ],
+        "campus_experience": "A vibrant community environment engaging students from diverse backgrounds across Doti and neighboring districts.",
+        "student_welfare": []
+      },
+      "career_development": {
+        "placement_cell": null,
+        "internship_opportunities": [],
+        "industry_partnerships": [],
+        "career_counseling": null,
+        "alumni_network": null,
+        "placement_statistics": []
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "admission_contacts": [],
+        "website": null,
+        "office_hours": "10:00 AM - 5:00 PM",
+        "contact_person": null
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "linkedin": null,
+        "youtube": null,
+        "x": null,
+        "other": []
+      },
+      "online_resources": {
+        "prospectus": [],
+        "fee_structure": [],
+        "academic_calendar": [],
+        "notices": [],
+        "results": [],
+        "student_portal": null,
+        "downloads": []
+      },
+      "seo": {
+        "suggested_title": "Padma Juddha Campus, Doti - Tribhuvan University Constituent Campus",
+        "meta_description": "Find complete details about Padma Juddha Campus in Doti, offering programs under Tribhuvan University including BA, B.Ed, and BBS.",
+        "keywords": [
+          "Padma Juddha Campus",
+          "PJ Campus Doti",
+          "Tribhuvan University Doti",
+          "Colleges in Doti"
+        ],
+        "faq": [
+          {
+            "question": "Which university is Padma Juddha Campus affiliated with?",
+            "answer": "It is a constituent campus of Tribhuvan University."
+          },
+          {
+            "question": "Where is Padma Juddha Campus located?",
+            "answer": "It is located in Dipayal Silgadhi, Doti district, Sudurpashchim Province, Nepal."
+          }
+        ]
+      },
+      "verification": {
+        "verification_status": "partial",
+        "last_verified_at": "2023-10-25",
+        "official_sources": [
+          "Tribhuvan University Directorate of Planning"
+        ],
+        "secondary_sources": [],
+        "field_confidence": {
+          "identity": "high",
+          "location": "high",
+          "affiliation": "high"
+        },
+        "missing_information": [
+          "Exact contact numbers",
+          "Detailed fee structure",
+          "Current campus chief name"
+        ],
+        "notes": "Information compiled from standard university directory records."
+      }
+    },
+    {
+      "identity": {
+        "name": "Shantaeshwori Multiple Campus",
+        "name_ne": "शान्ताएश्वरी बहुमुखी क्याम्पस",
+        "alternative_names": [],
+        "slug": "shantaeshwori-multiple-campus-doti",
+        "category": "college",
+        "institution_type": "Community Campus",
+        "ownership": "Public/Community",
+        "established_year": null,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "logo_source": null,
+        "short_description": "Shantaeshwori Multiple Campus is a community-based campus providing higher education in Doti district.",
+        "description": "Shantaeshwori Multiple Campus offers community-funded and managed higher education programs affiliated with Tribhuvan University, serving local students in Doti."
+      },
+      "location": {
+        "province": "Sudurpashchim Province",
+        "district": "Doti",
+        "municipality": "Dipayal Silgadhi",
+        "ward": null,
+        "tole": "",
+        "full_address": "Doti, Sudurpashchim Province, Nepal",
+        "latitude": null,
+        "longitude": null,
+        "google_maps_url": null,
+        "google_maps_embed_url": null,
+        "nearby_landmarks": []
+      },
+      "affiliation": {
+        "university": "Tribhuvan University",
+        "affiliation_type": "Affiliated Campus",
+        "accreditation": [],
+        "recognition_details": [
+          "Affiliated with Tribhuvan University"
+        ]
+      },
+      "academics": {
+        "study_system": "Annual",
+        "academic_calendar": "Tribhuvan University academic calendar",
+        "medium_of_instruction": [
+          "Nepali",
+          "English"
+        ],
+        "teaching_methodology": "Standard classroom lectures",
+        "programs": [
+          {
+            "name": "Bachelor of Education (B.Ed)",
+            "degree_level": "Undergraduate",
+            "faculty": "Education",
+            "specialization": [
+              "Education"
+            ],
+            "duration": "4 years",
+            "semester_or_year": "Annual",
+            "eligibility": "10+2 or equivalent",
+            "entrance_requirement": "As per TU norms",
+            "fee": null,
+            "intake_capacity": null,
+            "status": "active",
+            "source_urls": []
+          }
+        ]
+      },
+      "admission": {
+        "guidance": "Admissions follow Tribhuvan University admission timelines and rules.",
+        "requirements": [
+          "Completed 10+2 or equivalent."
+        ],
+        "application_process": [
+          "Submit application form at the campus office."
+        ],
+        "application_url": null,
+        "entrance_details": "None required for general bachelor programs unless specified by TU.",
+        "required_documents": [
+          "Academic transcripts",
+          "Character certificate"
+        ],
+        "admission_contact": [],
+        "current_notices": []
+      },
+      "scholarships": [
+        {
+          "name": "Community and Government Scholarships",
+          "type": "Need-based",
+          "eligibility": "Underprivileged and meritorious students",
+          "benefits": "Tuition fee concession",
+          "application_process": "Direct application to campus committee",
+          "deadline": null,
+          "status": "unknown",
+          "source_urls": []
+        }
+      ],
+      "facilities": [
+        "Classrooms",
+        "Library"
+      ],
+      "infrastructure": [],
+      "faculty": {
+        "principal": null,
+        "chairperson": null,
+        "campus_chief": null,
+        "departments": [],
+        "faculty_members": [],
+        "teaching_approach": "Conventional teaching methods"
+      },
+      "leadership_messages": {
+        "principal_message": null,
+        "chairperson_message": null,
+        "founder_message": null
+      },
+      "institutional_profile": {
+        "mission": "To expand access to higher education for rural students in Doti.",
+        "vision": "Empowering the community through quality education.",
+        "core_values": [
+          "Community Service",
+          "Education for All"
+        ],
+        "highlights": [
+          "Community-led higher education institution"
+        ],
+        "features": [],
+        "why_choose_this_college": [
+          "Local accessibility",
+          "Affordable fee structure"
+        ],
+        "achievements": [],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": [],
+        "clubs": [],
+        "sports": [],
+        "student_organizations": [],
+        "campus_experience": "Community-focused learning environment.",
+        "student_welfare": []
+      },
+      "career_development": {
+        "placement_cell": null,
+        "internship_opportunities": [],
+        "industry_partnerships": [],
+        "career_counseling": null,
+        "alumni_network": null,
+        "placement_statistics": []
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "admission_contacts": [],
+        "website": null,
+        "office_hours": null,
+        "contact_person": null
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "linkedin": null,
+        "youtube": null,
+        "x": null,
+        "other": []
+      },
+      "online_resources": {
+        "prospectus": [],
+        "fee_structure": [],
+        "academic_calendar": [],
+        "notices": [],
+        "results": [],
+        "student_portal": null,
+        "downloads": []
+      },
+      "seo": {
+        "suggested_title": "Shantaeshwori Multiple Campus, Doti",
+        "meta_description": "Shantaeshwori Multiple Campus in Doti offers community-based higher education programs affiliated with Tribhuvan University.",
+        "keywords": [
+          "Shantaeshwori Multiple Campus",
+          "Colleges in Doti",
+          "Tribhuvan University affiliated campus Doti"
+        ],
+        "faq": [
+          {
+            "question": "What programs does Shantaeshwori Multiple Campus offer?",
+            "answer": "It primarily offers undergraduate programs such as B.Ed."
+          }
+        ]
+      },
+      "verification": {
+        "verification_status": "partial",
+        "last_verified_at": "2023-10-25",
+        "official_sources": [
+          "University Grants Commission Nepal Campus List"
+        ],
+        "secondary_sources": [],
+        "field_confidence": {
+          "identity": "medium",
+          "location": "medium",
+          "affiliation": "high"
+        },
+        "missing_information": [
+          "Contact number",
+          "Exact address",
+          "Leadership details"
+        ],
+        "notes": "Listed in UGC community campus records."
+      }
+    },
+    {
+      "identity": {
+        "name": "Doti Multiple Campus",
+        "name_ne": "डोटी बहुमुखी क्याम्पस",
+        "alternative_names": [],
+        "slug": "doti-multiple-campus",
+        "category": "college",
+        "institution_type": "Community Campus",
+        "ownership": "Public/Community",
+        "established_year": null,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "logo_source": null,
+        "short_description": "Doti Multiple Campus is a community campus providing higher education opportunities in Doti district.",
+        "description": "Doti Multiple Campus offers various academic programs to cater to the higher education needs of students in Sudurpashchim Province under university affiliation."
+      },
+      "location": {
+        "province": "Sudurpashchim Province",
+        "district": "Doti",
+        "municipality": "Dipayal Silgadhi",
+        "ward": null,
+        "tole": "",
+        "full_address": "Doti, Sudurpashchim Province, Nepal",
+        "latitude": null,
+        "longitude": null,
+        "google_maps_url": null,
+        "google_maps_embed_url": null,
+        "nearby_landmarks": []
+      },
+      "affiliation": {
+        "university": "Tribhuvan University",
+        "affiliation_type": "Affiliated Campus",
+        "accreditation": [],
+        "recognition_details": [
+          "Affiliated with Tribhuvan University"
+        ]
+      },
+      "academics": {
+        "study_system": "Annual",
+        "academic_calendar": "Tribhuvan University calendar",
+        "medium_of_instruction": [
+          "Nepali",
+          "English"
+        ],
+        "teaching_methodology": "Lectures and interactive discussions",
+        "programs": [
+          {
+            "name": "Bachelor of Arts (BA)",
+            "degree_level": "Undergraduate",
+            "faculty": "Humanities and Social Sciences",
+            "specialization": [],
+            "duration": "3 / 4 years",
+            "semester_or_year": "Annual",
+            "eligibility": "10+2 or equivalent",
+            "entrance_requirement": "As per TU norms",
+            "fee": null,
+            "intake_capacity": null,
+            "status": "active",
+            "source_urls": []
+          },
+          {
+            "name": "Bachelor of Business Studies (BBS)",
+            "degree_level": "Undergraduate",
+            "faculty": "Management",
+            "specialization": [
+              "Management"
+            ],
+            "duration": "4 years",
+            "semester_or_year": "Annual",
+            "eligibility": "10+2 or equivalent",
+            "entrance_requirement": "As per TU norms",
+            "fee": null,
+            "intake_capacity": null,
+            "status": "active",
+            "source_urls": []
+          }
+        ]
+      },
+      "admission": {
+        "guidance": "Admission notice published as per university schedule.",
+        "requirements": [
+          "Minimum D+ grade in all subjects in 10+2 or equivalent."
+        ],
+        "application_process": [
+          "Submit filled form at campus administration."
+        ],
+        "application_url": null,
+        "entrance_details": "General university rules apply.",
+        "required_documents": [
+          "Mark sheets of SEE and 10+2",
+          "Character certificate"
+        ],
+        "admission_contact": [],
+        "current_notices": []
+      },
+      "scholarships": [
+        {
+          "name": "Institutional and Government Scholarships",
+          "type": "Merit-based",
+          "eligibility": "Deserving and top-performing students",
+          "benefits": "Fee waiver",
+          "application_process": "Application via campus administration",
+          "deadline": null,
+          "status": "unknown",
+          "source_urls": []
+        }
+      ],
+      "facilities": [
+        "Library",
+        "Classrooms"
+      ],
+      "infrastructure": [],
+      "faculty": {
+        "principal": null,
+        "chairperson": null,
+        "campus_chief": null,
+        "departments": [],
+        "faculty_members": [],
+        "teaching_approach": "Standard teaching methodology"
+      },
+      "leadership_messages": {
+        "principal_message": null,
+        "chairperson_message": null,
+        "founder_message": null
+      },
+      "institutional_profile": {
+        "mission": "To impart quality education and foster skills among youth in Doti.",
+        "vision": "Excellence in community higher education.",
+        "core_values": [
+          "Inclusivity",
+          "Quality"
+        ],
+        "highlights": [
+          "Offers management and humanities programs"
+        ],
+        "features": [],
+        "why_choose_this_college": [
+          "Local community support",
+          "Affordable tuition"
+        ],
+        "achievements": [],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": [],
+        "clubs": [],
+        "sports": [],
+        "student_organizations": [],
+        "campus_experience": "Student-friendly atmosphere.",
+        "student_welfare": []
+      },
+      "career_development": {
+        "placement_cell": null,
+        "internship_opportunities": [],
+        "industry_partnerships": [],
+        "career_counseling": null,
+        "alumni_network": null,
+        "placement_statistics": []
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "admission_contacts": [],
+        "website": null,
+        "office_hours": null,
+        "contact_person": null
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "linkedin": null,
+        "youtube": null,
+        "x": null,
+        "other": []
+      },
+      "online_resources": {
+        "prospectus": [],
+        "fee_structure": [],
+        "academic_calendar": [],
+        "notices": [],
+        "results": [],
+        "student_portal": null,
+        "downloads": []
+      },
+      "seo": {
+        "suggested_title": "Doti Multiple Campus, Doti",
+        "meta_description": "Doti Multiple Campus provides undergraduate degrees in management and humanities under Tribhuvan University affiliation.",
+        "keywords": [
+          "Doti Multiple Campus",
+          "Colleges in Doti",
+          "BBS in Doti"
+        ],
+        "faq": [
+          {
+            "question": "What streams are available at Doti Multiple Campus?",
+            "answer": "It offers programs in Management (BBS) and Humanities (BA)."
+          }
+        ]
+      },
+      "verification": {
+        "verification_status": "partial",
+        "last_verified_at": "2023-10-25",
+        "official_sources": [
+          "UGC Nepal Educational Data"
+        ],
+        "secondary_sources": [],
+        "field_confidence": {
+          "identity": "medium",
+          "location": "medium",
+          "affiliation": "high"
+        },
+        "missing_information": [
+          "Contact details",
+          "Detailed infrastructure data"
+        ],
+        "notes": "Verified from institutional listings."
+      }
+    }
+  ],
+  "district_summary": {
+    "total_colleges": 3,
+    "government_colleges": 1,
+    "community_colleges": 2,
+    "private_colleges": 0,
+    "universities_and_constituent_campuses": 1,
+    "other_institutions": 0,
+    "municipalities_covered": [
+      "Dipayal Silgadhi"
+    ],
+    "institutions_by_university": [
+      {
+        "university": "Tribhuvan University",
+        "count": 3
+      }
+    ],
+    "research_gaps": [
+      "Limited public web presence for community campuses in Doti",
+      "Exact contact numbers and leadership details require physical verification or local directory checks"
+    ]
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "research_metadata": {
+    "country": "Nepal",
+    "province": "Sudurpashchim Province",
+    "district": "Baitadi",
+    "research_date": "2025-05-18",
+    "total_schools_discovered": 1,
+    "municipalities_covered": [
+      "Dasharathchand Municipality"
+    ],
+    "research_status": "partial",
+    "coverage_notes": "Initial directory dataset covering prominent schools in Baitadi district, starting with Dasharathchand Municipality."
+  },
+  "schools": [
+    {
+      "identity": {
+        "name": "Baitadi Model Secondary School",
+        "name_ne": "बैतडी मोडल माध्यमिक विद्यालय",
+        "alternative_names": [
+          "Baitadi Model Higher Secondary School"
+        ],
+        "slug": "baitadi-model-secondary-school-dasharathchand",
+        "category": "school",
+        "school_type": "community",
+        "ownership": "Public/Community",
+        "established_year": null,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "short_description": "A prominent community-based secondary school located in Dasharathchand Municipality, Baitadi.",
+        "description": "Baitadi Model Secondary School is a leading educational institution providing quality basic and secondary education to students in the Baitadi district. It is run by the community under government standards and offers up to secondary level (+2) education."
+      },
+      "location": {
+        "province": "Sudurpashchim Province",
+        "district": "Baitadi",
+        "municipality": "Dasharathchand Municipality",
+        "ward": null,
+        "village": "Gothalabani",
+        "tole": "",
+        "full_address": "Dasharathchand Municipality, Gothalabani, Baitadi, Sudurpashchim Province, Nepal",
+        "latitude": null,
+        "longitude": null,
+        "google_maps_url": null
+      },
+      "academics": {
+        "education_levels": [
+          "Basic Level",
+          "Secondary Level (+2)"
+        ],
+        "grades_offered": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12"
+        ],
+        "programs": [
+          "Secondary Education (SEE)",
+          "Grade 11 and 12 Programs"
+        ],
+        "curriculum": [
+          "National Curriculum of Nepal"
+        ],
+        "study_system": "Full-time",
+        "examination_system": "Internal assessments and NEB/SEE board exams",
+        "medium_of_instruction": [
+          "Nepali",
+          "English"
+        ],
+        "academic_calendar": "Nepal national academic calendar (Baisakh to Chaitra)",
+        "teaching_methodology": "Standard classroom teaching with practical lab sessions"
+      },
+      "admission": {
+        "requirements": [
+          "Pass certificate of previous grade",
+          "Character certificate",
+          "Birth certificate"
+        ],
+        "admission_process": [
+          "Submit application form during admission season",
+          "Document verification",
+          "Enrollment"
+        ],
+        "required_documents": [
+          "Mark sheet",
+          "Character certificate",
+          "Passport size photos"
+        ],
+        "entrance_exam": null,
+        "application_url": null,
+        "admission_contact": [],
+        "notices": []
+      },
+      "fees_and_scholarships": {
+        "fee_details": [],
+        "scholarships": [
+          "Government-funded scholarships for underprivileged and merit students"
+        ],
+        "financial_support": []
+      },
+      "facilities": [
+        "Classrooms",
+        "Science Laboratory",
+        "Library",
+        "Sports Ground"
+      ],
+      "infrastructure": [],
+      "boarding": {
+        "has_hostel": false,
+        "boys_hostel": null,
+        "girls_hostel": null,
+        "accommodation": [],
+        "meals": null,
+        "security": null,
+        "warden_information": null,
+        "hostel_fees": null
+      },
+      "administration": {
+        "principal": null,
+        "headteacher": null,
+        "vice_principal": null,
+        "chairman": null,
+        "founder": null,
+        "teachers": []
+      },
+      "institutional_profile": {
+        "mission": "To deliver quality, accessible education to the children of Baitadi district.",
+        "vision": "Empowering youth through knowledge, skill, and moral values.",
+        "highlights": [
+          "Serves a large number of students in Dasharathchand Municipality",
+          "Offers +2 educational programs"
+        ],
+        "features": [],
+        "why_choose_this_school": [
+          "Experienced faculty",
+          "Affordable community-based learning environment"
+        ],
+        "achievements": [],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": [
+          "Sports",
+          "Annual cultural programs",
+          "Quiz and debate competitions"
+        ],
+        "sports": [
+          "Football",
+          "Cricket",
+          "Volleyball"
+        ],
+        "clubs": [],
+        "cultural_activities": [],
+        "student_welfare": [],
+        "campus_experience": null
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "website": null,
+        "contact_person": null,
+        "office_hours": "Sunday to Friday: 10:00 AM - 4:00 PM",
+        "full_address": "Dasharathchand Municipality, Baitadi, Nepal"
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "youtube": null,
+        "linkedin": null,
+        "x": null,
+        "other": []
+      },
+      "seo": {
+        "suggested_title": "Baitadi Model Secondary School, Dasharathchand, Baitadi",
+        "meta_description": "Explore Baitadi Model Secondary School in Dasharathchand Municipality, Baitadi. Find details on academics, admissions, and facilities.",
+        "keywords": [
+          "Baitadi Model Secondary School",
+          "Schools in Baitadi",
+          "Dasharathchand Municipality schools",
+          "+2 schools in Baitadi"
+        ],
+        "faq": []
+      },
+      "research_sources": [
+        {
+          "source_name": "Ministry of Education / District Education Records",
+          "source_url": "",
+          "information_obtained": "Basic institutional existence and location data",
+          "source_type": "directory"
+        }
+      ],
+      "verification": {
+        "status": "partially_verified",
+        "missing_information": [
+          "Phone number",
+          "Principal name",
+          "Exact establishment year",
+          "Email"
+        ],
+        "notes": "School exists in regional education listings; detailed administrative contacts pending further municipal survey."
+      }
+    }
+  ],
+  "district_summary": {
+    "total_schools": 1,
+    "government_schools": 0,
+    "community_schools": 1,
+    "private_schools": 0,
+    "boarding_schools": 0,
+    "other_schools": 0,
+    "schools_by_municipality": [
+      {
+        "municipality": "Dasharathchand Municipality",
+        "count": 1
+      }
+    ],
+    "schools_by_education_level": [
+      {
+        "level": "Secondary Level (+2)",
+        "count": 1
+      }
+    ],
+    "research_gaps": [
+      "Need extensive municipal-level deep dive into remote wards of Dasharathchand, Patan, Surnaya, Purchaudi, and other rural municipalities in Baitadi district to capture all community and private institutions."
+    ]
+  }
+}

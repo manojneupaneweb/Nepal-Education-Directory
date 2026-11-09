@@ -48,9 +48,9 @@
         @endif
         @if ($institution->status->value === 'pending')
             <form method="post" action="{{ route('admin.institutions.approve', $institution) }}">@csrf<button class="rounded-md bg-brand-700 px-4 py-2 text-sm font-semibold text-white">Approve</button></form>
-            <form method="post" action="{{ route('admin.institutions.reject', $institution) }}" class="flex gap-2">
+            <form method="post" action="{{ route('admin.institutions.reject', $institution) }}" class="flex w-full flex-col gap-2 sm:w-auto sm:flex-row">
                 @csrf
-                <input name="reason" placeholder="Optional reason" class="rounded-md border border-slate-300 px-3 py-2 text-sm">
+                <input name="reason" placeholder="Optional reason" class="w-full rounded-md border border-slate-300 px-3 py-2 text-sm sm:w-auto">
                 <button class="rounded-md border border-slate-300 bg-white px-4 py-2 text-sm font-semibold">Reject</button>
             </form>
         @endif

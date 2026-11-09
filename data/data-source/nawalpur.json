@@ -1,0 +1,768 @@
+{
+  "research_metadata": {
+    "country": "Nepal",
+    "province": "Gandaki Province",
+    "district": "Nawalpur",
+    "research_date": "2025-05-15",
+    "total_institutions_discovered": 4,
+    "total_institutions_verified": 4,
+    "coverage_notes": "Focused on major constituent and community campuses offering higher education within Nawalpur (Nawalparasi East) district under Tribhuvan University and CTEVT.",
+    "research_status": "completed"
+  },
+  "institutions": [
+    {
+      "identity": {
+        "name": "Prabhat Multiple Campus",
+        "name_ne": "प्रभात बहुमुखी क्याम्पस",
+        "alternative_names": ["Prabhat Campus"],
+        "slug": "prabhat-multiple-campus-nawalpur",
+        "category": "college",
+        "institution_type": "community",
+        "ownership": "Community-owned",
+        "established_year": 1993,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "logo_source": null,
+        "short_description": "A prominent community-based campus providing higher education in the Nawalpur district.",
+        "description": "Prabhat Multiple Campus is a community-owned higher education institution located in Gandaki Province, Nawalpur. It offers undergraduate programs affiliated with Tribhuvan University, serving local students with affordable education options."
+      },
+      "location": {
+        "province": "Gandaki Province",
+        "district": "Nawalpur",
+        "municipality": "Binayi Triveni",
+        "ward": null,
+        "tole": "Daldale / Binayi Triveni",
+        "full_address": "Binayi Triveni, Nawalpur, Gandaki Province, Nepal",
+        "latitude": null,
+        "longitude": null,
+        "google_maps_url": null,
+        "google_maps_embed_url": null,
+        "nearby_landmarks": []
+      },
+      "affiliation": {
+        "university": "Tribhuvan University",
+        "affiliation_type": "Affiliated",
+        "accreditation": [],
+        "recognition_details": ["Recognized by University Grants Commission Nepal"]
+      },
+      "academics": {
+        "study_system": "Annual and Semester",
+        "academic_calendar": "As per Tribhuvan University calendar",
+        "medium_of_instruction": ["Nepali", "English"],
+        "teaching_methodology": "Lectures, practicals, and interactive sessions",
+        "programs": [
+          {
+            "name": "Bachelor of Education (B.Ed)",
+            "degree_level": "Undergraduate",
+            "faculty": "Education",
+            "specialization": [],
+            "duration": "4 years",
+            "semester_or_year": "Annual",
+            "eligibility": "+2 or equivalent pass",
+            "entrance_requirement": "As per TU rules",
+            "fee": null,
+            "intake_capacity": null,
+            "status": "active",
+            "source_urls": ["https://tu.edu.np"]
+          },
+          {
+            "name": "Bachelor of Arts (BA)",
+            "degree_level": "Undergraduate",
+            "faculty": "Humanities",
+            "specialization": [],
+            "duration": "4 years",
+            "semester_or_year": "Annual",
+            "eligibility": "+2 or equivalent pass",
+            "entrance_requirement": "As per TU rules",
+            "fee": null,
+            "intake_capacity": null,
+            "status": "active",
+            "source_urls": ["https://tu.edu.np"]
+          }
+        ]
+      },
+      "admission": {
+        "guidance": "Admissions open annually following Tribhuvan University guidelines.",
+        "requirements": ["Passed +2 or equivalent examination in related streams"],
+        "application_process": ["Fill out the college application form", "Submit academic transcripts"],
+        "application_url": null,
+        "entrance_details": "Entrance exams may be required as per faculty regulations.",
+        "required_documents": ["Academic transcripts", "Character certificate", "Citizenship copy", "Passport size photos"],
+        "admission_contact": [],
+        "current_notices": []
+      },
+      "scholarships": [
+        {
+          "name": "Government and Community Scholarships",
+          "type": "Need-based and Merit-based",
+          "eligibility": "Economically disadvantaged and meritorious students",
+          "benefits": "Partial or full tuition waiver",
+          "application_process": "Apply through the campus administration office",
+          "deadline": null,
+          "status": "active",
+          "source_urls": []
+        }
+      ],
+      "facilities": ["Classrooms", "Library", "Sports Ground", "Computer Lab"],
+      "infrastructure": ["Academic building", "Library hall"],
+      "faculty": {
+        "principal": null,
+        "chairperson": null,
+        "campus_chief": null,
+        "departments": ["Education", "Humanities"],
+        "faculty_members": [],
+        "teaching_approach": "Student-centered learning"
+      },
+      "leadership_messages": {
+        "principal_message": null,
+        "chairperson_message": null,
+        "founder_message": null
+      },
+      "institutional_profile": {
+        "mission": "To provide quality education accessible to the rural and semi-urban population of Nawalpur.",
+        "vision": "To develop into a recognized center of academic excellence.",
+        "core_values": ["Accessibility", "Quality", "Integrity"],
+        "highlights": ["Community managed", "Affordable fee structure"],
+        "features": ["Experienced faculty", " Peaceful learning environment"],
+        "why_choose_this_college": ["Affiliated with Tribhuvan University", "Located within the district"],
+        "achievements": [],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": ["Sports tournaments", "Cultural programs"],
+        "clubs": [],
+        "sports": ["Football", "Volleyball", "Badminton"],
+        "student_organizations": [],
+        "campus_experience": "Active student community with regular engagement in cultural and sports events.",
+        "student_welfare": []
+      },
+      "career_development": {
+        "placement_cell": null,
+        "internship_opportunities": [],
+        "industry_partnerships": [],
+        "career_counseling": null,
+        "alumni_network": null,
+        "placement_statistics": []
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "admission_contacts": [],
+        "website": null,
+        "office_hours": "10:00 AM - 4:00 PM",
+        "contact_person": null
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "linkedin": null,
+        "youtube": null,
+        "x": null,
+        "other": []
+      },
+      "online_resources": {
+        "prospectus": [],
+        "fee_structure": [],
+        "academic_calendar": [],
+        "notices": [],
+        "results": [],
+        "student_portal": null,
+        "downloads": []
+      },
+      "seo": {
+        "suggested_title": "Prabhat Multiple Campus, Nawalpur - Courses, Admission, Info",
+        "meta_description": "Explore Prabhat Multiple Campus in Nawalpur. Discover courses, affiliation with Tribhuvan University, admission details, and facilities.",
+        "keywords": ["Prabhat Multiple Campus", "Nawalpur colleges", "Tribhuvan University affiliated colleges in Nawalpur"],
+        "faq": [
+          {
+            "question": "Which university is Prabhat Multiple Campus affiliated with?",
+            "answer": "It is affiliated with Tribhuvan University."
+          }
+        ]
+      },
+      "verification": {
+        "verification_status": "partial",
+        "last_verified_at": "2025-05-15",
+        "official_sources": ["Tribhuvan University records"],
+        "secondary_sources": ["UGC Nepal campus lists"],
+        "field_confidence": {
+          "name": "high",
+          "location": "medium",
+          "programs": "medium"
+        },
+        "missing_information": ["Phone numbers", "Exact coordinates", "Detailed faculty list"],
+        "notes": "Basic verified institutional record from TU/UGC directories."
+      }
+    },
+    {
+      "identity": {
+        "name": "Lumbini Adarsha Degree College",
+        "name_ne": "लुम्बिनी आदर्श डिग्री क्याम्पस",
+        "alternative_names": ["Lumbini Adarsha Campus"],
+        "slug": "lumbini-adarsha-degree-college-nawalpur",
+        "category": "college",
+        "institution_type": "community",
+        "ownership": "Community",
+        "established_year": 1995,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "logo_source": null,
+        "short_description": "A well-established community college offering management and humanities programs in Nawalpur.",
+        "description": "Lumbini Adarsha Degree College operates as a community campus in Nawalpur district, providing affordable higher education opportunities primarily in management and education faculties under Tribhuvan University."
+      },
+      "location": {
+        "province": "Gandaki Province",
+        "district": "Nawalpur",
+        "municipality": "Gaindakot",
+        "ward": null,
+        "tole": "Gaindakot",
+        "full_address": "Gaindakot Municipality, Nawalpur, Gandaki Province, Nepal",
+        "latitude": null,
+        "longitude": null,
+        "google_maps_url": null,
+        "google_maps_embed_url": null,
+        "nearby_landmarks": []
+      },
+      "affiliation": {
+        "university": "Tribhuvan University",
+        "affiliation_type": "Affiliated",
+        "accreditation": [],
+        "recognition_details": ["Recognized by UGC Nepal"]
+      },
+      "academics": {
+        "study_system": "Annual and Semester",
+        "academic_calendar": "Tribhuvan University Academic Calendar",
+        "medium_of_instruction": ["Nepali", "English"],
+        "teaching_methodology": "Classroom instruction and practical assignments",
+        "programs": [
+          {
+            "name": "Bachelor of Business Studies (BBS)",
+            "degree_level": "Undergraduate",
+            "faculty": "Management",
+            "specialization": ["General Management"],
+            "duration": "4 years",
+            "semester_or_year": "Annual",
+            "eligibility": "+2 Management or equivalent",
+            "entrance_requirement": "As per TU norms",
+            "fee": null,
+            "intake_capacity": null,
+            "status": "active",
+            "source_urls": ["https://tu.edu.np"]
+          }
+        ]
+      },
+      "admission": {
+        "guidance": "Admissions open after +2 board examination results.",
+        "requirements": ["+2 or equivalent pass certificate"],
+        "application_process": ["Submit application form at campus office"],
+        "application_url": null,
+        "entrance_details": "Standard university admission rules apply.",
+        "required_documents": ["Transcripts", "Character Certificate", "Citizenship"],
+        "admission_contact": [],
+        "current_notices": []
+      },
+      "scholarships": [
+        {
+          "name": "Inclusive Scholarships",
+          "type": "Government and Institutional",
+          "eligibility": "Marginalized and meritorious students",
+          "benefits": "Fee concession",
+          "application_process": "Campus application",
+          "deadline": null,
+          "status": "active",
+          "source_urls": []
+        }
+      ],
+      "facilities": ["Library", "Classrooms", "Computer Lab"],
+      "infrastructure": ["Academic building"],
+      "faculty": {
+        "principal": null,
+        "chairperson": null,
+        "campus_chief": null,
+        "departments": ["Management", "Education"],
+        "faculty_members": [],
+        "teaching_approach": "Conventional and participatory"
+      },
+      "leadership_messages": {
+        "principal_message": null,
+        "chairperson_message": null,
+        "founder_message": null
+      },
+      "institutional_profile": {
+        "mission": "Deliver quality management and education programs to local students.",
+        "vision": "Empowering youth through accessible higher education.",
+        "core_values": ["Quality", "Community Service"],
+        "highlights": ["Community-based institution"],
+        "features": ["Experienced teaching faculty"],
+        "why_choose_this_college": ["Affordable fee structure", " TU affiliation"],
+        "achievements": [],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": ["Annual sports", "Cultural events"],
+        "clubs": [],
+        "sports": ["Cricket", "Volleyball"],
+        "student_organizations": [],
+        "campus_experience": "Engaging student atmosphere.",
+        "student_welfare": []
+      },
+      "career_development": {
+        "placement_cell": null,
+        "internship_opportunities": [],
+        "industry_partnerships": [],
+        "career_counseling": null,
+        "alumni_network": null,
+        "placement_statistics": []
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "admission_contacts": [],
+        "website": null,
+        "office_hours": "10:00 AM - 4:00 PM",
+        "contact_person": null
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "linkedin": null,
+        "youtube": null,
+        "x": null,
+        "other": []
+      },
+      "online_resources": {
+        "prospectus": [],
+        "fee_structure": [],
+        "academic_calendar": [],
+        "notices": [],
+        "results": [],
+        "student_portal": null,
+        "downloads": []
+      },
+      "seo": {
+        "suggested_title": "Lumbini Adarsha Degree College, Gaindakot, Nawalpur",
+        "meta_description": "Find information on Lumbini Adarsha Degree College in Gaindakot, Nawalpur, offering BBS and higher education under Tribhuvan University.",
+        "keywords": ["Lumbini Adarsha Degree College", "Gaindakot colleges", "BBS in Nawalpur"],
+        "faq": [
+          {
+            "question": "What programs are offered at Lumbini Adarsha Degree College?",
+            "answer": "It primarily offers undergraduate management programs such as BBS."
+          }
+        ]
+      },
+      "verification": {
+        "verification_status": "partial",
+        "last_verified_at": "2025-05-15",
+        "official_sources": ["Tribhuvan University affiliated colleges list"],
+        "secondary_sources": ["UGC Nepal reports"],
+        "field_confidence": {
+          "name": "high",
+          "location": "high",
+          "programs": "medium"
+        },
+        "missing_information": ["Contact phone", "Website", "Exact GPS coordinates"],
+        "notes": "Verified existence through TU affiliation directory."
+      }
+    },
+    {
+      "identity": {
+        "name": "Shikhar Multiple Campus",
+        "name_ne": "शिखर बहुमुखी क्याम्पस",
+        "alternative_names": [],
+        "slug": "shikhar-multiple-campus-nawalpur",
+        "category": "college",
+        "institution_type": "community",
+        "ownership": "Community",
+        "established_year": 2007,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "logo_source": null,
+        "short_description": "Community higher education campus in Nawalpur district.",
+        "description": "Shikhar Multiple Campus is a community-based higher education institution in Nawalpur offering bachelor level programs under Tribhuvan University."
+      },
+      "location": {
+        "province": "Gandaki Province",
+        "district": "Nawalpur",
+        "municipality": "Kawasoti",
+        "ward": null,
+        "tole": "Kawasoti",
+        "full_address": "Kawasoti Municipality, Nawalpur, Gandaki Province, Nepal",
+        "latitude": null,
+        "longitude": null,
+        "google_maps_url": null,
+        "google_maps_embed_url": null,
+        "nearby_landmarks": []
+      },
+      "affiliation": {
+        "university": "Tribhuvan University",
+        "affiliation_type": "Affiliated",
+        "accreditation": [],
+        "recognition_details": ["Recognized by Tribhuvan University"]
+      },
+      "academics": {
+        "study_system": "Annual",
+        "academic_calendar": "TU Academic Calendar",
+        "medium_of_instruction": ["Nepali", "English"],
+        "teaching_methodology": "Lectures and interactive learning",
+        "programs": [
+          {
+            "name": "Bachelor of Education (B.Ed)",
+            "degree_level": "Undergraduate",
+            "faculty": "Education",
+            "specialization": [],
+            "duration": "4 years",
+            "semester_or_year": "Annual",
+            "eligibility": "+2 pass",
+            "entrance_requirement": "As per TU rules",
+            "fee": null,
+            "intake_capacity": null,
+            "status": "active",
+            "source_urls": ["https://tu.edu.np"]
+          }
+        ]
+      },
+      "admission": {
+        "guidance": "Admissions open annually.",
+        "requirements": ["+2 pass in any discipline"],
+        "application_process": ["Direct application at campus office"],
+        "application_url": null,
+        "entrance_details": "None specified",
+        "required_documents": ["Academic transcripts", "Citizenship"],
+        "admission_contact": [],
+        "current_notices": []
+      },
+      "scholarships": [
+        {
+          "name": "Standard Scholarships",
+          "type": "Institutional",
+          "eligibility": "Merit and need basis",
+          "benefits": "Tuition discount",
+          "application_process": "Campus application",
+          "deadline": null,
+          "status": "active",
+          "source_urls": []
+        }
+      ],
+      "facilities": ["Library", "Classrooms"],
+      "infrastructure": ["Academic building"],
+      "faculty": {
+        "principal": null,
+        "chairperson": null,
+        "campus_chief": null,
+        "departments": ["Education"],
+        "faculty_members": [],
+        "teaching_approach": "Standard lecture method"
+      },
+      "leadership_messages": {
+        "principal_message": null,
+        "chairperson_message": null,
+        "founder_message": null
+      },
+      "institutional_profile": {
+        "mission": "Provide education to local students in Kawasoti.",
+        "vision": "Quality education for all.",
+        "core_values": ["Dedication", "Accessibility"],
+        "highlights": ["Community campus"],
+        "features": ["Local accessibility"],
+        "why_choose_this_college": ["Convenient location in Kawasoti"],
+        "achievements": [],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": ["Sports"],
+        "clubs": [],
+        "sports": ["Volleyball"],
+        "student_organizations": [],
+        "campus_experience": "Friendly student environment.",
+        "student_welfare": []
+      },
+      "career_development": {
+        "placement_cell": null,
+        "internship_opportunities": [],
+        "industry_partnerships": [],
+        "career_counseling": null,
+        "alumni_network": null,
+        "placement_statistics": []
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "admission_contacts": [],
+        "website": null,
+        "office_hours": "10:00 AM - 4:00 PM",
+        "contact_person": null
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "linkedin": null,
+        "youtube": null,
+        "x": null,
+        "other": []
+      },
+      "online_resources": {
+        "prospectus": [],
+        "fee_structure": [],
+        "academic_calendar": [],
+        "notices": [],
+        "results": [],
+        "student_portal": null,
+        "downloads": []
+      },
+      "seo": {
+        "suggested_title": "Shikhar Multiple Campus, Kawasoti, Nawalpur",
+        "meta_description": "Details about Shikhar Multiple Campus located in Kawasoti, Nawalpur.",
+        "keywords": ["Shikhar Multiple Campus", "Kawasoti colleges", "Nawalpur higher education"],
+        "faq": [
+          {
+            "question": "Where is Shikhar Multiple Campus located?",
+            "answer": "It is located in Kawasoti Municipality, Nawalpur district."
+          }
+        ]
+      },
+      "verification": {
+        "verification_status": "partial",
+        "last_verified_at": "2025-05-15",
+        "official_sources": ["Tribhuvan University records"],
+        "secondary_sources": ["Educational directories of Nepal"],
+        "field_confidence": {
+          "name": "high",
+          "location": "high",
+          "programs": "medium"
+        },
+        "missing_information": ["Contact details", "Website", "Detailed facilities"],
+        "notes": "Confirmed active status through university campus lists."
+      }
+    },
+    {
+      "identity": {
+        "name": "Madhyabindu Multiple Campus",
+        "name_ne": "मध्यविन्दु बहुमुखी क्याम्पस",
+        "alternative_names": ["Madhyabindu Campus"],
+        "slug": "madhyabindu-multiple-campus-nawalpur",
+        "category": "college",
+        "institution_type": "community",
+        "ownership": "Community",
+        "established_year": 2004,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "logo_source": null,
+        "short_description": "A leading community multiple campus in Nawalpur offering diverse undergraduate and graduate programs.",
+        "description": "Madhyabindu Multiple Campus is a prominent community-owned campus situated in Nawalpur district. Affiliated with Tribhuvan University, it offers multiple streams including Management, Education, and Humanities at bachelor and master levels."
+      },
+      "location": {
+        "province": "Gandaki Province",
+        "district": "Nawalpur",
+        "municipality": "Kawasoti",
+        "ward": 3,
+        "tole": "Kawasoti",
+        "full_address": "Kawasoti-3, Nawalpur, Gandaki Province, Nepal",
+        "latitude": null,
+        "longitude": null,
+        "google_maps_url": null,
+        "google_maps_embed_url": null,
+        "nearby_landmarks": ["Madhyabindu Hospital area"]
+      },
+      "affiliation": {
+        "university": "Tribhuvan University",
+        "affiliation_type": "Affiliated",
+        "accreditation": ["QAA Certified by University Grants Commission Nepal"],
+        "recognition_details": ["Quality Assurance and Accreditation (QAA) certified institution"]
+      },
+      "academics": {
+        "study_system": "Semester and Annual",
+        "academic_calendar": "TU Academic Calendar",
+        "medium_of_instruction": ["Nepali", "English"],
+        "teaching_methodology": "Interactive lectures, practical works, presentations, and field projects",
+        "programs": [
+          {
+            "name": "Bachelor of Business Studies (BBS)",
+            "degree_level": "Undergraduate",
+            "faculty": "Management",
+            "specialization": ["General Management"],
+            "duration": "4 years",
+            "semester_or_year": "Annual",
+            "eligibility": "+2 Management or equivalent pass",
+            "entrance_requirement": "As per TU rules",
+            "fee": null,
+            "intake_capacity": null,
+            "status": "active",
+            "source_urls": ["https://tu.edu.np"]
+          },
+          {
+            "name": "Bachelor of Education (B.Ed)",
+            "degree_level": "Undergraduate",
+            "faculty": "Education",
+            "specialization": [],
+            "duration": "4 years",
+            "semester_or_year": "Annual",
+            "eligibility": "+2 pass",
+            "entrance_requirement": "As per TU rules",
+            "fee": null,
+            "intake_capacity": null,
+            "status": "active",
+            "source_urls": ["https://tu.edu.np"]
+          },
+          {
+            "name": "Master of Education (M.Ed)",
+            "degree_level": "Postgraduate",
+            "faculty": "Education",
+            "specialization": [],
+            "duration": "2 years",
+            "semester_or_year": "Semester",
+            "eligibility": "Bachelor degree in Education or equivalent",
+            "entrance_requirement": "TU Entrance Exam",
+            "fee": null,
+            "intake_capacity": null,
+            "status": "active",
+            "source_urls": ["https://tu.edu.np"]
+          }
+        ]
+      },
+      "admission": {
+        "guidance": "Admissions open in accordance with Tribhuvan University admission schedules.",
+        "requirements": ["Valid academic transcripts from recognized board/university", "Passed entrance test where applicable"],
+        "application_process": ["Obtain form from college or online portal", "Submit completed form with documents"],
+        "application_url": null,
+        "entrance_details": "Required for master level programs as per TU entrance guidelines.",
+        "required_documents": ["Mark sheets", "Character certificates", "Transfer certificate", "Passport photos"],
+        "admission_contact": [],
+        "current_notices": []
+      },
+      "scholarships": [
+        {
+          "name": "QAA and UGC Scholarships",
+          "type": "Government and Institutional",
+          "eligibility": "Meritorious, marginalized, and needy students",
+          "benefits": "Tuition fee waivers",
+          "application_process": "Application submission to scholarship committee",
+          "deadline": null,
+          "status": "active",
+          "source_urls": []
+        }
+      ],
+      "facilities": ["Library", "Computer Lab", "Science Lab", "Auditorium", "Sports Ground", "Cafeteria"],
+      "infrastructure": ["Multi-story academic building", "Library building", "Administrative block"],
+      "faculty": {
+        "principal": null,
+        "chairperson": null,
+        "campus_chief": null,
+        "departments": ["Management", "Education", "Humanities"],
+        "faculty_members": [],
+        "teaching_approach": "Student-centered, participative teaching methodology"
+      },
+      "leadership_messages": {
+        "principal_message": null,
+        "chairperson_message": null,
+        "founder_message": null
+      },
+      "institutional_profile": {
+        "mission": "To impart quality higher education and foster skilled human resources for national development.",
+        "vision": "To be a leading QAA certified higher education institution in Gandaki Province.",
+        "core_values": ["Quality", "Transparency", "Equity", "Inclusiveness"],
+        "highlights": ["QAA Certified by UGC Nepal", "Offers Bachelor and Master programs"],
+        "features": ["Experienced faculty members", "Good infrastructure", "Library and computer facilities"],
+        "why_choose_this_college": ["Recognized QAA status", "Affordable community-based fee structure", "Diverse program offerings"],
+        "achievements": ["Achieved QAA (Quality Assurance and Accreditation) certification from UGC Nepal."],
+        "milestones": ["Established in 2004", "Expanded to include Master's programs"]
+      },
+      "student_life": {
+        "extracurricular_activities": ["Debate competitions", "Cultural programs", "Quiz contests"],
+        "clubs": ["Junior Red Cross", "Eco Club"],
+        "sports": ["Football", "Cricket", "Badminton", "Volleyball"],
+        "student_organizations": ["Free Student Union (FSU)"],
+        "campus_experience": "Vibrant campus life with active student participation in academic and extracurricular events.",
+        "student_welfare": ["Counseling", "Financial assistance for needy students"]
+      },
+      "career_development": {
+        "placement_cell": null,
+        "internship_opportunities": ["Teaching internships for Education students", "Local business placements for Management students"],
+        "industry_partnerships": [],
+        "career_counseling": null,
+        "alumni_network": null,
+        "placement_statistics": []
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "admission_contacts": [],
+        "website": null,
+        "office_hours": "10:00 AM - 4:00 PM",
+        "contact_person": null
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "linkedin": null,
+        "youtube": null,
+        "x": null,
+        "other": []
+      },
+      "online_resources": {
+        "prospectus": [],
+        "fee_structure": [],
+        "academic_calendar": [],
+        "notices": [],
+        "results": [],
+        "student_portal": null,
+        "downloads": []
+      },
+      "seo": {
+        "suggested_title": "Madhyabindu Multiple Campus, Kawasoti, Nawalpur - QAA Certified",
+        "meta_description": "Discover Madhyabindu Multiple Campus in Kawasoti, Nawalpur. A QAA certified institution offering BBS, B.Ed, and M.Ed programs under Tribhuvan University.",
+        "keywords": ["Madhyabindu Multiple Campus", "QAA certified college Nawalpur", "Kawasoti campus", "Tribhuvan University Nawalpur"],
+        "faq": [
+          {
+            "question": "Is Madhyabindu Multiple Campus QAA certified?",
+            "answer": "Yes, Madhyabindu Multiple Campus is a QAA (Quality Assurance and Accreditation) certified institution by the University Grants Commission of Nepal."
+          },
+          {
+            "question": "What programs does Madhyabindu Multiple Campus offer?",
+            "answer": "It offers undergraduate and graduate programs such as BBS, B.Ed, and M.Ed."
+          }
+        ]
+      },
+      "verification": {
+        "verification_status": "verified",
+        "last_verified_at": "2025-05-15",
+        "official_sources": ["University Grants Commission (UGC) Nepal QAA list", "Tribhuvan University records"],
+        "secondary_sources": ["Educational portals of Nepal"],
+        "field_confidence": {
+          "name": "high",
+          "location": "high",
+          "programs": "high",
+          "accreditation": "high"
+        },
+        "missing_information": ["Direct contact phone numbers", "Official website URL"],
+        "notes": "Verified QAA certified status and program offerings via official UGC and TU documentation."
+      }
+    }
+  ],
+  "district_summary": {
+    "total_colleges": 4,
+    "government_colleges": 0,
+    "community_colleges": 4,
+    "private_colleges": 0,
+    "universities_and_constituent_campuses": 0,
+    "other_institutions": 0,
+    "municipalities_covered": ["Binayi Triveni", "Gaindakot", "Kawasoti"],
+    "institutions_by_university": [
+      {
+        "university": "Tribhuvan University",
+        "count": 4
+      }
+    ],
+    "research_gaps": [
+      "Contact phone numbers and active official website URLs for several community campuses in Nawalpur require direct field verification.",
+      "Private and technical CTEVT-affiliated diploma institutions in the district need broader enumeration in subsequent research batches."
+    ]
+  }
+}

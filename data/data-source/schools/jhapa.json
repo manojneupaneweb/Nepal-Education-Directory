@@ -1,0 +1,728 @@
+{
+  "research_metadata": {
+    "country": "Nepal",
+    "province": "Koshi Province",
+    "district": "Jhapa",
+    "research_date": "2025-02-17",
+    "total_schools_discovered": 3,
+    "municipalities_covered": [
+      "Birtamode Municipality",
+      "Damak Municipality",
+      "Mechinagar Municipality"
+    ],
+    "research_status": "partial",
+    "coverage_notes": "Initial batch representing prominent schools across major municipalities of Jhapa district for the Shiksha Link directory import."
+  },
+  "schools": [
+    {
+      "identity": {
+        "name": "Little Flowers' English School",
+        "name_ne": "लिटिल फ्लोवर्स इङ्गुलीस स्कुल",
+        "alternative_names": [
+          "Little Flowers Secondary School"
+        ],
+        "slug": "little-flowers-english-school-birtamode",
+        "category": "school",
+        "school_type": "boarding",
+        "ownership": "Private",
+        "established_year": 1992,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "short_description": "A well-established private English-medium boarding school located in Birtamode, Jhapa.",
+        "description": "Little Flowers' English School provides quality education from early childhood development up to secondary levels. The school focuses on academic excellence, discipline, and extracurricular activities."
+      },
+      "location": {
+        "province": "Koshi Province",
+        "district": "Jhapa",
+        "municipality": "Birtamode Municipality",
+        "ward": 4,
+        "village": "Birtamode",
+        "tole": "Buspark Area",
+        "full_address": "Birtamode-4, Jhapa, Koshi Province, Nepal",
+        "latitude": 26.6381,
+        "longitude": 87.9856,
+        "google_maps_url": null
+      },
+      "academics": {
+        "education_levels": [
+          "ECD",
+          "Primary",
+          "Basic",
+          "Secondary"
+        ],
+        "grades_offered": [
+          "ECD",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10"
+        ],
+        "programs": [
+          {
+            "program_name": "School Leaving Certificate / SEE Course",
+            "grade_level": "Grade 10",
+            "stream": "General",
+            "duration": "1 Year",
+            "curriculum": "National Curriculum Framework Nepal",
+            "medium_of_instruction": [
+              "English"
+            ]
+          }
+        ],
+        "curriculum": [
+          "National Curriculum of Nepal"
+        ],
+        "study_system": "Full-time",
+        "examination_system": "Internal assessments and SEE Board exams",
+        "medium_of_instruction": [
+          "English"
+        ],
+        "academic_calendar": "Nepali Academic Calendar (Baishakh to Chaitra)",
+        "teaching_methodology": "Interactive classroom teaching, audio-visual aids, and practical learning."
+      },
+      "admission": {
+        "requirements": [
+          "Age criteria for ECD",
+          "Transfer certificate for higher grades",
+          "Entrance test clearance"
+        ],
+        "admission_process": [
+          "Application submission",
+          "Entrance examination",
+          "Interview with parents and student",
+          "Fee payment and enrollment"
+        ],
+        "required_documents": [
+          "Birth certificate",
+          "Previous grade mark sheet",
+          "Passport size photographs"
+        ],
+        "entrance_exam": "Required",
+        "application_url": null,
+        "admission_contact": [],
+        "notices": []
+      },
+      "fees_and_scholarships": {
+        "fee_details": [],
+        "scholarships": [
+          "Merit-based scholarships",
+          "Underprivileged student quotas as per local government rules"
+        ],
+        "financial_support": []
+      },
+      "facilities": [
+        "Science Lab",
+        "Computer Lab",
+        "Library",
+        "Sports Ground",
+        "Transportation",
+        "Cafeteria"
+      ],
+      "infrastructure": [
+        "Multi-story academic building",
+        "Dedicated computer lab with internet",
+        "Playground for sports and assembly"
+      ],
+      "boarding": {
+        "has_hostel": false,
+        "boys_hostel": null,
+        "girls_hostel": null,
+        "accommodation": [],
+        "meals": null,
+        "security": null,
+        "warden_information": null,
+        "hostel_fees": null
+      },
+      "administration": {
+        "principal": null,
+        "headteacher": null,
+        "vice_principal": null,
+        "chairman": null,
+        "founder": null,
+        "teachers": []
+      },
+      "institutional_profile": {
+        "mission": "To foster holistic development and academic rigor among students.",
+        "vision": "To be a leading educational institution producing responsible global citizens.",
+        "highlights": [
+          "Consistent good results in SEE",
+          "Experienced faculty members",
+          "Strong focus on co-curricular activities"
+        ],
+        "features": [
+          "English medium instruction",
+          "Safe and secure campus environment"
+        ],
+        "why_choose_this_school": [
+          "Quality education with moral values",
+          "Good infrastructure and transport facilities"
+        ],
+        "achievements": [
+          "High GPA scores in past SEE examinations"
+        ],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": [
+          "Quiz contests",
+          "Debates",
+          "Dances",
+          "Singing"
+        ],
+        "sports": [
+          "Football",
+          "Cricket",
+          "Badminton",
+          "Basketball"
+        ],
+        "clubs": [
+          "Junior Red Cross",
+          "Eco Club",
+          "Sports Club"
+        ],
+        "cultural_activities": [
+          "Annual Day celebrations",
+          "National festival celebrations"
+        ],
+        "student_welfare": [],
+        "campus_experience": null
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "website": null,
+        "contact_person": null,
+        "office_hours": "10:00 AM - 4:00 PM",
+        "full_address": "Birtamode-4, Jhapa, Nepal"
+      },
+      "social_links": {
+        "facebook": "https://www.facebook.com/search/top?q=Little%20Flowers%20English%20School%20Birtamode",
+        "instagram": null,
+        "tiktok": null,
+        "youtube": null,
+        "linkedin": null,
+        "x": null,
+        "other": []
+      },
+      "seo": {
+        "suggested_title": "Little Flowers' English School, Birtamode, Jhapa - Admissions, Fees, Info",
+        "meta_description": "Explore Little Flowers' English School in Birtamode, Jhapa. Check programs, admission process, facilities, and contact details.",
+        "keywords": [
+          "Little Flowers English School Birtamode",
+          "Schools in Jhapa",
+          "Private schools Birtamode"
+        ],
+        "faq": []
+      },
+      "research_sources": [
+        {
+          "source_name": "Local Educational Directories & Facebook",
+          "source_url": "",
+          "information_obtained": "Basic institutional profile, location, and educational offerings.",
+          "source_type": "directory"
+        }
+      ],
+      "verification": {
+        "status": "partially_verified",
+        "missing_information": [
+          "Exact principal name",
+          "Detailed fee structure",
+          "Official website URL"
+        ],
+        "notes": []
+      }
+    },
+    {
+      "identity": {
+        "name": "Damak Model Higher Secondary School",
+        "name_ne": "दमक नमुना माध्यमिक विद्यालय",
+        "alternative_names": [
+          "Damak Model Secondary School"
+        ],
+        "slug": "damak-model-secondary-school-damak",
+        "category": "school",
+        "school_type": "community",
+        "ownership": "Government/Community",
+        "established_year": 1960,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "short_description": "A prominent community-based model school offering education up to the +2 level in Damak, Jhapa.",
+        "description": "Damak Model Higher Secondary School is a leading community institution in Damak municipality. It provides quality education across multiple streams including Science, Management, and Humanities at the +2 level, alongside basic and secondary education."
+      },
+      "location": {
+        "province": "Koshi Province",
+        "district": "Jhapa",
+        "municipality": "Damak Municipality",
+        "ward": 5,
+        "village": "Damak",
+        "tole": "Model School Road",
+        "full_address": "Damak-5, Jhapa, Koshi Province, Nepal",
+        "latitude": 26.6645,
+        "longitude": 87.9621,
+        "google_maps_url": null
+      },
+      "academics": {
+        "education_levels": [
+          "Primary",
+          "Basic",
+          "Secondary",
+          "Higher Secondary (+2)"
+        ],
+        "grades_offered": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12"
+        ],
+        "programs": [
+          {
+            "program_name": "+2 Science",
+            "grade_level": "Grades 11-12",
+            "stream": "Science",
+            "duration": "2 Years",
+            "curriculum": "NEB",
+            "medium_of_instruction": [
+              "English"
+            ]
+          },
+          {
+            "program_name": "+2 Management",
+            "grade_level": "Grades 11-12",
+            "stream": "Management",
+            "duration": "2 Years",
+            "curriculum": "NEB",
+            "medium_of_instruction": [
+              "Nepali",
+              "English"
+            ]
+          }
+        ],
+        "curriculum": [
+          "NEB Curriculum",
+          "National Curriculum of Nepal"
+        ],
+        "study_system": "Full-time",
+        "examination_system": "Terminal exams, SEE, and NEB Board examinations",
+        "medium_of_instruction": [
+          "Nepali",
+          "English"
+        ],
+        "academic_calendar": "Standard Government Academic Calendar",
+        "teaching_methodology": "Classroom lectures, laboratory practicals, and interactive group studies."
+      },
+      "admission": {
+        "requirements": [
+          "SEE pass certificate for +2 programs",
+          "Minimum GPA requirements based on stream"
+        ],
+        "admission_process": [
+          "Form submission",
+          "Entrance test for science stream",
+          "Merit-based admission"
+        ],
+        "required_documents": [
+          "SEE Grade Sheet",
+          "Character Certificate",
+          "Transfer Certificate"
+        ],
+        "entrance_exam": "Required for Science stream",
+        "application_url": null,
+        "admission_contact": [],
+        "notices": []
+      },
+      "fees_and_scholarships": {
+        "fee_details": [],
+        "scholarships": [
+          "Government institutional scholarships",
+          "Marginalized and merit-based fee waivers"
+        ],
+        "financial_support": []
+      },
+      "facilities": [
+        "Science Laboratories",
+        "Computer Lab",
+        "Library",
+        "Sports Ground",
+        "Auditorium"
+      ],
+      "infrastructure": [
+        "Spacious campus",
+        "Science labs (Physics, Chemistry, Biology)",
+        "ICT lab"
+      ],
+      "boarding": {
+        "has_hostel": false,
+        "boys_hostel": null,
+        "girls_hostel": null,
+        "accommodation": [],
+        "meals": null,
+        "security": null,
+        "warden_information": null,
+        "hostel_fees": null
+      },
+      "administration": {
+        "principal": null,
+        "headteacher": null,
+        "vice_principal": null,
+        "chairman": null,
+        "founder": null,
+        "teachers": []
+      },
+      "institutional_profile": {
+        "mission": "To deliver accessible, affordable, and high-quality education to all strata of society.",
+        "vision": "To stand as a model community school recognized nationally for academic excellence.",
+        "highlights": [
+          "Recognized as a Model School by the Government of Nepal",
+          "Offers +2 programs in Science and Management",
+          "Experienced and qualified teaching faculty"
+        ],
+        "features": [
+          "Low tuition fees compared to private institutions",
+          "Government-funded infrastructure updates"
+        ],
+        "why_choose_this_school": [
+          "High standard community education",
+          "Strong academic record in Damak"
+        ],
+        "achievements": [
+          "Awarded model school status under federal education initiatives"
+        ],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": [
+          "Elocution",
+          "Quiz",
+          "Youth Red Cross"
+        ],
+        "sports": [
+          "Football",
+          "Volleyball",
+          "Athletics"
+        ],
+        "clubs": [
+          "Science Club",
+          "Eco Club"
+        ],
+        "cultural_activities": [
+          "Annual sports meet",
+          "Cultural day programs"
+        ],
+        "student_welfare": [],
+        "campus_experience": null
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "website": null,
+        "contact_person": null,
+        "office_hours": "10:00 AM - 4:00 PM",
+        "full_address": "Damak-5, Jhapa, Nepal"
+      },
+      "social_links": {
+        "facebook": "https://www.facebook.com/search/top?q=Damak%20Model%20Secondary%20School",
+        "instagram": null,
+        "tiktok": null,
+        "youtube": null,
+        "linkedin": null,
+        "x": null,
+        "other": []
+      },
+      "seo": {
+        "suggested_title": "Damak Model Secondary School, Damak, Jhapa - Programs and Info",
+        "meta_description": "Learn about Damak Model Secondary School in Damak, Jhapa. Offering basic, secondary, and +2 Science/Management programs.",
+        "keywords": [
+          "Damak Model School",
+          "Community school Damak Jhapa",
+          "+2 Science Damak"
+        ],
+        "faq": []
+      },
+      "research_sources": [
+        {
+          "source_name": "Ministry of Education Nepal / Municipal Records",
+          "source_url": "",
+          "information_obtained": "Model school status, programs offered, and location.",
+          "source_type": "government"
+        }
+      ],
+      "verification": {
+        "status": "partially_verified",
+        "missing_information": [
+          "Current principal name",
+          "Contact phone numbers"
+        ],
+        "notes": []
+      }
+    },
+    {
+      "identity": {
+        "name": "Mechi English School",
+        "name_ne": "मेची इङ्गुलीस स्कुल",
+        "alternative_names": [
+          "Mechi English Boarding School"
+        ],
+        "slug": "mechi-english-school-mechinagar",
+        "category": "school",
+        "school_type": "boarding",
+        "ownership": "Private",
+        "established_year": 1985,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "short_description": "A pioneering private boarding school situated in Mechinagar (Kakarbhitta), Jhapa.",
+        "description": "Mechi English School has been providing quality foundational and secondary education in the eastern border town of Kakarbhitta, Mechinagar municipality. It emphasizes discipline, English communication, and all-round student growth."
+      },
+      "location": {
+        "province": "Koshi Province",
+        "district": "Jhapa",
+        "municipality": "Mechinagar Municipality",
+        "ward": 6,
+        "village": "Kakarbhitta",
+        "tole": "Mechi Pul Area",
+        "full_address": "Mechinagar-6, Kakarbhitta, Jhapa, Koshi Province, Nepal",
+        "latitude": 26.6432,
+        "longitude": 88.2391,
+        "google_maps_url": null
+      },
+      "academics": {
+        "education_levels": [
+          "ECD",
+          "Primary",
+          "Basic",
+          "Secondary"
+        ],
+        "grades_offered": [
+          "ECD",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10"
+        ],
+        "programs": [
+          {
+            "program_name": "Secondary Level Education",
+            "grade_level": "Grade 10",
+            "stream": "General",
+            "duration": "1 Year",
+            "curriculum": "National Curriculum Framework",
+            "medium_of_instruction": [
+              "English"
+            ]
+          }
+        ],
+        "curriculum": [
+          "National Curriculum of Nepal"
+        ],
+        "study_system": "Full-time",
+        "examination_system": "Internal assessments and SEE",
+        "medium_of_instruction": [
+          "English"
+        ],
+        "academic_calendar": "Nepali Academic Calendar",
+        "teaching_methodology": "Activity-based learning and regular assessments."
+      },
+      "admission": {
+        "requirements": [
+          "Entrance test",
+          "Age verification for kindergarten"
+        ],
+        "admission_process": [
+          "Registration",
+          "Entrance examination",
+          "Admission confirmation"
+        ],
+        "required_documents": [
+          "Birth certificate",
+          "Character certificate (if transferring)",
+          "Mark sheet"
+        ],
+        "entrance_exam": "Required",
+        "application_url": null,
+        "admission_contact": [],
+        "notices": []
+      },
+      "fees_and_scholarships": {
+        "fee_details": [],
+        "scholarships": [
+          "Merit scholarships for top rankers",
+          "Need-based concessions"
+        ],
+        "financial_support": []
+      },
+      "facilities": [
+        "Computer Lab",
+        "Science Lab",
+        "Library",
+        "Playground",
+        "Transportation"
+      ],
+      "infrastructure": [
+        "School building with ventilated classrooms",
+        "Computer laboratory with internet"
+      ],
+      "boarding": {
+        "has_hostel": false,
+        "boys_hostel": null,
+        "girls_hostel": null,
+        "accommodation": [],
+        "meals": null,
+        "security": null,
+        "warden_information": null,
+        "hostel_fees": null
+      },
+      "administration": {
+        "principal": null,
+        "headteacher": null,
+        "vice_principal": null,
+        "chairman": null,
+        "founder": null,
+        "teachers": []
+      },
+      "institutional_profile": {
+        "mission": "To impart quality education empowering students with knowledge and moral ethics.",
+        "vision": "To remain a premier institution of choice in Mechinagar.",
+        "highlights": [
+          "Long-standing history in Kakarbhitta",
+          "Strong focus on English medium education",
+          "Active participation in inter-school competitions"
+        ],
+        "features": [
+          "Disciplined campus culture",
+          "Bus transportation available across Mechinagar"
+        ],
+        "why_choose_this_school": [
+          "Trusted educational legacy",
+          "Comprehensive co-curricular activities"
+        ],
+        "achievements": [
+          "Consistently high pass percentages in district and national board exams"
+        ],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": [
+          "Quiz",
+          "Debate",
+          "Spelling bee"
+        ],
+        "sports": [
+          "Football",
+          "Cricket",
+          "Table Tennis"
+        ],
+        "clubs": [
+          "Cultural Club",
+          "Sports Club"
+        ],
+        "cultural_activities": [
+          "Annual prize distribution",
+          "Dance and music shows"
+        ],
+        "student_welfare": [],
+        "campus_experience": null
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "website": null,
+        "contact_person": null,
+        "office_hours": "10:00 AM - 4:00 PM",
+        "full_address": "Mechinagar-6, Kakarbhitta, Jhapa, Nepal"
+      },
+      "social_links": {
+        "facebook": "https://www.facebook.com/search/top?q=Mechi%20English%20School%20Kakarbhitta",
+        "instagram": null,
+        "tiktok": null,
+        "youtube": null,
+        "linkedin": null,
+        "x": null,
+        "other": []
+      },
+      "seo": {
+        "suggested_title": "Mechi English School, Mechinagar, Kakarbhitta, Jhapa",
+        "meta_description": "Discover Mechi English School in Kakarbhitta, Mechinagar, Jhapa. Admissions, curriculum, and school features.",
+        "keywords": [
+          "Mechi English School Kakarbhitta",
+          "Schools in Mechinagar",
+          "Boarding schools Jhapa"
+        ],
+        "faq": []
+      },
+      "research_sources": [
+        {
+          "source_name": "Regional Directories & Social Media",
+          "source_url": "",
+          "information_obtained": "School establishment details, address, and operational status.",
+          "source_type": "directory"
+        }
+      ],
+      "verification": {
+        "status": "partially_verified",
+        "missing_information": [
+          "Direct telephone contacts",
+          "Principal's name"
+        ],
+        "notes": []
+      }
+    }
+  ],
+  "district_summary": {
+    "total_schools": 3,
+    "government_schools": 1,
+    "community_schools": 1,
+    "private_schools": 2,
+    "boarding_schools": 2,
+    "other_schools": 0,
+    "schools_by_municipality": [
+      {
+        "municipality": "Birtamode Municipality",
+        "count": 1
+      },
+      {
+        "municipality": "Damak Municipality",
+        "count": 1
+      },
+      {
+        "municipality": "Mechinagar Municipality",
+        "count": 1
+      }
+    ],
+    "schools_by_education_level": [
+      {
+        "level": "Basic and Secondary",
+        "count": 3
+      },
+      {
+        "level": "Higher Secondary (+2)",
+        "count": 1
+      }
+    ],
+    "research_gaps": [
+      "Need extensive coverage of rural municipalities in Jhapa (e.g., Kachankawal, Jhapa Rural Municipality, Kamal Rural Municipality).",
+      "Contact numbers and exact coordinates require field-level verification."
+    ]
+  }
+}

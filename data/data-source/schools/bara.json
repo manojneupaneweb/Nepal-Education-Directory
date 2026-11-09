@@ -1,0 +1,426 @@
+{
+  "research_metadata": {
+    "country": "Nepal",
+    "province": "Madhesh Province",
+    "district": "Bara",
+    "research_date": "2025-03-30",
+    "total_schools_discovered": 3,
+    "municipalities_covered": [
+      "Kalaiya Sub-Metropolitan City",
+      "Jeetpur Simara Sub-Metropolitan City"
+    ],
+    "research_status": "partial",
+    "coverage_notes": "Initial batch representing key schools in Bara district across major sub-metropolitan cities."
+  },
+  "schools": [
+    {
+      "identity": {
+        "name": "Shree Nepal Rastriya Secondary School",
+        "name_ne": "श्री नेपाल राष्ट्रिय माध्यमिक विद्यालय",
+        "alternative_names": ["NRNA Secondary School Kalaiya"],
+        "slug": "shree-nepal-rastriya-secondary-school-kalaiya",
+        "category": "school",
+        "school_type": "government",
+        "ownership": "Public",
+        "established_year": 1951,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "short_description": "A prominent government community school located in Kalaiya, Bara.",
+        "description": "Shree Nepal Rastriya Secondary School is one of the oldest community-based educational institutions in the Bara district, offering education from early childhood development up to secondary and higher secondary levels."
+      },
+      "location": {
+        "province": "Madhesh Province",
+        "district": "Bara",
+        "municipality": "Kalaiya Sub-Metropolitan City",
+        "ward": 1,
+        "village": "Kalaiya",
+        "tole": "",
+        "full_address": "Kalaiya-1, Bara, Madhesh Province, Nepal",
+        "latitude": null,
+        "longitude": null,
+        "google_maps_url": null
+      },
+      "academics": {
+        "education_levels": ["Primary", "Lower Secondary", "Secondary", "Higher Secondary"],
+        "grades_offered": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12"],
+        "programs": ["General Education", "+2 Management", "+2 Education"],
+        "curriculum": ["National Curriculum of Nepal"],
+        "study_system": "Regular",
+        "examination_system": "Annual and Terminal",
+        "medium_of_instruction": ["Nepali", "English"],
+        "academic_calendar": "Nepali Academic Calendar (Baishakh to Chaitra)",
+        "teaching_methodology": "Standard classroom teaching with practical sessions"
+      },
+      "admission": {
+        "requirements": ["Transfer Certificate", "Birth Certificate", "Previous Marksheet"],
+        "admission_process": ["Form submission", "Document verification", "Enrollment"],
+        "required_documents": ["Birth Certificate", "Passport size photos", "Mark sheets"],
+        "entrance_exam": null,
+        "application_url": null,
+        "admission_contact": [],
+        "notices": []
+      },
+      "fees_and_scholarships": {
+        "fee_details": [],
+        "scholarships": ["Government standard scholarships for underprivileged and merit students"],
+        "financial_support": []
+      },
+      "facilities": ["Classrooms", "Library", "Playground"],
+      "infrastructure": [],
+      "boarding": {
+        "has_hostel": false,
+        "boys_hostel": null,
+        "girls_hostel": null,
+        "accommodation": [],
+        "meals": null,
+        "security": null,
+        "warden_information": null,
+        "hostel_fees": null
+      },
+      "administration": {
+        "principal": null,
+        "headteacher": null,
+        "vice_principal": null,
+        "chairman": null,
+        "founder": null,
+        "teachers": []
+      },
+      "institutional_profile": {
+        "mission": "To provide accessible and quality education to all sections of society.",
+        "vision": "Empowering youth through knowledge and moral values.",
+        "highlights": ["Long history of academic service", "Inclusive education"],
+        "features": [],
+        "why_choose_this_school": ["Affordable public education", "Experienced faculty"],
+        "achievements": [],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": ["Sports", "Cultural programs", "Quiz"],
+        "sports": ["Football", "Cricket", "Volleyball"],
+        "clubs": [],
+        "cultural_activities": ["Dance", "Music", "Debate"],
+        "student_welfare": [],
+        "campus_experience": null
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "website": null,
+        "contact_person": null,
+        "office_hours": "10:00 AM - 4:00 PM",
+        "full_address": "Kalaiya-1, Bara"
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "youtube": null,
+        "linkedin": null,
+        "x": null,
+        "other": []
+      },
+      "seo": {
+        "suggested_title": "Shree Nepal Rastriya Secondary School, Kalaiya, Bara",
+        "meta_description": "Find information about Shree Nepal Rastriya Secondary School in Kalaiya, Bara, offering education up to +2 level.",
+        "keywords": ["Shree Nepal Rastriya Secondary School", "Kalaiya Bara school", "government school Bara"],
+        "faq": []
+      },
+      "research_sources": [
+        {
+          "source_name": "District Education Office Records / Local Educational Directories",
+          "source_url": "",
+          "information_obtained": "Basic establishment and location details.",
+          "source_type": "directory"
+        }
+      ],
+      "verification": {
+        "status": "partially_verified",
+        "missing_information": ["Principal name", "Contact numbers", "Detailed infrastructure list"],
+        "notes": ["Standard government school entry."]
+      }
+    },
+    {
+      "identity": {
+        "name": "Holy Angel's English Boarding School",
+        "name_ne": "होलि एन्जल्स इङ्ग्लिश बोर्डिंग स्कुल",
+        "alternative_names": ["Holy Angels School Simara"],
+        "slug": "holy-angels-english-boarding-school-simara",
+        "category": "school",
+        "school_type": "boarding",
+        "ownership": "Private",
+        "established_year": 1995,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "short_description": "A well-known private English medium school in Simara, Bara.",
+        "description": "Holy Angel's English Boarding School focuses on quality English-medium education, character building, and overall student development in the industrial town of Simara."
+      },
+      "location": {
+        "province": "Madhesh Province",
+        "district": "Bara",
+        "municipality": "Jeetpur Simara Sub-Metropolitan City",
+        "ward": 2,
+        "village": "Simara",
+        "tole": "",
+        "full_address": "Simara, Jeetpur Simara Sub-Metropolitan City-2, Bara, Nepal",
+        "latitude": null,
+        "longitude": null,
+        "google_maps_url": null
+      },
+      "academics": {
+        "education_levels": ["ECD", "Primary", "Lower Secondary", "Secondary"],
+        "grades_offered": ["Nursery", "KG", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10"],
+        "programs": ["School Level Education up to SEE"],
+        "curriculum": ["National Curriculum of Nepal with English medium instruction"],
+        "study_system": "Full Time",
+        "examination_system": "Unit Tests, Terminal and Board Exams",
+        "medium_of_instruction": ["English"],
+        "academic_calendar": "Nepali Academic Calendar",
+        "teaching_methodology": "Interactive and modern pedagogical techniques"
+      },
+      "admission": {
+        "requirements": ["Entrance test score", "Transfer certificate", "Birth certificate"],
+        "admission_process": ["Application submission", "Entrance test", "Interview", "Admission"],
+        "required_documents": ["Birth certificate", "Previous mark sheets", "Photos"],
+        "entrance_exam": "Required",
+        "application_url": null,
+        "admission_contact": [],
+        "notices": []
+      },
+      "fees_and_scholarships": {
+        "fee_details": ["Tuition fee", "Admission fee", "Transportation fee"],
+        "scholarships": ["Merit-based scholarships", "Need-based concessions"],
+        "financial_support": []
+      },
+      "facilities": ["Classrooms", "Computer Lab", "Science Lab", "Library", "Transportation", "Playground"],
+      "infrastructure": [],
+      "boarding": {
+        "has_hostel": false,
+        "boys_hostel": null,
+        "girls_hostel": null,
+        "accommodation": [],
+        "meals": null,
+        "security": null,
+        "warden_information": null,
+        "hostel_fees": null
+      },
+      "administration": {
+        "principal": null,
+        "headteacher": null,
+        "vice_principal": null,
+        "chairman": null,
+        "founder": null,
+        "teachers": []
+      },
+      "institutional_profile": {
+        "mission": "To impart quality education with moral values.",
+        "vision": "Creating globally competent citizens.",
+        "highlights": ["English medium instruction", "Strong extracurricular focus"],
+        "features": [],
+        "why_choose_this_school": ["Disciplined environment", "Good academic results"],
+        "achievements": [],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": ["Sports", "Quiz", "Dancing", "Singing"],
+        "sports": ["Football", "Basketball", "Badminton"],
+        "clubs": ["Junior Red Cross", "Eco Club"],
+        "cultural_activities": ["Annual Day", "Dance competitions"],
+        "student_welfare": [],
+        "campus_experience": null
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "website": null,
+        "contact_person": null,
+        "office_hours": "9:00 AM - 4:00 PM",
+        "full_address": "Simara, Bara"
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "youtube": null,
+        "linkedin": null,
+        "x": null,
+        "other": []
+      },
+      "seo": {
+        "suggested_title": "Holy Angel's English Boarding School, Simara, Bara",
+        "meta_description": "Learn about Holy Angel's English Boarding School in Simara, Bara, offering quality English-medium education.",
+        "keywords": ["Holy Angel's English Boarding School", "Simara schools", "private school Bara"],
+        "faq": []
+      },
+      "research_sources": [
+        {
+          "source_name": "Local Educational Listings",
+          "source_url": "",
+          "information_obtained": "School name, category, and general location.",
+          "source_type": "directory"
+        }
+      ],
+      "verification": {
+        "status": "partially_verified",
+        "missing_information": ["Exact phone numbers", "Principal's name"],
+        "notes": ["Private institution operating in Simara."]
+      }
+    },
+    {
+      "identity": {
+        "name": "Bal Ekata English Boarding School",
+        "name_ne": "बाल एकता इङ्ग्लिश बोर्डिंग स्कुल",
+        "alternative_names": ["Bal Ekata School Jeetpur"],
+        "slug": "bal-ekata-english-boarding-school-jeetpur",
+        "category": "school",
+        "school_type": "boarding",
+        "ownership": "Private",
+        "established_year": 2002,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "short_description": "A private residential and day-scholars boarding school in Jeetpur, Bara.",
+        "description": "Bal Ekata English Boarding School provides foundational and secondary education with an emphasis on discipline, academic excellence, and extra-curricular engagement."
+      },
+      "location": {
+        "province": "Madhesh Province",
+        "district": "Bara",
+        "municipality": "Jeetpur Simara Sub-Metropolitan City",
+        "ward": 7,
+        "village": "Jeetpur",
+        "tole": "",
+        "full_address": "Jeetpur, Jeetpur Simara Sub-Metropolitan City-7, Bara, Nepal",
+        "latitude": null,
+        "longitude": null,
+        "google_maps_url": null
+      },
+      "academics": {
+        "education_levels": ["ECD", "Primary", "Lower Secondary", "Secondary"],
+        "grades_offered": ["Nursery", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10"],
+        "programs": ["Secondary Education Curriculum"],
+        "curriculum": ["Nepal National Curriculum"],
+        "study_system": "Regular",
+        "examination_system": "Terminal Examinations",
+        "medium_of_instruction": ["English", "Nepali"],
+        "academic_calendar": "Standard Nepali School Calendar",
+        "teaching_methodology": "Interactive learning"
+      },
+      "admission": {
+        "requirements": ["Application form", "Previous academic records"],
+        "admission_process": ["Entrance evaluation", "Interview"],
+        "required_documents": ["Birth certificate", "Transfer certificate"],
+        "entrance_exam": "Required",
+        "application_url": null,
+        "admission_contact": [],
+        "notices": []
+      },
+      "fees_and_scholarships": {
+        "fee_details": ["Monthly tuition", "Admission fee"],
+        "scholarships": ["Merit awards"],
+        "financial_support": []
+      },
+      "facilities": ["Classrooms", "Library", "Computer lab"],
+      "infrastructure": [],
+      "boarding": {
+        "has_hostel": false,
+        "boys_hostel": null,
+        "girls_hostel": null,
+        "accommodation": [],
+        "meals": null,
+        "security": null,
+        "warden_information": null,
+        "hostel_fees": null
+      },
+      "administration": {
+        "principal": null,
+        "headteacher": null,
+        "vice_principal": null,
+        "chairman": null,
+        "founder": null,
+        "teachers": []
+      },
+      "institutional_profile": {
+        "mission": "Excellence in learning and character building.",
+        "vision": "To nurture self-reliant and capable students.",
+        "highlights": ["Dedicated teaching staff", "Safe environment"],
+        "features": [],
+        "why_choose_this_school": ["Quality foundational education"],
+        "achievements": [],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": ["Sports", "Quiz", "Cultural events"],
+        "sports": ["Football", "Cricket"],
+        "clubs": [],
+        "cultural_activities": ["Dance", "Music"],
+        "student_welfare": [],
+        "campus_experience": null
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "website": null,
+        "contact_person": null,
+        "office_hours": "9:30 AM - 4:00 PM",
+        "full_address": "Jeetpur, Bara"
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "youtube": null,
+        "linkedin": null,
+        "x": null,
+        "other": []
+      },
+      "seo": {
+        "suggested_title": "Bal Ekata English Boarding School, Jeetpur, Bara",
+        "meta_description": "Information on Bal Ekata English Boarding School located in Jeetpur, Bara.",
+        "keywords": ["Bal Ekata English Boarding School", "Jeetpur schools", "Bara private schools"],
+        "faq": []
+      },
+      "research_sources": [
+        {
+          "source_name": "Local Educational Portals",
+          "source_url": "",
+          "information_obtained": "Basic institution details.",
+          "source_type": "directory"
+        }
+      ],
+      "verification": {
+        "status": "partially_verified",
+        "missing_information": ["Contact details", "Exact establishment date"],
+        "notes": ["Operating in Jeetpur area."]
+      }
+    }
+  ],
+  "district_summary": {
+    "total_schools": 3,
+    "government_schools": 1,
+    "community_schools": 0,
+    "private_schools": 2,
+    "boarding_schools": 2,
+    "other_schools": 0,
+    "schools_by_municipality": [
+      {
+        "municipality": "Kalaiya Sub-Metropolitan City",
+        "count": 1
+      },
+      {
+        "municipality": "Jeetpur Simara Sub-Metropolitan City",
+        "count": 2
+      }
+    ],
+    "schools_by_education_level": [
+      {
+        "level": "Secondary",
+        "count": 3
+      }
+    ],
+    "research_gaps": [
+      "Rural municipalities in Bara need deeper coverage",
+      "Contact numbers and verified principal names are missing for many institutions"
+    ]
+  }
+}

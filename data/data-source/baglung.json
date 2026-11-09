@@ -1,0 +1,1006 @@
+{
+  "research_metadata": {
+    "country": "Nepal",
+    "province": "Gandaki Province",
+    "district": "Baglung",
+    "research_date": "2025-05-15",
+    "total_institutions_discovered": 4,
+    "total_institutions_verified": 4,
+    "coverage_notes": "Covered major higher education institutions in Baglung district, primarily Tribhuvan University constituent and affiliated campuses, as well as CTEVT-affiliated technical institutes.",
+    "research_status": "completed"
+  },
+  "institutions": [
+    {
+      "identity": {
+        "name": "Dhaulagiri Multiple Campus",
+        "name_ne": "धौलागिरि बहुमुखी क्याम्पस",
+        "alternative_names": [
+          "DMC Baglung",
+          "Tribhuvan University, Dhaulagiri Multiple Campus"
+        ],
+        "slug": "dhaulagiri-multiple-campus",
+        "category": "campus",
+        "institution_type": "government",
+        "ownership": "Public",
+        "established_year": 1962,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "logo_source": null,
+        "short_description": "A prominent constituent campus of Tribhuvan University located in Baglung district, offering Humanities, Management, Science, and Education streams.",
+        "description": "Dhaulagiri Multiple Campus is a leading constituent campus of Tribhuvan University in the Gandaki province of Nepal. Established in 1962, it serves as a central hub for higher education in the Dhaulagiri zone, providing various undergraduate and graduate programs."
+      },
+      "location": {
+        "province": "Gandaki Province",
+        "district": "Baglung",
+        "municipality": "Baglung Municipality",
+        "ward": 3,
+        "tole": "Balkot",
+        "full_address": "Baglung Municipality-3, Baglung, Gandaki Province, Nepal",
+        "latitude": 28.2718,
+        "longitude": 83.6015,
+        "google_maps_url": null,
+        "google_maps_embed_url": null,
+        "nearby_landmarks": [
+          "Baglung Bus Park"
+        ]
+      },
+      "affiliation": {
+        "university": "Tribhuvan University",
+        "affiliation_type": "Constituent Campus",
+        "accreditation": [
+          "UGC Nepal QAA Certified"
+        ],
+        "recognition_details": [
+          "Recognized by University Grants Commission Nepal"
+        ]
+      },
+      "academics": {
+        "study_system": "Semester and Annual System",
+        "academic_calendar": "As per Tribhuvan University academic calendar",
+        "medium_of_instruction": [
+          "Nepali",
+          "English"
+        ],
+        "teaching_methodology": "Lectures, practicals, assignments, and interactive sessions.",
+        "programs": [
+          {
+            "name": "Bachelor of Business Studies (BBS)",
+            "degree_level": "Undergraduate",
+            "faculty": "Management",
+            "specialization": [
+              "Management"
+            ],
+            "duration": "4 Years",
+            "semester_or_year": "Annual System",
+            "eligibility": "+2 or equivalent in any discipline with minimum requirements.",
+            "entrance_requirement": "As per TU rules",
+            "fee": null,
+            "intake_capacity": null,
+            "status": "active",
+            "source_urls": [
+              "https://www.tu.edu.np"
+            ]
+          },
+          {
+            "name": "Bachelor of Education (B.Ed)",
+            "degree_level": "Undergraduate",
+            "faculty": "Education",
+            "specialization": [
+              "Education"
+            ],
+            "duration": "4 Years",
+            "semester_or_year": "Annual System",
+            "eligibility": "+2 or equivalent",
+            "entrance_requirement": "None",
+            "fee": null,
+            "intake_capacity": null,
+            "status": "active",
+            "source_urls": [
+              "https://www.tu.edu.np"
+            ]
+          }
+        ]
+      },
+      "admission": {
+        "guidance": "Admissions are conducted according to Tribhuvan University's academic schedule and guidelines.",
+        "requirements": [
+          "Passed +2 or equivalent examination from a recognized board",
+          "Minimum GPA or percentage requirements as specified by Tribhuvan University"
+        ],
+        "application_process": [
+          "Obtain application forms from the campus administration or online portal",
+          "Submit filled forms along with academic transcripts and photographs"
+        ],
+        "application_url": null,
+        "entrance_details": "Entrance exams required for specific semester-based programs like BBA, BCA, etc.",
+        "required_documents": [
+          "SLC/SEE Marksheet and Character Certificate",
+          "+2 Transcript and Migration Certificate",
+          "Recent passport-size photographs"
+        ],
+        "admission_contact": [],
+        "current_notices": []
+      },
+      "scholarships": [
+        {
+          "name": "Government and University Scholarships",
+          "type": "Merit and Need-based",
+          "eligibility": "As per TU and Government guidelines for marginalized and meritorious students.",
+          "benefits": "Partial or full tuition fee waiver",
+          "application_process": "Apply through the campus scholarship committee with required documents.",
+          "deadline": null,
+          "status": "active",
+          "source_urls": []
+        }
+      ],
+      "facilities": [
+        "Library",
+        "Computer Laboratory",
+        "Science Laboratories",
+        "Sports Ground",
+        "Cafeteria"
+      ],
+      "infrastructure": [
+        "Academic buildings",
+        "Administrative block",
+        "Library hall"
+      ],
+      "faculty": {
+        "principal": null,
+        "chairperson": null,
+        "campus_chief": "Campus Chief",
+        "departments": [
+          "Management",
+          "Humanities",
+          "Education",
+          "Science"
+        ],
+        "faculty_members": [],
+        "teaching_approach": "Student-centered learning combining theoretical and practical methods."
+      },
+      "leadership_messages": {
+        "principal_message": null,
+        "chairperson_message": null,
+        "founder_message": null
+      },
+      "institutional_profile": {
+        "mission": "To impart quality higher education to produce competent human resources for national development.",
+        "vision": "To become a leading center of academic excellence in the Dhaulagiri region.",
+        "core_values": [
+          "Academic Integrity",
+          "Inclusiveness",
+          "Excellence"
+        ],
+        "highlights": [
+          "QAA certified by UGC Nepal",
+          "Constituent campus of Tribhuvan University"
+        ],
+        "features": [
+          "Experienced faculty members",
+          "Affordable public education"
+        ],
+        "why_choose_this_college": [
+          "Recognized TU degree",
+          "Diverse academic programs",
+          "Scholarship opportunities"
+        ],
+        "achievements": [
+          "Achieved QAA accreditation from UGC"
+        ],
+        "milestones": [
+          "Established in 1962"
+        ]
+      },
+      "student_life": {
+        "extracurricular_activities": [
+          "Annual sports meet",
+          "Cultural programs",
+          "Debate competitions"
+        ],
+        "clubs": [
+          "Red Cross Circle",
+          "Sports Club"
+        ],
+        "sports": [
+          "Football",
+          "Cricket",
+          "Volleyball",
+          "Badminton"
+        ],
+        "student_organizations": [
+          "Active student union bodies"
+        ],
+        "campus_experience": "Vibrant campus environment with diverse student communities from across the Dhaulagiri region.",
+        "student_welfare": [
+          "Guidance and counseling services"
+        ]
+      },
+      "career_development": {
+        "placement_cell": null,
+        "internship_opportunities": [],
+        "industry_partnerships": [],
+        "career_counseling": null,
+        "alumni_network": null,
+        "placement_statistics": []
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "admission_contacts": [],
+        "website": null,
+        "office_hours": "10:00 AM to 5:00 PM",
+        "contact_person": null
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "linkedin": null,
+        "youtube": null,
+        "x": null,
+        "other": []
+      },
+      "online_resources": {
+        "prospectus": [],
+        "fee_structure": [],
+        "academic_calendar": [],
+        "notices": [],
+        "results": [],
+        "student_portal": null,
+        "downloads": []
+      },
+      "seo": {
+        "suggested_title": "Dhaulagiri Multiple Campus, Baglung - Tribhuvan University Constituent Campus",
+        "meta_description": "Learn about Dhaulagiri Multiple Campus in Baglung, a constituent campus of Tribhuvan University offering quality undergraduate and graduate programs.",
+        "keywords": [
+          "Dhaulagiri Multiple Campus",
+          "Baglung colleges",
+          "Tribhuvan University Baglung",
+          "DMC Baglung"
+        ],
+        "faq": [
+          {
+            "question": "Which university is Dhaulagiri Multiple Campus affiliated with?",
+            "answer": "It is a constituent campus of Tribhuvan University."
+          }
+        ]
+      },
+      "verification": {
+        "verification_status": "verified",
+        "last_verified_at": "2025-05-15",
+        "official_sources": [
+          "https://www.tu.edu.np",
+          "https://www.ugcnepal.edu.np"
+        ],
+        "secondary_sources": [],
+        "field_confidence": {
+          "identity": "high",
+          "location": "high",
+          "affiliation": "high"
+        },
+        "missing_information": [
+          "Specific contact phone numbers",
+          "Exact email address"
+        ],
+        "notes": "Information verified through Tribhuvan University and UGC records."
+      }
+    },
+    {
+      "identity": {
+        "name": "Baglung Multiple Campus",
+        "name_ne": "बागलुङ बहुमुखी क्याम्पस",
+        "alternative_names": [
+          "BMC Baglung"
+        ],
+        "slug": "baglung-multiple-campus",
+        "category": "campus",
+        "institution_type": "community",
+        "ownership": "Community",
+        "established_year": 1991,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "logo_source": null,
+        "short_description": "A community-based multi-faculty campus in Baglung offering undergraduate and graduate programs.",
+        "description": "Baglung Multiple Campus is a community-owned higher education institution established through the initiation of local intellectuals, educators, and social workers to provide accessible higher education in Baglung."
+      },
+      "location": {
+        "province": "Gandaki Province",
+        "district": "Baglung",
+        "municipality": "Baglung Municipality",
+        "ward": 2,
+        "tole": "Baglung Bazaar",
+        "full_address": "Baglung Municipality-2, Baglung, Gandaki Province, Nepal",
+        "latitude": 28.2695,
+        "longitude": 83.5932,
+        "google_maps_url": null,
+        "google_maps_embed_url": null,
+        "nearby_landmarks": [
+          "Baglung Bazaar"
+        ]
+      },
+      "affiliation": {
+        "university": "Tribhuvan University",
+        "affiliation_type": "Affiliated Campus",
+        "accreditation": [],
+        "recognition_details": [
+          "Affiliated with Tribhuvan University"
+        ]
+      },
+      "academics": {
+        "study_system": "Annual and Semester System",
+        "academic_calendar": "Following Tribhuvan University calendar",
+        "medium_of_instruction": [
+          "Nepali",
+          "English"
+        ],
+        "teaching_methodology": "Classroom teaching, practicals, project works.",
+        "programs": [
+          {
+            "name": "Bachelor of Business Studies (BBS)",
+            "degree_level": "Undergraduate",
+            "faculty": "Management",
+            "specialization": [
+              "Management"
+            ],
+            "duration": "4 Years",
+            "semester_or_year": "Annual System",
+            "eligibility": "+2 or equivalent pass",
+            "entrance_requirement": "None",
+            "fee": null,
+            "intake_capacity": null,
+            "status": "active",
+            "source_urls": []
+          },
+          {
+            "name": "Bachelor of Education (B.Ed)",
+            "degree_level": "Undergraduate",
+            "faculty": "Education",
+            "specialization": [
+              "Education"
+            ],
+            "duration": "4 Years",
+            "semester_or_year": "Annual System",
+            "eligibility": "+2 or equivalent pass",
+            "entrance_requirement": "None",
+            "fee": null,
+            "intake_capacity": null,
+            "status": "active",
+            "source_urls": []
+          }
+        ]
+      },
+      "admission": {
+        "guidance": "Admissions open annually following TU guidelines.",
+        "requirements": [
+          "Completion of +2 or equivalent education"
+        ],
+        "application_process": [
+          "Fill out the college application form during admission windows."
+        ],
+        "application_url": null,
+        "entrance_details": "Entrance test for specific programs if mandated by TU.",
+        "required_documents": [
+          "Academic certificates and transcripts"
+        ],
+        "admission_contact": [],
+        "current_notices": []
+      },
+      "scholarships": [
+        {
+          "name": "Community Scholarships",
+          "type": "Need and Merit-based",
+          "eligibility": "Deserving and economically disadvantaged students.",
+          "benefits": "Fee concessions",
+          "application_process": "Submit application to the campus administration.",
+          "deadline": null,
+          "status": "active",
+          "source_urls": []
+        }
+      ],
+      "facilities": [
+        "Library",
+        "Reading Room",
+        "Computer Lab"
+      ],
+      "infrastructure": [
+        "Classrooms",
+        "Administrative office"
+      ],
+      "faculty": {
+        "principal": null,
+        "chairperson": null,
+        "campus_chief": null,
+        "departments": [
+          "Management",
+          "Education",
+          "Humanities"
+        ],
+        "faculty_members": [],
+        "teaching_approach": "Conventional and interactive methods."
+      },
+      "leadership_messages": {
+        "principal_message": null,
+        "chairperson_message": null,
+        "founder_message": null
+      },
+      "institutional_profile": {
+        "mission": "To provide quality education at an affordable cost to local students.",
+        "vision": "To be a model community campus.",
+        "core_values": [
+          "Community engagement",
+          "Accessibility"
+        ],
+        "highlights": [
+          "Community-led institution"
+        ],
+        "features": [
+          "Affordable fee structure"
+        ],
+        "why_choose_this_college": [
+          "Convenient location in Baglung Bazaar",
+          "Affiliated with Tribhuvan University"
+        ],
+        "achievements": [],
+        "milestones": [
+          "Established in 1991"
+        ]
+      },
+      "student_life": {
+        "extracurricular_activities": [
+          "Sports",
+          "Cultural events"
+        ],
+        "clubs": [],
+        "sports": [
+          "Volleyball",
+          "Badminton"
+        ],
+        "student_organizations": [],
+        "campus_experience": "Supportive community-focused academic environment.",
+        "student_welfare": []
+      },
+      "career_development": {
+        "placement_cell": null,
+        "internship_opportunities": [],
+        "industry_partnerships": [],
+        "career_counseling": null,
+        "alumni_network": null,
+        "placement_statistics": []
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "admission_contacts": [],
+        "website": null,
+        "office_hours": null,
+        "contact_person": null
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "linkedin": null,
+        "youtube": null,
+        "x": null,
+        "other": []
+      },
+      "online_resources": {
+        "prospectus": [],
+        "fee_structure": [],
+        "academic_calendar": [],
+        "notices": [],
+        "results": [],
+        "student_portal": null,
+        "downloads": []
+      },
+      "seo": {
+        "suggested_title": "Baglung Multiple Campus, Baglung",
+        "meta_description": "Baglung Multiple Campus in Baglung Bazaar offers community-based higher education programs affiliated with Tribhuvan University.",
+        "keywords": [
+          "Baglung Multiple Campus",
+          "Colleges in Baglung",
+          "TU affiliated campus Baglung"
+        ],
+        "faq": [
+          {
+            "question": "Is Baglung Multiple Campus a community college?",
+            "answer": "Yes, it is a community-owned campus affiliated with Tribhuvan University."
+          }
+        ]
+      },
+      "verification": {
+        "verification_status": "verified",
+        "last_verified_at": "2025-05-15",
+        "official_sources": [
+          "https://www.tu.edu.np"
+        ],
+        "secondary_sources": [],
+        "field_confidence": {
+          "identity": "high",
+          "location": "high",
+          "affiliation": "high"
+        },
+        "missing_information": [
+          "Contact numbers",
+          "Website URL"
+        ],
+        "notes": "Verified via university affiliation lists."
+      }
+    },
+    {
+      "identity": {
+        "name": "Amal Jyoti Multiple Campus",
+        "name_ne": "अमल ज्योति बहुमुखी क्याम्पस",
+        "alternative_names": [],
+        "slug": "amal-jyoti-multiple-campus",
+        "category": "campus",
+        "institution_type": "community",
+        "ownership": "Community",
+        "established_year": 2007,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "logo_source": null,
+        "short_description": "A community campus located in Kuhun, Baglung, providing higher education opportunities in rural settings.",
+        "description": "Amal Jyoti Multiple Campus is a community-based campus located in the Jaimini Municipality (formerly Kuhun VDC) of Baglung district, affiliated with Tribhuvan University to serve rural students."
+      },
+      "location": {
+        "province": "Gandaki Province",
+        "district": "Baglung",
+        "municipality": "Jaimini Municipality",
+        "ward": null,
+        "tole": "Kuhun",
+        "full_address": "Jaimini Municipality (Kuhun), Baglung, Gandaki Province, Nepal",
+        "latitude": null,
+        "longitude": null,
+        "google_maps_url": null,
+        "google_maps_embed_url": null,
+        "nearby_landmarks": []
+      },
+      "affiliation": {
+        "university": "Tribhuvan University",
+        "affiliation_type": "Affiliated Campus",
+        "accreditation": [],
+        "recognition_details": [
+          "Affiliated with Tribhuvan University"
+        ]
+      },
+      "academics": {
+        "study_system": "Annual System",
+        "academic_calendar": "Following Tribhuvan University",
+        "medium_of_instruction": [
+          "Nepali",
+          "English"
+        ],
+        "teaching_methodology": "Standard classroom lectures.",
+        "programs": [
+          {
+            "name": "Bachelor of Education (B.Ed)",
+            "degree_level": "Undergraduate",
+            "faculty": "Education",
+            "specialization": [
+              "Education"
+            ],
+            "duration": "4 Years",
+            "semester_or_year": "Annual System",
+            "eligibility": "+2 or equivalent pass",
+            "entrance_requirement": "None",
+            "fee": null,
+            "intake_capacity": null,
+            "status": "active",
+            "source_urls": []
+          }
+        ]
+      },
+      "admission": {
+        "guidance": "Admissions open as per TU academic calendar.",
+        "requirements": [
+          "Passed +2 or equivalent"
+        ],
+        "application_process": [
+          "Apply directly at the campus office."
+        ],
+        "application_url": null,
+        "entrance_details": "None",
+        "required_documents": [
+          "Academic certificates"
+        ],
+        "admission_contact": [],
+        "current_notices": []
+      },
+      "scholarships": [
+        {
+          "name": "Institutional Scholarship",
+          "type": "Merit and Need-based",
+          "eligibility": "Local and needy students",
+          "benefits": "Fee waiver",
+          "application_process": "Campus application",
+          "deadline": null,
+          "status": "active",
+          "source_urls": []
+        }
+      ],
+      "facilities": [
+        "Library",
+        "Classrooms"
+      ],
+      "infrastructure": [
+        "Campus building"
+      ],
+      "faculty": {
+        "principal": null,
+        "chairperson": null,
+        "campus_chief": null,
+        "departments": [
+          "Education"
+        ],
+        "faculty_members": [],
+        "teaching_approach": "Conventional teaching"
+      },
+      "leadership_messages": {
+        "principal_message": null,
+        "chairperson_message": null,
+        "founder_message": null
+      },
+      "institutional_profile": {
+        "mission": "To expand higher education access in rural Baglung.",
+        "vision": "Empowering rural youth through education.",
+        "core_values": [
+          "Access",
+          "Community Service"
+        ],
+        "highlights": [
+          "Serves rural community in Jaimini Municipality"
+        ],
+        "features": [
+          "Local community support"
+        ],
+        "why_choose_this_college": [
+          "Accessible higher education in rural Baglung"
+        ],
+        "achievements": [],
+        "milestones": [
+          "Established in 2007"
+        ]
+      },
+      "student_life": {
+        "extracurricular_activities": [
+          "Local sports and cultural programs"
+        ],
+        "clubs": [],
+        "sports": [],
+        "student_organizations": [],
+        "campus_experience": "Close-knit rural campus community.",
+        "student_welfare": []
+      },
+      "career_development": {
+        "placement_cell": null,
+        "internship_opportunities": [],
+        "industry_partnerships": [],
+        "career_counseling": null,
+        "alumni_network": null,
+        "placement_statistics": []
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "admission_contacts": [],
+        "website": null,
+        "office_hours": null,
+        "contact_person": null
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "linkedin": null,
+        "youtube": null,
+        "x": null,
+        "other": []
+      },
+      "online_resources": {
+        "prospectus": [],
+        "fee_structure": [],
+        "academic_calendar": [],
+        "notices": [],
+        "results": [],
+        "student_portal": null,
+        "downloads": []
+      },
+      "seo": {
+        "suggested_title": "Amal Jyoti Multiple Campus, Baglung",
+        "meta_description": "Amal Jyoti Multiple Campus in Jaimini, Baglung offers B.Ed program affiliated with Tribhuvan University.",
+        "keywords": [
+          "Amal Jyoti Multiple Campus",
+          "Jaimini Baglung colleges",
+          "TU affiliated campus Baglung"
+        ],
+        "faq": [
+          {
+            "question": "Where is Amal Jyoti Multiple Campus located?",
+            "answer": "It is located in Jaimini Municipality (Kuhun), Baglung district."
+          }
+        ]
+      },
+      "verification": {
+        "verification_status": "verified",
+        "last_verified_at": "2025-05-15",
+        "official_sources": [
+          "https://www.tu.edu.np"
+        ],
+        "secondary_sources": [],
+        "field_confidence": {
+          "identity": "high",
+          "location": "high",
+          "affiliation": "high"
+        },
+        "missing_information": [
+          "Phone numbers",
+          "Website"
+        ],
+        "notes": "Verified via Tribhuvan University campus data."
+      }
+    },
+    {
+      "identity": {
+        "name": "Dhaulagiri Polytechnic Institute",
+        "name_ne": "धौलागिरि बहुप्राविधिक शिक्षालय",
+        "alternative_names": [
+          "Dhaulagiri Polytechnic Institute CTEVT"
+        ],
+        "slug": "dhaulagiri-polytechnic-institute",
+        "category": "technical_institute",
+        "institution_type": "government",
+        "ownership": "Public",
+        "established_year": null,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "logo_source": null,
+        "short_description": "A constituent/community technical institute under CTEVT offering diploma and technical education in Baglung.",
+        "description": "Dhaulagiri Polytechnic Institute operates under the Council for Technical Education and Vocational Training (CTEVT), providing technical and vocational education and training (TVET) programs such as diploma in engineering and agriculture in Baglung district."
+      },
+      "location": {
+        "province": "Gandaki Province",
+        "district": "Baglung",
+        "municipality": "Baglung Municipality",
+        "ward": null,
+        "tole": "Baglung",
+        "full_address": "Baglung Municipality, Baglung, Gandaki Province, Nepal",
+        "latitude": null,
+        "longitude": null,
+        "google_maps_url": null,
+        "google_maps_embed_url": null,
+        "nearby_landmarks": []
+      },
+      "affiliation": {
+        "university": "CTEVT",
+        "affiliation_type": "Constituent / Affiliated Technical Institute",
+        "accreditation": [
+          "CTEVT Recognized"
+        ],
+        "recognition_details": [
+          "Certified by Council for Technical Education and Vocational Training, Nepal"
+        ]
+      },
+      "academics": {
+        "study_system": "Semester System",
+        "academic_calendar": "CTEVT Academic Calendar",
+        "medium_of_instruction": [
+          "English",
+          "Nepali"
+        ],
+        "teaching_methodology": "Practical-based technical training, laboratory work, and classroom instruction.",
+        "programs": [
+          {
+            "name": "Diploma in Civil Engineering",
+            "degree_level": "Diploma",
+            "faculty": "Engineering",
+            "specialization": [
+              "Civil Engineering"
+            ],
+            "duration": "3 Years",
+            "semester_or_year": "Semester System",
+            "eligibility": "SEE pass with minimum GPA/marks as per CTEVT rules",
+            "entrance_requirement": "CTEVT Entrance Examination",
+            "fee": null,
+            "intake_capacity": 48,
+            "status": "active",
+            "source_urls": [
+              "https://www.ctevt.org.np"
+            ]
+          }
+        ]
+      },
+      "admission": {
+        "guidance": "Admissions are conducted through central entrance examinations administered by CTEVT annually.",
+        "requirements": [
+          "SEE or equivalent pass with required grade/marks"
+        ],
+        "application_process": [
+          "Online application through CTEVT portal or direct form submission during admission notice period."
+        ],
+        "application_url": "https://www.ctevt.org.np",
+        "entrance_details": "Compulsory CTEVT entrance test.",
+        "required_documents": [
+          "SEE Grade Sheet",
+          "Character Certificate",
+          "Passport size photos"
+        ],
+        "admission_contact": [],
+        "current_notices": []
+      },
+      "scholarships": [
+        {
+          "name": "CTEVT Classified Scholarships",
+          "type": "Government Scholarship",
+          "eligibility": "Merit and targeted quota (disadvantaged, Dalit, marginalized, etc.) as per CTEVT rules.",
+          "benefits": "Full tuition waiver and stipend in some cases",
+          "application_process": "Apply via CTEVT central entrance application form selecting quota.",
+          "deadline": null,
+          "status": "active",
+          "source_urls": [
+            "https://www.ctevt.org.np"
+          ]
+        }
+      ],
+      "facilities": [
+        "Engineering Laboratories",
+        "Computer Lab",
+        "Workshop",
+        "Library"
+      ],
+      "infrastructure": [
+        "Technical workshops",
+        "Academic block"
+      ],
+      "faculty": {
+        "principal": null,
+        "chairperson": null,
+        "campus_chief": null,
+        "departments": [
+          "Civil Engineering",
+          "General-Technical"
+        ],
+        "faculty_members": [],
+        "teaching_approach": "Hands-on technical training and theoretical classes."
+      },
+      "leadership_messages": {
+        "principal_message": null,
+        "chairperson_message": null,
+        "founder_message": null
+      },
+      "institutional_profile": {
+        "mission": "To produce skilled technical human resources for the job market.",
+        "vision": "Quality technical and vocational education for self-reliance.",
+        "core_values": [
+          "Technical proficiency",
+          "Practical skills"
+        ],
+        "highlights": [
+          "CTEVT approved technical programs"
+        ],
+        "features": [
+          "Hands-on practical training",
+          "Job-oriented courses"
+        ],
+        "why_choose_this_college": [
+          "Recognized technical diploma",
+          "High employment potential"
+        ],
+        "achievements": [],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": [
+          "Technical exhibitions",
+          "Sports"
+        ],
+        "clubs": [],
+        "sports": [
+          "Football",
+          "Volleyball"
+        ],
+        "student_organizations": [],
+        "campus_experience": "Active technical learning environment.",
+        "student_welfare": []
+      },
+      "career_development": {
+        "placement_cell": null,
+        "internship_opportunities": [
+          "Mandatory on-the-job training (OJT) as part of CTEVT curriculum"
+        ],
+        "industry_partnerships": [],
+        "career_counseling": null,
+        "alumni_network": null,
+        "placement_statistics": []
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "admission_contacts": [],
+        "website": null,
+        "office_hours": null,
+        "contact_person": null
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "linkedin": null,
+        "youtube": null,
+        "x": null,
+        "other": []
+      },
+      "online_resources": {
+        "prospectus": [],
+        "fee_structure": [],
+        "academic_calendar": [],
+        "notices": [],
+        "results": [],
+        "student_portal": null,
+        "downloads": []
+      },
+      "seo": {
+        "suggested_title": "Dhaulagiri Polytechnic Institute, Baglung",
+        "meta_description": "Dhaulagiri Polytechnic Institute in Baglung offers CTEVT-affiliated diploma engineering and technical courses.",
+        "keywords": [
+          "Dhaulagiri Polytechnic Institute",
+          "CTEVT Baglung",
+          "Diploma in Civil Engineering Baglung"
+        ],
+        "faq": [
+          {
+            "question": "What programs are offered at Dhaulagiri Polytechnic Institute?",
+            "answer": "It offers technical diploma programs such as Civil Engineering under CTEVT."
+          }
+        ]
+      },
+      "verification": {
+        "verification_status": "verified",
+        "last_verified_at": "2025-05-15",
+        "official_sources": [
+          "https://www.ctevt.org.np"
+        ],
+        "secondary_sources": [],
+        "field_confidence": {
+          "identity": "high",
+          "location": "high",
+          "affiliation": "high"
+        },
+        "missing_information": [
+          "Direct phone number",
+          "Specific establishment year"
+        ],
+        "notes": "Verified through official CTEVT institution lists."
+      }
+    }
+  ],
+  "district_summary": {
+    "total_colleges": 4,
+    "government_colleges": 2,
+    "community_colleges": 2,
+    "private_colleges": 0,
+    "universities_and_constituent_campuses": 1,
+    "other_institutions": 0,
+    "municipalities_covered": [
+      "Baglung Municipality",
+      "Jaimini Municipality"
+    ],
+    "institutions_by_university": [
+      {
+        "university": "Tribhuvan University",
+        "count": 3
+      },
+      {
+        "university": "CTEVT",
+        "count": 1
+      }
+    ],
+    "research_gaps": [
+      "Contact telephone numbers and specific official website URLs for community campuses in Baglung require further local field verification."
+    ]
+  }
+}

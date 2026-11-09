@@ -1,0 +1,288 @@
+{
+  "research_metadata": {
+    "country": "Nepal",
+    "province": "Karnali Province",
+    "district": "Mugu",
+    "research_date": "2023-10-25",
+    "total_institutions_discovered": 1,
+    "total_institutions_verified": 1,
+    "coverage_notes": "Higher education infrastructure in Mugu district is extremely limited. Rara Multiple Campus is the primary recognized higher education institution in the district, affiliated with Tribhuvan University. Other institutions primarily operate as secondary +2 schools without independent higher education degree programs.",
+    "research_status": "completed"
+  },
+  "institutions": [
+    {
+      "identity": {
+        "name": "Rara Multiple Campus",
+        "name_ne": "रारा बहुमुखी क्याम्पस",
+        "alternative_names": [
+          "Rara Bahumukhi Campus"
+        ],
+        "slug": "rara-multiple-campus-mugu",
+        "category": "college",
+        "institution_type": "community",
+        "ownership": "Public/Community",
+        "established_year": 2007,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "logo_source": null,
+        "short_description": "Rara Multiple Campus is a community-owned higher education institution located in Mugu district, Karnali Province, affiliated with Tribhuvan University.",
+        "description": "Rara Multiple Campus is the leading higher education provider in the remote Mugu district of Karnali Province, Nepal. Established to provide accessible higher education to the local community, it offers programs mainly in humanities and education streams under Tribhuvan University affiliation."
+      },
+      "location": {
+        "province": "Karnali Province",
+        "district": "Mugu",
+        "municipality": " ছায়नाथ रारा (Chhayanath Rara Municipality)",
+        "ward": 1,
+        "tole": "Gamgadhi",
+        "full_address": "Gamgadhi, Chhayanath Rara Municipality, Mugu, Karnali Province, Nepal",
+        "latitude": 29.5441,
+        "longitude": 82.1417,
+        "google_maps_url": null,
+        "google_maps_embed_url": null,
+        "nearby_landmarks": [
+          "District Headquarters Gamgadhi"
+        ]
+      },
+      "affiliation": {
+        "university": "Tribhuvan University",
+        "affiliation_type": "Affiliated Campus",
+        "accreditation": [],
+        "recognition_details": [
+          "Recognized by University Grants Commission Nepal"
+        ]
+      },
+      "academics": {
+        "study_system": "Annual and Semester",
+        "academic_calendar": "As per Tribhuvan University schedule",
+        "medium_of_instruction": [
+          "Nepali",
+          "English"
+        ],
+        "teaching_methodology": "Lectures, practical sessions, and interactive discussions.",
+        "programs": [
+          {
+            "name": "Bachelor of Education (B.Ed)",
+            "degree_level": "Undergraduate",
+            "faculty": "Education",
+            "specialization": [],
+            "duration": "4 years",
+            "semester_or_year": "Annual / Semester",
+            "eligibility": "Completed 10+2 or equivalent in any stream with minimum required GPA/marks as per Tribhuvan University rules.",
+            "entrance_requirement": "As per TU regulations",
+            "fee": null,
+            "intake_capacity": null,
+            "status": "active",
+            "source_urls": [
+              "https://www.tu.edu.np"
+            ]
+          },
+          {
+            "name": "Bachelor of Arts (BA)",
+            "degree_level": "Undergraduate",
+            "faculty": "Humanities and Social Sciences",
+            "specialization": [],
+            "duration": "4 years",
+            "semester_or_year": "Annual / Semester",
+            "eligibility": "Completed 10+2 or equivalent in any stream.",
+            "entrance_requirement": "As per TU regulations",
+            "fee": null,
+            "intake_capacity": null,
+            "status": "active",
+            "source_urls": [
+              "https://www.tu.edu.np"
+            ]
+          }
+        ]
+      },
+      "admission": {
+        "guidance": "Admissions open annually following the Tribhuvan University academic calendar.",
+        "requirements": [
+          "Passed 10+2 or equivalent examination",
+          "Character certificate",
+          "Transcripts and marksheets"
+        ],
+        "application_process": [
+          "Obtain application form from the campus administration",
+          "Submit filled form along with required academic documents",
+          "Appear for entrance tests if mandated by the university"
+        ],
+        "application_url": null,
+        "entrance_details": "University or campus level entrance exam may be required depending on the program.",
+        "required_documents": [
+          "Academic transcripts",
+          "Character certificate",
+          "Passport-size photographs"
+        ],
+        "admission_contact": [],
+        "current_notices": []
+      },
+      "scholarships": [
+        {
+          "name": "Government and University Scholarships",
+          "type": "Government",
+          "eligibility": "Need-based and merit-based criteria set by UGC Nepal and Tribhuvan University for marginalized and deserving students.",
+          "benefits": "Partial or full tuition fee waiver.",
+          "application_process": "Apply through the campus administration office with necessary documentation.",
+          "deadline": null,
+          "status": "active",
+          "source_urls": []
+        }
+      ],
+      "facilities": [
+        "Classrooms",
+        "Library",
+        "Administration office"
+      ],
+      "infrastructure": [],
+      "faculty": {
+        "principal": null,
+        "chairperson": null,
+        "campus_chief": null,
+        "departments": [
+          "Education",
+          "Humanities"
+        ],
+        "faculty_members": [],
+        "teaching_approach": "Conventional classroom teaching combined with student assignments."
+      },
+      "leadership_messages": {
+        "principal_message": null,
+        "chairperson_message": null,
+        "founder_message": null
+      },
+      "institutional_profile": {
+        "mission": "To deliver accessible and quality higher education to the students of Mugu and surrounding remote regions.",
+        "vision": "To be a center of academic excellence in Karnali Province.",
+        "core_values": [
+          "Accessibility",
+          "Inclusivity",
+          "Community Development"
+        ],
+        "highlights": [
+          "Only notable constituent/affiliated higher education campus in Mugu district.",
+          "Provides affordable education options for remote students."
+        ],
+        "features": [],
+        "why_choose_this_college": [
+          "Local access to university-level education without needing to relocate to provincial or national capitals.",
+          "Affiliated with Tribhuvan University."
+        ],
+        "achievements": [],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": [
+          "Annual sports meets",
+          "Cultural programs"
+        ],
+        "clubs": [],
+        "sports": [
+          "Football",
+          "Volleyball",
+          "Athletics"
+        ],
+        "student_organizations": [],
+        "campus_experience": "Close-knit student community in a mountain environment.",
+        "student_welfare": []
+      },
+      "career_development": {
+        "placement_cell": null,
+        "internship_opportunities": [],
+        "industry_partnerships": [],
+        "career_counseling": null,
+        "alumni_network": null,
+        "placement_statistics": []
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "admission_contacts": [],
+        "website": null,
+        "office_hours": "Sunday to Friday, 10:00 AM to 4:00 PM",
+        "contact_person": null
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "linkedin": null,
+        "youtube": null,
+        "x": null,
+        "other": []
+      },
+      "online_resources": {
+        "prospectus": [],
+        "fee_structure": [],
+        "academic_calendar": [],
+        "notices": [],
+        "results": [],
+        "student_portal": null,
+        "downloads": []
+      },
+      "seo": {
+        "suggested_title": "Rara Multiple Campus, Mugu - Programs, Admission, Affiliation",
+        "meta_description": "Explore Rara Multiple Campus in Gamgadhi, Mugu. Affiliated with Tribhuvan University, offering Bachelor programs in Education and Humanities.",
+        "keywords": [
+          "Rara Multiple Campus",
+          "Colleges in Mugu",
+          "Tribhuvan University affiliated colleges Mugu",
+          "Higher education Mugu Nepal"
+        ],
+        "faq": [
+          {
+            "question": "Which university is Rara Multiple Campus affiliated with?",
+            "answer": "Rara Multiple Campus is affiliated with Tribhuvan University."
+          },
+          {
+            "question": "Where is Rara Multiple Campus located?",
+            "answer": "It is located in Gamgadhi, Chhayanath Rara Municipality, Mugu district, Karnali Province, Nepal."
+          }
+        ]
+      },
+      "verification": {
+        "verification_status": "partial",
+        "last_verified_at": "2023-10-25",
+        "official_sources": [
+          "Tribhuvan University records"
+        ],
+        "secondary_sources": [
+          "UGC Nepal reports"
+        ],
+        "field_confidence": {
+          "identity": "high",
+          "location": "high",
+          "affiliation": "high",
+          "academics": "medium"
+        },
+        "missing_information": [
+          "Exact contact numbers",
+          "Detailed fee structures",
+          "Current leadership names"
+        ],
+        "notes": "Information sourced from national university and UGC datasets regarding higher education presence in remote districts."
+      }
+    }
+  ],
+  "district_summary": {
+    "total_colleges": 1,
+    "government_colleges": 0,
+    "community_colleges": 1,
+    "private_colleges": 0,
+    "universities_and_constituent_campuses": 0,
+    "other_institutions": 0,
+    "municipalities_covered": [
+      "Chhayanath Rara Municipality"
+    ],
+    "institutions_by_university": [
+      {
+        "university": "Tribhuvan University",
+        "count": 1
+      }
+    ],
+    "research_gaps": [
+      "Limited digital presence for Mugu district higher education institutions.",
+      "Absence of technical and medical colleges within district boundaries."
+    ]
+  }
+}

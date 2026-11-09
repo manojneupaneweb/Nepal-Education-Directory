@@ -1,0 +1,244 @@
+{
+  "research_metadata": {
+    "country": "Nepal",
+    "province": "Madhesh Province",
+    "district": "Siraha",
+    "research_date": "2023-10-25",
+    "total_schools_discovered": 1,
+    "municipalities_covered": [
+      "Siraha Municipality"
+    ],
+    "research_status": "partial",
+    "coverage_notes": "Initial batch focusing on prominent secondary institutions in Siraha district."
+  },
+  "schools": [
+    {
+      "identity": {
+        "name": "Shree Surya Narayan Satya Narayan Moraita Yadav Model Multiple Campus / Secondary School",
+        "name_ne": "श्री सूर्यनारायण सत्यनारायण मोरबैता यादव आदर्श बहुमुखी क्याम्पस / माध्यमिक विद्यालय",
+        "alternative_names": [
+          "SNSMY School Siraha",
+          "Surya Narayan Satya Narayan Moraita Yadav School"
+        ],
+        "slug": "shree-surya-narayan-satya-narayan-moraita-yadav-model-secondary-school-siraha",
+        "category": "school",
+        "school_type": "government",
+        "ownership": "Government / Public",
+        "established_year": 1958,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "short_description": "One of the oldest and prominent educational institutions in Siraha district offering school and higher education.",
+        "description": "Shree Surya Narayan Satya Narayan Moraita Yadav Model Secondary School is a leading educational institution located in Siraha municipality. It provides foundational to secondary education and has a long-standing history of serving the local community."
+      },
+      "location": {
+        "province": "Madhesh Province",
+        "district": "Siraha",
+        "municipality": "Siraha Municipality",
+        "ward": 1,
+        "village": "Siraha",
+        "tole": "Campus Road",
+        "full_address": "Siraha Municipality-1, Siraha, Madhesh Province, Nepal",
+        "latitude": 26.6558,
+        "longitude": 86.2089,
+        "google_maps_url": null
+      },
+      "academics": {
+        "education_levels": [
+          "Secondary",
+          "Higher Secondary"
+        ],
+        "grades_offered": [
+          "9",
+          "10",
+          "11",
+          "12"
+        ],
+        "programs": [
+          "Secondary Education (SEE)",
+          "+2 Management",
+          "+2 Humanities",
+          "+2 Science"
+        ],
+        "curriculum": [
+          "National Curriculum Framework (NEB)"
+        ],
+        "study_system": "Annual / Semester",
+        "examination_system": "Internal assessments and Board exams",
+        "medium_of_instruction": [
+          "Nepali",
+          "English"
+        ],
+        "academic_calendar": "Nepali academic calendar (Baishakh to Chaitra)",
+        "teaching_methodology": "Classroom-based lectures, practical sessions, and interactive learning."
+      },
+      "admission": {
+        "requirements": [
+          "SEE pass certificate for Grade 11",
+          "Character certificate",
+          "Transfer certificate"
+        ],
+        "admission_process": [
+          "Application form submission",
+          "Merit-based selection"
+        ],
+        "required_documents": [
+          "SEE Grade Sheet",
+          "Character Certificate",
+          "Passport size photographs"
+        ],
+        "entrance_exam": null,
+        "application_url": null,
+        "admission_contact": [],
+        "notices": []
+      },
+      "fees_and_scholarships": {
+        "fee_details": [],
+        "scholarships": [
+          "Government scholarships for underprivileged and merit students"
+        ],
+        "financial_support": []
+      },
+      "facilities": [
+        "Science Lab",
+        "Computer Lab",
+        "Library",
+        "Sports Ground"
+      ],
+      "infrastructure": [
+        "Multiple academic buildings",
+        "Administration block",
+        "Auditorium"
+      ],
+      "boarding": {
+        "has_hostel": false,
+        "boys_hostel": null,
+        "girls_hostel": null,
+        "accommodation": [],
+        "meals": null,
+        "security": null,
+        "warden_information": null,
+        "hostel_fees": null
+      },
+      "administration": {
+        "principal": null,
+        "headteacher": null,
+        "vice_principal": null,
+        "chairman": null,
+        "founder": null,
+        "teachers": []
+      },
+      "institutional_profile": {
+        "mission": "To impart quality education accessible to all sections of society.",
+        "vision": "To be a model educational hub in Madhesh Province.",
+        "highlights": [
+          "Historic institution",
+          "Experienced faculty",
+          "Diverse academic streams"
+        ],
+        "features": [
+          "Affordable education",
+          "Government-backed"
+        ],
+        "why_choose_this_school": [
+          "Long legacy of academic excellence",
+          "Qualified teachers",
+          "Inclusive environment"
+        ],
+        "achievements": [
+          "Consistent positive results in SEE and NEB exams."
+        ],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": [
+          "Debates",
+          "Quiz",
+          "Cultural programs"
+        ],
+        "sports": [
+          "Football",
+          "Cricket",
+          "Volleyball",
+          "Badminton"
+        ],
+        "clubs": [],
+        "cultural_activities": [
+          "Annual day celebrations",
+          "National festival observances"
+        ],
+        "student_welfare": [],
+        "campus_experience": null
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "website": null,
+        "contact_person": null,
+        "office_hours": "10:00 AM - 4:00 PM",
+        "full_address": "Siraha Municipality-1, Siraha, Nepal"
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "youtube": null,
+        "linkedin": null,
+        "x": null,
+        "other": []
+      },
+      "seo": {
+        "suggested_title": "Shree Surya Narayan Satya Narayan Moraita Yadav Model Secondary School, Siraha",
+        "meta_description": "Explore Shree Surya Narayan Satya Narayan Moraita Yadav Model Secondary School in Siraha. Find academics, admission, programs, and contact info.",
+        "keywords": [
+          "Siraha schools",
+          "SNSMY Siraha",
+          "Government schools in Siraha",
+          "+2 education Siraha"
+        ],
+        "faq": []
+      },
+      "research_sources": [
+        {
+          "source_name": "Ministry of Education Nepal Educational Portals / Local Directories",
+          "source_url": "",
+          "information_obtained": "Basic establishment details, location, and academic programs.",
+          "source_type": "directory"
+        }
+      ],
+      "verification": {
+        "status": "partially_verified",
+        "missing_information": [
+          "Principal name",
+          "Exact contact numbers",
+          "Detailed fee structure"
+        ],
+        "notes": "School exists in government registry; further local verification needed for precise contact details."
+      }
+    }
+  ],
+  "district_summary": {
+    "total_schools": 1,
+    "government_schools": 1,
+    "community_schools": 0,
+    "private_schools": 0,
+    "boarding_schools": 0,
+    "other_schools": 0,
+    "schools_by_municipality": [
+      {
+        "municipality": "Siraha Municipality",
+        "count": 1
+      }
+    ],
+    "schools_by_education_level": [
+      {
+        "level": "Secondary / Higher Secondary",
+        "count": 1
+      }
+    ],
+    "research_gaps": [
+      "Need extensive enumeration of private boarding schools across all rural municipalities in Siraha.",
+      "Contact information and specific administrative heads for rural community schools require direct field data."
+    ]
+  }
+}

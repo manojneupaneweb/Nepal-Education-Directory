@@ -1,0 +1,966 @@
+{
+    "research_metadata": {
+        "country": "Nepal",
+        "province": "Koshi Province",
+        "district": "Udayapur",
+        "research_date": "2026-11-08",
+        "total_institutions_discovered": 12,
+        "research_status": "completed",
+        "collection_mode": "responses"
+    },
+    "institutions": [
+        {
+            "overview": {
+                "name": "Triyuga Janata Multiple Campus",
+                "name_ne": "त्रियुगा जनता बहुमुखी क्याम्पस",
+                "slug": "triyuga-janata-multiple-campus",
+                "ownership": "community",
+                "established_year": 1987,
+                "university": "Tribhuvan University",
+                "municipality": "Triyuga Municipality",
+                "address": "Motigada, Triyuga Municipality-8, Gaighat, Udayapur, Nepal",
+                "description": "Community/public campus in Gaighat, established in 2044 BS (1987 AD). It is affiliated to Tribhuvan University, is listed by the Nepal Public Campus Association, and also runs +2 programs under the National Examinations Board. UGC granted first-cycle QAA on 6 January 2019, stated as valid until 5 January 2024; a second-cycle self-study report was submitted on 5 January 2024. The campus website describes a transition toward autonomy and a Research Management Cell. Published higher-education programs include BA, BASW, BBS, four-year B.Ed., one-year B.Ed., BICTE, M.Ed., and MBS.",
+                "mission": "Published campus aims include quality higher education, research through the Research Management Cell, and wider participation through scholarships. A third-party profile also states a mission of accessible, affordable, quality higher education for Udayapur and nearby areas.",
+                "vision": "A third-party profile states an aim to be a leading regional campus for higher education, research, and community engagement. The campus site says it is transitioning toward an autonomous institution.",
+                "source_urls": [
+                    "https://tjmc.edu.np/",
+                    "https://tjmc.edu.np/contact/",
+                    "https://edusanjal.com/college/triyuga-janta-campus/",
+                    "https://www.collegesnepal.com/triyuga-janata-bahumukhi-campus/",
+                    "https://npca.edu.np/campus_details/574",
+                    "https://portal.tu.edu.np/downloads/2025_02_23_15_22_28.pdf",
+                    "https://www.myfreeadmission.com/college/triyuga-janata-multiple-campus-2308"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Arts (BA)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Humanities and Social Sciences",
+                    "fee": null,
+                    "source_url": "https://tjmc.edu.np/"
+                },
+                {
+                    "name": "Bachelor of Arts in Social Work (BASW)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Humanities and Social Sciences",
+                    "fee": null,
+                    "source_url": "https://www.collegesnepal.com/triyuga-janata-bahumukhi-campus/"
+                },
+                {
+                    "name": "Bachelor of Business Studies (BBS)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://tjmc.edu.np/"
+                },
+                {
+                    "name": "Bachelor of Education (B.Ed.)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://tjmc.edu.np/"
+                },
+                {
+                    "name": "One-Year Bachelor of Education (B.Ed.)",
+                    "level": "Bachelor",
+                    "duration": "1 year",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/college/triyuga-janta-campus/"
+                },
+                {
+                    "name": "Bachelor in Information Communication Technology Education (BICTE)",
+                    "level": "Bachelor",
+                    "duration": "8 semesters",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://tjmc.edu.np/"
+                },
+                {
+                    "name": "Master of Education (M.Ed.)",
+                    "level": "Master",
+                    "duration": "4 semesters",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://tjmc.edu.np/"
+                },
+                {
+                    "name": "Master of Business Studies (MBS)",
+                    "level": "Master",
+                    "duration": "4 semesters",
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://tjmc.edu.np/"
+                }
+            ],
+            "facilities": [
+                "Library with more than 21,000 books, journals, magazines, and reports",
+                "Sports facilities",
+                "Auditorium",
+                "Science lab",
+                "Conference facilities",
+                "Multimedia",
+                "Cafeteria",
+                "Counselling",
+                "Scholarship support",
+                "Guest lectures",
+                "Field visits and educational tours",
+                "Extra-curricular activities",
+                "Research Management Cell",
+                "Horticulture",
+                "Health and fitness activities",
+                "Online journal"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [
+                {
+                    "title": "Annual Progress Report",
+                    "date": null,
+                    "summary": "Notice listed on the campus notice board; no date was published on the listing page.",
+                    "source_url": "https://tjmc.edu.np/notice/47/"
+                },
+                {
+                    "title": "BICTE Entrance Result",
+                    "date": null,
+                    "summary": "BICTE entrance result for admission, with an attached result image.",
+                    "source_url": "https://tjmc.edu.np/notice/46/"
+                },
+                {
+                    "title": "Academic Calendar",
+                    "date": null,
+                    "summary": "Campus academic calendar notice with a PDF attachment.",
+                    "source_url": "https://tjmc.edu.np/notice/45/"
+                },
+                {
+                    "title": "Koshi Province Scholarship",
+                    "date": null,
+                    "summary": "Scholarship notice with a PDF attachment.",
+                    "source_url": "https://tjmc.edu.np/notice/43/"
+                },
+                {
+                    "title": "UGC Scholarship - 2082",
+                    "date": null,
+                    "summary": "UGC scholarship form notice for students, 2082.",
+                    "source_url": "https://tjmc.edu.np/notice/42/"
+                },
+                {
+                    "title": "BICTE 8th Semester Exam Schedule",
+                    "date": null,
+                    "summary": "BICTE 8th semester exam schedule notice.",
+                    "source_url": "https://tjmc.edu.np/notice/41/"
+                },
+                {
+                    "title": "4 Years Bachelor's Third Year Exam Form Fill-Up",
+                    "date": null,
+                    "summary": "Exam form fill-up notice for four-year bachelor third year.",
+                    "source_url": "https://tjmc.edu.np/notice/40/"
+                },
+                {
+                    "title": "M.Ed. CEAT Exam",
+                    "date": null,
+                    "summary": "M.Ed. CEAT examination notice.",
+                    "source_url": "https://tjmc.edu.np/notice/39/"
+                }
+            ],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-35-420304",
+                    "+977-35-421435",
+                    "+977-9749406152"
+                ],
+                "emails": [
+                    "trijugacampus@gmail.com",
+                    "info@tjmc.edu.np",
+                    "trijuga.campus@gmail.com"
+                ],
+                "website": "https://tjmc.edu.np",
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Baruwa Campus",
+                "name_ne": "बरुवा क्याम्पस",
+                "slug": "baruwa-campus",
+                "ownership": "community",
+                "established_year": 2009,
+                "university": "Tribhuvan University",
+                "municipality": "Triyuga Municipality",
+                "address": "Triyuga Municipality-12, Gaighat, Udayapur, Nepal",
+                "description": "Community campus established in 2066 BS (2009 AD), affiliated to Tribhuvan University and described as UGC-approved. It offers BBS and B.Ed. Edusanjal reported 377 students, including 246 in BBS and 131 in B.Ed. The February 2025 TU affiliated-campus list gives the address as Triyuga-2, Gaighat, which differs from the CollegeNP ward-12 address.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://www.collegenp.com/college/baruwa-campus-udayapur",
+                    "https://edusanjal.com/college/baruwa-campus/",
+                    "https://portal.tu.edu.np/downloads/2025_02_23_15_22_28.pdf"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Business Studies (BBS)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/baruwa-campus-udayapur-bachelor-of-business-studies-bbs-bbs"
+                },
+                {
+                    "name": "Bachelor of Education (B.Ed.)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/baruwa-campus-udayapur-bachelor-of-education-bed-bed"
+                }
+            ],
+            "facilities": [
+                "Library",
+                "Sports",
+                "Science lab",
+                "Conference",
+                "Counselling",
+                "Scholarships",
+                "Classrooms",
+                "Extra-curricular activities",
+                "Educational tours"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-35-421342",
+                    "+977-9852835762",
+                    "+977-9852835691",
+                    "+977-9851002471",
+                    "+977-9852835948",
+                    "+977-9842838485",
+                    "+977-9825739957"
+                ],
+                "emails": [],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Jyoti Janata Multiple Campus",
+                "name_ne": "ज्योति जनता बहुमुखी क्याम्पस",
+                "slug": "jyoti-janata-multiple-campus",
+                "ownership": "community",
+                "established_year": 2008,
+                "university": "Tribhuvan University",
+                "municipality": "Chaudandigadhi Municipality",
+                "address": "Chaudandigadhi Municipality-6, Beltar, Sathdhare, Udayapur, Koshi Province, Nepal",
+                "description": "Community campus established in 2065 BS (2008 AD) at Beltar, affiliated to Tribhuvan University and described as UGC-approved. It offers B.Ed. and BBS. The February 2025 TU list records it as Jyoti Janta Multiple Campus, Beltar 5, Udayapur. A 2025 municipal report said Chaudandigadhi Municipality had allocated an annual conditional improvement budget of Rs. 600,000 and appointed a full-time campus chief.",
+                "mission": "CollegeNP publishes this mission text: expand access to quality higher education in Udayapur by delivering TU-prescribed programs that develop teachers, business professionals, and responsible citizens.",
+                "vision": "CollegeNP publishes this vision text: grow as a trusted community institution in Koshi Province with supportive guidance, reliable academic standards, and practical exposure aligned with TU curricula.",
+                "source_urls": [
+                    "https://www.collegenp.com/college/jyoti-janata-multiple-campus-udayapur",
+                    "https://edusanjal.com/college/district/udayapur/",
+                    "https://portal.tu.edu.np/downloads/2025_02_23_15_22_28.pdf",
+                    "https://www.collegenp.com/news/salary-allowance-halted-for-narad-adarsha-campus-chief"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Education (B.Ed.)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/jyoti-janata-multiple-campus-udayapur-bachelor-of-education-bed-bed"
+                },
+                {
+                    "name": "Bachelor of Business Studies (BBS)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/jyoti-janata-multiple-campus-udayapur-bachelor-of-business-studies-bbs"
+                }
+            ],
+            "facilities": [
+                "Library",
+                "Computer lab",
+                "Science lab",
+                "Multimedia classrooms",
+                "Sports",
+                "Cafeteria",
+                "Conference hall",
+                "Counselling",
+                "Scholarships",
+                "Extra-curricular activities",
+                "Educational tours"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [
+                {
+                    "title": "Municipal education budget and full-time campus chief reported",
+                    "date": "2025-09-01",
+                    "summary": "A CollegeNP report on Chaudandigadhi Municipality said Jyoti Janata Multiple Campus, Beltar, Ward 6, received an annual conditional budget of Rs. 600,000 and had a full-time campus chief appointed under the municipal education improvement plan.",
+                    "source_url": "https://www.collegenp.com/news/salary-allowance-halted-for-narad-adarsha-campus-chief"
+                }
+            ],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-9817731564",
+                    "+977-9841376072",
+                    "+977-9865140066",
+                    "+977-9817337200"
+                ],
+                "emails": [],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Shree Narad Adarsh Education Campus",
+                "name_ne": "श्री नारद आदर्श शिक्षा क्याम्पस",
+                "slug": "shree-narad-adarsh-education-campus",
+                "ownership": "community",
+                "established_year": 2003,
+                "university": "Tribhuvan University",
+                "municipality": "Chaudandigadhi Municipality",
+                "address": "Chaudandigadhi Municipality-4, Basaha, Barkhedanda, Udayapur, Nepal",
+                "description": "Community campus established in 2060 BS (2003 AD) at Basaha and affiliated to Tribhuvan University for B.Ed. It is distinct from the adjoining Narad Adarsha Secondary School. Indian grant-funded campus infrastructure, reported as about NRs 30.2 million, was inaugurated in 2019; reports described a two-storey building with 12 classrooms, a library, a meeting hall, and separate toilets. A 2022 local report said about 200 education-faculty students were enrolled and named Dhrub Rai as campus head.",
+                "mission": "Maximizes equitable, accessible, affordable, and quality higher education.",
+                "vision": "To enable students to achieve academic goals and develop successful professional personalities and continuous learning through quality education.",
+                "source_urls": [
+                    "https://www.collegenp.com/college/shree-narad-adarsh-education-campus-udayapur",
+                    "https://edusanjal.com/college/shree-narad-adarsh-education-campus/",
+                    "https://portal.tu.edu.np/downloads/2025_02_23_15_22_28.pdf",
+                    "https://ghatanarabichar.com/150323",
+                    "https://www.wionews.com/south-asia/nepal-inaugurates-educational-institution-built-with-indian-aid-219685",
+                    "https://www.collegenp.com/news/narada-adarsh-secondary-school-udayapur-installed-a-statue-of-founder-late-naradamuni-thulung-rai"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Education (B.Ed.)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/shree-narad-adarsh-education-campus-udayapur-bachelor-of-education-bed-bed"
+                }
+            ],
+            "facilities": [
+                "Library",
+                "Sports",
+                "Music",
+                "Dance",
+                "Science lab",
+                "Conference",
+                "Multimedia",
+                "Parking",
+                "Counselling",
+                "Scholarships",
+                "Tour",
+                "Classrooms",
+                "Conference hall",
+                "Extra-curricular activities"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [
+                {
+                    "title": "Salary allowance halted for campus chief",
+                    "date": "2025-09-01",
+                    "summary": "CollegeNP reported that Chaudandigadhi Municipality stopped the salary and benefits of Campus Chief Rajkumar Rai after a Municipal Education Committee meeting on Bhadra 11, citing absence, other work, and failure to implement campus plans. The municipality had been paying a Second Class Gazetted Officer-equivalent package and an annual conditional budget of Rs. 600,000.",
+                    "source_url": "https://www.collegenp.com/news/salary-allowance-halted-for-narad-adarsha-campus-chief"
+                }
+            ],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-35-620288",
+                    "+977-9842958892",
+                    "+977-9841191471"
+                ],
+                "emails": [
+                    "naradadarsha60@gmail.com"
+                ],
+                "website": "https://naradcampus.edu.np",
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": [
+                {
+                    "question": "How many courses are in bachelor 1 year of education faculty?",
+                    "answer": null,
+                    "source_url": "https://www.collegenp.com/discussion/1061"
+                }
+            ]
+        },
+        {
+            "overview": {
+                "name": "Udayashree Multiple Campus",
+                "name_ne": "उदयश्री बहुमुखी क्याम्पस",
+                "slug": "udayashree-multiple-campus",
+                "ownership": "community",
+                "established_year": 2000,
+                "university": "Tribhuvan University",
+                "municipality": "Katari Municipality",
+                "address": "Katari-4, Udayapur, Koshi Province, Nepal",
+                "description": "Community campus established in 2057 BS (2000 AD) at Katari, affiliated to Tribhuvan University and described as UGC-approved. Published programs are B.Ed. and BA. TU Faculty of Humanities and Social Sciences lists it among general campuses, not as a separately confirmed BCA college. College of Natural Resource Management, Katari, initially operated from this campus before moving to its own building about 4 km east of Katari.",
+                "mission": "CollegeNP publishes this mission text: provide accessible higher education that builds subject knowledge, practical skills, and responsible citizenship.",
+                "vision": "CollegeNP publishes this vision text: grow as a dependable community campus in Koshi Province known for academic progress, student support, and adherence to Tribhuvan University standards.",
+                "source_urls": [
+                    "https://www.collegenp.com/college/udayashree-multiple-campus-udayapur",
+                    "https://edusanjal.com/college/udayashree-campus/",
+                    "https://fohss.tu.edu.np/pages/affiliated-college-3036",
+                    "https://portal.tu.edu.np/downloads/2025_02_23_15_22_28.pdf",
+                    "https://npca.edu.np/campus_list/"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Education (B.Ed.)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/udayashree-multiple-campus-udayapur-bachelor-of-education-bed-bed"
+                },
+                {
+                    "name": "Bachelor of Arts (BA)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Humanities and Social Sciences",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/udayashree-multiple-campus-udayapur-bachelor-of-arts-ba-ba"
+                }
+            ],
+            "facilities": [
+                "Library",
+                "Sports",
+                "Music",
+                "Dance",
+                "Science lab",
+                "Conference",
+                "Parking",
+                "Counselling",
+                "Scholarships",
+                "Tour",
+                "Classrooms",
+                "Extra-curricular activities"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-35-421037",
+                    "+977-35-450153",
+                    "+977-9852836153",
+                    "+977-9852836154"
+                ],
+                "emails": [
+                    "mcudayashree@gmail.com"
+                ],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Shree Belaka Janata Campus",
+                "name_ne": "श्री बेलका जनता क्याम्पस",
+                "slug": "shree-belaka-janata-campus",
+                "ownership": "affiliated",
+                "established_year": null,
+                "university": "Tribhuvan University",
+                "municipality": "Belaka Municipality",
+                "address": "Gurungchauri, Thoksila-7, Udayapur, Nepal",
+                "description": "Named as Shree Belaka Janata Campus, Gurungchauri, Thoksila-7, Udayapur, on Tribhuvan University's affiliated campus list published 23 February 2025. Nepal Public Campus Association also lists Belaka Janta Campus, without a public program or contact profile found in this search. No published course list, year of establishment, phone, or fee was found. It should not be confused with Shree Janata Belaka Secondary School, Purandah, or Shree Janata Model Secondary School, Gurungchauri, which are school-level institutions.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://portal.tu.edu.np/downloads/2025_02_23_15_22_28.pdf",
+                    "https://npca.edu.np/campus_list/"
+                ]
+            },
+            "courses": [],
+            "facilities": [],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [],
+                "emails": [],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Rauta Janata Campus",
+                "name_ne": "रौता जनता क्याम्पस",
+                "slug": "rauta-janata-campus",
+                "ownership": "affiliated",
+                "established_year": null,
+                "university": "Tribhuvan University",
+                "municipality": null,
+                "address": "Rauta, Udayapur, Nepal",
+                "description": "Named as Rauta Janata Campus, Rauta, Udayapur, on Tribhuvan University's affiliated campus list published 23 February 2025. No public program list, establishment year, phone, email, or campus website was found in this search. It should not be confused with Shree Rauta Janata Secondary School, Rautamai-6, which Edusanjal lists as a school from ECD to grade 10.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://portal.tu.edu.np/downloads/2025_02_23_15_22_28.pdf",
+                    "https://edusanjal.com/school/shree-rauta-janata-secondary-school-rautamai/"
+                ]
+            },
+            "courses": [],
+            "facilities": [],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [],
+                "emails": [],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "College of Natural Resource Management, Katari",
+                "name_ne": null,
+                "slug": "college-of-natural-resource-management-katari",
+                "ownership": "constituent",
+                "established_year": null,
+                "university": "Agriculture and Forestry University",
+                "municipality": "Katari Municipality",
+                "address": "About 4 km east of Katari downtown on the Madan Bhandari Highway toward Dharan, Katari, Udayapur, Koshi Province, Nepal",
+                "description": "Constituent college of the Faculty of Forestry, Agriculture and Forestry University, and the faculty's only constituent college. The AFU about page says it was established in 2075 BS; the principal's message on the same page says 2076 BS. CollegeNP lists 2018. It enrolls 54 students a year in B.Sc. Forestry. The first cohort graduated in 2080 BS, and the Faculty of Forestry topper that year was from this college. It first ran at Udayashree Multiple Campus; a dedicated building about 4 km east of central Katari is complete. Assistant Professor Kripa Pokhrel is published as principal.",
+                "mission": "The college states a commitment to a forestry education that balances theory and practice and to preserving Nepal's natural heritage.",
+                "vision": null,
+                "source_urls": [
+                    "https://www.afu.edu.np/faculties/fof/colleges/cnrm-katari",
+                    "https://www.collegenp.com/college/college-of-natural-resource-management-katari-udayapur",
+                    "https://edusanjal.com/college/college-of-natural-resource-management-katari/"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Science in Forestry (B.Sc. Forestry)",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Forestry",
+                    "fee": null,
+                    "source_url": "https://www.afu.edu.np/faculties/fof/colleges/cnrm-katari"
+                }
+            ],
+            "facilities": [
+                "Dedicated college building",
+                "Laboratory"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [
+                {
+                    "title": "B.Sc. Forestry 3rd semester re-exam result notice",
+                    "date": "2026-11-06",
+                    "summary": "AFU exam notice, linked from the CNRM Katari page, on publication of the re-exam result for B.Sc. Forestry 3rd semester, academic year 2081-082.",
+                    "source_url": "https://www.afuexam.edu.np/notices/b-sc-forestry-3rd-semester-a-y-2081-082"
+                },
+                {
+                    "title": "B.Sc. Forestry 4th semester exam form notice",
+                    "date": "2026-11-06",
+                    "summary": "AFU exam notice, linked from the CNRM Katari page, for regular and partial exam application forms of B.Sc. Forestry 4th semester, 2081/082.",
+                    "source_url": "https://www.afuexam.edu.np/notices/b-sc-forestry-4th-semester-2081-082-regular-and-partial"
+                },
+                {
+                    "title": "Undergraduate admission and fee structure notice 2083",
+                    "date": "2026-09-20",
+                    "summary": "AFU undergraduate admission and fee-structure notice linked from the CNRM Katari page. The campus-specific fee amount was not extracted.",
+                    "source_url": "https://www.afu.edu.np/notices/ug-admission-fee-structure-notice-2083"
+                }
+            ],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-35-450273",
+                    "9846940031"
+                ],
+                "emails": [
+                    "nrmkatari@afu.edu.np"
+                ],
+                "website": "https://www.afu.edu.np/faculties/fof/colleges/cnrm-katari",
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Everest College of Multiple Studies",
+                "name_ne": null,
+                "slug": "everest-college-of-multiple-studies-katari",
+                "ownership": "private",
+                "established_year": 2024,
+                "university": "Rajarshi Janak University",
+                "municipality": "Katari Municipality",
+                "address": "Katari, Udayapur, Nepal",
+                "description": "Private college in Katari listed by Edusanjal as established in 2081 BS and affiliated to Rajarshi Janak University for BBA. Rajarshi Janak University's affiliation notice of 30 August 2024 lists Everest College of Multiple Studies, Udayapur, for BBA. It is not the similarly named colleges in Thamel or Thapathali, Kathmandu. No phone, email, fee, or campus website was published on the pages found.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://edusanjal.com/college/everest-college-of-multiple-studies/",
+                    "https://edusanjal.com/news/affiliation-notice-issued-by-rajarshi-janak-university/"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Business Administration (BBA)",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/college/everest-college-of-multiple-studies/"
+                }
+            ],
+            "facilities": [],
+            "gallery": [],
+            "videos": [],
+            "updates": [
+                {
+                    "title": "Rajarshi Janak University affiliation notice",
+                    "date": "2024-08-30",
+                    "summary": "RJU listed Everest College of Multiple Studies, Udayapur, among colleges granted affiliation to run BBA, following an Executive Council decision.",
+                    "source_url": "https://edusanjal.com/news/affiliation-notice-issued-by-rajarshi-janak-university/"
+                }
+            ],
+            "faqs": [],
+            "contact": {
+                "phones": [],
+                "emails": [],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Takshashila College",
+                "name_ne": null,
+                "slug": "takshashila-college-triyuga",
+                "ownership": "private",
+                "established_year": 2024,
+                "university": "Rajarshi Janak University",
+                "municipality": "Triyuga Municipality",
+                "address": "Triyuga, Udayapur, Nepal",
+                "description": "Private college in Triyuga, Udayapur, listed by Edusanjal as established in 2024 and affiliated to Rajarshi Janak University for BBA. The 30 August 2024 RJU affiliation notice lists Takshashila College, Udayapur, for BBA. No phone, email, fee, or campus website was published on the pages found.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://edusanjal.com/college/takshashila-college/",
+                    "https://edusanjal.com/news/affiliation-notice-issued-by-rajarshi-janak-university/"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Business Administration (BBA)",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/college/takshashila-college/"
+                }
+            ],
+            "facilities": [],
+            "gallery": [],
+            "videos": [],
+            "updates": [
+                {
+                    "title": "Rajarshi Janak University affiliation notice",
+                    "date": "2024-08-30",
+                    "summary": "RJU listed Takshashila College, Udayapur, among colleges granted affiliation to run BBA.",
+                    "source_url": "https://edusanjal.com/news/affiliation-notice-issued-by-rajarshi-janak-university/"
+                }
+            ],
+            "faqs": [],
+            "contact": {
+                "phones": [],
+                "emails": [],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Modern Institute of Health Science",
+                "name_ne": null,
+                "slug": "modern-institute-of-health-science-gaighat",
+                "ownership": "private",
+                "established_year": null,
+                "university": "CTEVT",
+                "municipality": "Triyuga Municipality",
+                "address": "Triyuga Municipality-2, Gaighat, Udayapur, Nepal",
+                "description": "Private CTEVT-affiliated health institute in Gaighat. TyroCity lists establishment in 2061 BS; that year was not confirmed on a current official page, so the year is left unset. Published programs include diploma-level General Medicine (HA), CMLT, and Pharmacy, plus shorter TSLC/ANM programs. It is recognized in CTEVT sources and is an assigned institution for the Mangsir 2083 diploma and certificate examinations. A TyroCity profile names Er. Shailendra Mohan Jha as chairperson and publishes a vision of quality technical education in health and non-health fields.",
+                "mission": "TyroCity publishes: motivate and educate students to excel as well-informed ethical and moral leaders in their professional careers and communities.",
+                "vision": "TyroCity publishes: provide quality technical education and produce qualified experts in health and non-health fields.",
+                "source_urls": [
+                    "https://www.collegenp.com/college/modern-institute-of-health-science-udayapur",
+                    "https://edusanjal.com/school/modern-institute-health-science/",
+                    "https://tyrocity.com/academy/modern-institute-of-health-science-45cg",
+                    "https://www.collegenp.com/course/modern-institute-of-health-science-udayapur-proficiency-certificate-in-general-medicine-ha",
+                    "https://smartacademyhq.com/ctevt-admissions-tracker-2083/",
+                    "https://www.collegenp.com/exam/ctevt-diploma-certificate-exam-centers-2083"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Proficiency Certificate in General Medicine (Health Assistant)",
+                    "level": "Diploma",
+                    "duration": "3 years",
+                    "faculty": "Health",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/modern-institute-of-health-science-udayapur-proficiency-certificate-in-general-medicine-ha"
+                },
+                {
+                    "name": "Diploma in Medical Lab Technology (CMLT)",
+                    "level": "Diploma",
+                    "duration": null,
+                    "faculty": "Health",
+                    "fee": null,
+                    "source_url": "https://smartacademyhq.com/ctevt-admissions-tracker-2083/"
+                },
+                {
+                    "name": "Diploma in Pharmacy",
+                    "level": "Diploma",
+                    "duration": null,
+                    "faculty": "Health",
+                    "fee": null,
+                    "source_url": "https://smartacademyhq.com/ctevt-admissions-tracker-2083/"
+                },
+                {
+                    "name": "Auxiliary Nurse Midwife (ANM)",
+                    "level": "Certificate",
+                    "duration": "18 months",
+                    "faculty": "Health",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/school/modern-institute-health-science/"
+                },
+                {
+                    "name": "TSLC in Community Medicine Assistant (CMA)",
+                    "level": "Pre-diploma",
+                    "duration": "15 months",
+                    "faculty": "Health",
+                    "fee": null,
+                    "source_url": "https://tyrocity.com/academy/modern-institute-of-health-science-45cg"
+                },
+                {
+                    "name": "TSLC in Medical Lab Technology (Lab Assistant)",
+                    "level": "Pre-diploma",
+                    "duration": "15 months",
+                    "faculty": "Health",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/school/modern-institute-health-science/"
+                },
+                {
+                    "name": "TSLC in Ayurveda (AAHW)",
+                    "level": "Pre-diploma",
+                    "duration": null,
+                    "faculty": "Health",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/modern-institute-of-health-science-udayapur"
+                }
+            ],
+            "facilities": [
+                "Cafeteria",
+                "Library",
+                "Sports",
+                "Science lab",
+                "Health care",
+                "Conference",
+                "Multimedia",
+                "Placement support",
+                "Counselling",
+                "Scholarships",
+                "Tour"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [
+                {
+                    "title": "Assigned to CTEVT diploma and certificate exam center, Mangsir 2083",
+                    "date": "2026-11-07",
+                    "summary": "CTEVT assigned Modern Institute of Health Science, Gaighat, to the exam center at Shree Bal Mandir Secondary School, Gaighat, for diploma and certificate exams beginning Mangsir 3, 2083.",
+                    "source_url": "https://www.collegenp.com/exam/ctevt-diploma-certificate-exam-centers-2083"
+                }
+            ],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-35-420515",
+                    "+977-35-420317",
+                    "+977-9819740325"
+                ],
+                "emails": [
+                    "shailesh740325@gmail.com"
+                ],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Triyuga National Education Academy",
+                "name_ne": "त्रियुगा नेशनल एजुकेसन एकेडेमी",
+                "slug": "triyuga-national-education-academy",
+                "ownership": "private",
+                "established_year": null,
+                "university": "CTEVT",
+                "municipality": "Triyuga Municipality",
+                "address": "Triyuga-2, Gaighat, Udayapur, Nepal",
+                "description": "Private CTEVT technical college in Triyuga-2. Colleges Nepal says it was founded in 2069 BS; CollegeNP lists 2014, so the year is left unset. It offers diploma CMLT and, according to its public page, diploma-level Ayurveda and lab programs, plus pre-diploma agriculture, veterinary, livestock, lab assistant, and Ayurveda programs. It is an assigned institution for the Mangsir 2083 CTEVT diploma and certificate examinations.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://www.collegesnepal.com/triyuga-national-education-academy/",
+                    "https://edusanjal.com/school/triyuga-national-education-academy/",
+                    "https://www.collegenp.com/college/triyuga-national-education-academy-achham",
+                    "https://www.collegenp.com/course/triyuga-national-education-academy-achham-proficiency-certificate-in-medical-lab-technology-cmlt",
+                    "https://www.govserv.org/NP/Udayapur/162330910293407/%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%AF%E0%A5%81%E0%A4%97%E0%A4%BE-%E0%A4%A8%E0%A5%87%E0%A4%B6%E0%A4%A8%E0%A4%B2-%E0%A4%8F%E0%A4%9C%E0%A5%81%E0%A4%95%E0%A5%87%E0%A4%B8%E0%A4%A8-%E0%A4%8F%E0%A4%95%E0%A5%87%E0%A4%A1%E0%A5%87%E0%A4%AE%E0%A5%80---Triyuga-National-Education-Academy",
+                    "https://www.collegenp.com/exam/ctevt-diploma-certificate-exam-centers-2083"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Proficiency Certificate in Medical Lab Technology (CMLT)",
+                    "level": "Diploma",
+                    "duration": "3 years",
+                    "faculty": "Health",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/triyuga-national-education-academy-achham-proficiency-certificate-in-medical-lab-technology-cmlt"
+                },
+                {
+                    "name": "Diploma in Ayurveda",
+                    "level": "Diploma",
+                    "duration": null,
+                    "faculty": "Health",
+                    "fee": null,
+                    "source_url": "https://www.facebook.com/people/%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%AF%E0%A5%81%E0%A4%97%E0%A4%BE-%E0%A4%A8%E0%A5%87%E0%A4%B6%E0%A4%A8%E0%A4%B2-%E0%A4%8F%E0%A4%9C%E0%A5%81%E0%A4%95%E0%A5%87%E0%A4%B8%E0%A4%A8-%E0%A4%8F%E0%A4%95%E0%A5%87%E0%A4%A1%E0%A5%87%E0%A4%AE%E0%A5%80-Triyuga-National-Education-Academy/61552700350718/"
+                },
+                {
+                    "name": "Lab Assistant",
+                    "level": "Pre-diploma",
+                    "duration": null,
+                    "faculty": "Health",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/school/triyuga-national-education-academy/"
+                },
+                {
+                    "name": "TSLC in Ayurveda (AAHW)",
+                    "level": "Pre-diploma",
+                    "duration": null,
+                    "faculty": "Health",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/school/triyuga-national-education-academy/"
+                },
+                {
+                    "name": "Pre-Diploma in Agriculture (Plant Science)",
+                    "level": "Pre-diploma",
+                    "duration": null,
+                    "faculty": "Agriculture",
+                    "fee": null,
+                    "source_url": "https://www.collegesnepal.com/triyuga-national-education-academy/"
+                },
+                {
+                    "name": "Pre-Diploma in Veterinary Science",
+                    "level": "Pre-diploma",
+                    "duration": null,
+                    "faculty": "Agriculture",
+                    "fee": null,
+                    "source_url": "https://www.collegesnepal.com/triyuga-national-education-academy/"
+                },
+                {
+                    "name": "Pre-Diploma in Livestock Production / Animal Health",
+                    "level": "Pre-diploma",
+                    "duration": null,
+                    "faculty": "Agriculture",
+                    "fee": null,
+                    "source_url": "https://www.collegesnepal.com/triyuga-national-education-academy/"
+                }
+            ],
+            "facilities": [
+                "Laboratory",
+                "Hostel",
+                "Library",
+                "Sports",
+                "Internet",
+                "Computer lab",
+                "Counselling",
+                "Extra-curricular activities",
+                "Job placement assistance",
+                "Field and on-the-job training",
+                "Educational tours"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [
+                {
+                    "title": "Diploma and pre-diploma exam form notice",
+                    "date": null,
+                    "summary": "The academy's public listing carried a notice that diploma and pre-diploma students should submit annual or semester final exam forms, with a stated last date of Asar 22 and administration contact 9863906691. The listing date was not a reliable calendar date.",
+                    "source_url": "https://www.govserv.org/NP/Udayapur/162330910293407/%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%AF%E0%A5%81%E0%A4%97%E0%A4%BE-%E0%A4%A8%E0%A5%87%E0%A4%B6%E0%A4%A8%E0%A4%B2-%E0%A4%8F%E0%A4%9C%E0%A5%81%E0%A4%95%E0%A5%87%E0%A4%B8%E0%A4%A8-%E0%A4%8F%E0%A4%95%E0%A5%87%E0%A4%A1%E0%A5%87%E0%A4%AE%E0%A5%80---Triyuga-National-Education-Academy"
+                },
+                {
+                    "title": "Assigned to CTEVT diploma and certificate exam center, Mangsir 2083",
+                    "date": "2026-11-07",
+                    "summary": "CTEVT assigned Triyuga National Education Academy, Triyuga, to the exam center at Shree Bal Mandir Secondary School, Gaighat, for diploma and certificate exams beginning Mangsir 3, 2083.",
+                    "source_url": "https://www.collegenp.com/exam/ctevt-diploma-certificate-exam-centers-2083"
+                }
+            ],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-9863906691",
+                    "+977-35-420806",
+                    "+977-9814793651"
+                ],
+                "emails": [
+                    "tnea.COLLAGE@gmail.com"
+                ],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        }
+    ]
+}

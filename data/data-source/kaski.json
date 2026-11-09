@@ -1,0 +1,204 @@
+{
+  "research_metadata": {
+    "country": "Nepal",
+    "province": "Gandaki Province",
+    "district": "Kaski",
+    "research_date": "2024-05-15",
+    "total_institutions_discovered": 1,
+    "total_institutions_verified": 1,
+    "coverage_notes": "Initial directory batch containing a prominent constituent campus in Kaski, Pokhara University.",
+    "research_status": "partial"
+  },
+  "institutions": [
+    {
+      "identity": {
+        "name": "Pokhara University",
+        "name_ne": "पोखरा विश्वविद्यालय",
+        "alternative_names": ["PoU"],
+        "slug": "pokhara-university",
+        "category": "university",
+        "institution_type": "government",
+        "ownership": "Public/Government",
+        "established_year": 1997,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": "https://pu.edu.np/wp-content/uploads/2021/03/pu-logo.png",
+        "logo_source": "https://pu.edu.np",
+        "short_description": "Pokhara University is a public university located in Lekhnath, Pokhara, Kaski district, Nepal.",
+        "description": "Pokhara University was established in 1997 under the Pokhara University Act, 1997. It aims to develop as a center of excellence for higher education by promoting teaching, learning, and research."
+      },
+      "location": {
+        "province": "Gandaki Province",
+        "district": "Kaski",
+        "municipality": "Pokhara Metropolitan City",
+        "ward": 30,
+        "tole": "Dhungepatan, Lekhnath",
+        "full_address": "Pokhara Metropolitan City-30, Dhungepatan, Kaski, Nepal",
+        "latitude": 28.1456,
+        "longitude": 84.0921,
+        "google_maps_url": "https://maps.google.com/?q=Pokhara+University",
+        "google_maps_embed_url": null,
+        "nearby_landmarks": ["Begnas Lake", "Lekhnath Chowk"]
+      },
+      "affiliation": {
+        "university": "Pokhara University",
+        "affiliation_type": "Autonomous University",
+        "accreditation": ["University Grants Commission Nepal"],
+        "recognition_details": ["Recognized by Ministry of Education, Science and Technology, Nepal"]
+      },
+      "academics": {
+        "study_system": "Semester System",
+        "academic_calendar": "Fall and Spring Semesters",
+        "medium_of_instruction": ["English"],
+        "teaching_methodology": "Lectures, practicals, project works, seminars, and internships.",
+        "programs": [
+          {
+            "name": "Bachelor of Business Administration",
+            "degree_level": "Undergraduate",
+            "faculty": "Faculty of Management",
+            "specialization": ["General Management"],
+            "duration": "4 Years",
+            "semester_or_year": "8 Semesters",
+            "eligibility": "+2 or equivalent with minimum 45% or 2.0 GPA",
+            "entrance_requirement": "PUUMAT Entrance Exam",
+            "fee": null,
+            "intake_capacity": null,
+            "status": "active",
+            "source_urls": ["https://pu.edu.np"]
+          }
+        ]
+      },
+      "admission": {
+        "guidance": "Admissions are granted based on entrance exam scores and academic credentials.",
+        "requirements": ["Passed +2 or equivalent", "Valid entrance examination score"],
+        "application_process": ["Online application via PU portal", "Entrance examination", "Counseling and admission"],
+        "application_url": "https://pu.edu.np",
+        "entrance_details": "Conducted centrally or by respective schools/colleges.",
+        "required_documents": ["Transcripts", "Character certificate", "Citizenship copy", "Passport size photos"],
+        "admission_contact": [],
+        "current_notices": []
+      },
+      "scholarships": [
+        {
+          "name": "PU Constituent/Affiliated Scholarship",
+          "type": "Merit and Need-based",
+          "eligibility": "As per University Grants Commission and Pokhara University scholarship guidelines",
+          "benefits": "Tuition fee waiver",
+          "application_process": "Online application through UGC/PU scholarship portal",
+          "deadline": null,
+          "status": "active",
+          "source_urls": ["https://pu.edu.np"]
+        }
+      ],
+      "facilities": ["Library", "Computer Lab", "Science Lab", "Hostel", "Cafeteria", "Sports Ground", "Auditorium"],
+      "infrastructure": ["Central Library Building", "Administrative Block", "Academic Buildings", "Student Hostels"],
+      "faculty": {
+        "principal": null,
+        "chairperson": null,
+        "campus_chief": null,
+        "departments": ["Faculty of Management", "Faculty of Science and Technology", "Faculty of Humanities and Social Sciences", "Faculty of Health Sciences"],
+        "faculty_members": [],
+        "teaching_approach": "Student-centered learning and research-oriented teaching."
+      },
+      "leadership_messages": {
+        "principal_message": null,
+        "chairperson_message": null,
+        "founder_message": null
+      },
+      "institutional_profile": {
+        "mission": "To expand the horizons of higher education in science, management, arts, and engineering.",
+        "vision": "To develop Pokhara University as a vibrant, dynamic, and competitive center of academic excellence.",
+        "core_values": ["Quality", "Relevance", "Integrity", "Inclusiveness"],
+        "highlights": ["Spacious green campus in Lekhnath", "Wide network of affiliated colleges across Nepal", "Semester-based credit system"],
+        "features": ["Autonomous curriculum", "Credit transfer facilities", "Research centers"],
+        "why_choose_this_college": ["Reputed public university", "Diverse academic programs", "Qualified faculty members"],
+        "achievements": ["Recognized nationally for modern curriculum and prompt academic calendars."],
+        "milestones": ["Established in 1997 by an Act of Parliament."]
+      },
+      "student_life": {
+        "extracurricular_activities": ["Annual sports meet", "Cultural programs", "Debate competitions"],
+        "clubs": ["IT Club", "Management Club", "Cultural Club"],
+        "sports": ["Football", "Cricket", "Basketball", "Badminton"],
+        "student_organizations": ["Free Student Union / University Student Councils"],
+        "campus_experience": "Serene environment surrounded by hills and lakes providing an ideal setting for academic pursuits.",
+        "student_welfare": ["Counseling services", "Financial aid", "Health support"]
+      },
+      "career_development": {
+        "placement_cell": "University Placement Cell",
+        "internship_opportunities": ["Mandatory internships for professional programs"],
+        "industry_partnerships": ["Collaborations with corporate houses, hospitals, and IT companies"],
+        "career_counseling": "Available through department coordinators",
+        "alumni_network": "Pokhara University Alumni Association",
+        "placement_statistics": []
+      },
+      "contact": {
+        "phones": ["+977-61-504075"],
+        "emails": ["info@pu.edu.np"],
+        "admission_contacts": [],
+        "website": "https://pu.edu.np",
+        "office_hours": "Sun-Fri: 10:00 AM - 5:00 PM",
+        "contact_person": "Registrar"
+      },
+      "social_links": {
+        "facebook": "https://www.facebook.com/PokharaUniversityOfficial",
+        "instagram": null,
+        "tiktok": null,
+        "linkedin": null,
+        "youtube": null,
+        "x": null,
+        "other": []
+      },
+      "online_resources": {
+        "prospectus": [],
+        "fee_structure": [],
+        "academic_calendar": [],
+        "notices": [],
+        "results": [],
+        "student_portal": "https://pu.edu.np",
+        "downloads": []
+      },
+      "seo": {
+        "suggested_title": "Pokhara University - Kaski, Nepal | Programs, Admissions, Courses",
+        "meta_description": "Explore Pokhara University in Kaski, Nepal. Find details on affiliated colleges, programs, admissions, scholarships, and campus facilities.",
+        "keywords": ["Pokhara University", "PoU Nepal", "Colleges in Kaski", "Universities in Pokhara"],
+        "faq": [
+          {
+            "question": "Where is Pokhara University located?",
+            "answer": "Pokhara University is located in Lekhnath, Pokhara Metropolitan City-30, Kaski district, Nepal."
+          }
+        ]
+      },
+      "verification": {
+        "verification_status": "verified",
+        "last_verified_at": "2024-05-15",
+        "official_sources": ["https://pu.edu.np"],
+        "secondary_sources": ["University Grants Commission Nepal portal"],
+        "field_confidence": {
+          "identity": "high",
+          "location": "high",
+          "affiliation": "high"
+        },
+        "missing_information": ["Detailed fee structures", "Exact faculty member directory"],
+        "notes": "Verified via official university web portal."
+      }
+    }
+  ],
+  "district_summary": {
+    "total_colleges": 1,
+    "government_colleges": 1,
+    "community_colleges": 0,
+    "private_colleges": 0,
+    "universities_and_constituent_campuses": 1,
+    "other_institutions": 0,
+    "municipalities_covered": ["Pokhara Metropolitan City"],
+    "institutions_by_university": [
+      {
+        "university": "Pokhara University",
+        "count": 1
+      }
+    ],
+    "research_gaps": [
+      "Need to discover affiliated private and public colleges under Tribhuvan University, Pokhara University, and CTEVT within Kaski district in subsequent batches."
+    ]
+  }
+}

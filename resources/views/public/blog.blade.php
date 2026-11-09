@@ -4,135 +4,170 @@
 @section('meta_description', 'Articles, guides, and updates about education in Nepal from the '.config('app.name').' team.')
 
 @section('content')
+@php
+    $toneClass = [
+        'Overview'          => 'bg-blue-50 text-blue-800',
+        'Universities'      => 'bg-violet-50 text-violet-800',
+        'Schools'           => 'bg-teal-50 text-teal-800',
+        'Exams'             => 'bg-amber-50 text-amber-800',
+        'Medical'           => 'bg-rose-50 text-rose-800',
+        'Policy'            => 'bg-slate-100 text-slate-800',
+        'Scholarships'      => 'bg-emerald-50 text-emerald-800',
+        'Data & Statistics' => 'bg-sky-50 text-sky-800',
+        'Digital Education' => 'bg-cyan-50 text-cyan-800',
+        'Study Abroad'      => 'bg-orange-50 text-orange-800',
+        'Teachers'          => 'bg-pink-50 text-pink-800',
+        'Vocational'        => 'bg-lime-50 text-lime-800',
+    ];
+    $featured = $blogs->currentPage() === 1 ? $blogs->first() : null;
+@endphp
 
-{{-- ─── HERO ─────────────────────────────────────────────────────── --}}
-<section class="bg-gradient-to-br from-brand-900 via-brand-800 to-brand-700 text-white">
-    <div class="mx-auto max-w-6xl px-4 py-16 sm:py-20">
-        <span class="inline-flex items-center gap-2 rounded-full border border-white/20 bg-white/10 px-4 py-1.5 text-xs font-semibold uppercase tracking-widest text-brand-100">
-            Blog
-        </span>
-        <h1 class="mt-4 max-w-3xl text-4xl font-extrabold tracking-tight sm:text-5xl">
-            Education Insights & Updates
-        </h1>
-        <p class="mt-5 max-w-2xl text-lg leading-relaxed text-brand-100">
-            Articles, guides, and news about schools, colleges, and universities across Nepal.
-        </p>
-
-        {{-- Stats strip --}}
-        <div class="mt-10 flex flex-wrap gap-6">
-            <div class="rounded-xl border border-white/20 bg-white/10 px-5 py-3 text-center backdrop-blur">
-                <p class="text-2xl font-extrabold">{{ number_format($blogs->total()) }}</p>
-                <p class="mt-0.5 text-xs font-semibold text-brand-100">Articles</p>
+{{-- ─── PAGE HEADER ──────────────────────────────────────────────────────── --}}
+<section class="border-b border-slate-200 bg-white">
+    <div class="mx-auto max-w-7xl px-4 py-10 sm:px-6 lg:px-8">
+        <nav class="flex items-center gap-2 text-sm text-slate-500" aria-label="Breadcrumb">
+            <a class="transition hover:text-blue-700" href="{{ route('home') }}">Home</a>
+            <span aria-hidden="true">/</span>
+            <span class="font-semibold text-slate-900">Blog</span>
+        </nav>
+        <h1 class="mt-4 text-3xl font-bold tracking-tight text-slate-900 sm:text-4xl">Education Articles &amp; Updates</h1>
+        <p class="mt-2 max-w-2xl text-base text-slate-600">Articles, guides, and news about schools, colleges, and universities across Nepal.</p>
+        <div class="mt-5 flex gap-4">
+            <div class="rounded border border-slate-200 bg-slate-50 px-4 py-3 text-center">
+                <p class="count-up text-xl font-bold text-blue-800" data-count="{{ $blogs->total() }}">{{ number_format($blogs->total()) }}</p>
+                <p class="mt-0.5 text-xs font-semibold text-slate-500">Articles</p>
             </div>
-            <div class="rounded-xl border border-white/20 bg-white/10 px-5 py-3 text-center backdrop-blur">
-                <p class="text-2xl font-extrabold">{{ $categories->count() }}</p>
-                <p class="mt-0.5 text-xs font-semibold text-brand-100">Categories</p>
+            <div class="rounded border border-slate-200 bg-slate-50 px-4 py-3 text-center">
+                <p class="count-up text-xl font-bold text-blue-800" data-count="{{ $categories->count() }}">{{ $categories->count() }}</p>
+                <p class="mt-0.5 text-xs font-semibold text-slate-500">Categories</p>
             </div>
         </div>
     </div>
 </section>
 
-{{-- ─── CATEGORY FILTERS ─────────────────────────────────────────── --}}
-<section class="sticky top-[61px] z-30 border-b border-slate-200 bg-white/95 backdrop-blur">
-    <div class="mx-auto max-w-6xl overflow-x-auto px-4 py-3">
+{{-- ─── CATEGORY FILTER BAR ───────────────────────────────────────────────── --}}
+<section class="sticky top-[61px] z-30 border-b border-slate-200 bg-white">
+    <div class="mx-auto max-w-7xl overflow-x-auto px-4 py-2.5 sm:px-6 lg:px-8">
         <div class="flex min-w-max items-center gap-2" id="category-filters">
-            <button
-                onclick="filterCategory('all')"
-                data-cat="all"
-                class="filter-btn active rounded-full px-4 py-1.5 text-xs font-semibold transition">
-                All
-            </button>
+            <button type="button" onclick="filterCategory('all')" data-cat="all"
+                    class="filter-btn active inline-flex min-h-9 items-center rounded px-3 text-xs font-semibold">All</button>
             @foreach($categories as $cat)
-                <button
-                    onclick="filterCategory('{{ $cat }}')"
-                    data-cat="{{ $cat }}"
-                    class="filter-btn rounded-full px-4 py-1.5 text-xs font-semibold transition">
+                <button type="button" onclick="filterCategory('{{ $cat }}')" data-cat="{{ $cat }}"
+                        class="filter-btn inline-flex min-h-9 items-center gap-2 rounded px-3 text-xs font-semibold">
                     {{ $cat }}
+                    <span class="rounded bg-slate-100 px-1.5 text-[10px] text-slate-600">{{ $categoryCounts[$cat] ?? 0 }}</span>
                 </button>
             @endforeach
         </div>
     </div>
 </section>
 
-{{-- ─── BLOG GRID ────────────────────────────────────────────────── --}}
-<section class="bg-slate-50 py-12">
-    <div class="mx-auto max-w-6xl px-4">
-
-        {{-- Search --}}
-        <div class="mb-8">
-            <input
-                type="text"
-                id="blog-search"
-                placeholder="Search articles…"
-                oninput="filterBlogs()"
-                class="w-full max-w-md rounded-xl border border-slate-300 bg-white px-4 py-2.5 text-sm text-slate-700 shadow-sm placeholder:text-slate-400 focus:border-brand-500 focus:outline-none focus:ring-2 focus:ring-brand-200">
+{{-- ─── ARTICLES ──────────────────────────────────────────────────────────── --}}
+<section class="bg-slate-50 py-10">
+    <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+        <div class="mb-6 flex items-center gap-4">
+            <label class="sr-only" for="blog-search">Search articles</label>
+            <input type="search" id="blog-search" placeholder="Search articles…"
+                   oninput="filterBlogs()"
+                   class="form-input max-w-sm">
+            <p id="result-count" class="text-sm font-semibold text-slate-600" aria-live="polite">{{ number_format($blogs->total()) }} articles</p>
         </div>
 
-        {{-- Cards --}}
-        <div class="grid gap-6 sm:grid-cols-2 lg:grid-cols-3" id="blog-grid">
-
-            @foreach($blogs as $post)
-            <article
-                data-cat="{{ $post['category'] }}"
-                data-title="{{ strtolower($post['title']) }}"
-                data-excerpt="{{ strtolower($post['excerpt']) }}"
-                class="blog-card group flex flex-col rounded-2xl border border-slate-200 bg-white shadow-sm transition hover:-translate-y-0.5 hover:shadow-md">
-
-                {{-- Thumbnail --}}
-                <div class="flex h-36 items-center justify-center rounded-t-2xl bg-gradient-to-br from-brand-50 to-brand-100 text-6xl">
-                    {{ $post['image_emoji'] }}
-                </div>
-
-                {{-- Body --}}
-                <div class="flex flex-1 flex-col p-5">
-                    {{-- Category + read time --}}
-                    <div class="mb-3 flex items-center gap-2">
-                        <span class="rounded-full bg-brand-100 px-2.5 py-0.5 text-xs font-semibold text-brand-700">
-                            {{ $post['category'] }}
-                        </span>
-                        <span class="text-xs text-slate-400">· {{ $post['read_time'] }} min read</span>
+        {{-- Featured article --}}
+        @if ($featured)
+            <article id="featured" data-cat="{{ $featured['category'] }}"
+                     data-title="{{ strtolower($featured['title']) }}"
+                     data-excerpt="{{ strtolower($featured['excerpt']) }}"
+                     class="mb-8 overflow-hidden rounded border border-slate-200 bg-white shadow-sm">
+                <div class="grid lg:grid-cols-2">
+                    <div class="flex h-48 items-center justify-center text-5xl {{ $toneClass[$featured['category']] ?? 'bg-slate-50 text-slate-700' }} lg:h-full">
+                        {{ $featured['image_emoji'] }}
                     </div>
-
-                    {{-- Title --}}
-                    <h2 class="text-base font-bold leading-snug text-slate-800 group-hover:text-brand-700">
-                        {{ $post['title'] }}
-                    </h2>
-
-                    {{-- Excerpt --}}
-                    <p class="mt-2 flex-1 text-sm leading-relaxed text-slate-500 line-clamp-3">
-                        {{ $post['excerpt'] }}
-                    </p>
-
-                    {{-- Footer --}}
-                    <div class="mt-4 flex items-center justify-between border-t border-slate-100 pt-4">
-                        <div class="flex items-center gap-2">
-                            <div class="flex h-7 w-7 items-center justify-center rounded-full bg-brand-700 text-xs font-bold text-white">
-                                {{ strtoupper(substr($post['author'], 0, 1)) }}
-                            </div>
-                            <div>
-                                <p class="text-xs font-semibold text-slate-700">{{ $post['author'] }}</p>
-                                <p class="text-xs text-slate-400">
-                                    {{ \Carbon\Carbon::parse($post['published_at'])->format('M j, Y') }}
-                                </p>
-                            </div>
+                    <div class="p-6">
+                        <span class="rounded bg-amber-100 px-2.5 py-1 text-xs font-bold text-amber-800">Featured</span>
+                        <div class="mt-3 flex items-center gap-2">
+                            <span class="rounded bg-blue-50 px-2.5 py-0.5 text-xs font-semibold text-blue-700">{{ $featured['category'] }}</span>
+                            <span class="text-xs text-slate-400">· {{ $featured['read_time'] }} min read</span>
                         </div>
-                        <span class="text-xs font-semibold text-brand-600 group-hover:underline">Read →</span>
+                        <h2 class="mt-3 text-xl font-bold text-slate-900">{{ $featured['title'] }}</h2>
+                        <p class="mt-2 text-sm leading-relaxed text-slate-600">{{ $featured['excerpt'] }}</p>
+                        <p class="mt-4 text-xs font-semibold text-slate-700">
+                            {{ $featured['author'] }} · <time datetime="{{ $featured['published_at'] }}">{{ \Carbon\Carbon::parse($featured['published_at'])->format('M j, Y') }}</time>
+                        </p>
+                        <p class="mt-3 text-sm font-semibold text-blue-700">Read →</p>
                     </div>
                 </div>
             </article>
+        @endif
+
+        {{-- Article grid --}}
+        <div class="grid gap-5 sm:grid-cols-2 lg:grid-cols-3" id="blog-grid">
+            @foreach($blogs as $post)
+                <article data-cat="{{ $post['category'] }}"
+                         data-title="{{ strtolower($post['title']) }}"
+                         data-excerpt="{{ strtolower($post['excerpt']) }}"
+                         data-read="{{ $post['read_time'] }}"
+                         data-date="{{ $post['published_at'] }}"
+                         @class(['blog-card flex flex-col overflow-hidden rounded border border-slate-200 bg-white shadow-sm transition duration-150 hover:border-blue-300 hover:shadow-md', 'featured-copy' => $featured && $post['id'] === $featured['id']])>
+                    <div class="flex h-32 items-center justify-center text-5xl {{ $toneClass[$post['category']] ?? 'bg-slate-50 text-slate-700' }}">
+                        {{ $post['image_emoji'] }}
+                    </div>
+                    <div class="flex flex-1 flex-col p-5">
+                        <div class="mb-3 flex items-center gap-2">
+                            <span class="rounded bg-blue-50 px-2.5 py-0.5 text-xs font-semibold text-blue-700">{{ $post['category'] }}</span>
+                            <span class="text-xs text-slate-400">· {{ $post['read_time'] }} min read</span>
+                        </div>
+                        <h2 class="line-clamp-2 text-sm font-bold leading-snug text-slate-900">{{ $post['title'] }}</h2>
+                        <p class="mt-2 line-clamp-3 flex-1 text-sm leading-relaxed text-slate-500">{{ $post['excerpt'] }}</p>
+                        <div class="mt-4 flex items-center justify-between border-t border-slate-100 pt-4">
+                            <div>
+                                <p class="text-xs font-semibold text-slate-700">{{ $post['author'] }}</p>
+                                <p class="text-xs text-slate-400">
+                                    <time datetime="{{ $post['published_at'] }}">{{ \Carbon\Carbon::parse($post['published_at'])->format('M j, Y') }}</time>
+                                </p>
+                            </div>
+                            <span class="text-xs font-semibold text-blue-700">Read →</span>
+                        </div>
+                    </div>
+                </article>
             @endforeach
-
         </div>
 
-        <div class="mt-8">{{ $blogs->links() }}</div>
+        {{-- Pagination --}}
+        <div class="mt-8 flex flex-col gap-4 sm:flex-row sm:items-center sm:justify-between">
+            <p class="text-sm text-slate-600">Showing {{ $blogs->firstItem() }} to {{ $blogs->lastItem() }} of {{ number_format($blogs->total()) }}</p>
+            @if ($blogs->hasPages())
+                <nav class="flex flex-wrap items-center gap-2" aria-label="Pagination">
+                    @if ($blogs->onFirstPage())
+                        <span class="inline-flex min-h-9 items-center px-3 text-sm text-slate-400">Previous</span>
+                    @else
+                        <a class="inline-flex min-h-9 items-center rounded border border-slate-200 bg-white px-3 text-sm font-semibold hover:bg-slate-50"
+                           href="{{ $blogs->previousPageUrl() }}">Previous</a>
+                    @endif
+                    @foreach ($blogs->getUrlRange(max(1, $blogs->currentPage() - 1), min($blogs->lastPage(), $blogs->currentPage() + 1)) as $page => $url)
+                        <a class="inline-flex h-9 min-w-9 items-center justify-center rounded text-sm font-semibold
+                            {{ $page === $blogs->currentPage() ? 'bg-blue-700 text-white' : 'border border-slate-200 bg-white text-slate-700 hover:bg-slate-50' }}"
+                           href="{{ $url }}"
+                           @if ($page === $blogs->currentPage()) aria-current="page" @endif>{{ $page }}</a>
+                    @endforeach
+                    @if ($blogs->hasMorePages())
+                        <a class="inline-flex min-h-9 items-center rounded border border-slate-200 bg-white px-3 text-sm font-semibold hover:bg-slate-50"
+                           href="{{ $blogs->nextPageUrl() }}">Next</a>
+                    @else
+                        <span class="inline-flex min-h-9 items-center px-3 text-sm text-slate-400">Next</span>
+                    @endif
+                </nav>
+            @endif
+        </div>
 
-        {{-- Empty state --}}
+        {{-- No results --}}
         <div id="no-results" class="hidden py-20 text-center">
-            <p class="text-5xl">🔍</p>
-            <p class="mt-4 text-base font-semibold text-slate-700">No articles found</p>
-            <p class="mt-1 text-sm text-slate-400">Try a different search term or category.</p>
+            <p class="text-base font-semibold text-slate-700">No articles found</p>
+            <p class="mt-1 text-sm text-slate-500">Try a different search term or category.</p>
+            <button type="button"
+                    onclick="filterCategory('all'); document.getElementById('blog-search').value=''; filterBlogs();"
+                    class="btn-primary mt-4 inline-flex">Clear filters</button>
         </div>
-
     </div>
 </section>
 
@@ -140,61 +175,37 @@
 
 @push('styles')
 <style>
-    .filter-btn {
-        border: 1px solid #e2e8f0;
-        background: white;
-        color: #475569;
-    }
-    .filter-btn:hover {
-        background: #f1f5f9;
-        color: #1e293b;
-    }
-    .filter-btn.active {
-        background: #1d4ed8;
-        color: white;
-        border-color: #1d4ed8;
-    }
-    .line-clamp-3 {
-        display: -webkit-box;
-        -webkit-line-clamp: 3;
-        -webkit-box-orient: vertical;
-        overflow: hidden;
-    }
+    .filter-btn { border: 1px solid #e2e8f0; background: white; color: #475569; }
+    .filter-btn.active { background: #1E3A8A; color: white; border-color: #1E3A8A; }
+    .featured-copy { display: none; }
 </style>
 @endpush
 
 @push('scripts')
 <script>
     let activeCategory = 'all';
-
     function filterCategory(cat) {
         activeCategory = cat;
-
-        // Update button styles
-        document.querySelectorAll('.filter-btn').forEach(btn => {
-            btn.classList.toggle('active', btn.dataset.cat === cat);
-        });
-
+        document.querySelectorAll('.filter-btn').forEach(btn => btn.classList.toggle('active', btn.dataset.cat === cat));
         filterBlogs();
     }
-
     function filterBlogs() {
         const query = document.getElementById('blog-search').value.toLowerCase().trim();
-        const cards = document.querySelectorAll('.blog-card');
+        const featured = document.getElementById('featured');
+        const showFeatured = featured && activeCategory === 'all' && query === '' && (featured.dataset.cat);
+        if (featured) featured.style.display = showFeatured ? '' : 'none';
         let visible = 0;
-
-        cards.forEach(card => {
+        document.querySelectorAll('.blog-card').forEach(card => {
             const catMatch = activeCategory === 'all' || card.dataset.cat === activeCategory;
-            const textMatch = !query ||
-                card.dataset.title.includes(query) ||
-                card.dataset.excerpt.includes(query);
-
-            const show = catMatch && textMatch;
+            const textMatch = !query || card.dataset.title.includes(query) || card.dataset.excerpt.includes(query);
+            const hideDuplicate = showFeatured && card.classList.contains('featured-copy');
+            const show = catMatch && textMatch && !hideDuplicate;
             card.style.display = show ? '' : 'none';
             if (show) visible++;
         });
-
+        if (showFeatured) visible++;
         document.getElementById('no-results').classList.toggle('hidden', visible > 0);
+        document.getElementById('result-count').textContent = visible + ' articles on this page';
     }
 </script>
 @endpush

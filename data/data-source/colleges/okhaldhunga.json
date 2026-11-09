@@ -1,0 +1,830 @@
+{
+    "research_metadata": {
+        "country": "Nepal",
+        "province": "Koshi Province",
+        "district": "Okhaldhunga",
+        "research_date": "2026-11-08",
+        "total_institutions_discovered": 11,
+        "research_status": "completed",
+        "collection_mode": "responses"
+    },
+    "institutions": [
+        {
+            "overview": {
+                "name": "Okhaldhunga Campus",
+                "name_ne": "ओखलढुङ्गा क्याम्पस",
+                "slug": "okhaldhunga-campus",
+                "ownership": "community",
+                "established_year": 1985,
+                "university": "Tribhuvan University",
+                "municipality": "Siddhicharan Municipality",
+                "address": "Siddhicharan Municipality-12, Okhaldhunga, Koshi Province, Nepal",
+                "description": "Community campus established in 2042 BS (published as 1985 AD), the first university-level campus in Okhaldhunga. Affiliated with Tribhuvan University and recognized by UGC. Runs undergraduate programs in education, management, and humanities, and postgraduate education. Located on its own land of about 11 ropani, with four buildings and 18 rooms. Enrollment is reported around 459–500 students. QAA status is listed as in process by Nepal Public Campus Association.",
+                "mission": "Our mission is to provide high-quality, relevant, and inclusive higher education that equips students with knowledge, skills, and values to excel in their chosen fields, prepare them for meaningful careers, and instill a sense of social responsibility.",
+                "vision": null,
+                "source_urls": [
+                    "https://okhaldhungacampus.edu.np/",
+                    "https://okhaldhungacampus.edu.np/institutional-overview/",
+                    "https://okhaldhungacampus.edu.np/vision-mission-strategies/",
+                    "https://okhaldhungacampus.edu.np/cmc-committee-members-contacts/",
+                    "https://www.collegenp.com/college/okhaldhunga-campus-okhaldhunga",
+                    "https://edusanjal.com/college/okhaldhunga-campus/",
+                    "https://npca.edu.np/campus_details/271"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Education (B.Ed.)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/okhaldhunga-campus-okhaldhunga"
+                },
+                {
+                    "name": "Bachelor of Business Studies (BBS)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://okhaldhungacampus.edu.np/"
+                },
+                {
+                    "name": "Bachelor of Arts (BA)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Humanities and Social Sciences",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/okhaldhunga-campus-okhaldhunga-bachelor-of-arts-ba-ba"
+                },
+                {
+                    "name": "Master of Education (M.Ed.)",
+                    "level": "Master",
+                    "duration": "2 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/okhaldhunga-campus-okhaldhunga"
+                }
+            ],
+            "facilities": [
+                "Library",
+                "Sports",
+                "Internet",
+                "Science lab",
+                "Conference",
+                "Multimedia",
+                "Journal",
+                "Counselling",
+                "Scholarships",
+                "Tour",
+                "Computer lab",
+                "Classrooms",
+                "ECA"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [
+                {
+                    "title": "बि.एड. तथा वी.ए. चौथो वर्ष २०८२ नतिजा : शत प्रतिशत विद्यार्थी उतिर्ण",
+                    "date": "2026-10-08",
+                    "summary": "Campus news on fourth-year B.Ed. and BA 2082 results, reporting that all students passed.",
+                    "source_url": "https://okhaldhungacampus.edu.np/%e0%a4%ac%e0%a4%bf-%e0%a4%8f%e0%a4%a1-%e0%a4%a4%e0%a4%a5%e0%a4%be-%e0%a4%b5%e0%a5%80-%e0%a4%8f-%e0%a4%9a%e0%a5%8c%e0%a4%a5%e0%a5%8b-%e0%a4%b5%e0%a4%b0%e0%a5%8d%e0%a4%b7-%e0%a5%a8%e0%a5%a6%e0%a5%ae/"
+                },
+                {
+                    "title": "बीबीएस चौथो वर्ष २०८२: ओखलढुंगा क्याम्पसका १७ विद्यार्थी विशिष्ट श्रेणीमा उतिर्ण",
+                    "date": "2026-09-24",
+                    "summary": "Campus news that 17 BBS fourth-year students passed in the distinction category in 2082.",
+                    "source_url": "https://okhaldhungacampus.edu.np/%e0%a4%ac%e0%a5%80%e0%a4%ac%e0%a5%80%e0%a4%8f%e0%a4%b8-%e0%a4%9a%e0%a5%8c%e0%a4%a5%e0%a5%8b-%e0%a4%b5%e0%a4%b0%e0%a5%8d%e0%a4%b7%e0%a4%95%e0%a5%8b-%e0%a4%aa%e0%a4%b0%e0%a5%80%e0%a4%95%e0%a5%8d/"
+                },
+                {
+                    "title": "निःशुल्क दन्त स्वास्थ्य शिविर सम्पन्न",
+                    "date": "2026-03-18",
+                    "summary": "Campus report that a free dental health camp was completed.",
+                    "source_url": "https://okhaldhungacampus.edu.np/%e0%a4%a8%e0%a4%bf%e0%a4%83%e0%a4%b6%e0%a5%81%e0%a4%b2%e0%a5%8d%e0%a4%95-%e0%a4%a6%e0%a4%a8%e0%a5%8d%e0%a4%a4-%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%be%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a5%8d%e0%a4%af/"
+                },
+                {
+                    "title": "A One-Day Seminar on Climate Changes and Opportunities: Approaches to Mitigation and Adaption",
+                    "date": "2026-03-14",
+                    "summary": "Campus news of a one-day seminar on climate change, mitigation, and adaptation.",
+                    "source_url": "https://okhaldhungacampus.edu.np/a-one-day-seminar-on-climate-changes-and-opportunities-approaches-to-mitigation-and-adaption-3/"
+                }
+            ],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-37-520028",
+                    "+977-9851162294"
+                ],
+                "emails": [
+                    "okhaldhungacampus2042@gmail.com"
+                ],
+                "website": "https://okhaldhungacampus.edu.np",
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Shahid Adarsha Campus",
+                "name_ne": "शहिद आदर्श क्याम्पस",
+                "slug": "shahid-adarsha-campus",
+                "ownership": "community",
+                "established_year": 2002,
+                "university": "Tribhuvan University",
+                "municipality": "Molung Rural Municipality",
+                "address": "Molung Rural Municipality-2, Rampur, Okhaldhunga, Koshi Province, Nepal",
+                "description": "Community campus established in 2059 BS (2002 AD) at Rampur, about 16 km west of the district headquarters. Affiliated with Tribhuvan University and recognized by UGC. The campus website lists B.Ed. majors in Nepali, English, Mathematics, Population, and Health and Population Education, and also states that it provides education from bachelor to master’s level. It reports participation in UGC SHEP, HERP, and NEHEP.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://shahidadarshcampus.edu.np/",
+                    "https://www.collegenp.com/college/shahid-adarsha-campus-okhaldhunga"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Education (B.Ed.)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://shahidadarshcampus.edu.np/"
+                },
+                {
+                    "name": "Master's level education program",
+                    "level": "Master",
+                    "duration": null,
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://shahidadarshcampus.edu.np/"
+                }
+            ],
+            "facilities": [
+                "Library",
+                "Sports",
+                "Science lab",
+                "Conference",
+                "Multimedia",
+                "Journal",
+                "Counselling",
+                "Scholarships",
+                "Tour",
+                "Computer lab",
+                "Classrooms",
+                "Club",
+                "ECA"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [
+                {
+                    "title": "Climate Change and Skill Transition and Just Transition in the World of Work: A Policy Review of Policy Response in Nepal",
+                    "date": "2026-03-07",
+                    "summary": "Publication posted on the campus website.",
+                    "source_url": "https://shahidadarshcampus.edu.np/2026/03/07/climate-change-and-skill-transition-and-just-transition-in-the-world-of-work-a-policy-review-of-policy-response-in-nepal/"
+                },
+                {
+                    "title": "सहिद आदर्श क्याम्पस रामपुरको वार्षिक प्रगतिप्रतिवेदन-२०८२",
+                    "date": "2026-03-07",
+                    "summary": "Annual progress report 2082 posted by the campus.",
+                    "source_url": "https://shahidadarshcampus.edu.np/2026/03/07/%e0%a4%b8%e0%a4%b9%e0%a4%bf%e0%a4%a6-%e0%a4%86%e0%a4%a6%e0%a4%b0%e0%a5%8d%e0%a4%b6-%e0%a4%95%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%ae%e0%a5%8d%e0%a4%aa%e0%a4%b8-%e0%a4%b0%e0%a4%be%e0%a4%ae%e0%a4%aa/"
+                },
+                {
+                    "title": "Exam Schedule: 4 Years B.Ed. 2nd year – 2082 (Regular)",
+                    "date": "2025-12-02",
+                    "summary": "Published exam schedule for regular four-year B.Ed. second year 2082.",
+                    "source_url": "https://shahidadarshcampus.edu.np/2025/12/02/exam-schedule-4-years-b-ed-2nd-year-2082-regular/"
+                },
+                {
+                    "title": "B.Ed. प्रथम वर्षकाे कक्षा संचालन सम्बन्धि सूचना",
+                    "date": "2025-11-23",
+                    "summary": "Notice on operation of B.Ed. first-year classes.",
+                    "source_url": "https://shahidadarshcampus.edu.np/2025/11/23/b-ed-%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a5%e0%a4%ae-%e0%a4%b5%e0%a4%b0%e0%a5%8d%e0%a4%b7%e0%a4%95%e0%a4%be%e0%a5%87-%e0%a4%95%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be-%e0%a4%b8%e0%a4%82%e0%a4%9a%e0%a4%be/"
+                }
+            ],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-9842931220",
+                    "+977-9842858255",
+                    "+977-37-420514"
+                ],
+                "emails": [
+                    "sacrampur@gmail.com"
+                ],
+                "website": "https://shahidadarshcampus.edu.np",
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Rumjatar Campus",
+                "name_ne": null,
+                "slug": "rumjatar-campus",
+                "ownership": "community",
+                "established_year": 2006,
+                "university": "Tribhuvan University",
+                "municipality": "Siddhicharan Municipality",
+                "address": "Siddhicharan Municipality-4, Rumjatar, Okhaldhunga, Koshi Province, Nepal",
+                "description": "Community campus established in 2063 BS (2006 AD) at Rumjatar. Affiliated with Tribhuvan University and recognized by UGC. It runs a four-year Bachelor of Education program. Nepal Public Campus Association lists CMC chair Mis Pasupati Gunrung and campus chief Indra Kumar Gurung, and QAA status as not applied.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://www.collegenp.com/college/rumjatar-campus-okhaldhunga",
+                    "https://npca.edu.np/campus_details/533",
+                    "https://edusanjal.com/college/rumjatar-campus/"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Education (B.Ed.)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/rumjatar-campus-okhaldhunga"
+                }
+            ],
+            "facilities": [
+                "Library",
+                "Science lab",
+                "Multimedia",
+                "Conference hall",
+                "Journal",
+                "Counselling",
+                "Scholarships",
+                "Sports",
+                "Tour",
+                "ECA"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-37-540119",
+                    "+977-9862851326",
+                    "9841625245"
+                ],
+                "emails": [
+                    "info.rumjatarcampus2006@gmail.com"
+                ],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Uma Katwal Campus",
+                "name_ne": "उमा कटवाल क्याम्पस",
+                "slug": "uma-katwal-campus",
+                "ownership": "community",
+                "established_year": 2009,
+                "university": "Tribhuvan University",
+                "municipality": "Siddhicharan Municipality",
+                "address": "Siddhicharan Municipality-2, Nishankhe, Thulachhap, Okhaldhunga, Nepal",
+                "description": "Community campus established on 2065 Magh 12 (published as 2009 AD) at Nishankhe, Thulachhap. Affiliated with Tribhuvan University and recognized by UGC. It offers a four-year Bachelor of Education.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://www.collegenp.com/college/uma-katwal-campus-okhaldhunga",
+                    "https://edusanjal.com/college/uma-katwal-campus/",
+                    "https://www.collegenp.com/vacancy/uma-katwal-campus-okhaldhunga-vacancy-for-campus-chief"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Education (B.Ed.)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/uma-katwal-campus-okhaldhunga"
+                }
+            ],
+            "facilities": [
+                "Library",
+                "Sports",
+                "Conference",
+                "Multimedia",
+                "Journal",
+                "Counselling",
+                "Scholarships",
+                "Tour",
+                "Classrooms",
+                "ECA"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [
+                {
+                    "title": "Vacancy for Campus Chief",
+                    "date": "2025-07-23",
+                    "summary": "Notice dated 2082/04/06 inviting applications for a full-time campus chief. Minimum qualification published as M.Ed. second division, with preference for MPhil or PhD, and at least five years of academic and administrative experience. Application fee published as NPR 2,000.",
+                    "source_url": "https://www.collegenp.com/vacancy/uma-katwal-campus-okhaldhunga-vacancy-for-campus-chief"
+                }
+            ],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-9842956400",
+                    "+977-9860811390",
+                    "9842967005"
+                ],
+                "emails": [
+                    "ukcampus65@gmail.com",
+                    "ukcampus2065@gmail.com"
+                ],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Gramodaya Yugkabi Siddhicharan Campus",
+                "name_ne": null,
+                "slug": "gramodaya-yugkabi-siddhicharan-campus",
+                "ownership": "community",
+                "established_year": 2006,
+                "university": "Tribhuvan University",
+                "municipality": "Likhu Rural Municipality",
+                "address": "Likhu Rural Municipality-6, Gamnangtar, Okhaldhunga, Koshi Province, Nepal",
+                "description": "Community campus named after poet Siddhicharan Shrestha, located at Gamnangtar along the Likhu River. Nepal Public Campus Association lists establishment date 2063/07/01. It offers a four-year B.Ed. under Tribhuvan University. Published figures include about 250 students and 12 teaching staff. Classes have used Gramodaya Yugkabi Siddhicharan Secondary School infrastructure while campus buildings were under construction. QAA status is listed as not applied.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://npca.edu.np/campus_details/531",
+                    "https://www.collegenp.com/college/gramodaya-yugkabi-siddhicharan-campus-okhaldhunga",
+                    "https://edusanjal.com/college/gramodaya-yugkabi-siddhicharan-campus/"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Education (B.Ed.)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://npca.edu.np/campus_details/531"
+                }
+            ],
+            "facilities": [
+                "Classrooms",
+                "Library",
+                "Internet",
+                "Sports",
+                "Science lab",
+                "Conference",
+                "Multimedia",
+                "Journal",
+                "Counselling",
+                "Scholarships",
+                "Tour",
+                "Computer lab",
+                "Alumni",
+                "ECA",
+                "Youth Red Cross Circle"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "9849272268",
+                    "9849262268"
+                ],
+                "emails": [],
+                "website": "https://gramodayayugkabicampus.edu.np/",
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Gyan Jyoti Community Campus",
+                "name_ne": null,
+                "slug": "gyan-jyoti-community-campus",
+                "ownership": "community",
+                "established_year": 2008,
+                "university": "Tribhuvan University",
+                "municipality": "Champadevi Rural Municipality",
+                "address": "Champadevi Rural Municipality-6, Ghorakhori, Okhaldhunga, Nepal",
+                "description": "Non-profit community campus at Ghorakhori, about 36 km from the district headquarters. The campus site says Tribhuvan University affiliation was endorsed in 2065 BS and that it is the only community campus in the municipality. It reports about 200 students and scholarships for poor, marginalized, daughters, and ethnic groups. Collegenp lists B.Ed. specializations in Nepali, English, and Population Studies.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://gyanjyoticampus.edu.np/about-us/",
+                    "https://www.collegenp.com/college/gyan-jyoti-community-campus-okhaldhunga",
+                    "https://edusanjal.com/college/district/okhaldhunga/"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Education (B.Ed.)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/gyan-jyoti-community-campus-okhaldhunga"
+                }
+            ],
+            "facilities": [
+                "Library",
+                "Sports",
+                "Science lab",
+                "Conference",
+                "Counselling",
+                "Scholarships",
+                "Tour",
+                "Classrooms",
+                "ECA"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [
+                {
+                    "title": "लेख-रचनाको लागि अनुरोध",
+                    "date": null,
+                    "summary": "Campus notice inviting articles and creative writing.",
+                    "source_url": "https://gyanjyoticampus.edu.np/about-us/"
+                }
+            ],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "9851228333",
+                    "+977-9851119555"
+                ],
+                "emails": [
+                    "gyanjyoti775@gmail.com"
+                ],
+                "website": "https://gyanjyoticampus.edu.np",
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Sunkoshi Kalika Multiple Campus",
+                "name_ne": null,
+                "slug": "sunkoshi-kalika-multiple-campus",
+                "ownership": "community",
+                "established_year": 2007,
+                "university": "Tribhuvan University",
+                "municipality": "Sunkoshi Rural Municipality",
+                "address": "Sunkoshi Rural Municipality-3, Sisneri, Okhaldhunga, Koshi Province, Nepal",
+                "description": "Community campus established in 2064 BS (2007 AD) at Sisneri. Affiliated with Tribhuvan University and recognized by UGC. Offers B.Ed., BBS, and M.Ed. The campus site states M.Ed. specializations in English, Nepali, and Educational Planning and Management. It publishes Sunkoshi Kalika Journal and a digitalization plan submitted to UGC.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://www.collegenp.com/college/sunkoshi-kalika-multiple-campus",
+                    "https://www.sunkoshikalika.edu.np/ne/services/master-of-education-med",
+                    "https://www.sunkoshikalika.edu.np/blog/call-for-papers",
+                    "https://www.sunkoshikalika.edu.np/download"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Education (B.Ed.)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/sunkoshi-kalika-multiple-campus-bachelor-of-education-bed"
+                },
+                {
+                    "name": "Bachelor of Business Studies (BBS)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/sunkoshi-kalika-multiple-campus-bachelor-of-business-studies-bbs"
+                },
+                {
+                    "name": "Master of Education (M.Ed.)",
+                    "level": "Master",
+                    "duration": "2 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.sunkoshikalika.edu.np/ne/services/master-of-education-med"
+                }
+            ],
+            "facilities": [
+                "Library",
+                "Sports",
+                "Counselling",
+                "Tour",
+                "Classrooms",
+                "ECA",
+                "Conference hall"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [
+                {
+                    "title": "Call for Papers: National Conference on Artificial Intelligence for Academics (A4A)",
+                    "date": "2026-03-13",
+                    "summary": "Campus call for papers for a conference scheduled 2083/02/22-24 (June 5-7). Published registration amounts include NRs 500 for student participants, NRs 1,000 for participants, NRs 2,000 for poster presenters, and NRs 3,000 for paper presenters.",
+                    "source_url": "https://www.sunkoshikalika.edu.np/blog/call-for-papers"
+                }
+            ],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-9851057063",
+                    "9851415705",
+                    "9867738763"
+                ],
+                "emails": [],
+                "website": "https://www.sunkoshikalika.edu.np",
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Ragani Chandeshwori Campus",
+                "name_ne": "रगनी चण्डेश्वरी क्याम्पस",
+                "slug": "ragani-chandeshwori-campus",
+                "ownership": "community",
+                "established_year": 2013,
+                "university": "Tribhuvan University",
+                "municipality": "Khijidemba Rural Municipality",
+                "address": "Khijidemba Rural Municipality-2, Ragani Polthali, Okhaldhunga, Koshi Province, Nepal",
+                "description": "Community campus established in 2070 BS (published as 2013) with support from Shree Chandeshwori Secondary School, the then VDC, teachers, parents, and local representatives. Affiliated with Tribhuvan University Faculty of Education. Runs a four-year B.Ed. with published majors in Nepali, English, Mathematics, and Population Education. Published land area is 15 ropani 5 ana, with a six-room concrete building. Enrollment for 2081/82 is published as 201 students.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://www.collegenp.com/college/ragani-chandeshwori-campus",
+                    "https://www.collegenp.com/course/ragani-chandeshwori-campus-bachelor-of-education-bed",
+                    "http://suchanaa.com/directory/ragani-chandeshwori-campus/"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Education (B.Ed.)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/ragani-chandeshwori-campus-bachelor-of-education-bed"
+                }
+            ],
+            "facilities": [
+                "Library",
+                "Sports",
+                "Conference",
+                "Multimedia",
+                "Parking",
+                "Counselling",
+                "Scholarships",
+                "Tour",
+                "Computer lab",
+                "Classrooms",
+                "Club",
+                "ECA",
+                "ICT facilities"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-9745392321",
+                    "+977-9862369691",
+                    "+977-9860910026"
+                ],
+                "emails": [
+                    "raganichandeshworicampus2070@gmail.com"
+                ],
+                "website": "https://raganichandeshworicampus.edu.np",
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Chisankhugadhi Campus Khanibhanjyang",
+                "name_ne": null,
+                "slug": "chisankhugadhi-campus-khanibhanjyang",
+                "ownership": "community",
+                "established_year": 2022,
+                "university": "Purbanchal University",
+                "municipality": "Chishankhugadhi Rural Municipality",
+                "address": "Chishankhugadhi Rural Municipality-2, Pokhare, Khanibhanjyang, Okhaldhunga, Koshi Province, Nepal",
+                "description": "Community campus established in 2079 BS (2022 AD). Purbanchal University Faculty of Education lists it as Chisankhugadi Campus, Khanibhanjyang, Okhaldunga, with an approved B.Ed. quota of 60. Collegenp lists campus head Narayan Prasad Bastola and first-year areas Social, English, and Nepali.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://www.collegenp.com/college/chishankhugadhi-campus-khanibhanjyang",
+                    "https://www.collegenp.com/course/chishankhugadhi-campus-khanibhanjyang-bed",
+                    "https://purbanchaluniversity.edu.np/faculties/faculty-of-education12-03-21"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Education (B.Ed.)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://purbanchaluniversity.edu.np/faculties/faculty-of-education12-03-21"
+                }
+            ],
+            "facilities": [
+                "Library",
+                "Sports",
+                "Multimedia",
+                "Counselling",
+                "Scholarships",
+                "Tour",
+                "Classrooms",
+                "ECA"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [
+                {
+                    "question": "Which bachelor’s program is available?",
+                    "answer": "It offers the four-year Bachelor of Education (B.Ed.) under the Faculty of Education."
+                }
+            ],
+            "contact": {
+                "phones": [
+                    "+977-9860007372",
+                    "+977-9862996988",
+                    "+977-9862295352"
+                ],
+                "emails": [
+                    "chishankhugadhicampush2079@gmail.com"
+                ],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": [
+                {
+                    "question": "Which bachelor’s program is available?",
+                    "answer": "It offers the four-year Bachelor of Education (B.Ed.) under the Faculty of Education.",
+                    "source_url": "https://www.collegenp.com/college/chishankhugadhi-campus-khanibhanjyang"
+                }
+            ]
+        },
+        {
+            "overview": {
+                "name": "Libju Community Campus",
+                "name_ne": "लिब्जु सामुदायिक क्याम्पस",
+                "slug": "libju-community-campus",
+                "ownership": "community",
+                "established_year": 2024,
+                "university": "Purbanchal University",
+                "municipality": "Manebhanjyang Rural Municipality",
+                "address": "Manebhanjyang, Okhaldhunga, Koshi Province, Nepal",
+                "description": "Community campus established in 2081 BS (2024 AD) and described as fully owned by Manebhanjyang Rural Municipality. Purbanchal University lists approved quotas of B.Ed. 60 and BBS 60. Published B.Ed. specializations are English, Nepali, and Social Studies, with a morning shift from 6:00 AM to 11:00 AM. A scholarship arrangement for 10 percent of students is published.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://www.collegenp.com/college/libju-community-campus",
+                    "https://purbanchaluniversity.edu.np/faculties/faculty-of-education12-03-21",
+                    "https://pufom.edu.np/college"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Education (B.Ed.)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/libju-community-campus-bed"
+                },
+                {
+                    "name": "Bachelor of Business Studies (BBS)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/libju-community-campus-bbs"
+                }
+            ],
+            "facilities": [
+                "Library",
+                "Sports",
+                "Internet",
+                "Multimedia",
+                "Counselling",
+                "Scholarships",
+                "Playground"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [
+                {
+                    "question": "Where is Libju Community Campus located?",
+                    "answer": "Libju Community Campus is located in Manebhanjyang, Okhaldhunga, Koshi Province, Nepal."
+                },
+                {
+                    "question": "When was Libju Community Campus established?",
+                    "answer": "The campus was established in 2081 BS (2024 AD)."
+                },
+                {
+                    "question": "Who owns Libju Community Campus?",
+                    "answer": "Libju Community Campus is fully owned by Manebhanjyang Rural Municipality."
+                },
+                {
+                    "question": "Which university is Libju Community Campus affiliated with?",
+                    "answer": "The campus is affiliated with Purbanchal University."
+                },
+                {
+                    "question": "Which bachelor programs are available?",
+                    "answer": "The campus offers Bachelor of Education (B.Ed.) and Bachelor of Business Studies (BBS), each with 60 seats."
+                },
+                {
+                    "question": "What is the B.Ed. class time?",
+                    "answer": "The B.Ed. program operates in the morning shift from 6:00 AM to 11:00 AM."
+                }
+            ],
+            "contact": {
+                "phones": [
+                    "9852822331",
+                    "9764611922"
+                ],
+                "emails": [
+                    "edu.libjucampus@gmail.com"
+                ],
+                "website": "https://www.libju.edu.np",
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": [
+                {
+                    "question": "Which B.Ed. specializations are available?",
+                    "answer": "English, Nepali, and Social Studies.",
+                    "source_url": "https://www.collegenp.com/college/libju-community-campus"
+                },
+                {
+                    "question": "What is the eligibility for B.Ed. admission?",
+                    "answer": "Applicants must have completed higher secondary education (+2) or an equivalent qualification. An entrance examination is also required.",
+                    "source_url": "https://www.collegenp.com/college/libju-community-campus"
+                }
+            ]
+        },
+        {
+            "overview": {
+                "name": "Jagadamba Campus",
+                "name_ne": null,
+                "slug": "jagadamba-campus-sunkoshi",
+                "ownership": null,
+                "established_year": null,
+                "university": "Purbanchal University",
+                "municipality": "Sunkoshi Rural Municipality",
+                "address": "Sunkoshi, Okhaldhunga, Nepal",
+                "description": "Listed by Purbanchal University Faculty of Education as an affiliated college at Sunkoshi, Okhaldhunga, with an approved Bachelor of Education quota of 60. No independent campus website, phone, email, establishment year, or ownership statement was found in public pages checked.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://purbanchaluniversity.edu.np/faculties/faculty-of-education12-03-21"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Education (B.Ed.)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://purbanchaluniversity.edu.np/faculties/faculty-of-education12-03-21"
+                }
+            ],
+            "facilities": [],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [],
+                "emails": [],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        }
+    ]
+}

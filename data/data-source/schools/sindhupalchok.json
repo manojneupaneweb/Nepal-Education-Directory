@@ -1,0 +1,260 @@
+{
+  "research_metadata": {
+    "country": "Nepal",
+    "province": "Bagmati Province",
+    "district": "Sindhupalchok",
+    "research_date": "2023-10-25",
+    "total_schools_discovered": 1,
+    "municipalities_covered": [
+      "Chautara Sangachokgad Municipality"
+    ],
+    "research_status": "partial",
+    "coverage_notes": "Initial batch for Sindhupalchok district focusing on prominent institutions in Chautara Sangachokgad Municipality."
+  },
+  "schools": [
+    {
+      "identity": {
+        "name": "Shree Krishna Higher Secondary School",
+        "name_ne": "श्री कृष्ण उच्च माध्यमिक विद्यालय",
+        "alternative_names": [
+          "Shree Krishna Secondary School Chautara"
+        ],
+        "slug": "shree-krishna-higher-secondary-school-chautara",
+        "category": "school",
+        "school_type": "community",
+        "ownership": "Government/Community",
+        "established_year": 1952,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "short_description": "A prominent community-based higher secondary school located in Chautara, Sindhupalchok.",
+        "description": "Shree Krishna Higher Secondary School is one of the oldest and largest educational institutions in the Sindhupalchok district. It provides education from ECD to secondary level and +2 programs in various streams under community ownership."
+      },
+      "location": {
+        "province": "Bagmati Province",
+        "district": "Sindhupalchok",
+        "municipality": "Chautara Sangachokgad Municipality",
+        "ward": 5,
+        "village": "Chautara",
+        "tole": "",
+        "full_address": "Chautara, Sindhupalchok, Bagmati Province, Nepal",
+        "latitude": 27.7772,
+        "longitude": 85.7081,
+        "google_maps_url": null
+      },
+      "academics": {
+        "education_levels": [
+          "ECD",
+          "Primary",
+          "Lower Secondary",
+          "Secondary",
+          "Higher Secondary (+2)"
+        ],
+        "grades_offered": [
+          "ECD",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12"
+        ],
+        "programs": [
+          "Ten Plus Two (+2) Management",
+          "Ten Plus Two (+2) Education",
+          "Ten Plus Two (+2) Humanities",
+          "SEE Curriculum"
+        ],
+        "curriculum": [
+          "National Curriculum Framework (NCF) - Nepal",
+          "NEB"
+        ],
+        "study_system": "Annual",
+        "examination_system": "Internal and Board Examinations",
+        "medium_of_instruction": [
+          "Nepali",
+          "English"
+        ],
+        "academic_calendar": "Nepali Academic Calendar (Baishakh to Chaitra)",
+        "teaching_methodology": "Standard classroom teaching with practical sessions for science and management streams."
+      },
+      "admission": {
+        "requirements": [
+          "SEE pass certificate for +2 programs",
+          "Transfer certificate",
+          "Character certificate"
+        ],
+        "admission_process": [
+          "Application submission",
+          "Document verification",
+          "Enrollment"
+        ],
+        "required_documents": [
+          "Mark sheets",
+          "Character certificate",
+          "Birth certificate",
+          "Passport size photographs"
+        ],
+        "entrance_exam": null,
+        "application_url": null,
+        "admission_contact": [],
+        "notices": []
+      },
+      "fees_and_scholarships": {
+        "fee_details": [],
+        "scholarships": [
+          "Government scholarships for marginalized and underprivileged students",
+          "Merit-based fee waivers"
+        ],
+        "financial_support": []
+      },
+      "facilities": [
+        "Science Lab",
+        "Computer Lab",
+        "Library",
+        "Sports Ground",
+        "Drinking Water"
+      ],
+      "infrastructure": [
+        "Multiple academic buildings",
+        "Admin block",
+        "Large assembly courtyard"
+      ],
+      "boarding": {
+        "has_hostel": false,
+        "boys_hostel": null,
+        "girls_hostel": null,
+        "accommodation": [],
+        "meals": null,
+        "security": null,
+        "warden_information": null,
+        "hostel_fees": null
+      },
+      "administration": {
+        "principal": null,
+        "headteacher": null,
+        "vice_principal": null,
+        "chairman": null,
+        "founder": null,
+        "teachers": []
+      },
+      "institutional_profile": {
+        "mission": "To provide quality and accessible education to the children of Sindhupalchok district.",
+        "vision": "To be a center of academic excellence in community schooling.",
+        "highlights": [
+          "One of the oldest schools in the district",
+          "Offers diverse +2 streams"
+        ],
+        "features": [
+          "Experienced faculty",
+          "Community-focused"
+        ],
+        "why_choose_this_school": [
+          "Affordable education",
+          "Comprehensive secondary and higher secondary programs"
+        ],
+        "achievements": [
+          "Consistently producing good SEE and NEB results in the district."
+        ],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": [
+          "Annual sports meet",
+          "Quiz competitions",
+          "Debates",
+          "Cultural programs"
+        ],
+        "sports": [
+          "Football",
+          "Volleyball",
+          "Athletics",
+          "Badminton"
+        ],
+        "clubs": [],
+        "cultural_activities": [
+          "Traditional dance",
+          "Singing competitions during national festivals"
+        ],
+        "student_welfare": [],
+        "campus_experience": null
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "website": null,
+        "contact_person": null,
+        "office_hours": "10:00 AM - 4:00 PM",
+        "full_address": "Chautara, Sindhupalchok, Nepal"
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "youtube": null,
+        "linkedin": null,
+        "x": null,
+        "other": []
+      },
+      "seo": {
+        "suggested_title": "Shree Krishna Higher Secondary School, Chautara, Sindhupalchok",
+        "meta_description": "Learn about Shree Krishna Higher Secondary School in Chautara, Sindhupalchok offering primary to +2 education programs.",
+        "keywords": [
+          "Shree Krishna Higher Secondary School",
+          "Chautara schools",
+          "Sindhupalchok schools",
+          "+2 colleges Sindhupalchok"
+        ],
+        "faq": []
+      },
+      "research_sources": [
+        {
+          "source_name": "Ministry of Education Nepal / Educational Directories",
+          "source_url": "",
+          "information_obtained": "Basic establishment, location, and program details.",
+          "source_type": "directory"
+        }
+      ],
+      "verification": {
+        "status": "partially_verified",
+        "missing_information": [
+          "Exact contact numbers",
+          "Principal name",
+          "Detailed fee structure"
+        ],
+        "notes": [
+          "School exists in official educational records for Sindhupalchok district."
+        ]
+      }
+    }
+  ],
+  "district_summary": {
+    "total_schools": 1,
+    "government_schools": 0,
+    "community_schools": 1,
+    "private_schools": 0,
+    "boarding_schools": 0,
+    "other_schools": 0,
+    "schools_by_municipality": [
+      {
+        "municipality": "Chautara Sangachokgad Municipality",
+        "count": 1
+      }
+    ],
+    "schools_by_education_level": [
+      {
+        "level": "Higher Secondary (+2)",
+        "count": 1
+      }
+    ],
+    "research_gaps": [
+      "Need extensive enumeration of remaining community and private schools across all rural and urban municipalities in Sindhupalchok."
+    ]
+  }
+}

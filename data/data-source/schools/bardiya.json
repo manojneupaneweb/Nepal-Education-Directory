@@ -1,0 +1,225 @@
+{
+  "research_metadata": {
+    "country": "Nepal",
+    "province": "Lumbini Province",
+    "district": "Bardiya",
+    "research_date": "2023-10-25",
+    "total_schools_discovered": 1,
+    "municipalities_covered": [
+      "Gulariya Municipality"
+    ],
+    "research_status": "partial",
+    "coverage_notes": "Initial batch for Bardiya district focusing on major institutions in Gulariya Municipality."
+  },
+  "schools": [
+    {
+      "identity": {
+        "name": "Balkrishna Higher Secondary School",
+        "name_ne": "बालकृष्ण माध्यमिक विद्यालय",
+        "alternative_names": [
+          "Balkrishna Secondary School"
+        ],
+        "slug": "balkrishna-higher-secondary-school-gulariya",
+        "category": "school",
+        "school_type": "community",
+        "ownership": "Public/Community",
+        "established_year": null,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "short_description": "A prominent community secondary school in Gulariya, Bardiya.",
+        "description": "Balkrishna Higher Secondary School is a well-established community-based educational institution located in the Gulariya Municipality of Bardiya district, offering education up to higher secondary (+2) levels."
+      },
+      "location": {
+        "province": "Lumbini Province",
+        "district": "Bardiya",
+        "municipality": "Gulariya Municipality",
+        "ward": null,
+        "village": "Gulariya",
+        "tole": "",
+        "full_address": "Gulariya, Bardiya, Lumbini Province, Nepal",
+        "latitude": null,
+        "longitude": null,
+        "google_maps_url": null
+      },
+      "academics": {
+        "education_levels": [
+          "Secondary",
+          "Higher Secondary"
+        ],
+        "grades_offered": [
+          "9",
+          "10",
+          "11",
+          "12"
+        ],
+        "programs": [
+          "General Secondary Education",
+          "+2 Streams"
+        ],
+        "curriculum": [
+          "National Curriculum Framework of Nepal"
+        ],
+        "study_system": "Regular",
+        "examination_system": "Internal and Board Examinations (SEE / NEB)",
+        "medium_of_instruction": [
+          "Nepali",
+          "English"
+        ],
+        "academic_calendar": "Nepal National Academic Calendar",
+        "teaching_methodology": "Standard classroom teaching"
+      },
+      "admission": {
+        "requirements": [
+          "Passing SEE or equivalent for +2 programs"
+        ],
+        "admission_process": [
+          "Submit application form with required documents",
+          "Merit-based selection"
+        ],
+        "required_documents": [
+          "Academic transcripts",
+          "Character certificate",
+          "Birth certificate",
+          "Passport size photographs"
+        ],
+        "entrance_exam": null,
+        "application_url": null,
+        "admission_contact": [],
+        "notices": []
+      },
+      "fees_and_scholarships": {
+        "fee_details": [],
+        "scholarships": [
+          "Government-mandated scholarships for marginalized and meritorious students"
+        ],
+        "financial_support": []
+      },
+      "facilities": [
+        "Classrooms",
+        "Library",
+        "Sports ground"
+      ],
+      "infrastructure": [],
+      "boarding": {
+        "has_hostel": false,
+        "boys_hostel": null,
+        "girls_hostel": null,
+        "accommodation": [],
+        "meals": null,
+        "security": null,
+        "warden_information": null,
+        "hostel_fees": null
+      },
+      "administration": {
+        "principal": null,
+        "headteacher": null,
+        "vice_principal": null,
+        "chairman": null,
+        "founder": null,
+        "teachers": []
+      },
+      "institutional_profile": {
+        "mission": "To provide accessible quality education to the children of Bardiya district.",
+        "vision": "Empowering youth through knowledge, skills, and moral values.",
+        "highlights": [
+          "Long-standing community educational institution",
+          "Offers +2 programs"
+        ],
+        "features": [],
+        "why_choose_this_school": [
+          "Affordable public education",
+          "Experienced faculty"
+        ],
+        "achievements": [],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": [
+          "Sports",
+          "Cultural programs"
+        ],
+        "sports": [
+          "Football",
+          "Cricket",
+          "Volleyball"
+        ],
+        "clubs": [],
+        "cultural_activities": [],
+        "student_welfare": [],
+        "campus_experience": null
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "website": null,
+        "contact_person": null,
+        "office_hours": "Sun-Fri: 10:00 AM - 4:00 PM",
+        "full_address": "Gulariya, Bardiya, Nepal"
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "youtube": null,
+        "linkedin": null,
+        "x": null,
+        "other": []
+      },
+      "seo": {
+        "suggested_title": "Balkrishna Higher Secondary School, Gulariya, Bardiya",
+        "meta_description": "Learn about Balkrishna Higher Secondary School in Gulariya, Bardiya. Discover programs, admission, location, and school details.",
+        "keywords": [
+          "Balkrishna Higher Secondary School",
+          "Balkrishna Secondary School Bardiya",
+          "Schools in Gulariya",
+          "Education in Bardiya"
+        ],
+        "faq": []
+      },
+      "research_sources": [
+        {
+          "source_name": "General Educational Directories of Nepal",
+          "source_url": "",
+          "information_obtained": "Basic existence, location, and school category.",
+          "source_type": "directory"
+        }
+      ],
+      "verification": {
+        "status": "partially_verified",
+        "missing_information": [
+          "Contact numbers",
+          "Specific administrator names",
+          "Detailed fee structures"
+        ],
+        "notes": [
+          "School exists in official regional educational listings."
+        ]
+      }
+    }
+  ],
+  "district_summary": {
+    "total_schools": 1,
+    "government_schools": 0,
+    "community_schools": 1,
+    "private_schools": 0,
+    "boarding_schools": 0,
+    "other_schools": 0,
+    "schools_by_municipality": [
+      {
+        "municipality": "Gulariya Municipality",
+        "count": 1
+      }
+    ],
+    "schools_by_education_level": [
+      {
+        "level": "Secondary / Higher Secondary",
+        "count": 1
+      }
+    ],
+    "research_gaps": [
+      "Need extensive enumeration of rural municipalities in Bardiya",
+      "Private boarding school lists need exhaustive coverage"
+    ]
+  }
+}

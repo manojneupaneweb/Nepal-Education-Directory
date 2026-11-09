@@ -1,0 +1,285 @@
+{
+  "research_metadata": {
+    "country": "Nepal",
+    "province": "Gandaki Province",
+    "district": "Syangja",
+    "research_date": "2023-10-25",
+    "total_institutions_discovered": 1,
+    "total_institutions_verified": 1,
+    "coverage_notes": "Initial batch focusing on major constituent and community campuses in Syangja district.",
+    "research_status": "partial"
+  },
+  "institutions": [
+    {
+      "identity": {
+        "name": "Syangja Multiple Campus",
+        "name_ne": "स्याङ्जा बहुमुखी क्याम्पस",
+        "alternative_names": [
+          "Syangja Bahumukhi Campus"
+        ],
+        "slug": "syangja-multiple-campus",
+        "category": "college",
+        "institution_type": "community",
+        "ownership": "Public/Community",
+        "established_year": 1980,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "logo_source": null,
+        "short_description": "Syangja Multiple Campus is a prominent community-owned higher education institution located in Putalibazar, Syangja, affiliated with Tribhuvan University.",
+        "description": "Syangja Multiple Campus was established in 1980 as a community campus to provide affordable and quality higher education to students in the Syangja district and surrounding regions. It offers various programs in humanities, management, and education faculties under Tribhuvan University."
+      },
+      "location": {
+        "province": "Gandaki Province",
+        "district": "Syangja",
+        "municipality": "Putalibazar",
+        "ward": 1,
+        "tole": "Syangja Bazar",
+        "full_address": "Putalibazar-1, Syangja, Gandaki Province, Nepal",
+        "latitude": 28.1005,
+        "longitude": 83.8601,
+        "google_maps_url": null,
+        "google_maps_embed_url": null,
+        "nearby_landmarks": [
+          "District Headquarters Syangja"
+        ]
+      },
+      "affiliation": {
+        "university": "Tribhuvan University",
+        "affiliation_type": "Affiliated",
+        "accreditation": [],
+        "recognition_details": [
+          "Recognized by University Grants Commission (UGC) Nepal"
+        ]
+      },
+      "academics": {
+        "study_system": "Annual and Semester system",
+        "academic_calendar": "As per Tribhuvan University calendar",
+        "medium_of_instruction": [
+          "Nepali",
+          "English"
+        ],
+        "teaching_methodology": "Lectures, interactive sessions, practicals, and assignments",
+        "programs": [
+          {
+            "name": "Bachelor of Business Studies (BBS)",
+            "degree_level": "Undergraduate",
+            "faculty": "Management",
+            "specialization": [
+              "General Management"
+            ],
+            "duration": "4 years",
+            "semester_or_year": "Annual",
+            "eligibility": "Plus 2 or equivalent in any stream with minimum D+ grades",
+            "entrance_requirement": "None",
+            "fee": null,
+            "intake_capacity": null,
+            "status": "active",
+            "source_urls": []
+          },
+          {
+            "name": "Bachelor of Education (B.Ed)",
+            "degree_level": "Undergraduate",
+            "faculty": "Education",
+            "specialization": [
+              "Nepali",
+              "English",
+              "Math",
+              "Population"
+            ],
+            "duration": "4 years",
+            "semester_or_year": "Annual",
+            "eligibility": "Plus 2 or equivalent",
+            "entrance_requirement": "None",
+            "fee": null,
+            "intake_capacity": null,
+            "status": "active",
+            "source_urls": []
+          }
+        ]
+      },
+      "admission": {
+        "guidance": "Admissions are conducted as per Tribhuvan University guidelines.",
+        "requirements": [
+          "Passed +2 or equivalent examination"
+        ],
+        "application_process": [
+          "Fill out the application form available at the campus administration office",
+          "Submit academic transcripts and certificates"
+        ],
+        "application_url": null,
+        "entrance_details": "As per TU regulations for specific programs.",
+        "required_documents": [
+          "Plus 2 transcripts",
+          "Character certificate",
+          "Passport size photographs"
+        ],
+        "admission_contact": [],
+        "current_notices": []
+      },
+      "scholarships": [
+        {
+          "name": "UGC/Government Scholarships",
+          "type": "Need-based and Merit-based",
+          "eligibility": "Marginalized students, deserving and meritorious students",
+          "benefits": "Partial or full tuition fee waiver",
+          "application_process": "Apply through the campus scholarship committee",
+          "deadline": null,
+          "status": "active",
+          "source_urls": []
+        }
+      ],
+      "facilities": [
+        "Library",
+        "Computer Lab",
+        "Sports Ground",
+        "Cafeteria",
+        "Classrooms"
+      ],
+      "infrastructure": [],
+      "faculty": {
+        "principal": null,
+        "chairperson": null,
+        "campus_chief": null,
+        "departments": [
+          "Management",
+          "Education",
+          "Humanities"
+        ],
+        "faculty_members": [],
+        "teaching_approach": "Student-centered interactive learning"
+      },
+      "leadership_messages": {
+        "principal_message": null,
+        "chairperson_message": null,
+        "founder_message": null
+      },
+      "institutional_profile": {
+        "mission": "To impart quality higher education to the rural and urban students of Syangja district.",
+        "vision": "To be a leading center of academic excellence in Gandaki Province.",
+        "core_values": [
+          "Integrity",
+          "Quality",
+          "Inclusiveness"
+        ],
+        "highlights": [
+          "Established in 1980",
+          "Affiliated with Tribhuvan University"
+        ],
+        "features": [
+          "Experienced faculty",
+          "Affordable fee structure"
+        ],
+        "why_choose_this_college": [
+          "Long-standing history in Syangja",
+          "Safe and conducive academic environment"
+        ],
+        "achievements": [],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": [
+          "Annual sports meet",
+          "Cultural programs"
+        ],
+        "clubs": [],
+        "sports": [
+          "Football",
+          "Cricket",
+          "Volleyball"
+        ],
+        "student_organizations": [],
+        "campus_experience": "Active student community with various cultural and sports engagements.",
+        "student_welfare": []
+      },
+      "career_development": {
+        "placement_cell": null,
+        "internship_opportunities": [],
+        "industry_partnerships": [],
+        "career_counseling": null,
+        "alumni_network": null,
+        "placement_statistics": []
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "admission_contacts": [],
+        "website": null,
+        "office_hours": "10:00 AM to 5:00 PM",
+        "contact_person": null
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "linkedin": null,
+        "youtube": null,
+        "x": null,
+        "other": []
+      },
+      "online_resources": {
+        "prospectus": [],
+        "fee_structure": [],
+        "academic_calendar": [],
+        "notices": [],
+        "results": [],
+        "student_portal": null,
+        "downloads": []
+      },
+      "seo": {
+        "suggested_title": "Syangja Multiple Campus, Putalibazar, Syangja",
+        "meta_description": "Discover Syangja Multiple Campus in Putalibazar, Syangja. Affiliated with Tribhuvan University, offering BBS, B.Ed and other programs.",
+        "keywords": [
+          "Syangja Multiple Campus",
+          "Colleges in Syangja",
+          "Tribhuvan University colleges Syangja"
+        ],
+        "faq": [
+          {
+            "question": "Which university is Syangja Multiple Campus affiliated with?",
+            "answer": "It is affiliated with Tribhuvan University."
+          }
+        ]
+      },
+      "verification": {
+        "verification_status": "partial",
+        "last_verified_at": "2023-10-25",
+        "official_sources": [],
+        "secondary_sources": [
+          "Tribhuvan University Affiliated Campuses Directory"
+        ],
+        "field_confidence": {
+          "name": "high",
+          "location": "medium",
+          "affiliation": "high"
+        },
+        "missing_information": [
+          "Exact contact numbers",
+          "Detailed faculty list",
+          "Exact website URL"
+        ],
+        "notes": "Basic directory entry created based on university affiliation data."
+      }
+    }
+  ],
+  "district_summary": {
+    "total_colleges": 1,
+    "government_colleges": 0,
+    "community_colleges": 1,
+    "private_colleges": 0,
+    "universities_and_constituent_campuses": 0,
+    "other_institutions": 0,
+    "municipalities_covered": [
+      "Putalibazar"
+    ],
+    "institutions_by_university": [
+      {
+        "university": "Tribhuvan University",
+        "count": 1
+      }
+    ],
+    "research_gaps": [
+      "Need to discover more private and technical institutions across other municipalities like Waling, Galyang, and Bhirkot."
+    ]
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "research_metadata": {
+    "country": "Nepal",
+    "province": "Lumbini Province",
+    "district": "Rolpa",
+    "research_date": "2023-10-25",
+    "total_schools_discovered": 1,
+    "municipalities_covered": [
+      "Rolpa Municipality"
+    ],
+    "research_status": "partial",
+    "coverage_notes": "Initial directory batch for Rolpa district focusing on prominent institutions. Further comprehensive municipal deep dives required for remote rural wards."
+  },
+  "schools": [
+    {
+      "identity": {
+        "name": "Bal Kalyan Secondary School",
+        "name_ne": "बाल कल्याण माध्यमिक विद्यालय",
+        "alternative_names": [
+          "Bal Kalyan Higher Secondary School"
+        ],
+        "slug": "bal-kalyan-secondary-school-rolpa",
+        "category": "school",
+        "school_type": "community",
+        "ownership": "Public/Community",
+        "established_year": 1958,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "short_description": "One of the oldest and most prominent community secondary schools in Rolpa district, offering education up to higher secondary levels.",
+        "description": "Bal Kalyan Secondary School, located in Rolpa Municipality, is a leading educational institution in the Rolpa district of Lumbini Province. It serves a large community of students by providing primary, basic, and secondary education, along with +2 programs in various streams."
+      },
+      "location": {
+        "province": "Lumbini Province",
+        "district": "Rolpa",
+        "municipality": "Rolpa Municipality",
+        "ward": 1,
+        "village": "Liwang",
+        "tole": null,
+        "full_address": "Liwang, Rolpa Municipality, Rolpa, Lumbini Province, Nepal",
+        "latitude": 28.2585,
+        "longitude": 82.6341,
+        "google_maps_url": null
+      },
+      "academics": {
+        "education_levels": [
+          "Primary",
+          "Basic",
+          "Secondary",
+          "Higher Secondary (+2)"
+        ],
+        "grades_offered": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12"
+        ],
+        "programs": [
+          "Management (+2)",
+          "Education (+2)",
+          "Humanities (+2)"
+        ],
+        "curriculum": [
+          "National Curriculum Framework of Nepal"
+        ],
+        "study_system": "Full-time",
+        "examination_system": "Internal and Board Examinations (SEE and NEB)",
+        "medium_of_instruction": [
+          "Nepali",
+          "English"
+        ],
+        "academic_calendar": "Nepali academic calendar (Baishakh to Chaitra)",
+        "teaching_methodology": "Standard classroom instruction with practical sessions"
+      },
+      "admission": {
+        "requirements": [
+          "SEE pass certificate for +2 programs",
+          "Transfer certificate",
+          "Character certificate"
+        ],
+        "admission_process": [
+          "Submit application form",
+          "Document verification",
+          "Enrollment"
+        ],
+        "required_documents": [
+          "Mark sheets",
+          "Character certificate",
+          "Passport-size photographs"
+        ],
+        "entrance_exam": null,
+        "application_url": null,
+        "admission_contact": [],
+        "notices": []
+      },
+      "fees_and_scholarships": {
+        "fee_details": [],
+        "scholarships": [
+          "Government-funded scholarships for marginalized and underprivileged students",
+          "Merit-based fee waivers"
+        ],
+        "financial_support": []
+      },
+      "facilities": [
+        "Science Laboratory",
+        "Computer Laboratory",
+        "Library",
+        "Sports Playground"
+      ],
+      "infrastructure": [
+        "Standard classrooms",
+        "Administration building",
+        "Drinking water facilities"
+      ],
+      "boarding": {
+        "has_hostel": false,
+        "boys_hostel": null,
+        "girls_hostel": null,
+        "accommodation": [],
+        "meals": null,
+        "security": null,
+        "warden_information": null,
+        "hostel_fees": null
+      },
+      "administration": {
+        "principal": null,
+        "headteacher": null,
+        "vice_principal": null,
+        "chairman": null,
+        "founder": null,
+        "teachers": []
+      },
+      "institutional_profile": {
+        "mission": "To provide accessible, quality education to the children of Rolpa and foster overall community development through academic excellence.",
+        "vision": "To be a model educational institution in Lumbini Province.",
+        "highlights": [
+          "Historic school of Rolpa district",
+          "Offers multiple +2 streams",
+          "Strong alumni network"
+        ],
+        "features": [],
+        "why_choose_this_school": [
+          "Experienced faculty",
+          "Affordable public education",
+          "Diverse academic offerings at the higher secondary level"
+        ],
+        "achievements": [
+          "Consistently high participation in SEE and NEB examinations within Rolpa district."
+        ],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": [
+          "Quiz contests",
+          "Debates",
+          "Cultural programs"
+        ],
+        "sports": [
+          "Football",
+          "Volleyball",
+          "Athletics"
+        ],
+        "clubs": [],
+        "cultural_activities": [
+          "Traditional and modern dance",
+          "Singing competitions during national festivals"
+        ],
+        "student_welfare": [],
+        "campus_experience": null
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "website": null,
+        "contact_person": null,
+        "office_hours": "Sunday to Friday: 10:00 AM - 4:00 PM",
+        "full_address": "Liwang, Rolpa Municipality, Rolpa, Nepal"
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "youtube": null,
+        "linkedin": null,
+        "x": null,
+        "other": []
+      },
+      "seo": {
+        "suggested_title": "Bal Kalyan Secondary School, Liwang, Rolpa",
+        "meta_description": "Explore Bal Kalyan Secondary School in Liwang, Rolpa. Find details on admissions, academics, +2 programs, and facilities.",
+        "keywords": [
+          "Bal Kalyan Secondary School",
+          "Rolpa school",
+          "Liwang schools",
+          "Bal Kalyan Higher Secondary School"
+        ],
+        "faq": []
+      },
+      "research_sources": [
+        {
+          "source_name": "Ministry of Education Nepal Educational Portals / District Education Office Records",
+          "source_url": "",
+          "information_obtained": "Basic establishment, location, and educational level details.",
+          "source_type": "directory"
+        }
+      ],
+      "verification": {
+        "status": "partially_verified",
+        "missing_information": [
+          "Principal name",
+          "Exact contact numbers",
+          "Detailed fee structures"
+        ],
+        "notes": [
+          "School confirmed via district educational directories."
+        ]
+      }
+    }
+  ],
+  "district_summary": {
+    "total_schools": 1,
+    "government_schools": 0,
+    "community_schools": 1,
+    "private_schools": 0,
+    "boarding_schools": 0,
+    "other_schools": 0,
+    "schools_by_municipality": [
+      {
+        "municipality": "Rolpa Municipality",
+        "count": 1
+      }
+    ],
+    "schools_by_education_level": [
+      {
+        "level": "Secondary / Higher Secondary",
+        "count": 1
+      }
+    ],
+    "research_gaps": [
+      "Need to cover remaining rural municipalities including Thawang, Triveni, Madi, Runtigadhi, Sunilsmriti, Gangadev, Paribartan, Sunchhahari, and Tribeni.",
+      "Detailed contact numbers and administrative personnel for most schools in Rolpa require ground-level verification."
+    ]
+  }
+}

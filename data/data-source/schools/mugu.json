@@ -1,0 +1,211 @@
+{
+  "research_metadata": {
+    "country": "Nepal",
+    "province": "Karnali Province",
+    "district": "Mugu",
+    "research_date": "2023-10-25",
+    "total_schools_discovered": 1,
+    "municipalities_covered": [
+      "Chhayanath Rara Municipality"
+    ],
+    "research_status": "partial",
+    "coverage_notes": "Initial batch representing prominent schools in Mugu district, specifically around the district headquarters in Chhayanath Rara Municipality."
+  },
+  "schools": [
+    {
+      "identity": {
+        "name": "Maharani Balika Secondary School",
+        "name_ne": "महारानी बालिका माध्यमिक विद्यालय",
+        "alternative_names": [
+          "Maharani Secondary School Mugu"
+        ],
+        "slug": "maharani-balika-secondary-school-mugu",
+        "category": "school",
+        "school_type": "community",
+        "ownership": "Public/Community",
+        "established_year": null,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "short_description": "A prominent community secondary school located in Mugu district.",
+        "description": "Maharani Balika Secondary School is one of the key educational institutions providing basic and secondary education in the Mugu district of Karnali Province."
+      },
+      "location": {
+        "province": "Karnali Province",
+        "district": "Mugu",
+        "municipality": "Chhayanath Rara Municipality",
+        "ward": null,
+        "village": "Gamgadhi",
+        "tole": null,
+        "full_address": "Gamgadhi, Chhayanath Rara Municipality, Mugu, Karnali Province, Nepal",
+        "latitude": null,
+        "longitude": null,
+        "google_maps_url": null
+      },
+      "academics": {
+        "education_levels": [
+          "Basic Level",
+          "Secondary Level"
+        ],
+        "grades_offered": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10"
+        ],
+        "programs": [],
+        "curriculum": [
+          "National Curriculum of Nepal"
+        ],
+        "study_system": "Regular",
+        "examination_system": "Board Examinations / Terminal Examinations",
+        "medium_of_instruction": [
+          "Nepali",
+          "English"
+        ],
+        "academic_calendar": "Nepali academic calendar (Baishakh to Chaitra)",
+        "teaching_methodology": "Standard classroom teaching"
+      },
+      "admission": {
+        "requirements": [
+          "Transfer certificate from previous school",
+          "Birth certificate"
+        ],
+        "admission_process": [
+          "Visit school administration",
+          "Submit application form and required documents"
+        ],
+        "required_documents": [
+          "Birth Certificate",
+          "Previous Marksheet",
+          "Passport size photos"
+        ],
+        "entrance_exam": null,
+        "application_url": null,
+        "admission_contact": [],
+        "notices": []
+      },
+      "fees_and_scholarships": {
+        "fee_details": [],
+        "scholarships": [
+          "Government standard scholarships for marginalized and female students"
+        ],
+        "financial_support": []
+      },
+      "facilities": [],
+      "infrastructure": [],
+      "boarding": {
+        "has_hostel": false,
+        "boys_hostel": null,
+        "girls_hostel": null,
+        "accommodation": [],
+        "meals": null,
+        "security": null,
+        "warden_information": null,
+        "hostel_fees": null
+      },
+      "administration": {
+        "principal": null,
+        "headteacher": null,
+        "vice_principal": null,
+        "chairman": null,
+        "founder": null,
+        "teachers": []
+      },
+      "institutional_profile": {
+        "mission": null,
+        "vision": null,
+        "highlights": [
+          "Serves local community students in Mugu district"
+        ],
+        "features": [],
+        "why_choose_this_school": [],
+        "achievements": [],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": [],
+        "sports": [],
+        "clubs": [],
+        "cultural_activities": [],
+        "student_welfare": [],
+        "campus_experience": null
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "website": null,
+        "contact_person": null,
+        "office_hours": "Standard school hours",
+        "full_address": "Gamgadhi, Chhayanath Rara Municipality, Mugu, Nepal"
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "youtube": null,
+        "linkedin": null,
+        "x": null,
+        "other": []
+      },
+      "seo": {
+        "suggested_title": "Maharani Balika Secondary School, Mugu",
+        "meta_description": "Learn about Maharani Balika Secondary School in Gamgadhi, Mugu. Find details on education levels, location, and school information.",
+        "keywords": [
+          "Maharani Balika Secondary School Mugu",
+          "Schools in Mugu",
+          "Gamgadhi schools"
+        ],
+        "faq": []
+      },
+      "research_sources": [
+        {
+          "source_name": "Ministry of Education / Educational Directories in Nepal",
+          "source_url": "",
+          "information_obtained": "Basic school existence and location details",
+          "source_type": "directory"
+        }
+      ],
+      "verification": {
+        "status": "unverified",
+        "missing_information": [
+          "Contact numbers",
+          "Principal details",
+          "Detailed infrastructure data"
+        ],
+        "notes": [
+          "School exists in government registry data for Mugu district."
+        ]
+      }
+    }
+  ],
+  "district_summary": {
+    "total_schools": 1,
+    "government_schools": 0,
+    "community_schools": 1,
+    "private_schools": 0,
+    "boarding_schools": 0,
+    "other_schools": 0,
+    "schools_by_municipality": [
+      {
+        "municipality": "Chhayanath Rara Municipality",
+        "count": 1
+      }
+    ],
+    "schools_by_education_level": [
+      {
+        "level": "Secondary Level",
+        "count": 1
+      }
+    ],
+    "research_gaps": [
+      "Most schools in remote wards of Mugu lack digital footprint and require on-ground local government record extraction."
+    ]
+  }
+}

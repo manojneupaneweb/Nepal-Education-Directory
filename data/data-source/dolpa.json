@@ -1,0 +1,288 @@
+{
+  "research_metadata": {
+    "country": "Nepal",
+    "province": "Karnali Province",
+    "district": "Dolpa",
+    "research_date": "2025-05-15",
+    "total_institutions_discovered": 1,
+    "total_institutions_verified": 1,
+    "coverage_notes": "Dolpa is a remote, mountainous district in Karnali Province with severely limited higher education infrastructure. Extensive web searches across Tribhuvan University affiliate lists, UGC Nepal reports, and CTEVT records revealed one primary recognized higher education campus (Dolpa Multiple Campus). Other secondary schools offer +2 programs under NEB, but do not meet the criteria for higher education institutions as they lack Bachelor's or diploma degree programs.",
+    "research_status": "completed"
+  },
+  "institutions": [
+    {
+      "identity": {
+        "name": "Dolpa Multiple Campus",
+        "name_ne": "डोल्पो बहुमुखी क्याम्पस",
+        "alternative_names": [
+          "Shree Dolpa Multiple Campus",
+          "Dolpa Campus"
+        ],
+        "slug": "dolpa-multiple-campus",
+        "category": "college",
+        "institution_type": "community",
+        "ownership": "Public/Community",
+        "established_year": 2008,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "logo_source": null,
+        "short_description": "Dolpa Multiple Campus is a community-owned higher education institution located in Dunai, Dolpa, affiliated with Tribhuvan University.",
+        "description": "Dolpa Multiple Campus serves as a vital center for higher education in the remote mountain district of Dolpa, Karnali Province. Established through community efforts, it offers undergraduate programs affiliated with Tribhuvan University, providing local students access to higher education without needing to travel to Karnali's provincial capital or Kathmandu."
+      },
+      "location": {
+        "province": "Karnali Province",
+        "district": "Dolpa",
+        "municipality": "Thuli Bheri Municipality",
+        "ward": 3,
+        "tole": "Dunai",
+        "full_address": "Dunai, Thuli Bheri Municipality, Dolpa District, Karnali Province, Nepal",
+        "latitude": 28.9333,
+        "longitude": 82.9167,
+        "google_maps_url": null,
+        "google_maps_embed_url": null,
+        "nearby_landmarks": [
+          "District Administration Office Dolpa",
+          "Dunai Bazaar"
+        ]
+      },
+      "affiliation": {
+        "university": "Tribhuvan University",
+        "affiliation_type": "Affiliated campus",
+        "accreditation": [],
+        "recognition_details": [
+          "Recognized by Tribhuvan University"
+        ]
+      },
+      "academics": {
+        "study_system": "Annual / Semester system",
+        "academic_calendar": "As per Tribhuvan University calendar",
+        "medium_of_instruction": [
+          "Nepali",
+          "English"
+        ],
+        "teaching_methodology": "Lectures, discussions, and practical assignments as per TU curriculum.",
+        "programs": [
+          {
+            "name": "Bachelor of Education (B.Ed)",
+            "degree_level": "Undergraduate",
+            "faculty": "Education",
+            "specialization": [
+              "General Education"
+            ],
+            "duration": "4 years",
+            "semester_or_year": "Annual system",
+            "eligibility": "+2 or equivalent in any discipline from a recognized board",
+            "entrance_requirement": "As per Tribhuvan University rules",
+            "fee": null,
+            "intake_capacity": null,
+            "status": "active",
+            "source_urls": [
+              "https://tu.edu.np"
+            ]
+          }
+        ]
+      },
+      "admission": {
+        "guidance": "Admissions open annually following Tribhuvan University's academic calendar and guidelines.",
+        "requirements": [
+          "Successful completion of +2 or PCL level from a recognized board"
+        ],
+        "application_process": [
+          "Obtain application form from campus administration",
+          "Submit academic transcripts and certificates",
+          "Pay admission fees"
+        ],
+        "application_url": null,
+        "entrance_details": "Entrance examination or merit-based selection as per TU Faculty of Education guidelines.",
+        "required_documents": [
+          "Character certificate",
+          "Transcript and marksheet of SLC/SEE",
+          "Transcript and marksheet of +2 or equivalent",
+          "Recent passport-sized photographs"
+        ],
+        "admission_contact": [],
+        "current_notices": []
+      },
+      "scholarships": [
+        {
+          "name": "Government and University Targeted Scholarships",
+          "type": "Need-based and Merit-based",
+          "eligibility": "Students from marginalized backgrounds, economically disadvantaged families, and high academic achievers.",
+          "benefits": "Partial or full tuition fee waiver",
+          "application_process": "Apply through campus administration with recommendation letters.",
+          "deadline": null,
+          "status": "active",
+          "source_urls": []
+        }
+      ],
+      "facilities": [
+        "Classrooms",
+        "Library",
+        "Administration building",
+        "Drinking water"
+      ],
+      "infrastructure": [
+        "Standard campus building located in Dunai, Dolpa"
+      ],
+      "faculty": {
+        "principal": null,
+        "chairperson": null,
+        "campus_chief": null,
+        "departments": [
+          "Department of Education"
+        ],
+        "faculty_members": [],
+        "teaching_approach": "Conventional classroom teaching supplemented by student-centered learning."
+      },
+      "leadership_messages": {
+        "principal_message": null,
+        "chairperson_message": null,
+        "founder_message": null
+      },
+      "institutional_profile": {
+        "mission": "To provide accessible, quality higher education to the students of Dolpa district and surrounding remote regions.",
+        "vision": "To develop into a premier center of higher learning in the Karnali mountain region.",
+        "core_values": [
+          "Accessibility",
+          "Community Engagement",
+          "Academic Integrity"
+        ],
+        "highlights": [
+          "Only prominent multi-program higher education campus operating within Dolpa district",
+          "Affiliated with Tribhuvan University"
+        ],
+        "features": [
+          "Affordable community-based fee structure",
+          "Local access to university education"
+        ],
+        "why_choose_this_college": [
+          "Saves travel costs and living expenses away from home for students of Dolpa",
+          "Tribhuvan University recognized degree programs"
+        ],
+        "achievements": [],
+        "milestones": [
+          "Establishment to serve higher education needs in remote Dolpa district"
+        ]
+      },
+      "student_life": {
+        "extracurricular_activities": [
+          "Annual sports meet",
+          "Cultural programs"
+        ],
+        "clubs": [],
+        "sports": [
+          "Football",
+          "Volleyball",
+          "Athletics"
+        ],
+        "student_organizations": [
+          "Free Student Union (FSU) affiliated units"
+        ],
+        "campus_experience": "A close-knit academic community reflecting the unique cultural heritage of Dolpa.",
+        "student_welfare": []
+      },
+      "career_development": {
+        "placement_cell": null,
+        "internship_opportunities": [
+          "Teaching practice for B.Ed students in local schools"
+        ],
+        "industry_partnerships": [],
+        "career_counseling": null,
+        "alumni_network": null,
+        "placement_statistics": []
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "admission_contacts": [],
+        "website": null,
+        "office_hours": "10:00 AM to 4:00 PM (Sunday to Friday)",
+        "contact_person": "Campus Administration"
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "linkedin": null,
+        "youtube": null,
+        "x": null,
+        "other": []
+      },
+      "online_resources": {
+        "prospectus": [],
+        "fee_structure": [],
+        "academic_calendar": [],
+        "notices": [],
+        "results": [],
+        "student_portal": null,
+        "downloads": []
+      },
+      "seo": {
+        "suggested_title": "Dolpa Multiple Campus, Dunai, Dolpa",
+        "meta_description": "Explore Dolpa Multiple Campus in Dunai, Dolpa - affiliated with Tribhuvan University. Find programs, admission details, and campus info.",
+        "keywords": [
+          "Dolpa Multiple Campus",
+          "Colleges in Dolpa",
+          "Tribhuvan University colleges in Dolpa",
+          "Higher education in Dolpa",
+          "Dunai campus"
+        ],
+        "faq": [
+          {
+            "question": "Where is Dolpa Multiple Campus located?",
+            "answer": "Dolpa Multiple Campus is located in Dunai, Thuli Bheri Municipality, Dolpa District, Karnali Province, Nepal."
+          },
+          {
+            "question": "Which university is Dolpa Multiple Campus affiliated with?",
+            "answer": "It is affiliated with Tribhuvan University."
+          }
+        ]
+      },
+      "verification": {
+        "verification_status": "partial",
+        "last_verified_at": "2025-05-15",
+        "official_sources": [
+          "Tribhuvan University Affiliated Campuses Directory"
+        ],
+        "secondary_sources": [
+          "UGC Nepal institutional data"
+        ],
+        "field_confidence": {
+          "identity": "high",
+          "location": "high",
+          "affiliation": "high",
+          "contact": "low"
+        },
+        "missing_information": [
+          "Exact phone numbers",
+          "Official website",
+          "Detailed fee structure",
+          "Current campus chief name"
+        ],
+        "notes": "Dolpa is extremely remote with limited digital footprint for educational institutions. Contact details and websites are largely absent online."
+      }
+    }
+  ],
+  "district_summary": {
+    "total_colleges": 1,
+    "government_colleges": 0,
+    "community_colleges": 1,
+    "private_colleges": 0,
+    "universities_and_constituent_campuses": 0,
+    "other_institutions": 0,
+    "municipalities_covered": [
+      "Thuli Bheri Municipality"
+    ],
+    "institutions_by_university": [
+      {
+        "university": "Tribhuvan University",
+        "count": 1
+      }
+    ],
+    "research_gaps": [
+      "Lack of digital presence, official websites, and active contact numbers for institutions in Dolpa district.",
+      "Absence of technical and vocational higher education colleges (CTEVT diploma/PCL nursing etc.) operating directly within Dolpa district boundaries."
+    ]
+  }
+}

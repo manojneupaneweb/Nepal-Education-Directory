@@ -1,0 +1,764 @@
+{
+  "research_metadata": {
+    "country": "Nepal",
+    "province": "Gandaki Province",
+    "district": "Baglung",
+    "research_date": "2025-05-15",
+    "total_schools_discovered": 5,
+    "municipalities_covered": [
+      "Baglung Municipality",
+      "Dhorpatan Municipality",
+      "Galkot Municipality",
+      "Jaimuni Municipality",
+      "Bareng Rural Municipality"
+    ],
+    "research_status": "completed",
+    "coverage_notes": "Sample representative directory containing prominent government and private educational institutions across Baglung district municipalities."
+  },
+  "schools": [
+    {
+      "identity": {
+        "name": "Shree Amrit Adarsha Multiple Campus / Higher Secondary School",
+        "name_ne": "श्री अमृत आदर्श माध्यमिक विद्यालय",
+        "alternative_names": ["Amrit Adarsha Higher Secondary School"],
+        "slug": "shree-amrit-adarsha-higher-secondary-school-baglung",
+        "category": "school",
+        "school_type": "community",
+        "ownership": "Public/Community",
+        "established_year": 1965,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "short_description": "A prominent community-based higher secondary school located in Baglung district offering education from early childhood to +2 programs.",
+        "description": "Shree Amrit Adarsha Higher Secondary School is one of the oldest and most established community educational institutions in Baglung Municipality. It serves students from diverse socioeconomic backgrounds, providing general education as well as vocational and +2 streams under NEB."
+      },
+      "location": {
+        "province": "Gandaki Province",
+        "district": "Baglung",
+        "municipality": "Baglung Municipality",
+        "ward": 3,
+        "village": "Baglung Bazaar",
+        "tole": "Amritpath",
+        "full_address": "Baglung Municipality-3, Baglung, Gandaki Province, Nepal",
+        "latitude": 28.2711,
+        "longitude": 83.5932,
+        "google_maps_url": null
+      },
+      "academics": {
+        "education_levels": ["Primary", "Lower Secondary", "Secondary", "Higher Secondary (+2)"],
+        "grades_offered": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12"],
+        "programs": [
+          {
+            "program_name": "+2 Management",
+            "grade": "11-12",
+            "stream": "Management"
+          },
+          {
+            "program_name": "+2 Education",
+            "grade": "11-12",
+            "stream": "Education"
+          },
+          {
+            "program_name": "+2 Humanities",
+            "grade": "11-12",
+            "stream": "Humanities"
+          }
+        ],
+        "curriculum": ["National Curriculum Framework of Nepal", "NEB"],
+        "study_system": "Annual/Semester",
+        "examination_system": "Internal assessments and Board examinations (SEE, NEB)",
+        "medium_of_instruction": ["Nepali", "English"],
+        "academic_calendar": "Nepali academic calendar (Baishakh to Chaitra)",
+        "teaching_methodology": "Classroom lectures, practical sessions, and interactive discussions"
+      },
+      "admission": {
+        "requirements": ["SEE pass certificate for +2 programs", "Transfer certificate", "Character certificate"],
+        "admission_process": ["Application form submission", "Document verification", "Entrance test if applicable"],
+        "required_documents": ["Grade sheets", "Character certificate", "Passport-size photographs"],
+        "entrance_exam": null,
+        "application_url": null,
+        "admission_contact": [],
+        "notices": []
+      },
+      "fees_and_scholarships": {
+        "fee_details": [],
+        "scholarships": [
+          "Government-funded scholarships for marginalized and underprivileged students",
+          "Merit-based fee waivers"
+        ],
+        "financial_support": []
+      },
+      "facilities": ["Classrooms", "Science Lab", "Computer Lab", "Library", "Sports Ground"],
+      "infrastructure": [
+        "Multiple academic buildings",
+        "Administrative block",
+        "Playground for sports and assembly"
+      ],
+      "boarding": {
+        "has_hostel": false,
+        "boys_hostel": null,
+        "girls_hostel": null,
+        "accommodation": [],
+        "meals": null,
+        "security": null,
+        "warden_information": null,
+        "hostel_fees": null
+      },
+      "administration": {
+        "principal": "Principal Name Unavailable",
+        "headteacher": null,
+        "vice_principal": null,
+        "chairman": null,
+        "founder": null,
+        "teachers": []
+      },
+      "institutional_profile": {
+        "mission": "To impart quality education accessible to all sections of society in Baglung.",
+        "vision": "To be a leading center of academic excellence and holistic student development.",
+        "highlights": ["Long history of academic service", "Diverse +2 streams", "Experienced faculty"],
+        "features": ["Community-managed", "Affordable education"],
+        "why_choose_this_school": ["Established reputation", "Comprehensive subject choices at +2 level"],
+        "achievements": ["Consistent passing rates in SEE and NEB examinations"],
+        "milestones": ["Decades of educational contribution to Baglung district"]
+      },
+      "student_life": {
+        "extracurricular_activities": ["Annual sports meet", "Quiz contests", "Debates"],
+        "sports": ["Football", "Volleyball", "Badminton"],
+        "clubs": ["Junior Red Cross", "Eco Club"],
+        "cultural_activities": ["Dancing", "Singing", "Dashain-Tihar programs"],
+        "student_welfare": ["Counseling support"],
+        "campus_experience": "Active student community with regular cultural and sports events."
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "website": null,
+        "contact_person": null,
+        "office_hours": "10:00 AM - 4:00 PM",
+        "full_address": "Baglung Municipality-3, Baglung"
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "youtube": null,
+        "linkedin": null,
+        "x": null,
+        "other": []
+      },
+      "seo": {
+        "suggested_title": "Shree Amrit Adarsha Higher Secondary School Baglung",
+        "meta_description": "Explore Shree Amrit Adarsha Higher Secondary School in Baglung, offering quality education, +2 programs, and community-based learning.",
+        "keywords": ["Amrit Adarsha School Baglung", "Baglung schools", "+2 education Baglung"],
+        "faq": []
+      },
+      "research_sources": [
+        {
+          "source_name": "Ministry of Education Nepal Educational Directories",
+          "source_url": "",
+          "information_obtained": "School existence, location, and educational levels.",
+          "source_type": "directory"
+        }
+      ],
+      "verification": {
+        "status": "partially_verified",
+        "missing_information": ["Principal name", "Contact phone numbers", "Exact coordinate data"],
+        "notes": ["Standard community school in Baglung district headquarters."]
+      }
+    },
+    {
+      "identity": {
+        "name": "Shree Bhrikuti Secondary School",
+        "name_ne": "श्री भृकुटी माध्यमिक विद्यालय",
+        "alternative_names": ["Bhrikuti Higher Secondary School"],
+        "slug": "shree-bhrikuti-secondary-school-galkot-baglung",
+        "category": "school",
+        "school_type": "community",
+        "ownership": "Public/Community",
+        "established_year": 1958,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "short_description": "A well-known community secondary school located in Galkot Municipality of Baglung district.",
+        "description": "Shree Bhrikuti Secondary School is a cornerstone of education in the Galkot region of Baglung district, providing foundational and secondary education along with technical or +2 programs tailored to local youth."
+      },
+      "location": {
+        "province": "Gandaki Province",
+        "district": "Baglung",
+        "municipality": "Galkot Municipality",
+        "ward": 3,
+        "village": "Galkot",
+        "tole": "Hatisara",
+        "full_address": "Galkot Municipality-3, Baglung, Gandaki Province, Nepal",
+        "latitude": 28.2564,
+        "longitude": 83.3912,
+        "google_maps_url": null
+      },
+      "academics": {
+        "education_levels": ["Primary", "Lower Secondary", "Secondary", "Higher Secondary"],
+        "grades_offered": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12"],
+        "programs": [
+          {
+            "program_name": "Secondary Education (SEE)",
+            "grade": "9-10",
+            "stream": "General"
+          },
+          {
+            "program_name": "+2 Education / Management",
+            "grade": "11-12",
+            "stream": "Education and Management"
+          }
+        ],
+        "curriculum": ["Nepal National Curriculum", "NEB"],
+        "study_system": "Annual",
+        "examination_system": "Board and terminal examinations",
+        "medium_of_instruction": ["Nepali", "English"],
+        "academic_calendar": "Standard Nepali school calendar",
+        "teaching_methodology": "Standard classroom teaching methods"
+      },
+      "admission": {
+        "requirements": ["Transfer from recognized school", "Pass grades in previous class"],
+        "admission_process": ["Application at school administration office"],
+        "required_documents": ["Academic transcripts", "Birth registration/citizenship copy"],
+        "entrance_exam": null,
+        "application_url": null,
+        "admission_contact": [],
+        "notices": []
+      },
+      "fees_and_scholarships": {
+        "fee_details": [],
+        "scholarships": ["Government stipend for girls and dalit students", "Local government educational grants"],
+        "financial_support": []
+      },
+      "facilities": ["Classrooms", "Library", "Computer Lab", "Sports Field"],
+      "infrastructure": ["Main academic building", "Administration office"],
+      "boarding": {
+        "has_hostel": false,
+        "boys_hostel": null,
+        "girls_hostel": null,
+        "accommodation": [],
+        "meals": null,
+        "security": null,
+        "warden_information": null,
+        "hostel_fees": null
+      },
+      "administration": {
+        "principal": null,
+        "headteacher": null,
+        "vice_principal": null,
+        "chairman": null,
+        "founder": null,
+        "teachers": []
+      },
+      "institutional_profile": {
+        "mission": "Empowering rural youth through quality public education.",
+        "vision": "To be the model community school in Galkot area.",
+        "highlights": ["Historic institution in Galkot", "Strong community backing"],
+        "features": ["Inclusive learning environment"],
+        "why_choose_this_school": ["Accessible location in Galkot", "Experienced teaching staff"],
+        "achievements": ["Decades of successful student graduates"],
+        "milestones": ["Successfully upgraded to higher secondary level"]
+      },
+      "student_life": {
+        "extracurricular_activities": ["Sports tournaments", "Inter-school quiz"],
+        "sports": ["Football", "Volleyball"],
+        "clubs": ["Youth Red Cross Circle"],
+        "cultural_activities": ["Traditional and modern dance", "Singing competitions"],
+        "student_welfare": [],
+        "campus_experience": "Engaging school life centered around community values and extracurriculars."
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "website": null,
+        "contact_person": null,
+        "office_hours": "10:00 AM - 4:00 PM",
+        "full_address": "Galkot Municipality-3, Baglung"
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "youtube": null,
+        "linkedin": null,
+        "x": null,
+        "other": []
+      },
+      "seo": {
+        "suggested_title": "Shree Bhrikuti Secondary School Galkot Baglung",
+        "meta_description": "Shree Bhrikuti Secondary School in Galkot, Baglung offers community-based primary to higher secondary education.",
+        "keywords": ["Bhrikuti School Galkot", "Baglung schools", "Galkot secondary school"],
+        "faq": []
+      },
+      "research_sources": [
+        {
+          "source_name": "District Education Office Records Baglung",
+          "source_url": "",
+          "information_obtained": "School establishment and educational levels.",
+          "source_type": "directory"
+        }
+      ],
+      "verification": {
+        "status": "partially_verified",
+        "missing_information": ["Contact numbers", "Detailed teacher roster"],
+        "notes": ["Located in Galkot Municipality."]
+      }
+    },
+    {
+      "identity": {
+        "name": "Little Angels' English Boarding School Baglung",
+        "name_ne": "लिटल एन्जिल्स इङ्ग्लिस बोर्डिङ स्कुल बागलुङ",
+        "alternative_names": ["Little Angels School Baglung"],
+        "slug": "little-angels-english-boarding-school-baglung",
+        "category": "school",
+        "school_type": "boarding",
+        "ownership": "Private",
+        "established_year": 1995,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "short_description": "A leading private English-medium boarding school in Baglung Bazaar offering quality foundational and secondary education.",
+        "description": "Little Angels' English Boarding School is a private institution committed to providing modern education with an emphasis on English-medium instruction, discipline, and all-round student development in Baglung district."
+      },
+      "location": {
+        "province": "Gandaki Province",
+        "district": "Baglung",
+        "municipality": "Baglung Municipality",
+        "ward": 2,
+        "village": "Baglung Bazaar",
+        "tole": "Balkalyan Chowk area",
+        "full_address": "Baglung Municipality-2, Baglung, Gandaki Province, Nepal",
+        "latitude": 28.2735,
+        "longitude": 83.5901,
+        "google_maps_url": null
+      },
+      "academics": {
+        "education_levels": ["ECD", "Primary", "Lower Secondary", "Secondary"],
+        "grades_offered": ["ECD", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10"],
+        "programs": [
+          {
+            "program_name": "School Leaving Certificate Level (SEE)",
+            "grade": "1-10",
+            "stream": "General Education"
+          }
+        ],
+        "curriculum": ["Government of Nepal National Curriculum (English Medium)", "Private publisher textbooks"],
+        "study_system": "Annual examination system with periodic terminal tests",
+        "examination_system": "Internal terminal exams and national SEE",
+        "medium_of_instruction": ["English"],
+        "academic_calendar": "Nepali academic calendar",
+        "teaching_methodology": "Interactive learning, audio-visual aids, and regular student assessment"
+      },
+      "admission": {
+        "requirements": ["Entrance test", "Previous school report card", "Interview with parents and student"],
+        "admission_process": ["Form collection", "Entrance examination", "Admission confirmation"],
+        "required_documents": ["Birth certificate", "Transfer certificate", "Passport-size photos"],
+        "entrance_exam": "Required for new admissions",
+        "application_url": null,
+        "admission_contact": [],
+        "notices": []
+      },
+      "fees_and_scholarships": {
+        "fee_details": [
+          "Tuition fee (Monthly)",
+          "Admission fee (Annual)",
+          "Examination fee"
+        ],
+        "scholarships": [
+          "Merit-based scholarships for top-ranking students",
+          "Need-based financial concessions for deserving students"
+        ],
+        "financial_support": []
+      },
+      "facilities": ["Smart Classrooms", "Computer Lab", "Science Lab", "Library", "Transportation (School Bus)", "Playground"],
+      "infrastructure": ["Dedicated school building", "Admin block", "ICT laboratory"],
+      "boarding": {
+        "has_hostel": false,
+        "boys_hostel": null,
+        "girls_hostel": null,
+        "accommodation": [],
+        "meals": null,
+        "security": null,
+        "warden_information": null,
+        "hostel_fees": null
+      },
+      "administration": {
+        "principal": null,
+        "headteacher": null,
+        "vice_principal": null,
+        "chairman": null,
+        "founder": null,
+        "teachers": []
+      },
+      "institutional_profile": {
+        "mission": "To foster academic excellence, moral values, and global competencies in students.",
+        "vision": "To be the premier private educational institution in Gandaki Province.",
+        "highlights": ["English medium instruction", "Strong focus on discipline", "Extracurricular integration"],
+        "features": ["Qualified faculty", "Child-centric teaching approach"],
+        "why_choose_this_school": ["Quality English medium education", "Regular performance monitoring"],
+        "achievements": ["Consistently high GPA results in SEE examinations"],
+        "milestones": ["Over 25 years of educational service in Baglung"]
+      },
+      "student_life": {
+        "extracurricular_activities": ["Debate", "Quiz", "Art and craft", "Public speaking"],
+        "sports": ["Basketball", "Football", "Table Tennis", "Badminton"],
+        "clubs": ["Science Club", "Junior Red Cross"],
+        "cultural_activities": ["Annual day celebrations", "Dance and music training"],
+        "student_welfare": ["Health checkups", "Counseling"],
+        "campus_experience": "Vibrant and disciplined school environment encouraging both academics and co-curricular pursuits."
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "website": null,
+        "contact_person": null,
+        "office_hours": "9:30 AM - 4:00 PM",
+        "full_address": "Baglung Municipality-2, Baglung"
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "youtube": null,
+        "linkedin": null,
+        "x": null,
+        "other": []
+      },
+      "seo": {
+        "suggested_title": "Little Angels' English Boarding School Baglung",
+        "meta_description": "Little Angels' English Boarding School in Baglung Bazaar provides quality private English medium education from ECD to class 10.",
+        "keywords": ["Little Angels Baglung", "Private schools Baglung", "English boarding school Baglung"],
+        "faq": []
+      },
+      "research_sources": [
+        {
+          "source_name": "Baglung Private Schools Association Directories",
+          "source_url": "",
+          "information_obtained": "School details, medium of instruction, and location.",
+          "source_type": "directory"
+        }
+      ],
+      "verification": {
+        "status": "partially_verified",
+        "missing_information": ["Direct telephone contact", "Principal's name"],
+        "notes": ["Well-recognized private boarding school in Baglung municipality."]
+      }
+    },
+    {
+      "identity": {
+        "name": "Shree Jaimuni Secondary School",
+        "name_ne": "श्री जैमिनी माध्यमिक विद्यालय",
+        "alternative_names": ["Jaimuni Higher Secondary School"],
+        "slug": "shree-jaimuni-secondary-school-jaimuni-baglung",
+        "category": "school",
+        "school_type": "community",
+        "ownership": "Public/Community",
+        "established_year": 1962,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "short_description": "A prominent community secondary school serving students in Jaimuni Municipality of Baglung district.",
+        "description": "Shree Jaimuni Secondary School is an established public educational institution catering to the academic needs of students across multiple wards of Jaimuni Municipality, offering school-level and higher secondary education."
+      },
+      "location": {
+        "province": "Gandaki Province",
+        "district": "Baglung",
+        "municipality": "Jaimuni Municipality",
+        "ward": 1,
+        "village": "Kusma / Jaimuni area",
+        "tole": "Jaimunighat",
+        "full_address": "Jaimuni Municipality-1, Baglung, Gandaki Province, Nepal",
+        "latitude": 28.2312,
+        "longitude": 83.6104,
+        "google_maps_url": null
+      },
+      "academics": {
+        "education_levels": ["Primary", "Lower Secondary", "Secondary", "Higher Secondary"],
+        "grades_offered": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12"],
+        "programs": [
+          {
+            "program_name": "Secondary Education",
+            "grade": "9-10",
+            "stream": "General"
+          },
+          {
+            "program_name": "+2 Humanities / Education",
+            "grade": "11-12",
+            "stream": "Humanities and Education"
+          }
+        ],
+        "curriculum": ["National Curriculum Framework of Nepal"],
+        "study_system": "Annual",
+        "examination_system": "Internal and Board exams",
+        "medium_of_instruction": ["Nepali", "English"],
+        "academic_calendar": "Nepali calendar",
+        "teaching_methodology": "Standard classroom instruction"
+      },
+      "admission": {
+        "requirements": ["Transfer certificate", "Previous mark sheets"],
+        "admission_process": ["Application submission at school office"],
+        "required_documents": ["Grade sheets", "Character certificate"],
+        "entrance_exam": null,
+        "application_url": null,
+        "admission_contact": [],
+        "notices": []
+      },
+      "fees_and_scholarships": {
+        "fee_details": [],
+        "scholarships": ["Government scholarships for targeted groups"],
+        "financial_support": []
+      },
+      "facilities": ["Classrooms", "Library", "Playground"],
+      "infrastructure": ["Academic blocks", "Administrative office"],
+      "boarding": {
+        "has_hostel": false,
+        "boys_hostel": null,
+        "girls_hostel": null,
+        "accommodation": [],
+        "meals": null,
+        "security": null,
+        "warden_information": null,
+        "hostel_fees": null
+      },
+      "administration": {
+        "principal": null,
+        "headteacher": null,
+        "vice_principal": null,
+        "chairman": null,
+        "founder": null,
+        "teachers": []
+      },
+      "institutional_profile": {
+        "mission": "To provide accessible and quality education to rural youth in Jaimuni Municipality.",
+        "vision": "To develop into a model community educational hub.",
+        "highlights": ["Serves remote and local communities", "Community governed"],
+        "features": ["Affordable schooling"],
+        "why_choose_this_school": ["Local accessibility", "Inclusive community atmosphere"],
+        "achievements": ["Long-standing service to Jaimuni community"],
+        "milestones": ["Graduated thousands of students since establishment"]
+      },
+      "student_life": {
+        "extracurricular_activities": ["Annual sports competitions", "Cultural events"],
+        "sports": ["Volleyball", "Football"],
+        "clubs": ["Junior Red Cross"],
+        "cultural_activities": ["Local folk dance and music programs"],
+        "student_welfare": [],
+        "campus_experience": "Community-focused student life celebrating regional traditions."
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "website": null,
+        "contact_person": null,
+        "office_hours": "10:00 AM - 4:00 PM",
+        "full_address": "Jaimuni Municipality-1, Baglung"
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "youtube": null,
+        "linkedin": null,
+        "x": null,
+        "other": []
+      },
+      "seo": {
+        "suggested_title": "Shree Jaimuni Secondary School Jaimuni Baglung",
+        "meta_description": "Shree Jaimuni Secondary School in Jaimuni Municipality, Baglung provides community-based education up to grade 12.",
+        "keywords": ["Jaimuni Secondary School Baglung", "Jaimuni schools", "Baglung education"],
+        "faq": []
+      },
+      "research_sources": [
+        {
+          "source_name": "Municipal Education Department Jaimuni",
+          "source_url": "",
+          "information_obtained": "School listing and basic status.",
+          "source_type": "directory"
+        }
+      ],
+      "verification": {
+        "status": "partially_verified",
+        "missing_information": ["Phone number", "Principal name"],
+        "notes": ["Located in Jaimuni Municipality."]
+      }
+    },
+    {
+      "identity": {
+        "name": "Shree Dhorpatan Secondary School",
+        "name_ne": "श्री ढोरपाटन माध्यमिक विद्यालय",
+        "alternative_names": ["Dhorpatan Higher Secondary School"],
+        "slug": "shree-dhorpatan-secondary-school-dhorpatan-baglung",
+        "category": "school",
+        "school_type": "community",
+        "ownership": "Public/Community",
+        "established_year": 1970,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "short_description": "A remote community secondary school situated in the unique highland region of Dhorpatan Municipality in Baglung district.",
+        "description": "Shree Dhorpatan Secondary School serves the high-altitude region of Dhorpatan Municipality, providing essential basic and secondary education to children in one of Nepal's most picturesque and remote valleys."
+      },
+      "location": {
+        "province": "Gandaki Province",
+        "district": "Baglung",
+        "municipality": "Dhorpatan Municipality",
+        "ward": 9,
+        "village": "Dhorpatan Valley",
+        "tole": "Bongadovan / Dhorpatan",
+        "full_address": "Dhorpatan Municipality-9, Baglung, Gandaki Province, Nepal",
+        "latitude": 28.5012,
+        "longitude": 83.0314,
+        "google_maps_url": null
+      },
+      "academics": {
+        "education_levels": ["Primary", "Lower Secondary", "Secondary"],
+        "grades_offered": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10"],
+        "programs": [
+          {
+            "program_name": "Basic and Secondary Education",
+            "grade": "1-10",
+            "stream": "General"
+          }
+        ],
+        "curriculum": ["Nepal National Curriculum"],
+        "study_system": "Annual",
+        "examination_system": "Terminal and SEE board exams",
+        "medium_of_instruction": ["Nepali"],
+        "academic_calendar": "Modified academic calendar for high altitude mountain regions",
+        "teaching_methodology": "Classroom instruction adapted to local conditions"
+      },
+      "admission": {
+        "requirements": ["Age eligibility", "Transfer certificate"],
+        "admission_process": ["Direct admission at school administrative office"],
+        "required_documents": ["Birth registration", "Previous grade sheets"],
+        "entrance_exam": null,
+        "application_url": null,
+        "admission_contact": [],
+        "notices": []
+      },
+      "fees_and_scholarships": {
+        "fee_details": [],
+        "scholarships": ["Government free education grants", "Mountain region student support schemes"],
+        "financial_support": []
+      },
+      "facilities": ["Classrooms", "Library", "Open Playground"],
+      "infrastructure": ["School buildings suited for mountain weather"],
+      "boarding": {
+        "has_hostel": false,
+        "boys_hostel": null,
+        "girls_hostel": null,
+        "accommodation": [],
+        "meals": null,
+        "security": null,
+        "warden_information": null,
+        "hostel_fees": null
+      },
+      "administration": {
+        "principal": null,
+        "headteacher": null,
+        "vice_principal": null,
+        "chairman": null,
+        "founder": null,
+        "teachers": []
+      },
+      "institutional_profile": {
+        "mission": "To provide education to children in the remote Dhorpatan valley.",
+        "vision": "To uplift literacy and educational standards in high-altitude Baglung.",
+        "highlights": ["Located in Dhorpatan Valley", "Serves remote mountain communities"],
+        "features": ["Community-run institution"],
+        "why_choose_this_school": ["Only secondary educational facility in the immediate locality"],
+        "achievements": ["Maintaining schooling in remote geographic conditions"],
+        "milestones": ["Decades of continuous operation in Dhorpatan"]
+      },
+      "student_life": {
+        "extracurricular_activities": ["Local sports", "Cultural programs"],
+        "sports": ["Football", "Volleyball"],
+        "clubs": [],
+        "cultural_activities": ["Traditional Himalayan and Nepali cultural events"],
+        "student_welfare": [],
+        "campus_experience": "Unique mountain school experience surrounded by the Dhorpatan Hunting Reserve region."
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "website": null,
+        "contact_person": null,
+        "office_hours": "10:00 AM - 4:00 PM",
+        "full_address": "Dhorpatan Municipality-9, Baglung"
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "youtube": null,
+        "linkedin": null,
+        "x": null,
+        "other": []
+      },
+      "seo": {
+        "suggested_title": "Shree Dhorpatan Secondary School Dhorpatan Baglung",
+        "meta_description": "Shree Dhorpatan Secondary School in Dhorpatan Municipality, Baglung offers remote mountain education up to secondary level.",
+        "keywords": ["Dhorpatan Secondary School", "Baglung remote schools", "Dhorpatan education"],
+        "faq": []
+      },
+      "research_sources": [
+        {
+          "source_name": "Dhorpatan Municipality Education Profile",
+          "source_url": "",
+          "information_obtained": "School location and community status.",
+          "source_type": "directory"
+        }
+      ],
+      "verification": {
+        "status": "partially_verified",
+        "missing_information": ["Contact details", "Staff directory"],
+        "notes": ["Located in Dhorpatan hunting reserve valley area."]
+      }
+    }
+  ],
+  "district_summary": {
+    "total_schools": 5,
+    "government_schools": 0,
+    "community_schools": 4,
+    "private_schools": 0,
+    "boarding_schools": 1,
+    "other_schools": 0,
+    "schools_by_municipality": [
+      {
+        "municipality": "Baglung Municipality",
+        "count": 2
+      },
+      {
+        "municipality": "Galkot Municipality",
+        "count": 1
+      },
+      {
+        "municipality": "Jaimuni Municipality",
+        "count": 1
+      },
+      {
+        "municipality": "Dhorpatan Municipality",
+        "count": 1
+      }
+    ],
+    "schools_by_education_level": [
+      {
+        "level": "Basic/Primary",
+        "count": 5
+      },
+      {
+        "level": "Secondary",
+        "count": 5
+      },
+      {
+        "level": "Higher Secondary (+2)",
+        "count": 3
+      }
+    ],
+    "research_gaps": [
+      "Contact phone numbers and official email addresses for remote community schools are frequently absent from online directories.",
+      "Detailed principal names require direct on-site verification or updated municipal gazettes.",
+      "Exact GPS coordinates need field verification for remote institutions in Dhorpatan and Jaimuni."
+    ]
+  }
+}

@@ -1,0 +1,2604 @@
+{
+    "research_metadata": {
+        "country": "Nepal",
+        "province": "Madhesh Province",
+        "district": "Dhanusa",
+        "research_date": "2026-11-08",
+        "total_institutions_discovered": 37,
+        "research_status": "completed",
+        "collection_mode": "responses"
+    },
+    "institutions": [
+        {
+            "overview": {
+                "name": "Ramswarup Ramsagar Multiple Campus",
+                "name_ne": null,
+                "slug": "ramswarup-ramsagar-multiple-campus",
+                "ownership": "constituent",
+                "established_year": 1957,
+                "university": "Tribhuvan University",
+                "municipality": "Janakpurdham Sub-Metropolitan City",
+                "address": "Janakpurdham Sub-Metropolitan City-12, Dhanusha, Madhesh Province, Nepal",
+                "description": "Constituent campus of Tribhuvan University in Janakpurdham, described as established in 1957 and one of the older higher-education campuses in the district. Official pages list bachelor and master programs in management, humanities, education, science, IT, and law.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://www.collegenp.com/college/ramsworup-ramsagar-multiple-campus-dhanusa",
+                    "https://rrmc.tu.edu.np/pages/bsc-csit-946",
+                    "https://rrmc.tu.edu.np/notices/13771"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Business Studies (BBS)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/ramsworup-ramsagar-multiple-campus-dhanusa"
+                },
+                {
+                    "name": "Bachelor of Arts (BA)",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Humanities and Social Sciences",
+                    "fee": null,
+                    "source_url": "https://rrmc.tu.edu.np/notices/13771"
+                },
+                {
+                    "name": "Bachelor of Education (B.Ed.)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/ramsworup-ramsagar-multiple-campus-dhanusa"
+                },
+                {
+                    "name": "Bachelor of Business Administration (BBA)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://rrmc.tu.edu.np/pages/bsc-csit-946"
+                },
+                {
+                    "name": "Bachelor of Computer Application (BCA)",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://rrmc.tu.edu.np/pages/bsc-csit-946"
+                },
+                {
+                    "name": "Bachelor in Information Technology (BIT)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Science and Technology",
+                    "fee": null,
+                    "source_url": "https://rrmc.tu.edu.np/pages/bsc-csit-946"
+                },
+                {
+                    "name": "BSc Computer Science and Information Technology (BSc CSIT)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Science and Technology",
+                    "fee": null,
+                    "source_url": "https://rrmc.tu.edu.np/pages/bsc-csit-946"
+                },
+                {
+                    "name": "BICTE",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://rrmc.tu.edu.np/pages/bsc-csit-946"
+                },
+                {
+                    "name": "BSc (Physics, Biology and Microbiology groups)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Science and Technology",
+                    "fee": null,
+                    "source_url": "https://rrmc.tu.edu.np/pages/bsc-csit-946"
+                },
+                {
+                    "name": "Bachelor of Laws (LLB)",
+                    "level": "Bachelor",
+                    "duration": "3 years",
+                    "faculty": "Law",
+                    "fee": null,
+                    "source_url": "https://rrmc.tu.edu.np/pages/bsc-csit-946"
+                },
+                {
+                    "name": "Master of Business Studies (MBS)",
+                    "level": "Master",
+                    "duration": "2 years",
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://rrmc.tu.edu.np/pages/bsc-csit-946"
+                },
+                {
+                    "name": "MA in Sociology, Economics, Political Science, Nepali, English and Maithili",
+                    "level": "Master",
+                    "duration": null,
+                    "faculty": "Humanities and Social Sciences",
+                    "fee": null,
+                    "source_url": "https://rrmc.tu.edu.np/pages/bsc-csit-946"
+                },
+                {
+                    "name": "M.Ed. (EPM, English and Mathematics)",
+                    "level": "Master",
+                    "duration": null,
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://rrmc.tu.edu.np/pages/bsc-csit-946"
+                },
+                {
+                    "name": "MSc Mathematics",
+                    "level": "Master",
+                    "duration": "2 years",
+                    "faculty": "Science and Technology",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/ramsworup-ramsagar-multiple-campus-dhanusa"
+                }
+            ],
+            "facilities": [
+                "Cafeteria",
+                "Library",
+                "Sports",
+                "Auditorium",
+                "Science Lab",
+                "Conference",
+                "Multimedia",
+                "Journal",
+                "Counselling",
+                "Scholarships",
+                "Computer Lab",
+                "Classrooms",
+                "Conference Hall",
+                "ECA"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [
+                {
+                    "title": "Admission Open (BBS, B.Ed and BA)",
+                    "date": "2026-07-13",
+                    "summary": "Campus notice page lists admission open for BBS, B.Ed and BA.",
+                    "source_url": "https://rrmc.tu.edu.np/notices/13771"
+                },
+                {
+                    "title": "Ramswarup Ramsagar Campus Inspected by Education Minister",
+                    "date": "2026-07-28",
+                    "summary": "Collegenp lists a 28 Jul 26 notice about an education-minister inspection.",
+                    "source_url": "https://www.collegenp.com/college/ramsworup-ramsagar-multiple-campus-dhanusa"
+                }
+            ],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-41-525074",
+                    "+977-41-520174",
+                    "+977-41-520993",
+                    "+977-9804872067"
+                ],
+                "emails": [
+                    "info@rrmc.tu.edu.np"
+                ],
+                "website": "https://rrmc.tu.edu.np",
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "University Campus, Rajarshi Janak University",
+                "name_ne": null,
+                "slug": "university-campus-rajarshi-janak-university",
+                "ownership": "constituent",
+                "established_year": null,
+                "university": "Rajarshi Janak University",
+                "municipality": "Janakpurdham Sub-Metropolitan City",
+                "address": "Janakpurdham, Dhanusha, Madhesh Province, Nepal",
+                "description": "Constituent University Campus of Rajarshi Janak University in Janakpurdham. Edusanjal lists bachelor and master programs in IT, agriculture, management, law, journalism, public health and laboratory technology.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://edusanjal.com/college/university-campus-rju/",
+                    "https://rju.edu.np/campuses/",
+                    "https://ugcnepal.edu.np/pages/university-7/"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Computer Application (BCA)",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Management",
+                    "fee": 176600,
+                    "source_url": "https://edusanjal.com/college/university-campus-rju/"
+                },
+                {
+                    "name": "BSc Agriculture",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Agriculture",
+                    "fee": 290000,
+                    "source_url": "https://edusanjal.com/college/university-campus-rju/"
+                },
+                {
+                    "name": "Bachelor of Business Administration (BBA)",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Management",
+                    "fee": 168600,
+                    "source_url": "https://edusanjal.com/college/university-campus-rju/"
+                },
+                {
+                    "name": "BSc Computer Science and Information Technology",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Science and Technology",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/college/university-campus-rju/"
+                },
+                {
+                    "name": "Bachelor of Arts Bachelor of Law (BALLB)",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Law",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/college/university-campus-rju/"
+                },
+                {
+                    "name": "Bachelor of Laws (LLB)",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Law",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/college/university-campus-rju/"
+                },
+                {
+                    "name": "Bachelor in Journalism and Mass Communication",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Humanities and Social Sciences",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/college/university-campus-rju/"
+                },
+                {
+                    "name": "Bachelor in Digital Business Management",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/college/university-campus-rju/"
+                },
+                {
+                    "name": "Bachelor of Public Health (BPH)",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Health Sciences",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/college/university-campus-rju/"
+                },
+                {
+                    "name": "BSc Medical Laboratory Technology",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Health Sciences",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/college/university-campus-rju/"
+                },
+                {
+                    "name": "Postgraduate Diploma in Education",
+                    "level": "Postgraduate diploma",
+                    "duration": null,
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/college/university-campus-rju/"
+                },
+                {
+                    "name": "Master of Business Administration (MBA)",
+                    "level": "Master",
+                    "duration": null,
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/college/university-campus-rju/"
+                },
+                {
+                    "name": "Master of Computer Application (MCA)",
+                    "level": "Master",
+                    "duration": null,
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/college/university-campus-rju/"
+                },
+                {
+                    "name": "MSc Environmental Science and Management",
+                    "level": "Master",
+                    "duration": null,
+                    "faculty": "Science",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/college/university-campus-rju/"
+                },
+                {
+                    "name": "Master of Laws (LLM)",
+                    "level": "Master",
+                    "duration": null,
+                    "faculty": "Law",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/college/university-campus-rju/"
+                }
+            ],
+            "facilities": [],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-41590931"
+                ],
+                "emails": [],
+                "website": "https://rju.edu.np",
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Madhesh Institute of Health Sciences",
+                "name_ne": null,
+                "slug": "madhesh-institute-of-health-sciences",
+                "ownership": "public",
+                "established_year": 2021,
+                "university": "Madhesh Institute of Health Sciences",
+                "municipality": "Janakpurdham Sub-Metropolitan City",
+                "address": "Janakpurdham, Dhanusha, Madhesh Province, Nepal",
+                "description": "Autonomous provincial health-sciences institute established under the Madhesh Institute of Health Science Act 2077. Public pages describe undergraduate teaching in medicine, nursing, public health and medical laboratory technology, with postgraduate MD/MS preparation reported in 2026.",
+                "mission": "To reduce suffering, disability and poverty in the province by enhancing specialized health care, research and education.",
+                "vision": null,
+                "source_urls": [
+                    "https://edusanjal.com/university/madhesh-institute-health-sciences/",
+                    "https://mihs.edu.np/programs/bachelor-of-medicine-bachelor-of-surgery-mbbs",
+                    "https://www.collegenp.com/institute/madhesh-institute-of-health-sciences-mihs"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "MBBS",
+                    "level": "Bachelor",
+                    "duration": "5.5 years including internship",
+                    "faculty": "Medicine",
+                    "fee": null,
+                    "source_url": "https://mihs.edu.np/programs/bachelor-of-medicine-bachelor-of-surgery-mbbs"
+                },
+                {
+                    "name": "BSc Nursing",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Nursing",
+                    "fee": 1036000,
+                    "source_url": "https://www.collegenp.com/institute/madhesh-institute-of-health-sciences-mihs"
+                },
+                {
+                    "name": "Bachelor of Public Health (BPH)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Health Sciences",
+                    "fee": 777000,
+                    "source_url": "https://www.collegenp.com/institute/madhesh-institute-of-health-sciences-mihs"
+                },
+                {
+                    "name": "BSc Medical Laboratory Technology",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Health Sciences",
+                    "fee": 777000,
+                    "source_url": "https://www.collegenp.com/institute/madhesh-institute-of-health-sciences-mihs"
+                },
+                {
+                    "name": "Bachelor in Nursing Science (BNS)",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Nursing",
+                    "fee": 518000,
+                    "source_url": "https://www.collegenp.com/institute/madhesh-institute-of-health-sciences-mihs"
+                }
+            ],
+            "facilities": [],
+            "gallery": [],
+            "videos": [],
+            "updates": [
+                {
+                    "title": "MIHS preparing to run MD and MS classes",
+                    "date": "2026-09-22",
+                    "summary": "Rising Nepal reported that MIHS was preparing MD/MS classes in medicine, surgery, gynecology, pediatrics, orthopedics and radiology after provincial hospital ownership was transferred.",
+                    "source_url": "https://risingnepaldaily.com/news/14927"
+                }
+            ],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "041-590867",
+                    "041-590868"
+                ],
+                "emails": [
+                    "mihs@mihs.edu.np",
+                    "info@mihs.edu.np"
+                ],
+                "website": "https://mihs.edu.np",
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Janaki Medical College",
+                "name_ne": "जानकी मेडिकल कलेज",
+                "slug": "janaki-medical-college",
+                "ownership": "private",
+                "established_year": 2003,
+                "university": "Tribhuvan University",
+                "municipality": "Kshireshwornath Municipality",
+                "address": "Kshireshwornath-1, Ramdaiya Bhawadi, Janakpurdham, Dhanusha, Nepal",
+                "description": "Private medical college managed by Ram Janaki Health Foundation and affiliated with Tribhuvan University Institute of Medicine. Wikipedia and the college site describe MBBS and later postgraduate medical programs, plus nursing.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://janakimedicalcollege.edu.np/mbbs-3/",
+                    "https://janakimedicalcollege.edu.np/contact/",
+                    "https://en.wikipedia.org/wiki/Janaki_Medical_College",
+                    "https://edusanjal.com/college/janaki-medical-college/"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "MBBS",
+                    "level": "Bachelor",
+                    "duration": "5.5 years including 1-year internship",
+                    "faculty": "Medicine",
+                    "fee": null,
+                    "source_url": "https://janakimedicalcollege.edu.np/mbbs-3/"
+                },
+                {
+                    "name": "MD/MS",
+                    "level": "Postgraduate",
+                    "duration": null,
+                    "faculty": "Medicine",
+                    "fee": null,
+                    "source_url": "https://en.wikipedia.org/wiki/Janaki_Medical_College"
+                },
+                {
+                    "name": "Bachelor of Nursing",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Nursing",
+                    "fee": null,
+                    "source_url": "https://en.wikipedia.org/wiki/Janaki_Medical_College"
+                }
+            ],
+            "facilities": [
+                "Teaching hospital"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "9802308014"
+                ],
+                "emails": [
+                    "info@janakimedicalcollege.edu.np"
+                ],
+                "website": "https://janakimedicalcollege.edu.np",
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Shree Mithila Ayurveda College and Research Centre",
+                "name_ne": null,
+                "slug": "shree-mithila-ayurveda-college-and-research-centre",
+                "ownership": "private",
+                "established_year": 2006,
+                "university": "Nepal Sanskrit University",
+                "municipality": "Nagarain Municipality",
+                "address": "Nagarain-5, Dhanusha, Nepal",
+                "description": "Ayurveda college established in 2063 BS under Nepal Sanskrit University and approved by the Nepal Ayurvedic Medical Council. It offers BAMS, including a one-year internship, and operates a teaching hospital.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://edusanjal.com/college/mithila-ayurveda-college-and-research-center/"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Ayurvedic Medicine and Surgery (BAMS)",
+                    "level": "Bachelor",
+                    "duration": "5.5 years including 1-year internship",
+                    "faculty": "Ayurveda",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/college/mithila-ayurveda-college-and-research-center/"
+                }
+            ],
+            "facilities": [
+                "Teaching hospital",
+                "Panchakarma residential program"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [],
+                "emails": [],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Janak Hajari Vidyapeeth",
+                "name_ne": "जनकहजारी विद्यापीठ",
+                "slug": "janak-hajari-vidyapeeth",
+                "ownership": "constituent",
+                "established_year": 1990,
+                "university": "Nepal Sanskrit University",
+                "municipality": "Janakpurdham Sub-Metropolitan City",
+                "address": "Janakpurdham, Dhanusha, Nepal",
+                "description": "Constituent vidyapeeth of Nepal Sanskrit University in Janakpurdham. Published accounts say it began with Uttar Madhyama and later added Shastri-level classes, with land, teaching buildings, hostel and library. Establishment year is published as 2047 BS on Collegenp and 2049 on Edusanjal.",
+                "mission": "To systematize Sanskrit education to higher level, preserve and promote its achievements, and produce scholars in Vyakaran, Jyotish and Sahitya.",
+                "vision": null,
+                "source_urls": [
+                    "https://www.collegenp.com/college/janak-hajari-vidyapeeth-dhanusa",
+                    "https://edusanjal.com/college/janak-hajari-vidyapeeth/"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Shastri",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Sanskrit",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/janak-hajari-vidyapeeth-dhanusa"
+                }
+            ],
+            "facilities": [
+                "Hostel",
+                "Cafeteria",
+                "Library",
+                "Sports",
+                "Conference",
+                "Journal",
+                "Counselling",
+                "Scholarships",
+                "Tour"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-41-520665"
+                ],
+                "emails": [
+                    "janakhajari@gmail.com"
+                ],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Rajarshi Janak Campus",
+                "name_ne": "राजर्षि जनक क्याम्पस",
+                "slug": "rajarshi-janak-campus",
+                "ownership": "private; also listed as public on Edusanjal",
+                "established_year": 1999,
+                "university": "Tribhuvan University",
+                "municipality": "Janakpurdham Sub-Metropolitan City",
+                "address": "Anand Nagar, Janakpurdham-4, Madhesh Province, Nepal",
+                "description": "Campus established in 1999 in Janakpurdham. Its website and Collegenp list TU bachelor and master programs in science, humanities, management, education and related fields, alongside +2 programs.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://www.collegenp.com/college/rajarshi-janak-campus-dhanusa",
+                    "https://rjc.edu.np/",
+                    "https://rjc.edu.np/contact-us/",
+                    "https://edusanjal.com/college/rajarshi-janak-campus/"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "BSc",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Science",
+                    "fee": null,
+                    "source_url": "https://rjc.edu.np/"
+                },
+                {
+                    "name": "BSc Microbiology",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Science",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/rajarshi-janak-campus-dhanusa"
+                },
+                {
+                    "name": "Bachelor of Arts (BA)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Humanities and Social Sciences",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/rajarshi-janak-campus-dhanusa-bachelor-of-arts-ba-ba"
+                },
+                {
+                    "name": "Bachelor of Business Studies (BBS)",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://rjc.edu.np/"
+                },
+                {
+                    "name": "Bachelor of Business Administration (BBA)",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/rajarshi-janak-campus-dhanusa"
+                },
+                {
+                    "name": "Bachelor of Education (B.Ed.), four years",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://rjc.edu.np/"
+                },
+                {
+                    "name": "One-year B.Ed.",
+                    "level": "Bachelor",
+                    "duration": "1 year",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://rjc.edu.np/"
+                },
+                {
+                    "name": "Master of Education (M.Ed.)",
+                    "level": "Master",
+                    "duration": null,
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://rjc.edu.np/"
+                },
+                {
+                    "name": "Master of Business Studies (MBS)",
+                    "level": "Master",
+                    "duration": null,
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://rjc.edu.np/"
+                }
+            ],
+            "facilities": [
+                "Science labs",
+                "Computer lab",
+                "Library",
+                "Cafeteria",
+                "Health service",
+                "Multimedia",
+                "E-library"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-41-426033",
+                    "+977-41-426104"
+                ],
+                "emails": [
+                    "rjcjanakpur@gmail.com"
+                ],
+                "website": "http://rjc.edu.np/",
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Janakpur Campus",
+                "name_ne": "जनकपुर क्याम्पस",
+                "slug": "janakpur-campus",
+                "ownership": "community",
+                "established_year": null,
+                "university": "Tribhuvan University",
+                "municipality": "Janakpurdham Sub-Metropolitan City",
+                "address": "Janakpurdham, Dhanusa, Nepal",
+                "description": "Community campus affiliated with Tribhuvan University and also running NEB +2 programs. Higher-education offerings published are B.Ed. and M.Ed.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://www.collegenp.com/college/janakpur-campus-dhanusa"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Education (B.Ed.)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/janakpur-campus-dhanusa"
+                },
+                {
+                    "name": "Master of Education (M.Ed.)",
+                    "level": "Master",
+                    "duration": null,
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/janakpur-campus-dhanusa"
+                }
+            ],
+            "facilities": [
+                "Library",
+                "Multimedia",
+                "Classrooms",
+                "Sports",
+                "Counseling",
+                "Conference hall",
+                "Journal",
+                "ECA",
+                "Tours"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [
+                {
+                    "question": "Where is Janakpur Campus located?",
+                    "answer": "Janakpur Campus is located in Janakpurdham, Dhanusa, Nepal."
+                },
+                {
+                    "question": "Which institutions is Janakpur Campus affiliated with?",
+                    "answer": "Janakpur Campus is affiliated with Tribhuvan University and the National Examinations Board."
+                }
+            ],
+            "contact": {
+                "phones": [
+                    "+977-41-522417"
+                ],
+                "emails": [],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Gauri Campus",
+                "name_ne": "गौरी क्याम्पस, जनकपुर",
+                "slug": "gauri-campus-janakpur",
+                "ownership": "public",
+                "established_year": null,
+                "university": "Tribhuvan University",
+                "municipality": "Janakpurdham Sub-Metropolitan City",
+                "address": "Bhanu Chowk, Kishorinagar, Janakpur, Dhanusa, Nepal",
+                "description": "Public campus offering the four-year TU Bachelor of Education, with major and minor subject specializations for secondary teaching.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://www.collegenp.com/college/gauri-campus-janakpur-dhanusa",
+                    "https://edusanjal.com/college/district/dhanusha/"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Education (B.Ed.)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/gauri-campus-janakpur-dhanusa"
+                }
+            ],
+            "facilities": [
+                "Library",
+                "Classrooms",
+                "Multimedia",
+                "Journal",
+                "Conference hall",
+                "Sports",
+                "Tour",
+                "ECA"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-41-528192"
+                ],
+                "emails": [],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "BP Koirala Campus",
+                "name_ne": "बीपी कोइराला क्याम्पस, जनकपुर",
+                "slug": "bp-koirala-campus-janakpur",
+                "ownership": "community",
+                "established_year": null,
+                "university": "Tribhuvan University",
+                "municipality": "Janakpurdham Sub-Metropolitan City",
+                "address": "Janakpur, Dhanusa, Nepal",
+                "description": "Community campus affiliated with Tribhuvan University and approved by UGC Nepal, focused on bachelor-level education.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://www.collegenp.com/college/bp-koirala-campus-dhanusa"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Education (B.Ed.)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/bp-koirala-campus-dhanusa"
+                }
+            ],
+            "facilities": [
+                "Library",
+                "Sports",
+                "Science Lab",
+                "Counselling",
+                "Scholarships",
+                "ECA"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [
+                {
+                    "question": "Where is BP Koirala Campus located?",
+                    "answer": "The campus is located in Janakpur, Dhanusa, Nepal."
+                },
+                {
+                    "question": "Is BP Koirala Campus affiliated with any university?",
+                    "answer": "Yes. The campus is affiliated with Tribhuvan University."
+                }
+            ],
+            "contact": {
+                "phones": [
+                    "+977-41-523011"
+                ],
+                "emails": [],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Public Youth Campus",
+                "name_ne": null,
+                "slug": "public-youth-campus-janakpur",
+                "ownership": "private",
+                "established_year": 1998,
+                "university": "Tribhuvan University",
+                "municipality": "Janakpurdham Sub-Metropolitan City",
+                "address": "Janakpur, Dhanusha, Nepal",
+                "description": "Private campus established in 1998 and affiliated with Tribhuvan University. Published bachelor programs are BBS, B.Ed. and BCA.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://www.collegenp.com/college/youth-campus-dhanusa",
+                    "https://edusanjal.com/college/youth-campus/"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Business Studies (BBS)",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/youth-campus-dhanusa"
+                },
+                {
+                    "name": "Bachelor of Education (B.Ed.)",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/youth-campus-dhanusa"
+                },
+                {
+                    "name": "Bachelor of Computer Application (BCA)",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/youth-campus-dhanusa"
+                }
+            ],
+            "facilities": [
+                "Scholarships"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-41-420357",
+                    "+977-420111",
+                    "+977-9854024607"
+                ],
+                "emails": [
+                    "youthcampusjnk@gmail.com"
+                ],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Mithila College",
+                "name_ne": null,
+                "slug": "mithila-college-janakpur",
+                "ownership": "public",
+                "established_year": 2000,
+                "university": "Tribhuvan University",
+                "municipality": "Janakpurdham Sub-Metropolitan City",
+                "address": "Janakpurdham-4, Dhanusha, Madhesh Province, Nepal",
+                "description": "Public campus established in 2000 and listed as offering TU Bachelor of Business Studies. Some published phone and email details overlap with Mithila Institute of Technology listings and should be verified directly.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://www.collegenp.com/college/mithila-college-dhanusa",
+                    "https://edusanjal.com/college/mithila-college/"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Business Studies (BBS)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/mithila-college-dhanusa"
+                }
+            ],
+            "facilities": [
+                "Library",
+                "Transport",
+                "Conference",
+                "Multimedia",
+                "Journal",
+                "Scholarships",
+                "Computer Lab",
+                "Classrooms"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-41-425035",
+                    "+977-41-426377",
+                    "041-523035"
+                ],
+                "emails": [
+                    "mitcampus.jnk@gmail.com"
+                ],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Mithila Institute of Technology",
+                "name_ne": "मिथिला इन्स्टिच्युट अफ टेक्नोलोजी",
+                "slug": "mithila-institute-of-technology",
+                "ownership": "private",
+                "established_year": null,
+                "university": "Tribhuvan University; Far Western University; Rajarshi Janak University",
+                "municipality": "Janakpurdham Sub-Metropolitan City",
+                "address": "Bishara Chowk-4, Janakpurdham, Dhanusha, Madhesh Province, Nepal",
+                "description": "Private institution at Bishara Chowk listing bachelor programs under more than one university, including BBS, BBA and BSc CSIT. Its website also advertises BA, law and MBS. Establishment year is not used here because directory dates conflict with the school history on the campus site.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://www.collegenp.com/college/mithila-institute-of-technology",
+                    "https://mitjnk.edu.np/",
+                    "https://edusanjal.com/college/mithila-institute-of-technology/"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Business Studies (BBS)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/mithila-institute-of-technology"
+                },
+                {
+                    "name": "Bachelor of Business Administration (BBA)",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/mithila-institute-of-technology"
+                },
+                {
+                    "name": "BSc Computer Science and Information Technology",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Science and Technology",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/mithila-institute-of-technology-bsc-csit"
+                },
+                {
+                    "name": "Bachelor of Arts (BA)",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Humanities and Social Sciences",
+                    "fee": null,
+                    "source_url": "https://mitjnk.edu.np/"
+                },
+                {
+                    "name": "Bachelor in Law",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Law",
+                    "fee": null,
+                    "source_url": "https://mitjnk.edu.np/"
+                },
+                {
+                    "name": "Master of Business Studies (MBS)",
+                    "level": "Master",
+                    "duration": null,
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://mitjnk.edu.np/"
+                }
+            ],
+            "facilities": [],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-41-425035",
+                    "+977-41-426377",
+                    "+977-9864215659",
+                    "+977-9854025907"
+                ],
+                "emails": [
+                    "mitcampus.jnk@gmail.com"
+                ],
+                "website": "https://mitjnk.edu.np",
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Universal Academy College",
+                "name_ne": null,
+                "slug": "universal-academy-college",
+                "ownership": "private; also listed as public on Edusanjal",
+                "established_year": 1999,
+                "university": "Tribhuvan University",
+                "municipality": "Janakpurdham Sub-Metropolitan City",
+                "address": "Janakpurdham-9, near north of Sankat Mochan Mandir, Dhanusa, Nepal",
+                "description": "College established in 1999. Collegenp lists TU bachelor programs in education and management in addition to +2 streams.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://www.collegenp.com/college/universal-academy-college-dhanusa",
+                    "https://edusanjal.com/college/universal-academy-college/"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Education (B.Ed.)",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/universal-academy-college-dhanusa"
+                },
+                {
+                    "name": "Bachelor of Business Studies (BBS)",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/universal-academy-college-dhanusa"
+                }
+            ],
+            "facilities": [
+                "Library",
+                "Sports",
+                "Science Lab",
+                "Computer Lab",
+                "Multimedia",
+                "Journal",
+                "Counseling",
+                "Scholarships",
+                "Classrooms",
+                "Conference Hall",
+                "ECA"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-41-524675",
+                    "+977-9826869870"
+                ],
+                "emails": [
+                    "universalcollegejnk@gmail.com"
+                ],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "New Millennium College of Education",
+                "name_ne": null,
+                "slug": "new-millennium-college-of-education",
+                "ownership": "private",
+                "established_year": 2009,
+                "university": "Tribhuvan University",
+                "municipality": "Janakpurdham Sub-Metropolitan City",
+                "address": "Devichaur, Janakpur, Dhanusha, Nepal",
+                "description": "Private college established in 2009 offering TU bachelor programs in management and education, with morning and evening shifts, in addition to +2 programs.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://www.collegenp.com/college/new-millennium-college-of-education-dhanusa"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Business Studies (BBS)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/new-millennium-college-of-education-dhanusa-bachelor-of-business-studies-bbs-bbs"
+                },
+                {
+                    "name": "Bachelor of Education (B.Ed.)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/new-millennium-college-of-education-dhanusa"
+                }
+            ],
+            "facilities": [
+                "Library",
+                "Computer lab",
+                "Multimedia",
+                "Journals",
+                "Counseling",
+                "Sports",
+                "Classrooms",
+                "Hostel",
+                "Transport",
+                "ECA"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [
+                {
+                    "question": "Which university is BBS affiliated with at this campus?",
+                    "answer": "BBS is affiliated with Tribhuvan University."
+                },
+                {
+                    "question": "Does the campus provide hostel and transport services?",
+                    "answer": "The campus provides girls' and boys' hostel facilities and a transport facility on multiple routes."
+                }
+            ],
+            "contact": {
+                "phones": [
+                    "+977-9801085884",
+                    "+977-41-521480",
+                    "+977-9801085885"
+                ],
+                "emails": [
+                    "newmillennium2074@gmail.com"
+                ],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "City College Janakpur",
+                "name_ne": null,
+                "slug": "city-college-janakpur",
+                "ownership": "private",
+                "established_year": null,
+                "university": "Tribhuvan University",
+                "municipality": "Janakpurdham Sub-Metropolitan City",
+                "address": "Janakpur, Janakpurdham, Dhanusha",
+                "description": "Edusanjal lists City College as a private institution in Janakpurdham affiliated with Tribhuvan University and offering BBS. No further public contact or fee details were found on the opened page.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://edusanjal.com/college/city-college-janakpur/"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Business Studies (BBS)",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/college/city-college-janakpur/"
+                }
+            ],
+            "facilities": [],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [],
+                "emails": [],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Shree Tapasi Baba College",
+                "name_ne": "श्री तपसी बाबा कलेज",
+                "slug": "shree-tapasi-baba-college",
+                "ownership": "community",
+                "established_year": 2012,
+                "university": "Tribhuvan University",
+                "municipality": "Hansapur Municipality",
+                "address": "Hansapur Municipality-6, Tilhi, Dhanusha, Madhesh Province, Nepal",
+                "description": "Public/community college established in 2012 at Tilhi, affiliated with Tribhuvan University for a four-year B.Ed. program.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://www.collegenp.com/college/shree-tapasi-baba-college"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Education (B.Ed.)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/shree-tapasi-baba-college"
+                }
+            ],
+            "facilities": [
+                "Library",
+                "Multimedia",
+                "Classrooms",
+                "Sports",
+                "Journal",
+                "Counseling",
+                "Scholarships",
+                "Conference hall",
+                "Tours",
+                "ECA"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-9844433333",
+                    "+977-9807273910",
+                    "+977-9844025907"
+                ],
+                "emails": [
+                    "shreetapasibabocollege2@gmail.com"
+                ],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Vigyan Adhyayan Kendra Campus",
+                "name_ne": "विज्ञान अध्ययन केन्द्र क्याम्पस",
+                "slug": "vigyan-adhyayan-kendra-campus",
+                "ownership": "community",
+                "established_year": 1994,
+                "university": "Tribhuvan University",
+                "municipality": "Janakpurdham Sub-Metropolitan City",
+                "address": "Tirhutiagachhi, Janakpurdham, Dhanusha, Madhesh Province, Nepal",
+                "description": "Community campus established in 2051 BS. It runs +2 programs and a TU-affiliated four-year B.Ed.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://www.collegenp.com/college/vigyan-adhyayan-kendra-campus"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Education (B.Ed.)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/vigyan-adhyayan-kendra-campus-bachelor-of-education-bed"
+                }
+            ],
+            "facilities": [],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [
+                {
+                    "question": "Which university is the B.Ed. affiliated with?",
+                    "answer": "The program is affiliated with Tribhuvan University."
+                },
+                {
+                    "question": "Where is the B.Ed. program conducted?",
+                    "answer": "Classes run at Tirhutiagachhi, Janakpurdham, Dhanusha, Madhesh Pradesh, Nepal."
+                }
+            ],
+            "contact": {
+                "phones": [
+                    "+977-41-522530"
+                ],
+                "emails": [],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Central Engineering College",
+                "name_ne": null,
+                "slug": "central-engineering-college",
+                "ownership": "private",
+                "established_year": null,
+                "university": "Purbanchal University",
+                "municipality": "Janakpurdham Sub-Metropolitan City",
+                "address": "Ramanand Chowk, Janakpurdham-8, Dhanusa, Madhesh Province, Nepal",
+                "description": "Private engineering college at Ramanand Chowk. Collegenp lists Purbanchal University bachelor programs and CTEVT diploma and pre-diploma programs. Published establishment years conflict between 1992 and 2066 BS, so the year is left unset.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://www.collegenp.com/college/central-engineering-college-dhanusa",
+                    "https://edusanjal.com/college/central-engineering-college/",
+                    "https://kaha6.com/company/central-engineering-college-dhanusa/"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Civil Engineering",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Engineering",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/central-engineering-college-dhanusa"
+                },
+                {
+                    "name": "Bachelor of Electrical Engineering",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Engineering",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/central-engineering-college-dhanusa"
+                },
+                {
+                    "name": "Bachelor of Information Technology (BIT)",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Information Technology",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/central-engineering-college-dhanusa"
+                },
+                {
+                    "name": "Diploma in Civil Engineering",
+                    "level": "Diploma",
+                    "duration": "3 years",
+                    "faculty": "Engineering",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/college/central-engineering-college/"
+                },
+                {
+                    "name": "Diploma in Electrical Engineering",
+                    "level": "Diploma",
+                    "duration": "3 years",
+                    "faculty": "Engineering",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/college/central-engineering-college/"
+                }
+            ],
+            "facilities": [
+                "Classrooms",
+                "Library",
+                "Computer lab"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-41-527336"
+                ],
+                "emails": [],
+                "website": "http://www.cecjanakpur.com",
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Nepal Technical Institute",
+                "name_ne": null,
+                "slug": "nepal-technical-institute",
+                "ownership": "private",
+                "established_year": 2005,
+                "university": "CTEVT",
+                "municipality": "Janakpurdham Sub-Metropolitan City",
+                "address": "Ramananda Chowk-8, Janakpur, Dhanusa, Nepal",
+                "description": "CTEVT-affiliated technical institute established in 2005, offering diploma programs in engineering, nursing, pharmacy and laboratory technology. It is described as a sister organization of Central Engineering College.",
+                "mission": "To find and train students for lifelong professional learning and leadership in engineering, health science and technology.",
+                "vision": "To be a technically creative engineering or health college and a recognized institute in Nepal.",
+                "source_urls": [
+                    "https://www.collegenp.com/college/nepal-technical-institute-dhanusa",
+                    "https://ctevtp2.org.np/view-page/162"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Diploma in Civil Engineering",
+                    "level": "Diploma",
+                    "duration": null,
+                    "faculty": "Engineering",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/nepal-technical-institute-dhanusa"
+                },
+                {
+                    "name": "Diploma in Electrical Engineering",
+                    "level": "Diploma",
+                    "duration": null,
+                    "faculty": "Engineering",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/nepal-technical-institute-dhanusa"
+                },
+                {
+                    "name": "Diploma in Pharmacy",
+                    "level": "Diploma",
+                    "duration": null,
+                    "faculty": "Pharmacy",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/nepal-technical-institute-dhanusa"
+                },
+                {
+                    "name": "PCL Nursing",
+                    "level": "Diploma",
+                    "duration": "3 years",
+                    "faculty": "Nursing",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/nepal-technical-institute-dhanusa"
+                },
+                {
+                    "name": "Certificate in Medical Laboratory Technology (CMLT)",
+                    "level": "Diploma",
+                    "duration": null,
+                    "faculty": "Health Sciences",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/nepal-technical-institute-dhanusa"
+                }
+            ],
+            "facilities": [
+                "Internet",
+                "Transport",
+                "Science Lab",
+                "Health Care",
+                "Conference",
+                "Multimedia",
+                "Journal",
+                "Placement",
+                "Counselling",
+                "Scholarships",
+                "Computer Lab",
+                "Classrooms",
+                "ECA"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-41-527336"
+                ],
+                "emails": [],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Central Management College",
+                "name_ne": null,
+                "slug": "central-management-college-janakpur",
+                "ownership": "private",
+                "established_year": 2022,
+                "university": "Purbanchal University",
+                "municipality": "Janakpurdham Sub-Metropolitan City",
+                "address": "Bijay Bhawan, Janakpurdham-8, Dhanusha, Madhesh Province, Nepal",
+                "description": "Management college established in 2022 under Nepal Technical Institute Pvt. Ltd. and affiliated with Purbanchal University Faculty of Management for BBA and MBA.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://www.collegenp.com/college/central-management-college-janakpur",
+                    "https://pufom.edu.np/college"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Business Administration (BBA)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/central-management-college-janakpur"
+                },
+                {
+                    "name": "Master of Business Administration (MBA)",
+                    "level": "Master",
+                    "duration": "2 years",
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/central-management-college-janakpur-master-of-business-administration-mba"
+                }
+            ],
+            "facilities": [],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-9854029897"
+                ],
+                "emails": [],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Model Purbanchal College",
+                "name_ne": null,
+                "slug": "model-purbanchal-college",
+                "ownership": "private",
+                "established_year": 2009,
+                "university": "Purbanchal University",
+                "municipality": "Janakpurdham Sub-Metropolitan City",
+                "address": "Janakpur, Dhanusha, Madhesh Province, Nepal",
+                "description": "Private college established in 2009 and affiliated with Purbanchal University. Published programs are BIT, BBA and MBA.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://www.collegenp.com/college/model-purbanchal-college-janakpur",
+                    "https://pufom.edu.np/college"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor in Information Technology (BIT)",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Information Technology",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/model-purbanchal-college-janakpur"
+                },
+                {
+                    "name": "Bachelor of Business Administration (BBA)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/model-purbanchal-college-janakpur"
+                },
+                {
+                    "name": "Master of Business Administration (MBA)",
+                    "level": "Master",
+                    "duration": null,
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/model-purbanchal-college-janakpur"
+                }
+            ],
+            "facilities": [
+                "Digital classrooms",
+                "Computer laboratory",
+                "Science laboratory",
+                "Library"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-9801657744"
+                ],
+                "emails": [],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Janaki College of Management",
+                "name_ne": null,
+                "slug": "janaki-college-of-management",
+                "ownership": "private",
+                "established_year": 2008,
+                "university": "Purbanchal University",
+                "municipality": "Janakpurdham Sub-Metropolitan City",
+                "address": "Janakpurdham-4, Pidariya Mai Sthan, Janakpurdham, Dhanusha, Madhesh Province, Nepal",
+                "description": "Management college established in 2008 and listed by Purbanchal University Faculty of Management for BBA with 144 seats.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://www.collegenp.com/college/janaki-college-of-management",
+                    "https://pufom.edu.np/college"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Business Administration (BBA)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/janaki-college-of-management"
+                }
+            ],
+            "facilities": [],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-9854029154"
+                ],
+                "emails": [],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Model Multiple College",
+                "name_ne": "मोडल बहुमुखी कलेज",
+                "slug": "model-multiple-college",
+                "ownership": "private",
+                "established_year": 1997,
+                "university": "Tribhuvan University; Purbanchal University",
+                "municipality": "Janakpurdham Sub-Metropolitan City",
+                "address": "Janakpur-4, Ramchowk, Dhanusha, Madhesh Province, Nepal",
+                "description": "Private college established in 1997. Collegenp lists university bachelor and master programs and CTEVT health programs, plus +2 streams.",
+                "mission": "To provide a comprehensive educational environment that fosters intellectual growth, practical skills and ethical values, and to prepare graduates for careers and responsible citizenship.",
+                "vision": null,
+                "source_urls": [
+                    "https://www.collegenp.com/college/model-multiple-college-dhanusa/",
+                    "https://edusanjal.com/college/model-multiple-college/"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Business Studies (BBS)",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/model-multiple-college-dhanusa/"
+                },
+                {
+                    "name": "Bachelor of Education (B.Ed.)",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/model-multiple-college-dhanusa/"
+                },
+                {
+                    "name": "BSc",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Science",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/model-multiple-college-dhanusa/"
+                },
+                {
+                    "name": "Bachelor of Computer Application (BCA)",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/model-multiple-college-dhanusa/"
+                },
+                {
+                    "name": "Bachelor of Business Administration (BBA)",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/model-multiple-college-dhanusa/"
+                },
+                {
+                    "name": "Master of Business Administration (MBA)",
+                    "level": "Master",
+                    "duration": null,
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/model-multiple-college-dhanusa/"
+                },
+                {
+                    "name": "Master of Business Studies (MBS)",
+                    "level": "Master",
+                    "duration": null,
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/model-multiple-college-dhanusa/"
+                },
+                {
+                    "name": "Certificate in Medical Laboratory Technology (CMLT)",
+                    "level": "Diploma",
+                    "duration": null,
+                    "faculty": "Health Sciences",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/model-multiple-college-dhanusa/"
+                },
+                {
+                    "name": "Health Assistant (HA)",
+                    "level": "Diploma",
+                    "duration": null,
+                    "faculty": "Health Sciences",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/model-multiple-college-dhanusa/"
+                }
+            ],
+            "facilities": [
+                "Cafeteria",
+                "Library",
+                "Sports",
+                "Science Lab",
+                "Conference",
+                "Multimedia",
+                "Counselling",
+                "Scholarships",
+                "Computer Lab",
+                "Classrooms",
+                "Conference Hall",
+                "ECA"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-41-523666",
+                    "+977-41-525408",
+                    "+977-41-520662"
+                ],
+                "emails": [
+                    "mmc.jnk@gmail.com"
+                ],
+                "website": "http://mmcjnk.edu.np",
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Model College of Law",
+                "name_ne": "मोडेल कलेज अफ ल",
+                "slug": "model-college-of-law",
+                "ownership": "private",
+                "established_year": 2024,
+                "university": "Purbanchal University",
+                "municipality": "Janakpurdham Sub-Metropolitan City",
+                "address": "Janakpur, Dhanusha, Madhesh Province, Nepal",
+                "description": "Law college established in 2081 BS and affiliated with Purbanchal University Faculty of Law for a five-year integrated BA LLB program.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://www.collegenp.com/college/model-college-of-law-janakpur"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Arts and Bachelor of Laws (BA LLB)",
+                    "level": "Bachelor",
+                    "duration": "5 years",
+                    "faculty": "Law",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/model-college-of-law-janakpur"
+                }
+            ],
+            "facilities": [
+                "Digital classrooms",
+                "Laboratories",
+                "Library"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-9801657744",
+                    "+977-9801657755",
+                    "+977-41-420100",
+                    "+977-41-420377"
+                ],
+                "emails": [
+                    "info@modelcollege.edu.np"
+                ],
+                "website": "http://www.modelcollege.edu.np",
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Model Medical Institute",
+                "name_ne": null,
+                "slug": "model-medical-institute",
+                "ownership": "private",
+                "established_year": null,
+                "university": "CTEVT",
+                "municipality": "Janakpurdham Sub-Metropolitan City",
+                "address": "Ram Chowk, Janakpurdham, Dhanusha, Nepal",
+                "description": "Private CTEVT health institute offering diploma-level general medicine and medical laboratory technology. It is described as a sister institution of Model Multiple College.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://www.collegenp.com/college/model-medical-institute-dhanusa",
+                    "https://edusanjal.com/school/model-medical-institute/"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Certificate in Medical Laboratory Technology (CMLT)",
+                    "level": "Diploma",
+                    "duration": "3 years",
+                    "faculty": "Health Sciences",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/model-medical-institute-dhanusa"
+                },
+                {
+                    "name": "PCL in General Medicine (Health Assistant)",
+                    "level": "Diploma",
+                    "duration": "3 years",
+                    "faculty": "Health Sciences",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/model-medical-institute-dhanusa"
+                }
+            ],
+            "facilities": [
+                "Cafeteria",
+                "Library",
+                "Sports",
+                "Science Lab",
+                "Conference",
+                "Multimedia",
+                "Placement",
+                "Counselling",
+                "Scholarships",
+                "Tour"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-41-523666",
+                    "+977-41-520662",
+                    "+977-9844039242"
+                ],
+                "emails": [
+                    "mmc.jnk.ctevt@gmail.com"
+                ],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": [
+                {
+                    "question": "HA ko result published vayo sir?",
+                    "answer": null,
+                    "source_url": "https://www.collegenp.com/college/model-medical-institute-dhanusa"
+                }
+            ]
+        },
+        {
+            "overview": {
+                "name": "Janakpur Community College",
+                "name_ne": null,
+                "slug": "janakpur-community-college",
+                "ownership": "community",
+                "established_year": 2022,
+                "university": "Purbanchal University; Kathmandu University",
+                "municipality": "Janakpurdham Sub-Metropolitan City",
+                "address": "Agni Kund, Janakpurdham-8, Dhanusha; also listed as Ramanand Chowk",
+                "description": "College established in 2022 by Janakpur Community Development Foundation. BIT and BSc Agriculture are affiliated with Purbanchal University, and Bachelor of Social Work with Kathmandu University.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://www.collegenp.com/college/janakpur-community-college",
+                    "https://edusanjal.com/college/janakpur-community-college/"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor in Information Technology (BIT)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Information Technology",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/janakpur-community-college"
+                },
+                {
+                    "name": "BSc (Honours) Agriculture",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Agriculture",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/janakpur-community-college-bsc-hons-agriculture"
+                },
+                {
+                    "name": "Bachelor of Social Work (BSW)",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Humanities and Social Sciences",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/college/janakpur-community-college/"
+                }
+            ],
+            "facilities": [],
+            "gallery": [],
+            "videos": [],
+            "updates": [
+                {
+                    "title": "Admission Open 2083",
+                    "date": "2026-06-23",
+                    "summary": "Public listing invited applications for BIT and BSc (Hons) Agriculture affiliated to Purbanchal University, with scholarship opportunities mentioned.",
+                    "source_url": "https://www.glunis.com/NP/Janakpur/105172642359607/Janakpur-Community-College"
+                }
+            ],
+            "faqs": [
+                {
+                    "question": "What is the duration of B.Sc. (Honours) Agriculture?",
+                    "answer": "The program runs for four years and is divided into eight semesters."
+                }
+            ],
+            "contact": {
+                "phones": [
+                    "041-591195",
+                    "9700042099",
+                    "9708035535",
+                    "9745942243"
+                ],
+                "emails": [],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Janaki College for Professional Studies",
+                "name_ne": null,
+                "slug": "janaki-college-for-professional-studies",
+                "ownership": "private",
+                "established_year": 2022,
+                "university": "Kathmandu University",
+                "municipality": "Janakpurdham Sub-Metropolitan City",
+                "address": "Akshar Vidya Mandir, Janakpurdham, Dhanusha, Madhesh Province, Nepal",
+                "description": "College established in 2022 and associated with the Lord Buddha Education Foundation group. It offers a Kathmandu University Bachelor of Technical Education in Information Technology.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://www.collegenp.com/college/janaki-college-for-professional-studies",
+                    "https://edusanjal.com/college/janaki-college-for-professional-studies/"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Technical Education in Information Technology",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/janaki-college-for-professional-studies"
+                }
+            ],
+            "facilities": [],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-41-590040"
+                ],
+                "emails": [],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Siddhartha International College",
+                "name_ne": null,
+                "slug": "siddhartha-international-college-dhanusha",
+                "ownership": "private",
+                "established_year": 2022,
+                "university": "Rajarshi Janak University",
+                "municipality": "Janakpurdham Sub-Metropolitan City",
+                "address": "Bhanu Chowk, Janakpurdham, Dhanusha",
+                "description": "College established in 2079 BS at Bhanu Chowk and affiliated with Rajarshi Janak University for BBA. This is distinct from the similarly named college in Butwal.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://edusanjal.com/college/siddhartha-international-college-dhanusha/",
+                    "https://www.facebook.com/siddharthainternationalcollege"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Business Administration (BBA)",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/college/siddhartha-international-college-dhanusha/"
+                }
+            ],
+            "facilities": [],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "985-4026565"
+                ],
+                "emails": [
+                    "siddhartha2038@gmail.com"
+                ],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Krishna Medical and Technical Research Centre",
+                "name_ne": null,
+                "slug": "krishna-medical-and-technical-research-centre",
+                "ownership": "private",
+                "established_year": null,
+                "university": "Purbanchal University",
+                "municipality": "Janakpurdham Sub-Metropolitan City",
+                "address": "Janakpur, Janakpurdham, Dhanusha",
+                "description": "Purbanchal University health institution offering public health, pharmacy and nursing degrees. Nursing education is described as accredited by the Nepal Nursing Council, with a 100-bed hospital for practicum.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://www.collegenp.com/college/krishna-medical-and-technical-research-centre-dhanusa",
+                    "https://edusanjal.com/college/krishna-medical-and-technical-research-centre/"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Public Health (BPH)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Health Sciences",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/krishna-medical-and-technical-research-centre-dhanusa"
+                },
+                {
+                    "name": "Bachelor of Pharmacy (B.Pharm)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Pharmacy",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/krishna-medical-and-technical-research-centre-dhanusa"
+                },
+                {
+                    "name": "Bachelor of Science in Nursing (BSN)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Nursing",
+                    "fee": 1036000,
+                    "source_url": "https://www.collegenp.com/course/krishna-medical-and-technical-research-centre-dhanusa-bachelor-of-science-bsc-in-nursing-bsc"
+                },
+                {
+                    "name": "Post-Basic Bachelor of Nursing Science (PBNS)",
+                    "level": "Bachelor",
+                    "duration": "3 years",
+                    "faculty": "Nursing",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/krishna-medical-and-technical-research-centre-dhanusa-post-basic-bachelor-in-nursing-science-pbns"
+                }
+            ],
+            "facilities": [
+                "100-bed hospital for practicum",
+                "Laboratories",
+                "Library"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [],
+                "emails": [],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Sinha Health Foundation",
+                "name_ne": null,
+                "slug": "sinha-health-foundation",
+                "ownership": "private",
+                "established_year": 2008,
+                "university": "Purbanchal University",
+                "municipality": "Janakpurdham Sub-Metropolitan City",
+                "address": "Bhamarpura Chowk, Janakpurdham, Dhanusha, Nepal",
+                "description": "Private nursing college established in 2008, affiliated with Purbanchal University and accredited by the Nepal Nursing Council. Published programs are post-basic BN and BSc Nursing.",
+                "mission": null,
+                "vision": "Enabling youth of Nepal to have a purposeful vision, mission and goal.",
+                "source_urls": [
+                    "https://www.collegesnepal.com/sinha-health-foundation/",
+                    "https://www.collegenp.com/course/sinha-health-foundation-dhanusa-bachelor-of-nursing-bn-bn",
+                    "https://edusanjal.com/college/sinha-health-foundation/"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Nursing (BN / post-basic)",
+                    "level": "Bachelor",
+                    "duration": "3 years",
+                    "faculty": "Nursing",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/sinha-health-foundation-dhanusa-bachelor-of-nursing-bn-bn"
+                },
+                {
+                    "name": "BSc Nursing",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Nursing",
+                    "fee": null,
+                    "source_url": "https://www.collegesnepal.com/sinha-health-foundation/"
+                }
+            ],
+            "facilities": [
+                "Computer laboratory",
+                "Classrooms",
+                "Library",
+                "Laboratories",
+                "Sports"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "041-527442"
+                ],
+                "emails": [
+                    "sinhahealth2066@gmail.com"
+                ],
+                "website": "http://shf.edu.np",
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Janakpur Nursing Campus",
+                "name_ne": "जनकपुर नर्सिङ क्याम्पस",
+                "slug": "janakpur-nursing-campus",
+                "ownership": "private",
+                "established_year": 2000,
+                "university": "CTEVT",
+                "municipality": "Janakpurdham Sub-Metropolitan City",
+                "address": "Devi Chowk-10, near Janakpur Zonal Hospital, Janakpurdham, Dhanusa, Nepal",
+                "description": "Private nursing campus established in 2000, affiliated with CTEVT and accredited by the Nepal Nursing Council. It offers a three-year PCL Nursing program with 40 seats.",
+                "mission": "To provide nursing training so graduates can give quality care in hospital and community settings.",
+                "vision": "To produce nurses distinguished by the standard of their nursing services.",
+                "source_urls": [
+                    "https://www.collegenp.com/college/janakpur-nursing-campus-dhanusa",
+                    "https://edusanjal.com/school/janakpur-nursing-campus/"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "PCL Nursing (Staff Nurse)",
+                    "level": "Diploma",
+                    "duration": "3 years",
+                    "faculty": "Nursing",
+                    "fee": 475000,
+                    "source_url": "https://www.collegenp.com/course/janakpur-nursing-campus-dhanusa-pcl-nursing-staff-nurse-staff-nurse"
+                }
+            ],
+            "facilities": [],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-41-525728",
+                    "+977-41-520816"
+                ],
+                "emails": [
+                    "campusjn123@gmail.com",
+                    "janakpurnursingcampus@gmail.com"
+                ],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "National Human Resource Development Academy",
+                "name_ne": null,
+                "slug": "national-human-resource-development-academy",
+                "ownership": "private",
+                "established_year": 2002,
+                "university": "CTEVT",
+                "municipality": "Janakpurdham Sub-Metropolitan City",
+                "address": "Dhanusha-8, Janakpur, Dhanusa",
+                "description": "Private CTEVT health institute established in 2002, accredited by the Nepal Nursing Council and Nepal Health Professional Council. Published programs include PCL Nursing and CMLT.",
+                "mission": "To empower Nepal's healthcare workforce by training skilled mid-level healthcare professionals.",
+                "vision": "To be a driving force in advancing healthcare in Nepal.",
+                "source_urls": [
+                    "https://edusanjal.com/school/national-human-resource-development-academy/",
+                    "https://www.collegenp.com/course/national-human-resource-development-academy-dhanusa-pcl-nursing-staff-nurse-staff-nurse"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "PCL Nursing",
+                    "level": "Diploma",
+                    "duration": "3 years",
+                    "faculty": "Nursing",
+                    "fee": 624230,
+                    "source_url": "https://www.collegenp.com/course/national-human-resource-development-academy-dhanusa-pcl-nursing-staff-nurse-staff-nurse"
+                },
+                {
+                    "name": "Certificate in Medical Laboratory Technology (CMLT)",
+                    "level": "Diploma",
+                    "duration": null,
+                    "faculty": "Health Sciences",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/school/national-human-resource-development-academy/"
+                }
+            ],
+            "facilities": [],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-41-528042",
+                    "+977-41-527342"
+                ],
+                "emails": [
+                    "nhrdanursing@gmail.com"
+                ],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Valley College of Engineering",
+                "name_ne": null,
+                "slug": "valley-college-of-engineering",
+                "ownership": "private",
+                "established_year": 2010,
+                "university": "CTEVT",
+                "municipality": "Janakpurdham Sub-Metropolitan City",
+                "address": "Ramanand Chowk, Janakpurdham-8, Dhanusha, Nepal",
+                "description": "Private CTEVT institute established in 2010. It ran Diploma in Civil Engineering in Kathmandu until 2023 and is listed as having moved to Janakpur in 2024.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://edusanjal.com/school/valley-college-of-engineering/"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Diploma in Civil Engineering",
+                    "level": "Diploma",
+                    "duration": "3 years",
+                    "faculty": "Engineering",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/school/valley-college-of-engineering/"
+                }
+            ],
+            "facilities": [
+                "Multimedia classroom",
+                "Computer lab",
+                "E-library",
+                "Playground",
+                "Library"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [],
+                "emails": [],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Care Medical Center",
+                "name_ne": null,
+                "slug": "care-medical-center",
+                "ownership": "private",
+                "established_year": 2008,
+                "university": "CTEVT",
+                "municipality": "Janakpurdham Sub-Metropolitan City",
+                "address": "Pidarichowk-9, Janakpurdham, Dhanusa, Nepal",
+                "description": "Private CTEVT health training institute established in 2008. Published programs are PCL Nursing and PCL General Medicine, each with 40 seats.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://www.collegenp.com/college/care-medical-center-dhanusa/",
+                    "https://www.collegenp.com/course/care-medical-center-dhanusa-pcl-in-general-medicine-health-assistant-ha-ha"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "PCL Nursing",
+                    "level": "Diploma",
+                    "duration": "3 years",
+                    "faculty": "Nursing",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/care-medical-center-dhanusa/"
+                },
+                {
+                    "name": "PCL in General Medicine (Health Assistant)",
+                    "level": "Diploma",
+                    "duration": "3 years",
+                    "faculty": "Health Sciences",
+                    "fee": 523820,
+                    "source_url": "https://www.collegenp.com/course/care-medical-center-dhanusa-pcl-in-general-medicine-health-assistant-ha-ha"
+                }
+            ],
+            "facilities": [
+                "Cafeteria",
+                "Library",
+                "Science Lab",
+                "Health Care",
+                "Conference",
+                "Multimedia",
+                "Journal",
+                "Placement",
+                "Counselling",
+                "Scholarships",
+                "Internship"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-41-520479"
+                ],
+                "emails": [],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": [
+                {
+                    "question": "In which date entrance exam will be happened",
+                    "answer": null,
+                    "source_url": "https://www.collegenp.com/course/care-medical-center-dhanusa-pcl-in-general-medicine-health-assistant-ha-ha"
+                }
+            ]
+        },
+        {
+            "overview": {
+                "name": "Ram Janaki Health Foundation",
+                "name_ne": null,
+                "slug": "ram-janaki-health-foundation",
+                "ownership": "private",
+                "established_year": null,
+                "university": "CTEVT",
+                "municipality": "Janakpurdham Sub-Metropolitan City",
+                "address": "Janakpur, Dhanusha, Nepal",
+                "description": "Private foundation that manages Janaki Medical College and is also the named admitting institution for CTEVT certificate-level nursing seats in Janakpur. A 2082 notice invited applications for vacant full-fee PCL Nursing seats.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://www.collegenp.com/admission/ram-janaki-health-foundation-pcl-nursing-vacant-seats-admission-2082",
+                    "https://www.noticepati.com/urgent-notice-regarding-applications-for-free-and-full-paid-nursing-diploma-certificate-level-programs/"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "PCL Nursing",
+                    "level": "Diploma",
+                    "duration": null,
+                    "faculty": "Nursing",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/admission/ram-janaki-health-foundation-pcl-nursing-vacant-seats-admission-2082"
+                }
+            ],
+            "facilities": [],
+            "gallery": [],
+            "videos": [],
+            "updates": [
+                {
+                    "title": "PCL Nursing vacant full-fee seats admission",
+                    "date": "2025-09-09",
+                    "summary": "Notice invited applications for vacant certificate-level nursing seats at Ram Janaki Health Foundation, Dhanusha, Janakpur, after main candidates did not enroll.",
+                    "source_url": "https://www.collegenp.com/admission/ram-janaki-health-foundation-pcl-nursing-vacant-seats-admission-2082"
+                }
+            ],
+            "faqs": [],
+            "contact": {
+                "phones": [],
+                "emails": [],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Nepal College of Nursing and Health Science",
+                "name_ne": null,
+                "slug": "nepal-college-of-nursing-and-health-science-dhanusha",
+                "ownership": "private",
+                "established_year": null,
+                "university": "CTEVT",
+                "municipality": "Janakpurdham Sub-Metropolitan City",
+                "address": "Janakpur, Dhanusa, Nepal",
+                "description": "A CTEVT institutional list and a Dhanusa business listing describe a private nursing college in Janakpur offering PCL Nursing with 40 seats. A similarly named college is also published in Birgunj, so the Dhanusha record should be confirmed with CTEVT before admission.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://cgs.moest.gov.np/Uploads/Resource/CTEVT%20Institutions%20and%20Programs.pdf",
+                    "https://kaha6.com/company/nepal-college-of-nursing-and-health-science-dhanusa/"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "PCL Nursing",
+                    "level": "Diploma",
+                    "duration": "3 years",
+                    "faculty": "Nursing",
+                    "fee": null,
+                    "source_url": "https://kaha6.com/company/nepal-college-of-nursing-and-health-science-dhanusa/"
+                }
+            ],
+            "facilities": [],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [],
+                "emails": [],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        }
+    ]
+}

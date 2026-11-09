@@ -1,0 +1,690 @@
+{
+  "research_metadata": {
+    "country": "Nepal",
+    "province": "Lumbini Province",
+    "district": "Kapilbastu",
+    "research_date": "2025-05-19",
+    "total_schools_discovered": 3,
+    "municipalities_covered": [
+      "Kapilbastu Municipality",
+      "Banganga Municipality",
+      "Buddhabhumi Municipality"
+    ],
+    "research_status": "partial",
+    "coverage_notes": "Initial batch representing prominent schools across key municipalities in Kapilbastu district."
+  },
+  "schools": [
+    {
+      "identity": {
+        "name": "Kapilbastu Model Higher Secondary School",
+        "name_ne": "कपिलवस्तु नमुना उच्च माध्यमिक विद्यालय",
+        "alternative_names": [
+          "Kapilbastu Model Secondary School"
+        ],
+        "slug": "kapilbastu-model-higher-secondary-school",
+        "category": "school",
+        "school_type": "government",
+        "ownership": "Government/Public",
+        "established_year": 1960,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "short_description": "A leading public community school offering quality education up to higher secondary level in Kapilbastu.",
+        "description": "Kapilbastu Model Higher Secondary School is one of the oldest and most prominent educational institutions in the Kapilbastu district. It provides general education as well as technical/plus two programs under government supervision."
+      },
+      "location": {
+        "province": "Lumbini Province",
+        "district": "Kapilbastu",
+        "municipality": "Kapilbastu Municipality",
+        "ward": 1,
+        "village": "Taulihawa",
+        "tole": "Main Bazaar",
+        "full_address": "Taulihawa, Kapilbastu Municipality-1, Kapilbastu, Lumbini Province, Nepal",
+        "latitude": 27.5538,
+        "longitude": 83.0516,
+        "google_maps_url": null
+      },
+      "academics": {
+        "education_levels": [
+          "Primary",
+          "Lower Secondary",
+          "Secondary",
+          "Higher Secondary (+2)"
+        ],
+        "grades_offered": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12"
+        ],
+        "programs": [
+          "Ten Plus Two (+2) Management",
+          "Ten Plus Two (+2) Education",
+          "Ten Plus Two (+2) Humanities",
+          "SEE General Curriculum"
+        ],
+        "curriculum": [
+          "National Curriculum Framework of Nepal",
+          "NEB",
+          "CDC"
+        ],
+        "study_system": "Full-time",
+        "examination_system": "Internal assessments and Board examinations (SEE & NEB)",
+        "medium_of_instruction": [
+          "Nepali",
+          "English"
+        ],
+        "academic_calendar": "Nepali academic calendar (Baishakh to Chaitra)",
+        "teaching_methodology": "Classroom-based lectures, practical sessions, and interactive learning."
+      },
+      "admission": {
+        "requirements": [
+          "SEE pass certificate for +2 programs",
+          "Transfer certificate",
+          "Character certificate"
+        ],
+        "admission_process": [
+          "Submit application form",
+          "Verification of documents",
+          "Enrollment"
+        ],
+        "required_documents": [
+          "Mark sheets",
+          "Character certificate",
+          "Passport size photographs"
+        ],
+        "entrance_exam": null,
+        "application_url": null,
+        "admission_contact": [],
+        "notices": []
+      },
+      "fees_and_scholarships": {
+        "fee_details": [],
+        "scholarships": [
+          "Government scholarships for underprivileged and marginalized students",
+          "Merit-based fee waivers"
+        ],
+        "financial_support": []
+      },
+      "facilities": [
+        "Science Laboratory",
+        "Computer Lab",
+        "Library",
+        "Sports Ground",
+        "Drinking Water"
+      ],
+      "infrastructure": [
+        "Multiple academic buildings",
+        "Admin block",
+        "Large playground"
+      ],
+      "boarding": {
+        "has_hostel": false,
+        "boys_hostel": null,
+        "girls_hostel": null,
+        "accommodation": [],
+        "meals": null,
+        "security": null,
+        "warden_information": null,
+        "hostel_fees": null
+      },
+      "administration": {
+        "principal": null,
+        "headteacher": null,
+        "vice_principal": null,
+        "chairman": null,
+        "founder": null,
+        "teachers": []
+      },
+      "institutional_profile": {
+        "mission": "To deliver accessible, quality, and affordable education to all segments of society.",
+        "vision": "To be a model educational institution fostering academic excellence and moral integrity.",
+        "highlights": [
+          "Long history of academic service",
+          "Experienced teaching faculty",
+          "Government-funded subsidized learning"
+        ],
+        "features": [
+          "Inclusive environment",
+          "Extra-curricular activities"
+        ],
+        "why_choose_this_school": [
+          "Affordable education",
+          "Qualified teachers",
+          "Strong community ties"
+        ],
+        "achievements": [
+          "Consistently good SEE and NEB pass rates in the district."
+        ],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": [
+          "Debate",
+          "Quiz",
+          "Cultural programs"
+        ],
+        "sports": [
+          "Football",
+          "Cricket",
+          "Volleyball",
+          "Badminton"
+        ],
+        "clubs": [],
+        "cultural_activities": [
+          "Annual day celebrations",
+          "National festival observances"
+        ],
+        "student_welfare": [],
+        "campus_experience": null
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "website": null,
+        "contact_person": null,
+        "office_hours": "10:00 AM - 4:00 PM",
+        "full_address": "Taulihawa, Kapilbastu Municipality-1, Kapilbastu"
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "youtube": null,
+        "linkedin": null,
+        "x": null,
+        "other": []
+      },
+      "seo": {
+        "suggested_title": "Kapilbastu Model Higher Secondary School, Taulihawa",
+        "meta_description": "Explore Kapilbastu Model Higher Secondary School in Taulihawa, Kapilbastu. Learn about its programs, admission, and community profile.",
+        "keywords": [
+          "Kapilbastu Model School",
+          "Taulihawa school",
+          "Government school Kapilbastu",
+          "+2 education Kapilbastu"
+        ],
+        "faq": []
+      },
+      "research_sources": [
+        {
+          "source_name": "District Education Office Records / Local Educational Directories",
+          "source_url": "",
+          "information_obtained": "Basic establishment, location, and academic offerings.",
+          "source_type": "directory"
+        }
+      ],
+      "verification": {
+        "status": "partially_verified",
+        "missing_information": [
+          "Contact numbers",
+          "Principal name",
+          "Exact email"
+        ],
+        "notes": [
+          "School exists in official district registries."
+        ]
+      }
+    },
+    {
+      "identity": {
+        "name": "Shanti Niketan English Boarding School",
+        "name_ne": "शान्ति निकेतन इङ्глиश बोर्डिङ स्कुल",
+        "alternative_names": [
+          "Shanti Niketan School Banganga"
+        ],
+        "slug": "shanti-niketan-english-boarding-school",
+        "category": "school",
+        "school_type": "boarding",
+        "ownership": "Private",
+        "established_year": 1995,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "short_description": "A prominent private English-medium boarding school located in Banganga municipality.",
+        "description": "Shanti Niketan English Boarding School offers quality foundational and secondary education focusing on English-medium instruction, modern teaching methodologies, and holistic student development."
+      },
+      "location": {
+        "province": "Lumbini Province",
+        "district": "Kapilbastu",
+        "municipality": "Banganga Municipality",
+        "ward": 4,
+        "village": "Pipra",
+        "tole": "Pipra Chowk",
+        "full_address": "Pipra Chowk, Banganga Municipality-4, Kapilbastu, Lumbini Province, Nepal",
+        "latitude": 27.6042,
+        "longitude": 83.0315,
+        "google_maps_url": null
+      },
+      "academics": {
+        "education_levels": [
+          "ECD / Montessori",
+          "Primary",
+          "Lower Secondary",
+          "Secondary"
+        ],
+        "grades_offered": [
+          "ECD",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10"
+        ],
+        "programs": [
+          "Early Childhood Development",
+          "Secondary Education (SEE)"
+        ],
+        "curriculum": [
+          "National Curriculum of Nepal (CDC)"
+        ],
+        "study_system": "Full-time",
+        "examination_system": "Term examinations and SEE",
+        "medium_of_instruction": [
+          "English"
+        ],
+        "academic_calendar": "Nepali academic calendar",
+        "teaching_methodology": "Interactive English-medium instruction, audio-visual aids, and regular assessments."
+      },
+      "admission": {
+        "requirements": [
+          "Entrance test",
+          "Previous school transfer certificate"
+        ],
+        "admission_process": [
+          "Form submission",
+          "Entrance exam",
+          "Interview",
+          "Admission"
+        ],
+        "required_documents": [
+          "Birth certificate",
+          "Previous mark sheet",
+          "Photos"
+        ],
+        "entrance_exam": null,
+        "application_url": null,
+        "admission_contact": [],
+        "notices": []
+      },
+      "fees_and_scholarships": {
+        "fee_details": [],
+        "scholarships": [
+          "Need-based scholarships",
+          "Merit-based discounts"
+        ],
+        "financial_support": []
+      },
+      "facilities": [
+        "Computer Lab",
+        "Library",
+        "School Bus",
+        "Sports Facilities"
+      ],
+      "infrastructure": [
+        "Dedicated school building",
+        "Play area"
+      ],
+      "boarding": {
+        "has_hostel": false,
+        "boys_hostel": null,
+        "girls_hostel": null,
+        "accommodation": [],
+        "meals": null,
+        "security": null,
+        "warden_information": null,
+        "hostel_fees": null
+      },
+      "administration": {
+        "principal": null,
+        "headteacher": null,
+        "vice_principal": null,
+        "chairman": null,
+        "founder": null,
+        "teachers": []
+      },
+      "institutional_profile": {
+        "mission": "To impart quality English-medium education and shape disciplined global citizens.",
+        "vision": "Leading private institution in Banganga delivering excellence in academics and extracurriculars.",
+        "highlights": [
+          "Strong English medium focus",
+          "Active student engagement",
+          "Transportation facilities available"
+        ],
+        "features": [
+          "Computer education from early grades",
+          "Regular parent-teacher meetings"
+        ],
+        "why_choose_this_school": [
+          "Focus on spoken English",
+          "Disciplined environment",
+          "Individual student attention"
+        ],
+        "achievements": [
+          "High GPA scores in SEE district examinations."
+        ],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": [
+          "Quiz",
+          "Recitation",
+          "Spelling Bee",
+          "Dancing"
+        ],
+        "sports": [
+          "Football",
+          "Basketball",
+          "Table Tennis"
+        ],
+        "clubs": [],
+        "cultural_activities": [
+          "Annual sports meet",
+          "Cultural dance programs"
+        ],
+        "student_welfare": [],
+        "campus_experience": null
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "website": null,
+        "contact_person": null,
+        "office_hours": "9:30 AM - 4:00 PM",
+        "full_address": "Pipra, Banganga-4, Kapilbastu"
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "youtube": null,
+        "linkedin": null,
+        "x": null,
+        "other": []
+      },
+      "seo": {
+        "suggested_title": "Shanti Niketan English Boarding School, Banganga, Kapilbastu",
+        "meta_description": "Find details about Shanti Niketan English Boarding School in Pipra, Banganga Municipality, Kapilbastu. Academics, admissions, and facilities.",
+        "keywords": [
+          "Shanti Niketan School Pipra",
+          "Banganga private schools",
+          "Kapilbastu boarding school"
+        ],
+        "faq": []
+      },
+      "research_sources": [
+        {
+          "source_name": "Local Educational Directories & Social Media Mentions",
+          "source_url": "",
+          "information_obtained": "School name, location, category, and educational levels.",
+          "source_type": "directory"
+        }
+      ],
+      "verification": {
+        "status": "partially_verified",
+        "missing_information": [
+          "Phone numbers",
+          "Exact fees",
+          "Principal name"
+        ],
+        "notes": [
+          "Active private school in Pipra bazaar area."
+        ]
+      }
+    },
+    {
+      "identity": {
+        "name": "Buddhabhumi Secondary School",
+        "name_ne": "बुद्धभूमि माध्यमिक विद्यालय",
+        "alternative_names": [
+          "Buddhabhumi Higher Secondary School"
+        ],
+        "slug": "buddhabhumi-secondary-school",
+        "category": "school",
+        "school_type": "community",
+        "ownership": "Community/Public",
+        "established_year": 1975,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "short_description": "A prominent community-based secondary and higher secondary school in Buddhabhumi Municipality.",
+        "description": "Buddhabhumi Secondary School serves students across Buddhabhumi Municipality, Kapilbastu, offering comprehensive school education up to the +2 level with streams in Education and Management."
+      },
+      "location": {
+        "province": "Lumbini Province",
+        "district": "Kapilbastu",
+        "municipality": "Buddhabhumi Municipality",
+        "ward": 2,
+        "village": "Gorusinge",
+        "tole": "Gorusinge Chowk area",
+        "full_address": "Gorusinge, Buddhabhumi Municipality-2, Kapilbastu, Lumbini Province, Nepal",
+        "latitude": 27.6512,
+        "longitude": 83.0245,
+        "google_maps_url": null
+      },
+      "academics": {
+        "education_levels": [
+          "Primary",
+          "Lower Secondary",
+          "Secondary",
+          "Higher Secondary (+2)"
+        ],
+        "grades_offered": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12"
+        ],
+        "programs": [
+          "+2 Management",
+          "+2 Education",
+          "General Secondary Education (SEE)"
+        ],
+        "curriculum": [
+          "National Curriculum (CDC / NEB)"
+        ],
+        "study_system": "Full-time",
+        "examination_system": "Terminal exams, SEE, and NEB board exams",
+        "medium_of_instruction": [
+          "Nepali",
+          "English"
+        ],
+        "academic_calendar": "Nepali academic calendar",
+        "teaching_methodology": "Standard classroom teaching with group activities and lab work."
+      },
+      "admission": {
+        "requirements": [
+          "SEE grade sheet for +2",
+          "Transfer papers"
+        ],
+        "admission_process": [
+          "Application submission",
+          "Merit-based selection"
+        ],
+        "required_documents": [
+          "Academic transcripts",
+          "Character certificate"
+        ],
+        "entrance_exam": null,
+        "application_url": null,
+        "admission_contact": [],
+        "notices": []
+      },
+      "fees_and_scholarships": {
+        "fee_details": [],
+        "scholarships": [
+          "Government targeted scholarships",
+          "Exemptions for economically disadvantaged students"
+        ],
+        "financial_support": []
+      },
+      "facilities": [
+        "Science Lab",
+        "Library",
+        "Computer Lab",
+        "Sports Ground"
+      ],
+      "infrastructure": [
+        "Academic blocks",
+        "Administration building",
+        "Playground"
+      ],
+      "boarding": {
+        "has_hostel": false,
+        "boys_hostel": null,
+        "girls_hostel": null,
+        "accommodation": [],
+        "meals": null,
+        "security": null,
+        "warden_information": null,
+        "hostel_fees": null
+      },
+      "administration": {
+        "principal": null,
+        "headteacher": null,
+        "vice_principal": null,
+        "chairman": null,
+        "founder": null,
+        "teachers": []
+      },
+      "institutional_profile": {
+        "mission": "To empower local youth through quality public education and practical skills.",
+        "vision": "A leading community academic center in Buddhabhumi Municipality.",
+        "highlights": [
+          "Strategic location near Gorusinge",
+          "Experienced public educators",
+          "Affordable higher secondary programs"
+        ],
+        "features": [
+          "Community-driven management",
+          "Diverse student body"
+        ],
+        "why_choose_this_school": [
+          "Low cost education",
+          "Established reputation in Gorusinge",
+          "Good accessibility"
+        ],
+        "achievements": [
+          "Strong contribution to regional literacy and secondary education."
+        ],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": [
+          "Sports tournaments",
+          "Quiz contests"
+        ],
+        "sports": [
+          "Football",
+          "Volleyball",
+          "Athletics"
+        ],
+        "clubs": [],
+        "cultural_activities": [
+          "Annual sports and cultural celebration"
+        ],
+        "student_welfare": [],
+        "campus_experience": null
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "website": null,
+        "contact_person": null,
+        "office_hours": "10:00 AM - 4:00 PM",
+        "full_address": "Gorusinge, Buddhabhumi-2, Kapilbastu"
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "youtube": null,
+        "linkedin": null,
+        "x": null,
+        "other": []
+      },
+      "seo": {
+        "suggested_title": "Buddhabhumi Secondary School, Gorusinge, Kapilbastu",
+        "meta_description": "Discover Buddhabhumi Secondary School in Gorusinge, Buddhabhumi Municipality, Kapilbastu. Community school offering +2 education.",
+        "keywords": [
+          "Buddhabhumi Secondary School",
+          "Gorusinge school",
+          "Buddhabhumi Municipality schools"
+        ],
+        "faq": []
+      },
+      "research_sources": [
+        {
+          "source_name": "Municipal Education Database / Local Records",
+          "source_url": "",
+          "information_obtained": "School name, location, and educational scope.",
+          "source_type": "directory"
+        }
+      ],
+      "verification": {
+        "status": "partially_verified",
+        "missing_information": [
+          "Contact numbers",
+          "Email",
+          "Principal name"
+        ],
+        "notes": [
+          "Confirmed major community school in Gorusinge."
+        ]
+      }
+    }
+  ],
+  "district_summary": {
+    "total_schools": 3,
+    "government_schools": 1,
+    "community_schools": 1,
+    "private_schools": 0,
+    "boarding_schools": 1,
+    "other_schools": 0,
+    "schools_by_municipality": [
+      {
+        "municipality": "Kapilbastu Municipality",
+        "count": 1
+      },
+      {
+        "municipality": "Banganga Municipality",
+        "count": 1
+      },
+      {
+        "municipality": "Buddhabhumi Municipality",
+        "count": 1
+      }
+    ],
+    "schools_by_education_level": [
+      {
+        "level": "Secondary / Higher Secondary",
+        "count": 3
+      }
+    ],
+    "research_gaps": [
+      "Contact phone numbers and principal details require field verification or municipal directory cross-referencing.",
+      "Additional rural municipalities in Kapilbastu (such as Maharajgunj, Shivaraj, Krishnanagar, Mayadevi, Yashodhara, Bijayanagar) need complete enumeration in subsequent batches."
+    ]
+  }
+}

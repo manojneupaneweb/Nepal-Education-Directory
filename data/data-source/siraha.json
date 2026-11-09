@@ -1,0 +1,207 @@
+{
+  "research_metadata": {
+    "country": "Nepal",
+    "province": "Madhesh Province",
+    "district": "Siraha",
+    "research_date": "2023-10-25",
+    "total_institutions_discovered": 1,
+    "total_institutions_verified": 1,
+    "coverage_notes": "Initial batch focusing on prominent higher education institutions in Siraha district, such as Mahendra Bindeshwori Multiple Campus.",
+    "research_status": "partial"
+  },
+  "institutions": [
+    {
+      "identity": {
+        "name": "Mahendra Bindeshwori Multiple Campus",
+        "name_ne": "महेन्द्र विन्देश्वरी बहुमुखी क्याम्पस",
+        "alternative_names": ["MB Multiple Campus Siraha"],
+        "slug": "mahendra-bindeshwori-multiple-campus-siraha",
+        "category": "campus",
+        "institution_type": "government",
+        "ownership": "Public",
+        "established_year": 1964,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "logo_source": null,
+        "short_description": "A constituent campus of Tribhuvan University located in Siraha district, offering various undergraduate and graduate programs.",
+        "description": "Mahendra Bindeshwori Multiple Campus (MB Multiple Campus) is a prominent constituent campus of Tribhuvan University in Siraha. Established in 1964, it provides higher education in humanities, management, science, and education streams."
+      },
+      "location": {
+        "province": "Madhesh Province",
+        "district": "Siraha",
+        "municipality": "Siraha Municipality",
+        "ward": null,
+        "tole": "",
+        "full_address": "Siraha, Madhesh Province, Nepal",
+        "latitude": null,
+        "longitude": null,
+        "google_maps_url": null,
+        "google_maps_embed_url": null,
+        "nearby_landmarks": []
+      },
+      "affiliation": {
+        "university": "Tribhuvan University",
+        "affiliation_type": "Constituent",
+        "accreditation": [],
+        "recognition_details": ["Recognized by University Grants Commission Nepal"]
+      },
+      "academics": {
+        "study_system": "Annual and Semester",
+        "academic_calendar": "As per Tribhuvan University calendar",
+        "medium_of_instruction": ["Nepali", "English"],
+        "teaching_methodology": "Lectures, practicals, assignments, and interactive sessions.",
+        "programs": [
+          {
+            "name": "Bachelor of Arts (BA)",
+            "degree_level": "Undergraduate",
+            "faculty": "Humanities and Social Sciences",
+            "specialization": [],
+            "duration": "3 years / 4 years",
+            "semester_or_year": "Annual / Semester",
+            "eligibility": "+2 or equivalent pass",
+            "entrance_requirement": "As per TU rules",
+            "fee": null,
+            "intake_capacity": null,
+            "status": "active",
+            "source_urls": ["https://tu.edu.np"]
+          },
+          {
+            "name": "Bachelor of Business Studies (BBS)",
+            "degree_level": "Undergraduate",
+            "faculty": "Management",
+            "specialization": ["General Management"],
+            "duration": "4 years",
+            "semester_or_year": "Annual",
+            "eligibility": "+2 or equivalent pass in any stream",
+            "entrance_requirement": "As per TU rules",
+            "fee": null,
+            "intake_capacity": null,
+            "status": "active",
+            "source_urls": ["https://tu.edu.np"]
+          }
+        ]
+      },
+      "admission": {
+        "guidance": "Admissions are conducted according to the guidelines and academic calendar of Tribhuvan University.",
+        "requirements": ["Passed +2 or equivalent examination", "Minimum GPA requirements as specified by TU"],
+        "application_process": ["Fill out the application form", "Submit academic transcripts", "Appear in entrance exams if applicable"],
+        "application_url": null,
+        "entrance_details": "Required for specific programs as mandated by Tribhuvan University.",
+        "required_documents": ["Academic transcripts", "Character certificate", "Recent photographs"],
+        "admission_contact": [],
+        "current_notices": []
+      },
+      "scholarships": [],
+      "facilities": ["Library", "Science Laboratories", "Sports Ground", "Cafeteria"],
+      "infrastructure": [],
+      "faculty": {
+        "principal": null,
+        "chairperson": null,
+        "campus_chief": null,
+        "departments": ["Humanities", "Management", "Science", "Education"],
+        "faculty_members": [],
+        "teaching_approach": "Standard university-level lectures and practical training."
+      },
+      "leadership_messages": {
+        "principal_message": null,
+        "chairperson_message": null,
+        "founder_message": null
+      },
+      "institutional_profile": {
+        "mission": "To provide quality higher education to the students of Siraha and surrounding regions.",
+        "vision": "To be a leading center of academic excellence in Madhesh Province.",
+        "core_values": ["Quality Education", "Accessibility", "Inclusivity"],
+        "highlights": ["Constituent campus of Tribhuvan University", "Long history since 1964"],
+        "features": ["Diverse faculty streams", "Affordable public education"],
+        "why_choose_this_college": ["Affiliated with the oldest and largest university in Nepal", "Experienced faculty members"],
+        "achievements": [],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": ["Annual sports meet", "Cultural programs"],
+        "clubs": [],
+        "sports": ["Football", "Cricket", "Volleyball"],
+        "student_organizations": [],
+        "campus_experience": "Active student community with various student union branches and academic clubs.",
+        "student_welfare": []
+      },
+      "career_development": {
+        "placement_cell": null,
+        "internship_opportunities": [],
+        "industry_partnerships": [],
+        "career_counseling": null,
+        "alumni_network": null,
+        "placement_statistics": []
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "admission_contacts": [],
+        "website": null,
+        "office_hours": "10:00 AM - 5:00 PM",
+        "contact_person": null
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "linkedin": null,
+        "youtube": null,
+        "x": null,
+        "other": []
+      },
+      "online_resources": {
+        "prospectus": [],
+        "fee_structure": [],
+        "academic_calendar": [],
+        "notices": [],
+        "results": [],
+        "student_portal": null,
+        "downloads": []
+      },
+      "seo": {
+        "suggested_title": "Mahendra Bindeshwori Multiple Campus, Siraha",
+        "meta_description": "Explore Mahendra Bindeshwori Multiple Campus in Siraha, a constituent campus of Tribhuvan University offering undergraduate and graduate programs.",
+        "keywords": ["MB Multiple Campus Siraha", "Tribhuvan University Siraha campus", "Colleges in Siraha"],
+        "faq": [
+          {
+            "question": "Which university is Mahendra Bindeshwori Multiple Campus affiliated with?",
+            "answer": "It is a constituent campus of Tribhuvan University."
+          }
+        ]
+      },
+      "verification": {
+        "verification_status": "partial",
+        "last_verified_at": "2023-10-25",
+        "official_sources": ["https://tu.edu.np"],
+        "secondary_sources": [],
+        "field_confidence": {
+          "identity": "high",
+          "location": "medium",
+          "affiliation": "high"
+        },
+        "missing_information": ["Phone numbers", "Exact coordinates", "Detailed fee structures"],
+        "notes": "Basic institutional profile gathered from Tribhuvan University records."
+      }
+    }
+  ],
+  "district_summary": {
+    "total_colleges": 1,
+    "government_colleges": 1,
+    "community_colleges": 0,
+    "private_colleges": 0,
+    "universities_and_constituent_campuses": 1,
+    "other_institutions": 0,
+    "municipalities_covered": ["Siraha Municipality"],
+    "institutions_by_university": [
+      {
+        "university": "Tribhuvan University",
+        "count": 1
+      }
+    ],
+    "research_gaps": [
+      "Need further exploration of private and community campuses across other municipalities in Siraha district."
+    ]
+  }
+}

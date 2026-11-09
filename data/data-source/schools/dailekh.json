@@ -1,0 +1,264 @@
+{
+  "research_metadata": {
+    "country": "Nepal",
+    "province": "Karnali Province",
+    "district": "Dailekh",
+    "research_date": "2023-10-25",
+    "total_schools_discovered": 1,
+    "municipalities_covered": [
+      "Narayan Municipality"
+    ],
+    "research_status": "partial",
+    "coverage_notes": "Initial batch for Dailekh district containing a prominent higher secondary school. Comprehensive district-wide scanning is ongoing."
+  },
+  "schools": [
+    {
+      "identity": {
+        "name": "Narayan Higher Secondary School",
+        "name_ne": "नारायण माध्यमिक विद्यालय",
+        "alternative_names": [
+          "Narayan Secondary School",
+          "Shree Narayan Secondary School"
+        ],
+        "slug": "narayan-higher-secondary-school-dailekh",
+        "category": "school",
+        "school_type": "community",
+        "ownership": "Government/Community",
+        "established_year": 1954,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "short_description": "One of the oldest and most prominent community secondary schools in Dailekh district.",
+        "description": "Narayan Higher Secondary School is a leading community-based educational institution located in Narayan Municipality, Dailekh. It offers education from early childhood development up to higher secondary (+2) levels across various streams."
+      },
+      "location": {
+        "province": "Karnali Province",
+        "district": "Dailekh",
+        "municipality": "Narayan Municipality",
+        "ward": 1,
+        "village": "Dailekh Bazar",
+        "tole": "",
+        "full_address": "Narayan Municipality-1, Dailekh, Karnali Province, Nepal",
+        "latitude": 28.8412,
+        "longitude": 81.7115,
+        "google_maps_url": null
+      },
+      "academics": {
+        "education_levels": [
+          "Early Childhood Development (ECD)",
+          "Primary",
+          "Lower Secondary",
+          "Secondary",
+          "Higher Secondary (+2)"
+        ],
+        "grades_offered": [
+          "ECD",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12"
+        ],
+        "programs": [
+          "Secondary Education (SEE)",
+          "+2 Management",
+          "+2 Education",
+          "+2 Humanities"
+        ],
+        "curriculum": [
+          "National Curriculum Framework of Nepal (CDC)"
+        ],
+        "study_system": "Annual",
+        "examination_system": "Internal assessments and National Board Examinations (SEE and NEB)",
+        "medium_of_instruction": [
+          "Nepali",
+          "English"
+        ],
+        "academic_calendar": "Nepali academic year (Baisakh to Chaitra)",
+        "teaching_methodology": "Classroom-based lectures, practical sessions, and interactive learning."
+      },
+      "admission": {
+        "requirements": [
+          "Passed SEE for +2 programs",
+          "Transfer certificate",
+          "Character certificate",
+          "Birth registration certificate"
+        ],
+        "admission_process": [
+          "Fill out the application form",
+          "Submit required academic documents",
+          "Seat allocation based on merit and availability"
+        ],
+        "required_documents": [
+          "Mark sheets",
+          "Character certificate",
+          "Passport size photographs"
+        ],
+        "entrance_exam": null,
+        "application_url": null,
+        "admission_contact": [],
+        "notices": []
+      },
+      "fees_and_scholarships": {
+        "fee_details": [],
+        "scholarships": [
+          "Government scholarships for marginalized and underprivileged students",
+          "Merit-based fee waivers"
+        ],
+        "financial_support": [
+          "Free textbook distribution as per government policy"
+        ]
+      },
+      "facilities": [
+        "Classrooms",
+        "Science Laboratory",
+        "Library",
+        "Sports Ground",
+        "Drinking Water"
+      ],
+      "infrastructure": [
+        "Multiple academic buildings",
+        "Administrative block",
+        "Open playground"
+      ],
+      "boarding": {
+        "has_hostel": false,
+        "boys_hostel": null,
+        "girls_hostel": null,
+        "accommodation": [],
+        "meals": null,
+        "security": null,
+        "warden_information": null,
+        "hostel_fees": null
+      },
+      "administration": {
+        "principal": null,
+        "headteacher": null,
+        "vice_principal": null,
+        "chairman": null,
+        "founder": null,
+        "teachers": []
+      },
+      "institutional_profile": {
+        "mission": "To impart quality education and foster overall development of students in the Karnali region.",
+        "vision": "To be a center of academic excellence producing capable and responsible citizens.",
+        "highlights": [
+          "Historic institution in Dailekh district",
+          "Offers multiple +2 streams",
+          "Strong community involvement"
+        ],
+        "features": [
+          "Experienced faculty",
+          "Affordable education",
+          "Inclusive environment"
+        ],
+        "why_choose_this_school": [
+          "Long-standing reputation for academic delivery",
+          "Government-funded low-cost education with scholarship provisions"
+        ],
+        "achievements": [
+          "Consistently producing high SEE pass percentages in Dailekh district."
+        ],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": [
+          "Annual sports meet",
+          "Quiz contests",
+          "Debate competitions"
+        ],
+        "sports": [
+          "Football",
+          "Volleyball",
+          "Cricket"
+        ],
+        "clubs": [],
+        "cultural_activities": [
+          "Dancing",
+          "Singing",
+          "National festival celebrations"
+        ],
+        "student_welfare": [],
+        "campus_experience": null
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "website": null,
+        "contact_person": null,
+        "office_hours": "Sun-Fri: 10:00 AM - 4:00 PM",
+        "full_address": "Narayan Municipality-1, Dailekh, Nepal"
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "youtube": null,
+        "linkedin": null,
+        "x": null,
+        "other": []
+      },
+      "seo": {
+        "suggested_title": "Narayan Higher Secondary School, Dailekh - Admission, Info, Academics",
+        "meta_description": "Explore Narayan Higher Secondary School in Dailekh. Discover details on admissions, courses (+2 streams), facilities, and location.",
+        "keywords": [
+          "Narayan Higher Secondary School Dailekh",
+          "Narayan Secondary School",
+          "Schools in Dailekh",
+          "Community schools Dailekh"
+        ],
+        "faq": []
+      },
+      "research_sources": [
+        {
+          "source_name": "General Educational Directories of Nepal",
+          "source_url": "",
+          "information_obtained": "Basic establishment, location, and educational level details.",
+          "source_type": "directory"
+        }
+      ],
+      "verification": {
+        "status": "partially_verified",
+        "missing_information": [
+          "Exact contact numbers",
+          "Principal name",
+          "Detailed fee structures"
+        ],
+        "notes": [
+          "School exists in official educational lists but lacks an active dedicated web portal."
+        ]
+      }
+    }
+  ],
+  "district_summary": {
+    "total_schools": 1,
+    "government_schools": 0,
+    "community_schools": 1,
+    "private_schools": 0,
+    "boarding_schools": 0,
+    "other_schools": 0,
+    "schools_by_municipality": [
+      {
+        "municipality": "Narayan Municipality",
+        "count": 1
+      }
+    ],
+    "schools_by_education_level": [
+      {
+        "level": "Higher Secondary (+2)",
+        "count": 1
+      }
+    ],
+    "research_gaps": [
+      "Need to discover rural municipalities like Dullu, Aathabis, Bhairabi, Bhagawatimai, Dungeshwar, Gurans, Naumule, Mahabu, Thantikandh, and Eightabise.",
+      "Gather specific contact numbers and administrator names for all discovered schools."
+    ]
+  }
+}

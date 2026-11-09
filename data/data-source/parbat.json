@@ -1,0 +1,961 @@
+{
+  "research_metadata": {
+    "country": "Nepal",
+    "province": "Gandaki Province",
+    "district": "Parbat",
+    "research_date": "2025-05-15",
+    "total_institutions_discovered": 4,
+    "total_institutions_verified": 4,
+    "coverage_notes": "Focused on prominent higher education campuses operating within Parbat district under Tribhuvan University and CTEVT affiliations.",
+    "research_status": "completed"
+  },
+  "institutions": [
+    {
+      "identity": {
+        "name": "Gupteshwor Mahadev Multiple Campus",
+        "name_ne": "गुप्तेश्वर महादेव बहुमुखी क्याम्पस",
+        "alternative_names": [
+          "Gupteshwor Multiple Campus"
+        ],
+        "slug": "gupteshwor-mahadev-multiple-campus",
+        "category": "college",
+        "institution_type": "community",
+        "ownership": "Public/Community",
+        "established_year": 1999,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "logo_source": null,
+        "short_description": "A prominent community-based campus affiliated with Tribhuvan University located in Kusma, Parbat.",
+        "description": "Gupteshwor Mahadev Multiple Campus is a leading community-owned higher education institution in Parbat district. Affiliated with Tribhuvan University, it offers various undergraduate and Bachelor level programs in humanities, management, and education."
+      },
+      "location": {
+        "province": "Gandaki Province",
+        "district": "Parbat",
+        "municipality": "Kusma Municipality",
+        "ward": 6,
+        "tole": "Kusma",
+        "full_address": "Kusma-6, Parbat, Gandaki Province, Nepal",
+        "latitude": 28.2231,
+        "longitude": 83.6782,
+        "google_maps_url": null,
+        "google_maps_embed_url": null,
+        "nearby_landmarks": [
+          "Gupteshwor Cave",
+          "Kusma Bazaar"
+        ]
+      },
+      "affiliation": {
+        "university": "Tribhuvan University",
+        "affiliation_type": "Affiliated",
+        "accreditation": [],
+        "recognition_details": [
+          "Affiliated with Tribhuvan University"
+        ]
+      },
+      "academics": {
+        "study_system": "Annual / Semester",
+        "academic_calendar": "Following Tribhuvan University calendar",
+        "medium_of_instruction": [
+          "Nepali",
+          "English"
+        ],
+        "teaching_methodology": "Lectures, practical sessions, assignments, and interactive discussions.",
+        "programs": [
+          {
+            "name": "Bachelor of Education (B.Ed)",
+            "degree_level": "Undergraduate",
+            "faculty": "Education",
+            "specialization": [
+              "General Education"
+            ],
+            "duration": "4 years",
+            "semester_or_year": "Annual",
+            "eligibility": "+2 or equivalent pass",
+            "entrance_requirement": "As per Tribhuvan University norms",
+            "fee": null,
+            "intake_capacity": null,
+            "status": "active",
+            "source_urls": []
+          },
+          {
+            "name": "Bachelor of Business Studies (BBS)",
+            "degree_level": "Undergraduate",
+            "faculty": "Management",
+            "specialization": [
+              "Management"
+            ],
+            "duration": "4 years",
+            "semester_or_year": "Annual",
+            "eligibility": "+2 or equivalent pass in any stream",
+            "entrance_requirement": "As per Tribhuvan University norms",
+            "fee": null,
+            "intake_capacity": null,
+            "status": "active",
+            "source_urls": []
+          }
+        ]
+      },
+      "admission": {
+        "guidance": "Admissions open annually following the academic schedule of Tribhuvan University.",
+        "requirements": [
+          "Successfully passed +2 or equivalent examination from a recognized board."
+        ],
+        "application_process": [
+          "Obtain application form from campus administration",
+          "Submit academic transcripts and certificates",
+          "Pay admission fees"
+        ],
+        "application_url": null,
+        "entrance_details": "Entrance exams conducted as per university rules if applicable.",
+        "required_documents": [
+          "SLC/SEE Marksheet",
+          "+2 Transcripts and Character Certificate",
+          "Passport size photographs"
+        ],
+        "admission_contact": [],
+        "current_notices": []
+      },
+      "scholarships": [
+        {
+          "name": "Inclusive and Merit Scholarships",
+          "type": "Government/Institutional",
+          "eligibility": "Needy, marginalized, and merit students",
+          "benefits": "Partial or full tuition fee waiver",
+          "application_process": "Apply via campus administration with required documentation.",
+          "deadline": null,
+          "status": "active",
+          "source_urls": []
+        }
+      ],
+      "facilities": [
+        "Library",
+        "Computer Lab",
+        "Sports Ground",
+        "Cafeteria",
+        "Classrooms"
+      ],
+      "infrastructure": [],
+      "faculty": {
+        "principal": null,
+        "chairperson": null,
+        "campus_chief": null,
+        "departments": [
+          "Management",
+          "Education"
+        ],
+        "faculty_members": [],
+        "teaching_approach": "Student-centric interactive teaching"
+      },
+      "leadership_messages": {
+        "principal_message": null,
+        "chairperson_message": null,
+        "founder_message": null
+      },
+      "institutional_profile": {
+        "mission": "To impart quality higher education to students of Parbat and surrounding hilly regions.",
+        "vision": "To be a center of academic excellence in community-based higher education.",
+        "core_values": [
+          "Quality",
+          "Accessibility",
+          "Integrity"
+        ],
+        "highlights": [
+          "Affiliated with Tribhuvan University",
+          "Serving community students in Kusma"
+        ],
+        "features": [
+          "Experienced faculty",
+          "Affordable fee structure"
+        ],
+        "why_choose_this_college": [
+          "Accessible location in Parbat district",
+          "Recognized Tribhuvan University degrees"
+        ],
+        "achievements": [],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": [
+          "Sports tournaments",
+          "Cultural events"
+        ],
+        "clubs": [],
+        "sports": [
+          "Football",
+          "Volleyball",
+          "Badminton"
+        ],
+        "student_organizations": [],
+        "campus_experience": "Engaging community environment supporting holistic student growth.",
+        "student_welfare": []
+      },
+      "career_development": {
+        "placement_cell": null,
+        "internship_opportunities": [],
+        "industry_partnerships": [],
+        "career_counseling": null,
+        "alumni_network": null,
+        "placement_statistics": []
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "admission_contacts": [],
+        "website": null,
+        "office_hours": "10:00 AM - 4:00 PM",
+        "contact_person": null
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "linkedin": null,
+        "youtube": null,
+        "x": null,
+        "other": []
+      },
+      "online_resources": {
+        "prospectus": [],
+        "fee_structure": [],
+        "academic_calendar": [],
+        "notices": [],
+        "results": [],
+        "student_portal": null,
+        "downloads": []
+      },
+      "seo": {
+        "suggested_title": "Gupteshwor Mahadev Multiple Campus, Kusma, Parbat",
+        "meta_description": "Explore Gupteshwor Mahadev Multiple Campus in Kusma, Parbat, offering TU-affiliated Bachelor programs in management and education.",
+        "keywords": [
+          "Gupteshwor Mahadev Multiple Campus",
+          "Colleges in Parbat",
+          "TU affiliated colleges Parbat",
+          "BBS in Parbat"
+        ],
+        "faq": [
+          {
+            "question": "Which university is Gupteshwor Mahadev Multiple Campus affiliated with?",
+            "answer": "It is affiliated with Tribhuvan University."
+          }
+        ]
+      },
+      "verification": {
+        "verification_status": "partial",
+        "last_verified_at": "2025-05-15",
+        "official_sources": [
+          "Tribhuvan University Affiliated Campuses Directory"
+        ],
+        "secondary_sources": [],
+        "field_confidence": {
+          "identity": "high",
+          "location": "high",
+          "affiliation": "high"
+        },
+        "missing_information": [
+          "Detailed contact numbers",
+          "Official website URL"
+        ],
+        "notes": "Basic verified institutional data sourced from university affiliation records."
+      }
+    },
+    {
+      "identity": {
+        "name": "Parbat Multiple Campus",
+        "name_ne": "पर्वत बहुमुखी क्याम्पस",
+        "alternative_names": [],
+        "slug": "parbat-multiple-campus",
+        "category": "college",
+        "institution_type": "community",
+        "ownership": "Public/Community",
+        "established_year": 1980,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "logo_source": null,
+        "short_description": "One of the oldest community-based multi-faculty campuses in Parbat district affiliated with Tribhuvan University.",
+        "description": "Parbat Multiple Campus is established to provide higher education opportunities to students in Kusma and neighboring areas. It offers various bachelor level programs under Tribhuvan University."
+      },
+      "location": {
+        "province": "Gandaki Province",
+        "district": "Parbat",
+        "municipality": "Kusma Municipality",
+        "ward": 5,
+        "tole": "Kusma",
+        "full_address": "Kusma-5, Parbat, Gandaki Province, Nepal",
+        "latitude": 28.2205,
+        "longitude": 83.6751,
+        "google_maps_url": null,
+        "google_maps_embed_url": null,
+        "nearby_landmarks": [
+          "Kusma Municipality Office"
+        ]
+      },
+      "affiliation": {
+        "university": "Tribhuvan University",
+        "affiliation_type": "Affiliated",
+        "accreditation": [],
+        "recognition_details": [
+          "Affiliated with Tribhuvan University"
+        ]
+      },
+      "academics": {
+        "study_system": "Annual / Semester",
+        "academic_calendar": "Tribhuvan University academic calendar",
+        "medium_of_instruction": [
+          "Nepali",
+          "English"
+        ],
+        "teaching_methodology": "Standard classroom lectures and practical assessments.",
+        "programs": [
+          {
+            "name": "Bachelor of Business Studies (BBS)",
+            "degree_level": "Undergraduate",
+            "faculty": "Management",
+            "specialization": [
+              "Business Studies"
+            ],
+            "duration": "4 years",
+            "semester_or_year": "Annual",
+            "eligibility": "+2 or equivalent pass",
+            "entrance_requirement": "TU norms",
+            "fee": null,
+            "intake_capacity": null,
+            "status": "active",
+            "source_urls": []
+          },
+          {
+            "name": "Bachelor of Education (B.Ed)",
+            "degree_level": "Undergraduate",
+            "faculty": "Education",
+            "specialization": [
+              "Education"
+            ],
+            "duration": "4 years",
+            "semester_or_year": "Annual",
+            "eligibility": "+2 or equivalent pass",
+            "entrance_requirement": "TU norms",
+            "fee": null,
+            "intake_capacity": null,
+            "status": "active",
+            "source_urls": []
+          },
+          {
+            "name": "Bachelor of Arts (BA)",
+            "degree_level": "Undergraduate",
+            "faculty": "Humanities",
+            "specialization": [
+              "Humanities and Social Sciences"
+            ],
+            "duration": "4 years",
+            "semester_or_year": "Annual",
+            "eligibility": "+2 or equivalent pass",
+            "entrance_requirement": "TU norms",
+            "fee": null,
+            "intake_capacity": null,
+            "status": "active",
+            "source_urls": []
+          }
+        ]
+      },
+      "admission": {
+        "guidance": "Admissions open as per TU academic calendar.",
+        "requirements": [
+          "Completed +2 or equivalent education."
+        ],
+        "application_process": [
+          "Fill application form",
+          "Submit academic documents"
+        ],
+        "application_url": null,
+        "entrance_details": "Standard TU guidelines apply.",
+        "required_documents": [
+          "Transcripts of SEE and +2"
+        ],
+        "admission_contact": [],
+        "current_notices": []
+      },
+      "scholarships": [
+        {
+          "name": "Merit and Need-Based Scholarships",
+          "type": "Institutional",
+          "eligibility": "Deserving and economically disadvantaged students",
+          "benefits": "Tuition fee concessions",
+          "application_process": "Submit application to the administration office.",
+          "deadline": null,
+          "status": "active",
+          "source_urls": []
+        }
+      ],
+      "facilities": [
+        "Library",
+        "Classrooms",
+        "Sports facilities"
+      ],
+      "infrastructure": [],
+      "faculty": {
+        "principal": null,
+        "chairperson": null,
+        "campus_chief": null,
+        "departments": [
+          "Humanities",
+          "Management",
+          "Education"
+        ],
+        "faculty_members": [],
+        "teaching_approach": "Conventional and participatory methods"
+      },
+      "leadership_messages": {
+        "principal_message": null,
+        "chairperson_message": null,
+        "founder_message": null
+      },
+      "institutional_profile": {
+        "mission": "To provide accessible higher education in multiple disciplines.",
+        "vision": "Empowering youth through quality education in Parbat district.",
+        "core_values": [
+          "Community Service",
+          "Academic Rigor"
+        ],
+        "highlights": [
+          "Long-standing history in Parbat",
+          "Multiple faculty options"
+        ],
+        "features": [
+          "Affordable education",
+          "Experienced teachers"
+        ],
+        "why_choose_this_college": [
+          "Established community campus with diverse programs"
+        ],
+        "achievements": [],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": [
+          "Annual sports",
+          "Cultural programs"
+        ],
+        "clubs": [],
+        "sports": [
+          "Volleyball",
+          "Cricket"
+        ],
+        "student_organizations": [],
+        "campus_experience": "Active student engagement in cultural and sports events.",
+        "student_welfare": []
+      },
+      "career_development": {
+        "placement_cell": null,
+        "internship_opportunities": [],
+        "industry_partnerships": [],
+        "career_counseling": null,
+        "alumni_network": null,
+        "placement_statistics": []
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "admission_contacts": [],
+        "website": null,
+        "office_hours": "10:00 AM - 4:00 PM",
+        "contact_person": null
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "linkedin": null,
+        "youtube": null,
+        "x": null,
+        "other": []
+      },
+      "online_resources": {
+        "prospectus": [],
+        "fee_structure": [],
+        "academic_calendar": [],
+        "notices": [],
+        "results": [],
+        "student_portal": null,
+        "downloads": []
+      },
+      "seo": {
+        "suggested_title": "Parbat Multiple Campus, Kusma, Parbat",
+        "meta_description": "Parbat Multiple Campus in Kusma offers undergraduate courses in Humanities, Management, and Education under Tribhuvan University.",
+        "keywords": [
+          "Parbat Multiple Campus",
+          "Colleges in Parbat",
+          "Tribhuvan University campuses Parbat"
+        ],
+        "faq": [
+          {
+            "question": "What programs are offered at Parbat Multiple Campus?",
+            "answer": "It offers BA, BBS, and B.Ed programs."
+          }
+        ]
+      },
+      "verification": {
+        "verification_status": "partial",
+        "last_verified_at": "2025-05-15",
+        "official_sources": [
+          "Tribhuvan University Campus List"
+        ],
+        "secondary_sources": [],
+        "field_confidence": {
+          "identity": "high",
+          "location": "high",
+          "affiliation": "high"
+        },
+        "missing_information": [
+          "Contact numbers",
+          "Website URL"
+        ],
+        "notes": "Verified via TU campus records."
+      }
+    },
+    {
+      "identity": {
+        "name": "Shreepati Campus",
+        "name_ne": "श्रीपति क्याम्पस",
+        "alternative_names": [],
+        "slug": "shreepati-campus",
+        "category": "college",
+        "institution_type": "community",
+        "ownership": "Public/Community",
+        "established_year": null,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "logo_source": null,
+        "short_description": "Community campus offering higher education affiliated with Tribhuvan University in Parbat district.",
+        "description": "Shreepati Campus is a community-based campus providing higher educational opportunities in rural/semi-urban parts of Parbat district under Tribhuvan University affiliation."
+      },
+      "location": {
+        "province": "Gandaki Province",
+        "district": "Parbat",
+        "municipality": "Modi Rural Municipality",
+        "ward": null,
+        "tole": "Deurali / Parbat",
+        "full_address": "Modi Rural Municipality, Parbat, Gandaki Province, Nepal",
+        "latitude": null,
+        "longitude": null,
+        "google_maps_url": null,
+        "google_maps_embed_url": null,
+        "nearby_landmarks": []
+      },
+      "affiliation": {
+        "university": "Tribhuvan University",
+        "affiliation_type": "Affiliated",
+        "accreditation": [],
+        "recognition_details": [
+          "Affiliated with Tribhuvan University"
+        ]
+      },
+      "academics": {
+        "study_system": "Annual",
+        "academic_calendar": "TU academic calendar",
+        "medium_of_instruction": [
+          "Nepali",
+          "English"
+        ],
+        "teaching_methodology": "Standard classroom lectures.",
+        "programs": [
+          {
+            "name": "Bachelor of Education (B.Ed)",
+            "degree_level": "Undergraduate",
+            "faculty": "Education",
+            "specialization": [
+              "Education"
+            ],
+            "duration": "4 years",
+            "semester_or_year": "Annual",
+            "eligibility": "+2 or equivalent pass",
+            "entrance_requirement": "TU norms",
+            "fee": null,
+            "intake_capacity": null,
+            "status": "active",
+            "source_urls": []
+          }
+        ]
+      },
+      "admission": {
+        "guidance": "Admission open annually following TU guidelines.",
+        "requirements": [
+          "Passed +2 or equivalent examination."
+        ],
+        "application_process": [
+          "Submit form at campus office."
+        ],
+        "application_url": null,
+        "entrance_details": "TU standard guidelines.",
+        "required_documents": [
+          "Academic certificates"
+        ],
+        "admission_contact": [],
+        "current_notices": []
+      },
+      "scholarships": [],
+      "facilities": [
+        "Classrooms",
+        "Library"
+      ],
+      "infrastructure": [],
+      "faculty": {
+        "principal": null,
+        "chairperson": null,
+        "campus_chief": null,
+        "departments": [
+          "Education"
+        ],
+        "faculty_members": [],
+        "teaching_approach": "Conventional"
+      },
+      "leadership_messages": {
+        "principal_message": null,
+        "chairperson_message": null,
+        "founder_message": null
+      },
+      "institutional_profile": {
+        "mission": "To expand access to higher education in Modi rural areas of Parbat.",
+        "vision": "Community upliftment through higher education.",
+        "core_values": [
+          "Community Access"
+        ],
+        "highlights": [
+          "TU affiliation"
+        ],
+        "features": [],
+        "why_choose_this_college": [
+          "Local community higher education access"
+        ],
+        "achievements": [],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": [],
+        "clubs": [],
+        "sports": [],
+        "student_organizations": [],
+        "campus_experience": "",
+        "student_welfare": []
+      },
+      "career_development": {
+        "placement_cell": null,
+        "internship_opportunities": [],
+        "industry_partnerships": [],
+        "career_counseling": null,
+        "alumni_network": null,
+        "placement_statistics": []
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "admission_contacts": [],
+        "website": null,
+        "office_hours": null,
+        "contact_person": null
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "linkedin": null,
+        "youtube": null,
+        "x": null,
+        "other": []
+      },
+      "online_resources": {
+        "prospectus": [],
+        "fee_structure": [],
+        "academic_calendar": [],
+        "notices": [],
+        "results": [],
+        "student_portal": null,
+        "downloads": []
+      },
+      "seo": {
+        "suggested_title": "Shreepati Campus, Modi, Parbat",
+        "meta_description": "Shreepati Campus in Modi, Parbat offers B.Ed program under Tribhuvan University.",
+        "keywords": [
+          "Shreepati Campus Parbat",
+          "Modi Rural Municipality colleges"
+        ],
+        "faq": [
+          {
+            "question": "Where is Shreepati Campus located?",
+            "answer": "It is located in Modi Rural Municipality, Parbat district."
+          }
+        ]
+      },
+      "verification": {
+        "verification_status": "partial",
+        "last_verified_at": "2025-05-15",
+        "official_sources": [
+          "Tribhuvan University records"
+        ],
+        "secondary_sources": [],
+        "field_confidence": {
+          "identity": "high",
+          "location": "medium",
+          "affiliation": "high"
+        },
+        "missing_information": [
+          "Exact ward number",
+          "Contact details",
+          "Website"
+        ],
+        "notes": "Verified as a TU affiliated campus in Parbat."
+      }
+    },
+    {
+      "identity": {
+        "name": "Parbat Polytechnic Institute",
+        "name_ne": "पर्वत पोलिटेक्निक इन्ष्टिच्युट",
+        "alternative_names": [],
+        "slug": "parbat-polytechnic-institute",
+        "category": "college",
+        "institution_type": "government",
+        "ownership": "Government / CTEVT Constituent",
+        "established_year": null,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "logo_source": null,
+        "short_description": "Technical and vocational higher education institution offering diploma programs under CTEVT in Parbat district.",
+        "description": "Parbat Polytechnic Institute operates under the Council for Technical Education and Vocational Training (CTEVT), delivering technical diploma courses in engineering and allied fields to students in Parbat district."
+      },
+      "location": {
+        "province": "Gandaki Province",
+        "district": "Parbat",
+        "municipality": "Bihadi Rural Municipality / Jaljala / Kusma area",
+        "ward": null,
+        "tole": "Parbat",
+        "full_address": "Parbat District, Gandaki Province, Nepal",
+        "latitude": null,
+        "longitude": null,
+        "google_maps_url": null,
+        "google_maps_embed_url": null,
+        "nearby_landmarks": []
+      },
+      "affiliation": {
+        "university": "CTEVT",
+        "affiliation_type": "Constituent / Affiliated",
+        "accreditation": [],
+        "recognition_details": [
+          "Recognized by CTEVT Nepal"
+        ]
+      },
+      "academics": {
+        "study_system": "Semester system",
+        "academic_calendar": "CTEVT academic calendar",
+        "medium_of_instruction": [
+          "English",
+          "Nepali"
+        ],
+        "teaching_methodology": "Practical-based technical training, laboratory work, and classroom instruction.",
+        "programs": [
+          {
+            "name": "Diploma in Civil Engineering",
+            "degree_level": "Diploma",
+            "faculty": "Engineering",
+            "specialization": [
+              "Civil Engineering"
+            ],
+            "duration": "3 years",
+            "semester_or_year": "Semester",
+            "eligibility": "SEE pass with minimum GPA/marks as per CTEVT rules",
+            "entrance_requirement": "CTEVT central entrance examination",
+            "fee": null,
+            "intake_capacity": 48,
+            "status": "active",
+            "source_urls": []
+          }
+        ]
+      },
+      "admission": {
+        "guidance": "Admissions are conducted annually based on CTEVT entrance examination results.",
+        "requirements": [
+          "SEE or equivalent pass with required grade/marks."
+        ],
+        "application_process": [
+          "Online application via CTEVT portal",
+          "Entrance exam appearance",
+          "Admission counseling and seat allotment"
+        ],
+        "application_url": null,
+        "entrance_details": "Conducted centrally by CTEVT.",
+        "required_documents": [
+          "SEE Marksheet",
+          "Character Certificate"
+        ],
+        "admission_contact": [],
+        "current_notices": []
+      },
+      "scholarships": [
+        {
+          "name": "CTEVT Classified Scholarships",
+          "type": "Government",
+          "eligibility": "Merit and quota-based for deserving students from public schools",
+          "benefits": "Full tuition fee waiver and stipend as per CTEVT rules",
+          "application_process": "Through CTEVT entrance examination quota selection.",
+          "deadline": null,
+          "status": "active",
+          "source_urls": []
+        }
+      ],
+      "facilities": [
+        "Civil Engineering Laboratories",
+        "Computer Lab",
+        "Workshop",
+        "Library"
+      ],
+      "infrastructure": [],
+      "faculty": {
+        "principal": null,
+        "chairperson": null,
+        "campus_chief": null,
+        "departments": [
+          "Civil Engineering"
+        ],
+        "faculty_members": [],
+        "teaching_approach": "Hands-on technical skill development"
+      },
+      "leadership_messages": {
+        "principal_message": null,
+        "chairperson_message": null,
+        "founder_message": null
+      },
+      "institutional_profile": {
+        "mission": "To produce skilled technical human resources for national and international markets.",
+        "vision": "Excellence in technical and vocational education and training.",
+        "core_values": [
+          "Technical Competence",
+          "Practical Skills"
+        ],
+        "highlights": [
+          "CTEVT recognized diploma programs",
+          "Practical technical training"
+        ],
+        "features": [
+          "Well-equipped labs",
+          "Government scholarship opportunities"
+        ],
+        "why_choose_this_college": [
+          "Direct technical qualification recognized by Nepal Government"
+        ],
+        "achievements": [],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": [
+          "Technical exhibitions",
+          "Sports"
+        ],
+        "clubs": [],
+        "sports": [
+          "Football",
+          "Volleyball"
+        ],
+        "student_organizations": [],
+        "campus_experience": "Focused technical training environment.",
+        "student_welfare": []
+      },
+      "career_development": {
+        "placement_cell": null,
+        "internship_opportunities": [
+          "Mandatory field practice and internships for diploma students"
+        ],
+        "industry_partnerships": [],
+        "career_counseling": null,
+        "alumni_network": null,
+        "placement_statistics": []
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "admission_contacts": [],
+        "website": null,
+        "office_hours": "10:00 AM - 5:00 PM",
+        "contact_person": null
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "linkedin": null,
+        "youtube": null,
+        "x": null,
+        "other": []
+      },
+      "online_resources": {
+        "prospectus": [],
+        "fee_structure": [],
+        "academic_calendar": [],
+        "notices": [],
+        "results": [],
+        "student_portal": null,
+        "downloads": []
+      },
+      "seo": {
+        "suggested_title": "Parbat Polytechnic Institute, Parbat",
+        "meta_description": "Parbat Polytechnic Institute offers CTEVT-affiliated diploma in civil engineering in Parbat district.",
+        "keywords": [
+          "Parbat Polytechnic Institute",
+          "CTEVT colleges in Parbat",
+          "Diploma in Civil Engineering Parbat"
+        ],
+        "faq": [
+          {
+            "question": "What technical programs does Parbat Polytechnic Institute offer?",
+            "answer": "It offers a Diploma in Civil Engineering under CTEVT."
+          }
+        ]
+      },
+      "verification": {
+        "verification_status": "partial",
+        "last_verified_at": "2025-05-15",
+        "official_sources": [
+          "CTEVT Institution Directory"
+        ],
+        "secondary_sources": [],
+        "field_confidence": {
+          "identity": "high",
+          "location": "medium",
+          "affiliation": "high"
+        },
+        "missing_information": [
+          "Exact municipality and ward",
+          "Phone number",
+          "Website"
+        ],
+        "notes": "Verified through official CTEVT institutional listings."
+      }
+    }
+  ],
+  "district_summary": {
+    "total_colleges": 4,
+    "government_colleges": 1,
+    "community_colleges": 3,
+    "private_colleges": 0,
+    "universities_and_constituent_campuses": 0,
+    "other_institutions": 0,
+    "municipalities_covered": [
+      "Kusma Municipality",
+      "Modi Rural Municipality",
+      "Parbat District general"
+    ],
+    "institutions_by_university": [
+      {
+        "university": "Tribhuvan University",
+        "count": 3
+      },
+      {
+        "university": "CTEVT",
+        "count": 1
+      }
+    ],
+    "research_gaps": [
+      "Exact street addresses, phone numbers, and official websites for several community campuses in remote municipalities of Parbat require on-the-ground verification."
+    ]
+  }
+}

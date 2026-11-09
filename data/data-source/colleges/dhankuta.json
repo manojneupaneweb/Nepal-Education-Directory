@@ -1,0 +1,1132 @@
+{
+    "research_metadata": {
+        "country": "Nepal",
+        "province": "Koshi Province",
+        "district": "Dhankuta",
+        "research_date": "2026-11-08",
+        "total_institutions_discovered": 14,
+        "research_status": "completed",
+        "collection_mode": "responses"
+    },
+    "institutions": [
+        {
+            "overview": {
+                "name": "Dhankuta Multiple Campus",
+                "name_ne": "धनकुटा बहुमुखी क्याम्पस",
+                "slug": "dhankuta-multiple-campus",
+                "ownership": "constituent",
+                "established_year": 1955,
+                "university": "Tribhuvan University",
+                "municipality": "Dhankuta Municipality",
+                "address": "Dhankuta Municipality, Ward No. 6, Dhankuta, Koshi Province, Nepal",
+                "description": "Constituent campus of Tribhuvan University in Dhankuta bazaar. Established in 2012 BS (1955 AD) as Dhankuta Degree College; affiliated to Tribhuvan University in 2016 BS and renamed Dhankuta Multiple Campus in 2031 BS under the National Education System Plan. The campus site is described as about 210 ropani in Dhankuta town. It runs bachelor and master programmes in education, humanities, management, and science, including B.Ed., B.A., B.Sc., BBS, BBA, BCA, M.Ed., MBS, and M.A. in Rural Development. UGC higher-education data for 2081/82 list programmes B.B.S., B.A., B.Ed., B.Sc., M.A., BBA, MBS, and M.Ed., with 1,868 students.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://dhmc.tu.edu.np/pages/about-dmc-394",
+                    "https://dhmc.tu.edu.np/about-us",
+                    "https://dhmc.tu.edu.np/",
+                    "https://en.wikipedia.org/wiki/Dhankuta_Multiple_Campus",
+                    "https://www.collegenp.com/college/dhankuta-multiple-campus-dhankuta"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Arts (BA)",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Humanities and Social Sciences",
+                    "fee": null,
+                    "source_url": "https://dhmc.tu.edu.np/pages/about-dmc-394"
+                },
+                {
+                    "name": "Bachelor of Education (B.Ed.)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/dhankuta-multiple-campus-dhankuta-bachelor-of-education-bed-bed"
+                },
+                {
+                    "name": "One-year B.Ed.",
+                    "level": "Bachelor",
+                    "duration": "1 year",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://dhmc.tu.edu.np/pages/about-dmc-394"
+                },
+                {
+                    "name": "Bachelor of Science (B.Sc.)",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Science and Technology",
+                    "fee": null,
+                    "source_url": "https://dhmc.tu.edu.np/"
+                },
+                {
+                    "name": "B.Sc. Physics",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Science and Technology",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/dhankuta-multiple-campus-dhankuta"
+                },
+                {
+                    "name": "B.Sc. Chemistry",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Science and Technology",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/dhankuta-multiple-campus-dhankuta"
+                },
+                {
+                    "name": "B.Sc. Environmental Science",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Science and Technology",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/dhankuta-multiple-campus-dhankuta"
+                },
+                {
+                    "name": "Bachelor of Business Studies (BBS)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://dhmc.tu.edu.np/courses/81"
+                },
+                {
+                    "name": "Bachelor of Business Administration (BBA)",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://dhmc.tu.edu.np/"
+                },
+                {
+                    "name": "Bachelor of Computer Application (BCA)",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Science and Technology",
+                    "fee": null,
+                    "source_url": "https://dhmc.tu.edu.np/pages/about-dmc-394"
+                },
+                {
+                    "name": "Master of Arts in Rural Development (M.A. RD)",
+                    "level": "Master",
+                    "duration": null,
+                    "faculty": "Humanities and Social Sciences",
+                    "fee": null,
+                    "source_url": "https://dhmc.tu.edu.np/pages/about-dmc-394"
+                },
+                {
+                    "name": "M.Ed. Educational Planning and Management",
+                    "level": "Master",
+                    "duration": null,
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://dhmc.tu.edu.np/pages/about-dmc-394"
+                },
+                {
+                    "name": "M.Ed. Nepali",
+                    "level": "Master",
+                    "duration": null,
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://dhmc.tu.edu.np/pages/about-dmc-394"
+                },
+                {
+                    "name": "M.Ed. English",
+                    "level": "Master",
+                    "duration": null,
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://dhmc.tu.edu.np/pages/about-dmc-394"
+                },
+                {
+                    "name": "M.Ed. Health",
+                    "level": "Master",
+                    "duration": null,
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://dhmc.tu.edu.np/pages/about-dmc-394"
+                },
+                {
+                    "name": "Master of Business Studies (MBS)",
+                    "level": "Master",
+                    "duration": null,
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://dhmc.tu.edu.np/pages/about-dmc-394"
+                },
+                {
+                    "name": "Postgraduate Diploma in Education (PGD/PGDE)",
+                    "level": "Postgraduate diploma",
+                    "duration": null,
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/dhankuta-multiple-campus-dhankuta"
+                }
+            ],
+            "facilities": [
+                "Cafeteria",
+                "Library",
+                "E-library",
+                "ICT lab",
+                "Sports",
+                "Internet",
+                "Science lab",
+                "Conference hall",
+                "Multimedia",
+                "Journal",
+                "Counselling",
+                "Scholarships",
+                "Tour",
+                "Computer lab",
+                "Classrooms",
+                "Alumni",
+                "Club",
+                "ECA"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [
+                {
+                    "title": "Admission open for 2082/083",
+                    "date": null,
+                    "summary": "New admission announced for BBA, BCA, BSc, B.Ed., BBS, and BA. Contact numbers published: Campus Chief 9852050298, BBA coordinator 9849627099, IT person 9860462082; email dktcampus@gmail.com.",
+                    "source_url": "https://dhmc.tu.edu.np/"
+                },
+                {
+                    "title": "Admission Open for fiscal year 2083/084",
+                    "date": "2026-07-17",
+                    "summary": "Admission notice for fiscal year 2083/084 listed on the campus site.",
+                    "source_url": "https://dhmc.tu.edu.np/"
+                },
+                {
+                    "title": "विदा सम्बन्धी सूचना",
+                    "date": "2026-10-07",
+                    "summary": "Leave-related notice published on the campus notice board.",
+                    "source_url": "https://dhmc.tu.edu.np/notices/15845"
+                },
+                {
+                    "title": "BBA 6th and 8th semester exam form notice",
+                    "date": "2026-09-28",
+                    "summary": "Exam-form notice for BBA sixth and eighth semesters.",
+                    "source_url": "https://dhmc.tu.edu.np/"
+                },
+                {
+                    "title": "M.Ed. 2nd Semester Internal Exam Schedule 2083",
+                    "date": "2026-09-23",
+                    "summary": "Internal examination schedule for M.Ed. second semester 2083.",
+                    "source_url": "https://dhmc.tu.edu.np/"
+                }
+            ],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "9852050298",
+                    "9849627099",
+                    "9860462082",
+                    "026-520298",
+                    "026-522298",
+                    "+977-981-6171383",
+                    "+977-9852061298",
+                    "+977-26-522311",
+                    "+977-26-523389"
+                ],
+                "emails": [
+                    "dktcampus@gmail.com",
+                    "pic@dhmc.tu.edu.np",
+                    "chief@dhmc.tu.edu.np",
+                    "info@dhmc.tu.edu.np"
+                ],
+                "website": "https://dhmc.tu.edu.np/",
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "College of Natural Resource Management, Pakhribas",
+                "name_ne": null,
+                "slug": "cnrm-pakhribas",
+                "ownership": "constituent",
+                "established_year": 2017,
+                "university": "Agriculture and Forestry University",
+                "municipality": "Pakhribas Municipality",
+                "address": "Pakhribas, Dhankuta, Koshi Province, Nepal",
+                "description": "Constituent college of Agriculture and Forestry University under the Faculty of Agriculture, and described by AFU as the only AFU agriculture college in Koshi Province. Approved by a special AFU Senate meeting on 18 April 2017 and established in 2074 BS. Located at about 1,730 metres elevation. The college reports about 100 ropanis of land, its own academic, administrative, laboratory, library, and smart-classroom buildings, plus agronomy and horticulture fields and a playground. As of 13 July 2025, the eighth batch was enrolled and three batches had graduated.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://www.afu.edu.np/faculties/foa/colleges/cnrm-pakhribas",
+                    "https://www.collegenp.com/college/college-of-natural-resource-and-management-dhankuta-dhankuta",
+                    "https://edusanjal.com/college/college-natural-resource-and-management-dhankuta/"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Science in Agriculture (B.Sc. Ag.)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Agriculture",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/college-of-natural-resource-and-management-dhankuta-dhankuta-bachelor-of-science-in-agriculture-bs"
+                }
+            ],
+            "facilities": [
+                "Academic buildings",
+                "Administrative building",
+                "Laboratories",
+                "Library",
+                "Smart classrooms",
+                "Agronomy and horticulture fields",
+                "Playground"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [
+                {
+                    "title": "सूची दर्ता गर्ने सम्बन्धी सूचना - CNRM, Pakhribas",
+                    "date": "2026-07-14",
+                    "summary": "Procurement-related listing notice published by AFU for CNRM, Pakhribas.",
+                    "source_url": "https://www.afu.edu.np/notices/saca-tharata-garana-samabnathha-sacana-cnrm-pakhribas"
+                }
+            ],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "9869945490",
+                    "026-405164",
+                    "026-5405197"
+                ],
+                "emails": [
+                    "cnrmpkbacademic@afu.edu.np",
+                    "pakhribas@afu.edu.np"
+                ],
+                "website": "https://www.afu.edu.np/faculties/foa/colleges/cnrm-pakhribas",
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Gokundeshwar Campus",
+                "name_ne": "गोकुडेश्वर क्याम्पस",
+                "slug": "gokundeshwar-campus",
+                "ownership": "community",
+                "established_year": 2010,
+                "university": "Tribhuvan University",
+                "municipality": "Dhankuta Municipality",
+                "address": "Dhankuta Municipality-5, Balmandir, near Tundikhel, Dhankutanagar, Dhankuta",
+                "description": "Community campus affiliated to Tribhuvan University and described as UGC-recognized. Founded in 2067 BS (2010 AD). It offers the four-year Bachelor of Business Studies. Nepal Public Campus Association lists establishment date 2067-04-24 and QAA status as not applied. It appears on a TU BBS second-year 2081 exam-centre list.",
+                "mission": "Our mission is to inspire a love for learning and cultivate curiosity, creativity, and resilience in every student. We strive to provide a safe, inclusive environment where students are empowered to achieve their full potential.",
+                "vision": "Our vision is to foster a community of responsible, respectful, and reflective global citizens.",
+                "source_urls": [
+                    "https://www.gokundeshwarcampus.com/",
+                    "https://www.gokundeshwarcampus.com/about",
+                    "https://www.collegenp.com/college/gokundeshwar-campus-dhankuta",
+                    "https://edusanjal.com/college/gokundeshwar-campus/",
+                    "https://npca.edu.np/campus_details/210"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Business Studies (BBS)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/gokundeshwar-campus-dhankuta-bachelor-of-business-studies-bbs-bbs"
+                }
+            ],
+            "facilities": [
+                "Library",
+                "Sports",
+                "Internet",
+                "Transport",
+                "Science lab",
+                "Conference",
+                "Multimedia",
+                "Journal",
+                "Counselling",
+                "Scholarships",
+                "E-library",
+                "Tour",
+                "Computer lab",
+                "Classrooms",
+                "Club",
+                "ECA"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "026-521622",
+                    "026-523622",
+                    "026-520215",
+                    "9842027921",
+                    "9842050941",
+                    "9842060490"
+                ],
+                "emails": [
+                    "gokundeshwarcampus@gmail.com"
+                ],
+                "website": "https://www.gokundeshwarcampus.com/",
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Hile Campus",
+                "name_ne": null,
+                "slug": "hile-campus",
+                "ownership": "community",
+                "established_year": 2010,
+                "university": "Tribhuvan University",
+                "municipality": "Dhankuta Municipality",
+                "address": "Dhankuta Municipality-1, Hile, Dhankuta",
+                "description": "Community campus established in 2067 BS (2010 AD) in Hile. Affiliated to Tribhuvan University and described as UGC-recognized. It offers Bachelor of Business Studies. Listed as a TU BBS exam centre for 2081 and on a TU affiliation renewal list dated 2079.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://www.collegenp.com/college/hile-campus-dhankuta",
+                    "https://edusanjal.com/college/hile-campus/",
+                    "https://www.collegenp.com/course/hile-campus-dhankuta-bachelor-of-business-studies-bbs-bbs"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Business Studies (BBS)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/hile-campus-dhankuta-bachelor-of-business-studies-bbs-bbs"
+                }
+            ],
+            "facilities": [
+                "Library",
+                "Sports",
+                "Internet",
+                "Science lab",
+                "Conference",
+                "Multimedia",
+                "Journal",
+                "Counselling",
+                "Scholarships",
+                "Tour",
+                "Classrooms",
+                "ECA"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "026-440436",
+                    "026-540536",
+                    "9852053536",
+                    "9852050838",
+                    "9852053554",
+                    "9842111473"
+                ],
+                "emails": [
+                    "hilecampus@gmail.com"
+                ],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Liberty College Dhankuta",
+                "name_ne": null,
+                "slug": "liberty-college-dhankuta",
+                "ownership": "private",
+                "established_year": 2010,
+                "university": "Tribhuvan University",
+                "municipality": "Dhankuta Municipality",
+                "address": "Dhankuta-7, Sangam Tole, Dhankuta Bazar, Dhankuta",
+                "description": "Private college affiliated to Tribhuvan University offering Bachelor of Business Studies. Directory sources date the college to 2010 AD; the college website describes more than 25 years of operation and also runs NEB +2 Management. Campus chief is named on the website as Nabin Shrestha. It appears on the TU BBS second-year 2081 exam-centre list.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://www.libertycampus.edu.np/",
+                    "https://www.collegenp.com/college/liberty-college-dhankuta",
+                    "https://edusanjal.com/college/liberty-college-dhankuta/"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Business Studies (BBS)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://www.libertycampus.edu.np/"
+                }
+            ],
+            "facilities": [
+                "Smart classrooms",
+                "Multimedia",
+                "Internet",
+                "Computer lab",
+                "Conference hall",
+                "Sports",
+                "Counselling",
+                "Scholarships",
+                "Classrooms",
+                "ECA",
+                "Placement support"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [
+                {
+                    "title": "SEE congratulations and admission note",
+                    "date": "2026-05-18",
+                    "summary": "Website article congratulating SEE graduates and pointing to further study options.",
+                    "source_url": "https://www.libertycampus.edu.np/2026/05/see.html"
+                },
+                {
+                    "title": "Exam routine",
+                    "date": "2026-03-21",
+                    "summary": "Exam-routine item published on the college website.",
+                    "source_url": "https://www.libertycampus.edu.np/2026/03/exam-routine.html"
+                }
+            ],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "026-523250",
+                    "9842062747",
+                    "9842366292"
+                ],
+                "emails": [],
+                "website": "https://www.libertycampus.edu.np/",
+                "map_url": null
+            },
+            "reviews": [
+                {
+                    "platform": "Liberty College website",
+                    "rating": null,
+                    "text": "Choosing Liberty College paved the way for my higher studies. The guidance with patience and professionalism taught me the importance of open discussion and belief in self. Proud to be Libertian. — Krishna Kumar Neupane, Under Secretary, Govt. of Nepal",
+                    "source_url": "https://www.libertycampus.edu.np/"
+                },
+                {
+                    "platform": "Liberty College website",
+                    "rating": null,
+                    "text": "Liberty College provided me a strong foundation in both theoretical and practical aspects for my studies abroad. I gained invaluable knowledge that shaped my career through analytical skills. — Bijaya Raya, Cardiff Metropolitan University, UK",
+                    "source_url": "https://www.libertycampus.edu.np/"
+                },
+                {
+                    "platform": "Liberty College website",
+                    "rating": null,
+                    "text": "कलेजको सहयोगात्मक वातावरण र उत्कृष्ट शिक्षण शैलीका कारण मैले लोकसेवा जस्तो कठिन परीक्षामा सफलता प्राप्त गरें। लिबर्टी कलेजप्रति आभारी छु। — Bandana Subedi, Section Officer, Government of Nepal",
+                    "source_url": "https://www.libertycampus.edu.np/"
+                }
+            ],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Tulasi Mehar College",
+                "name_ne": null,
+                "slug": "tulasi-mehar-college",
+                "ownership": "community",
+                "established_year": null,
+                "university": "Tribhuvan University",
+                "municipality": "Dhankuta Municipality",
+                "address": "Hulak Tole and Thadobazar Street, Dhankuta Municipality, Dhankuta",
+                "description": "Community campus affiliated to Tribhuvan University and described as UGC-recognized. It offers Bachelor of Business Studies. Some directories label it a public institution. It appears on the TU BBS second-year 2081 exam-centre list. Establishment year of the bachelor campus is not published on the pages reviewed.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://www.collegenp.com/college/tulasi-mehar-college-dhankuta",
+                    "https://edusanjal.com/college/tulasi-mehar-college/",
+                    "https://kaha6.com/company/tulasi-mehar-college-dhankuta/"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Business Studies (BBS)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/tulasi-mehar-college-dhankuta-bachelor-of-business-studies-bbs-bbs"
+                }
+            ],
+            "facilities": [
+                "Library",
+                "Sports",
+                "Science lab",
+                "Conference",
+                "Multimedia",
+                "Journal",
+                "Counselling",
+                "Scholarships",
+                "Tour",
+                "Classrooms",
+                "ECA",
+                "Transport",
+                "Computer classes"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "026-522662",
+                    "026-520662",
+                    "026-523281",
+                    "9852061623",
+                    "9842254127",
+                    "9852050993"
+                ],
+                "emails": [
+                    "tulasimehar.dhankuta@gmail.com"
+                ],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Bhasha Campus",
+                "name_ne": null,
+                "slug": "bhasha-campus-dhankuta",
+                "ownership": "community",
+                "established_year": 2008,
+                "university": "Tribhuvan University",
+                "municipality": "Dhankuta Municipality",
+                "address": "Kagate, Dhankuta",
+                "description": "Community campus affiliated to Tribhuvan University and described as UGC-recognized. Directory accounts say it was founded in 2064 BS / 2008 AD and that it was the first community non-profit campus in Dhankuta. It offers Bachelor of Business Studies. UGC HEIMS 2081/82 lists Bhasha Campus, Dhankuta, with a B.B.S. programme and 43 students. It appears on the TU BBS second-year 2081 exam-centre list.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://www.collegenp.com/college/bhasha-campus-dhankuta-dhankuta",
+                    "https://edusanjal.com/college/bhasha-campus-dhankuta/",
+                    "https://www.educatenepal.com/institutions/detail/bhasha-campus-dhankuta"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Business Studies (BBS)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/bhasha-campus-dhankuta-dhankuta-bachelor-of-business-studies-bbs-bbs"
+                }
+            ],
+            "facilities": [
+                "Library",
+                "Sports",
+                "Science lab",
+                "Conference",
+                "Multimedia",
+                "Journal",
+                "Counselling",
+                "Scholarships",
+                "Tour",
+                "Computer lab",
+                "Classrooms",
+                "ECA"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "026-590483",
+                    "026-520583"
+                ],
+                "emails": [
+                    "info@bhasha.edu.np"
+                ],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Jitpur Campus",
+                "name_ne": "जितपुर क्याम्पस",
+                "slug": "jitpur-campus",
+                "ownership": "community",
+                "established_year": 2007,
+                "university": "Tribhuvan University",
+                "municipality": "Mahalaxmi Municipality",
+                "address": "Arkhoule, Jitpur, Mahalaxmi Municipality-7, Dhankuta",
+                "description": "Community campus affiliated to Tribhuvan University and described as UGC-recognized. Established in 2064 BS (2007 AD). It offers a four-year Bachelor of Education. A 2081 TU B.Ed. exam-centre list places Jitpur Campus under Dhankuta Multiple Campus. Public social posts in 2025–2026 announce B.Ed. first-year admission and results.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://www.collegenp.com/course/jitpur-campus-dhankuta-bachelor-of-education-bed-bed",
+                    "https://edusanjal.com/college/jitpur-campus/",
+                    "https://www.educatenepal.com/institutions/detail/jitpur-campus"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Education (B.Ed.)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/jitpur-campus-dhankuta-bachelor-of-education-bed-bed"
+                }
+            ],
+            "facilities": [
+                "Library",
+                "Sports",
+                "Science lab"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [
+                {
+                    "title": "B.Ed. first-year admission open",
+                    "date": null,
+                    "summary": "Public post states that four-year B.Ed. first-year admission was open, with Nepali and English subjects mentioned, and a stated deadline of 2082 Bhadra 25.",
+                    "source_url": "https://www.glunis.com/NP/Dhankuta/102490921561787/%E0%A4%9C%E0%A4%BF%E0%A4%A4%E0%A4%AA%E0%A5%81%E0%A4%B0-%E0%A4%95%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AE%E0%A5%8D%E0%A4%AA%E0%A4%B8-%E0%A4%9C%E0%A4%BF%E0%A4%A4%E0%A4%AA%E0%A5%81%E0%A4%B0-%E0%A4%A7%E0%A4%A8%E0%A4%95%E0%A5%81%E0%A4%9F%E0%A4%BE"
+                }
+            ],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "9742005813",
+                    "9852050947"
+                ],
+                "emails": [],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Jalpadevi Campus",
+                "name_ne": null,
+                "slug": "jalpadevi-campus",
+                "ownership": "community",
+                "established_year": null,
+                "university": "Tribhuvan University",
+                "municipality": "Pakhribas Municipality",
+                "address": "Pakhribas-4, Dhankuta",
+                "description": "Community campus affiliated to Tribhuvan University and described as UGC-recognized. It offers Bachelor of Education. A 2081 TU B.Ed. exam-centre list names Jalapadevi Campus, Pakhribas-4, Dhankuta. Establishment year and phone are not published on the college pages reviewed. This campus is distinct from Jalapa Devi Secondary School, which runs CTEVT diploma programmes at the same locality.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://www.collegenp.com/college/jalpa-devi-campus-dhankuta",
+                    "https://edusanjal.com/college/jalpadevi-campus/",
+                    "https://www.collegenp.com/course/jalpa-devi-campus-dhankuta-bachelor-of-education-bed-bed"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Education (B.Ed.)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/jalpa-devi-campus-dhankuta-bachelor-of-education-bed-bed"
+                }
+            ],
+            "facilities": [
+                "Library",
+                "Sports",
+                "Science lab",
+                "Conference",
+                "Counselling",
+                "Scholarships"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [],
+                "emails": [],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Budhuk Campus",
+                "name_ne": "बुधुक क्याम्पस",
+                "slug": "budhuk-campus",
+                "ownership": "community",
+                "established_year": 2012,
+                "university": "Tribhuvan University",
+                "municipality": "Chaubise Rural Municipality",
+                "address": "Chaubise Rural Municipality-7, Maunabudhuk, Dhankuta",
+                "description": "Community campus affiliated to Tribhuvan University and described as UGC-recognized. Campus accounts say it was established in 2069 BS (2012 AD); some directories also print 2011. It offers Bachelor of Education. UGC HEIMS 2081/82 lists Budhuk Campus, Dhankuta, with a B.Ed. programme and 85 students. A campus site describes it as a community campus providing higher education in rural Dhankuta since 2069 BS.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://www.collegenp.com/college/budhuk-campus-dhankuta",
+                    "https://mountlink.net.np/budhukcampus/",
+                    "https://edusanjal.com/college/budhuk-campus/"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Education (B.Ed.)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/budhuk-campus-dhankuta-bachelor-of-education-bed-bed"
+                }
+            ],
+            "facilities": [
+                "Hostel",
+                "Library",
+                "Sports",
+                "Science lab",
+                "Conference",
+                "Multimedia",
+                "Journal",
+                "Counselling",
+                "Scholarships",
+                "Tour",
+                "Computer lab",
+                "Internet",
+                "Classrooms",
+                "ECA"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "9842112505",
+                    "026-541012"
+                ],
+                "emails": [
+                    "budhukcampus069@gmail.com"
+                ],
+                "website": "https://mountlink.net.np/budhukcampus/",
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Uttarpani Polytechnic Institute",
+                "name_ne": "उत्तरपानी बहुप्राविधिक शिक्षालय",
+                "slug": "uttarpani-polytechnic-institute",
+                "ownership": "constituent",
+                "established_year": 1983,
+                "university": "CTEVT",
+                "municipality": "Dhankuta Municipality",
+                "address": "Dhankuta Municipality-10, Uttarpani, Dhankuta",
+                "description": "CTEVT constituent polytechnic, described as the oldest TVET school in eastern Nepal and the second constituent school of CTEVT. Established in 2040 BS. The campus is described as covering 44.25 hectares (865 ropani). It runs three-year diplomas in agriculture (plant science and animal science) and pharmacy, plus 18-month pre-diploma agriculture programmes and short vocational courses. From FY 2080/81 it has taught Diploma in Pharmacy under a special scholarship programme.",
+                "mission": "उत्तरपानी बहुप्राविधिक शिक्षालयले अत्याधुनिक प्रविधि प्रयोग गर्दै सीपयुक्त र दक्ष प्राविधिक जनशक्ति उत्पादन गरि उद्यमशीलता तथा सम्मानित रोजगारीको लागी आधारशीला खडा गर्नेछ।",
+                "vision": "उत्तरपानी बहुप्राविधिक शिक्षालय “दक्ष र सक्षम प्राविधिक जनशक्ति, सामाजिक र आर्थिक उन्नति” दुरदृष्टि लिई कोशी प्रदेशकै उत्कृष्ट तथा नमुना शिक्षालय बन्नेछ।",
+                "source_urls": [
+                    "https://upi.edu.np/",
+                    "https://upi.edu.np/about-upi/",
+                    "https://edusanjal.com/school/uttarpani-technical-school/",
+                    "http://suchanaa.com/directory/uttarpani-polytechnic-institute/"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Diploma in Agriculture (Plant Science)",
+                    "level": "Diploma",
+                    "duration": "3 years",
+                    "faculty": "Agriculture",
+                    "fee": null,
+                    "source_url": "https://upi.edu.np/"
+                },
+                {
+                    "name": "Diploma in Agriculture (Animal Science)",
+                    "level": "Diploma",
+                    "duration": "3 years",
+                    "faculty": "Agriculture",
+                    "fee": null,
+                    "source_url": "https://upi.edu.np/"
+                },
+                {
+                    "name": "Diploma in Pharmacy",
+                    "level": "Diploma",
+                    "duration": "3 years",
+                    "faculty": "Health",
+                    "fee": null,
+                    "source_url": "https://upi.edu.np/diploma-in-pharmacy-special-scholarship/"
+                },
+                {
+                    "name": "Pre-Diploma in Agriculture (Plant Science)",
+                    "level": "Pre-diploma",
+                    "duration": "18 months",
+                    "faculty": "Agriculture",
+                    "fee": null,
+                    "source_url": "https://upi.edu.np/about-upi/"
+                },
+                {
+                    "name": "Pre-Diploma in Veterinary Science / Livestock Production / Animal Health",
+                    "level": "Pre-diploma",
+                    "duration": "18 months",
+                    "faculty": "Agriculture",
+                    "fee": null,
+                    "source_url": "https://upi.edu.np/"
+                }
+            ],
+            "facilities": [],
+            "gallery": [],
+            "videos": [],
+            "updates": [
+                {
+                    "title": "Diploma in Pharmacy vacant-seat admission notice",
+                    "date": "2024-04-23",
+                    "summary": "Notice that two special-scholarship Diploma in Pharmacy seats for session 2080/081 remained vacant and that passed or waitlisted candidates could apply by 2081/01/16. Contact numbers given: 026-540230 and 9851232087.",
+                    "source_url": "https://www.collegenp.com/admission/uttarpani-technical-institute-notice-for-passed-waitlisted-candidates-of-diploma-in-pharmacy"
+                }
+            ],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "026-540230",
+                    "026-540231",
+                    "9852050297",
+                    "9761704373",
+                    "9851232087"
+                ],
+                "emails": [
+                    "utsdkt@gmail.com"
+                ],
+                "website": "https://upi.edu.np/",
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Dhankuta Institute of Health Science",
+                "name_ne": null,
+                "slug": "dhankuta-institute-of-health-science",
+                "ownership": "private",
+                "established_year": 1998,
+                "university": "CTEVT",
+                "municipality": "Dhankuta Municipality",
+                "address": "Bich Bazar-6, Dhankuta Municipality, Dhankuta",
+                "description": "Private CTEVT-affiliated health institute established in 2055 BS (1998 AD) at Bich Bazar, Dhankuta Municipality ward 6. Accredited by the Nepal Health Professional Council. Published programme lists include PCL/Diploma in General Medicine (Health Assistant), and also ANM and TSLC/CMA. A CTEVT 2083 diploma and certificate exam-centre notice lists the institute among Dhankuta centres.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://www.collegenp.com/college/dhankuta-institute-of-health-science-dhankuta",
+                    "https://edusanjal.com/school/dhankuta-institute-health-science/",
+                    "https://kaha6.com/company/dhankuta-institute-of-health-science/",
+                    "https://www.collegenp.com/course/dhankuta-institute-of-health-science-dhankuta-pcl-in-general-medicine-health-assistant-ha-ha"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "PCL in General Medicine (Health Assistant)",
+                    "level": "Diploma",
+                    "duration": "3 years",
+                    "faculty": "Health",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/dhankuta-institute-of-health-science-dhankuta-pcl-in-general-medicine-health-assistant-ha-ha"
+                },
+                {
+                    "name": "Auxiliary Nurse Midwife (ANM)",
+                    "level": "TSLC",
+                    "duration": null,
+                    "faculty": "Health",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/school/dhankuta-institute-health-science/"
+                },
+                {
+                    "name": "TSLC in Community Medicine Assistant (CMA)",
+                    "level": "TSLC",
+                    "duration": null,
+                    "faculty": "Health",
+                    "fee": null,
+                    "source_url": "https://kaha6.com/company/dhankuta-institute-of-health-science/"
+                }
+            ],
+            "facilities": [
+                "Science labs"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "026-522033",
+                    "026-520033",
+                    "026-523619",
+                    "026-523144",
+                    "9852061612",
+                    "9852038774"
+                ],
+                "emails": [
+                    "dihs.dhankuta@gmail.com",
+                    "info@dihs.edu.np"
+                ],
+                "website": "https://dihs.edu.np",
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Millennium Technical Institute",
+                "name_ne": null,
+                "slug": "millennium-technical-institute-dhankuta",
+                "ownership": null,
+                "established_year": null,
+                "university": "CTEVT",
+                "municipality": "Dhankuta Municipality",
+                "address": "Dhankuta",
+                "description": "CTEVT technical institute in Dhankuta. Edusanjal lists TSLC in Medical Laboratory Technology. A CollegeNP course page and a 2082/83 CTEVT CMLT college list name Millennium Technical Institute, Dhankuta, for the three-year Certificate in Medical Laboratory Technology. A CTEVT 2083 diploma and certificate exam-centre notice also lists Millenium Technical Institute, Dhankuta. Phone, email, and establishment year were not published on the pages reviewed.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://edusanjal.com/school/millenium-technical-institute-dhankuta/",
+                    "https://www.collegenp.com/course/millenium-technical-institute-proficiency-certificate-in-medical-lab-technology-cmlt",
+                    "https://www.collegenp.com/admission/ctevt-cmlt-colleges-nepal",
+                    "https://www.collegenp.com/exam/ctevt-diploma-certificate-exam-centers-2083"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Certificate in Medical Laboratory Technology (CMLT)",
+                    "level": "Diploma",
+                    "duration": "3 years",
+                    "faculty": "Health",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/millenium-technical-institute-proficiency-certificate-in-medical-lab-technology-cmlt"
+                },
+                {
+                    "name": "TSLC in Medical Laboratory Technology",
+                    "level": "TSLC",
+                    "duration": null,
+                    "faculty": "Health",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/school/millenium-technical-institute-dhankuta/"
+                }
+            ],
+            "facilities": [],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [],
+                "emails": [],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Jalapa Devi Secondary School",
+                "name_ne": "जल्पा देवी माध्यमिक विद्यालय",
+                "slug": "jalapa-devi-secondary-school-pakhribas",
+                "ownership": "public",
+                "established_year": null,
+                "university": "CTEVT",
+                "municipality": "Pakhribas Municipality",
+                "address": "Pakhribas-4, Dhankuta",
+                "description": "Public technical school in Pakhribas that is not +2-only: besides NEB secondary and plus-two streams, published pages say it is CTEVT-affiliated and offers a Diploma in Civil Engineering and pre-diploma/TSLC civil and electrical programmes. A CTEVT 2083 diploma and certificate exam-centre notice lists Jalapa Devi Secondary School, Pakhribas-4, among Dhankuta diploma exam centres. The separate Jalpadevi Campus runs TU B.Ed. at the same locality.",
+                "mission": null,
+                "vision": "To produce civil sub overseers for the country and reduce the unemployment problem.",
+                "source_urls": [
+                    "https://edusanjal.com/school/jalapa-devi-higher-secondary-school-dhankuta/",
+                    "https://www.collegenp.com/school/jalpa-devi-secondary-school-pakhribas-dhankuta",
+                    "https://www.collegenp.com/exam/ctevt-diploma-certificate-exam-centers-2083"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Diploma in Civil Engineering",
+                    "level": "Diploma",
+                    "duration": null,
+                    "faculty": "Engineering",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/school/jalpa-devi-secondary-school-pakhribas-dhankuta"
+                },
+                {
+                    "name": "TSLC / Pre-Diploma in Civil Engineering (Civil Sub-Overseer)",
+                    "level": "TSLC",
+                    "duration": null,
+                    "faculty": "Engineering",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/school/jalpa-devi-secondary-school-pakhribas-dhankuta"
+                },
+                {
+                    "name": "TSLC / Pre-Diploma in Electrical Engineering (Electrical Sub-Overseer)",
+                    "level": "TSLC",
+                    "duration": null,
+                    "faculty": "Engineering",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/school/jalpa-devi-secondary-school-pakhribas-dhankuta"
+                }
+            ],
+            "facilities": [
+                "Library",
+                "Sports",
+                "Internet",
+                "Science lab",
+                "Computer lab",
+                "Multimedia",
+                "Classrooms"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [
+                {
+                    "title": "Nepali teacher vacancy",
+                    "date": "2025-11-27",
+                    "summary": "CollegeNP lists a Nepali-teacher vacancy notice for Jalapa Devi Secondary School, Dhankuta.",
+                    "source_url": "https://www.collegenp.com/school/jalpa-devi-secondary-school-dhankuta"
+                }
+            ],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "026-620488",
+                    "026-529129"
+                ],
+                "emails": [],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        }
+    ]
+}

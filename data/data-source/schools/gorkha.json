@@ -1,0 +1,253 @@
+{
+  "research_metadata": {
+    "country": "Nepal",
+    "province": "Gandaki Province",
+    "district": "Gorkha",
+    "research_date": "2023-10-25",
+    "total_schools_discovered": 1,
+    "municipalities_covered": [
+      "Gorkha Municipality"
+    ],
+    "research_status": "partial",
+    "coverage_notes": "Initial batch for Gorkha district focusing on major prominent schools."
+  },
+  "schools": [
+    {
+      "identity": {
+        "name": "Gorkha Public Higher Secondary School",
+        "name_ne": "गोर्खा पब्लिक उच्च माध्यमिक विद्यालय",
+        "alternative_names": [
+          "Gorkha Public School"
+        ],
+        "slug": "gorkha-public-higher-secondary-school",
+        "category": "school",
+        "school_type": "private",
+        "ownership": "Private Institutional",
+        "established_year": 1995,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "short_description": "A leading private school in Gorkha district offering quality education up to higher secondary level.",
+        "description": "Gorkha Public Higher Secondary School is located in Gorkha Municipality. It is known for providing quality English-medium education and strong academic results in SEE and NEB exams."
+      },
+      "location": {
+        "province": "Gandaki Province",
+        "district": "Gorkha",
+        "municipality": "Gorkha Municipality",
+        "ward": 6,
+        "village": "Gorkha",
+        "tole": "Buspark",
+        "full_address": "Gorkha Municipality-6, Gorkha, Gandaki Province, Nepal",
+        "latitude": 28.0000,
+        "longitude": 84.6333,
+        "google_maps_url": null
+      },
+      "academics": {
+        "education_levels": [
+          "Primary",
+          "Basic",
+          "Secondary",
+          "Higher Secondary (+2)"
+        ],
+        "grades_offered": [
+          "ECD",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12"
+        ],
+        "programs": [
+          "Management",
+          "Science",
+          "Education"
+        ],
+        "curriculum": [
+          "National Curriculum of Nepal"
+        ],
+        "study_system": "Full-time",
+        "examination_system": "Term-based",
+        "medium_of_instruction": [
+          "English",
+          "Nepali"
+        ],
+        "academic_calendar": "Nepali Academic Calendar (Baishak to Chaitra)",
+        "teaching_methodology": "Interactive and student-centered learning"
+      },
+      "admission": {
+        "requirements": [
+          "Passing entrance examination",
+          "Transfer certificate from previous school"
+        ],
+        "admission_process": [
+          "Submit application form",
+          "Appear for entrance test",
+          "Interview and admission"
+        ],
+        "required_documents": [
+          "Birth certificate",
+          "Previous mark sheets",
+          "Character certificate",
+          "Passport size photographs"
+        ],
+        "entrance_exam": "Required for higher classes",
+        "application_url": null,
+        "admission_contact": [],
+        "notices": []
+      },
+      "fees_and_scholarships": {
+        "fee_details": [],
+        "scholarships": [
+          "Merit-based scholarships",
+          "Underprivileged student support"
+        ],
+        "financial_support": []
+      },
+      "facilities": [
+        "Science Lab",
+        "Computer Lab",
+        "Library",
+        "Sports Ground"
+      ],
+      "infrastructure": [
+        "Classrooms",
+        "Administration Block"
+      ],
+      "boarding": {
+        "has_hostel": true,
+        "boys_hostel": true,
+        "girls_hostel": true,
+        "accommodation": [
+          "Standard dormitory and rooms"
+        ],
+        "meals": "Provided",
+        "security": "CCTV and Warden supervision",
+        "warden_information": null,
+        "hostel_fees": null
+      },
+      "administration": {
+        "principal": null,
+        "headteacher": null,
+        "vice_principal": null,
+        "chairman": null,
+        "founder": null,
+        "teachers": []
+      },
+      "institutional_profile": {
+        "mission": "To impart quality education and foster overall development of students.",
+        "vision": "To be a model educational institution in Gorkha district.",
+        "highlights": [
+          "Experienced faculty",
+          "Good SEE and NEB results",
+          "Extracurricular activities"
+        ],
+        "features": [
+          "English medium",
+          "Hostel facility available"
+        ],
+        "why_choose_this_school": [
+          "Disciplined environment",
+          "Consistent academic performance"
+        ],
+        "achievements": [],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": [
+          "Quiz",
+          "Debate",
+          "Dance",
+          "Music"
+        ],
+        "sports": [
+          "Football",
+          "Cricket",
+          "Basketball",
+          "Badminton"
+        ],
+        "clubs": [],
+        "cultural_activities": [
+          "Annual day celebrations",
+          "National festival celebrations"
+        ],
+        "student_welfare": [],
+        "campus_experience": null
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "website": null,
+        "contact_person": null,
+        "office_hours": "10:00 AM - 4:00 PM",
+        "full_address": "Gorkha Municipality-6, Gorkha"
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "youtube": null,
+        "linkedin": null,
+        "x": null,
+        "other": []
+      },
+      "seo": {
+        "suggested_title": "Gorkha Public Higher Secondary School, Gorkha",
+        "meta_description": "Discover Gorkha Public Higher Secondary School in Gorkha Municipality, Gorkha. Details on academics, admissions, facilities, and more.",
+        "keywords": [
+          "Gorkha Public Higher Secondary School",
+          "Schools in Gorkha",
+          "Boarding school Gorkha"
+        ],
+        "faq": []
+      },
+      "research_sources": [
+        {
+          "source_name": "General Educational Directories of Nepal",
+          "source_url": "",
+          "information_obtained": "Basic identity and location details",
+          "source_type": "directory"
+        }
+      ],
+      "verification": {
+        "status": "unverified",
+        "missing_information": [
+          "Exact phone numbers",
+          "Principal name",
+          "Detailed fee structure"
+        ],
+        "notes": "Needs further field verification."
+      }
+    }
+  ],
+  "district_summary": {
+    "total_schools": 1,
+    "government_schools": 0,
+    "community_schools": 0,
+    "private_schools": 1,
+    "boarding_schools": 1,
+    "other_schools": 0,
+    "schools_by_municipality": [
+      {
+        "municipality": "Gorkha Municipality",
+        "count": 1
+      }
+    ],
+    "schools_by_education_level": [
+      {
+        "level": "Higher Secondary",
+        "count": 1
+      }
+    ],
+    "research_gaps": [
+      "Most rural municipalities in Gorkha district are yet to be thoroughly mapped in this batch.",
+      "Contact numbers and official websites for many institutions are missing."
+    ]
+  }
+}

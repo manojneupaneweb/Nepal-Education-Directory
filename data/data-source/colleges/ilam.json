@@ -1,0 +1,1002 @@
+{
+    "research_metadata": {
+        "country": "Nepal",
+        "province": "Koshi Province",
+        "district": "Ilam",
+        "research_date": "2026-11-08",
+        "total_institutions_discovered": 11,
+        "research_status": "completed",
+        "collection_mode": "responses"
+    },
+    "institutions": [
+        {
+            "overview": {
+                "name": "Mahendra Ratna Multiple Campus",
+                "name_ne": "महेन्द्ररत्न बहुमुखी क्याम्पस",
+                "slug": "mahendra-ratna-multiple-campus-ilam",
+                "ownership": "constituent",
+                "established_year": 1960,
+                "university": "Tribhuvan University",
+                "municipality": "Ilam Municipality",
+                "address": "Ilam Municipality Ward No. 7, Ilam Bazar, Ilam, Nepal",
+                "description": "Tribhuvan University constituent campus in Ilam Bazar, beside the historic tea garden. The campus states it was established in 1960 AD (2016 BS) and was approved to run autonomously in 2066 BS (1 February 2010). It offers bachelor and master programs in humanities, education, management, and horticulture, and received UGC Quality Assurance and Accreditation in 2072 BS. Campus pages report roughly 2,300 to 2,500 students.",
+                "mission": "Youth employment through quality education.",
+                "vision": "To enlighten humanity through knowledge.",
+                "source_urls": [
+                    "https://mrmc.tu.edu.np/",
+                    "https://mrmc.tu.edu.np/about-us",
+                    "https://edusanjal.com/college/mahendra-ratna-multiple-campus-ilam/",
+                    "https://www.collegenp.com/college/mahendra-ratna-multiple-campus-ilam-ilam",
+                    "https://ugcnepal.edu.np/pages/qaa-receiving-heis-8/",
+                    "https://en.wikipedia.org/wiki/Mahendra_Ratna_Multiple_Campus"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Arts (BA)",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Humanities and Social Sciences",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/mahendra-ratna-multiple-campus-ilam-ilam"
+                },
+                {
+                    "name": "Bachelor of Education (B.Ed.)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/mahendra-ratna-multiple-campus-ilam-ilam-bachelor-of-business-administration-bba"
+                },
+                {
+                    "name": "One-Year Bachelor of Education (B.Ed.)",
+                    "level": "Bachelor",
+                    "duration": "1 year",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/mahendra-ratna-multiple-campus-ilam-ilam/"
+                },
+                {
+                    "name": "Bachelor of Business Studies (BBS)",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://mrmc.tu.edu.np/"
+                },
+                {
+                    "name": "Bachelor of Business Administration (BBA)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/mahendra-ratna-multiple-campus-ilam-ilam-bachelor-of-business-administration-bba"
+                },
+                {
+                    "name": "Bachelor in Social Work (BSW)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Humanities and Social Sciences",
+                    "fee": null,
+                    "source_url": "https://mrmc.tu.edu.np/"
+                },
+                {
+                    "name": "B.Sc. in Horticulture and Floriculture Management",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Science / Horticulture Management",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/mahendra-ratna-multiple-campus-ilam-ilam"
+                },
+                {
+                    "name": "Master of Arts (MA) in Rural Development",
+                    "level": "Master",
+                    "duration": "2 years",
+                    "faculty": "Humanities and Social Sciences",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/mahendra-ratna-multiple-campus-ilam-ilam-bachelor-of-business-administration-bba"
+                },
+                {
+                    "name": "Master of Arts (MA) in Nepali",
+                    "level": "Master",
+                    "duration": null,
+                    "faculty": "Humanities and Social Sciences",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/mahendra-ratna-multiple-campus-ilam-ilam"
+                },
+                {
+                    "name": "Master of Arts (MA) in Sociology",
+                    "level": "Master",
+                    "duration": null,
+                    "faculty": "Humanities and Social Sciences",
+                    "fee": null,
+                    "source_url": "https://mrmc.tu.edu.np/"
+                },
+                {
+                    "name": "Master of Arts (MA) in English",
+                    "level": "Master",
+                    "duration": null,
+                    "faculty": "Humanities and Social Sciences",
+                    "fee": null,
+                    "source_url": "https://mrmc.tu.edu.np/"
+                },
+                {
+                    "name": "M.Ed. in English Language Education",
+                    "level": "Master",
+                    "duration": null,
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/mahendra-ratna-multiple-campus-ilam-ilam"
+                },
+                {
+                    "name": "M.Ed. in Education Planning and Management",
+                    "level": "Master",
+                    "duration": null,
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/mahendra-ratna-multiple-campus-ilam-ilam"
+                },
+                {
+                    "name": "Master of Business Studies (MBS)",
+                    "level": "Master",
+                    "duration": null,
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://mrmc.tu.edu.np/"
+                }
+            ],
+            "facilities": [
+                "Library",
+                "Computer lab",
+                "Science department",
+                "Seminar hall",
+                "Canteen",
+                "Sports ground",
+                "Hostels for boys and girls",
+                "Conference hall",
+                "Classrooms",
+                "Scholarships",
+                "ECA"
+            ],
+            "gallery": [],
+            "videos": [
+                {
+                    "title": "महेन्द्ररत्न बहुमुखी क्याम्पस इलाम / Mahendra Ratna Multiple Campus Ilam",
+                    "url": "https://www.youtube.com/watch?v=Md1CQOo94GY",
+                    "platform": "YouTube"
+                }
+            ],
+            "updates": [
+                {
+                    "title": "प्रयोगात्मक परीक्षा संचालन सम्बन्धमा",
+                    "date": "2026-10-02",
+                    "summary": "Notice on conduct of practical examinations.",
+                    "source_url": "https://mrmc.tu.edu.np/notices/15789"
+                },
+                {
+                    "title": "पुरुष छात्राबासमा भर्ना हुने सम्बन्धी सूचना",
+                    "date": "2026-10-02",
+                    "summary": "Notice on admission to the boys' hostel.",
+                    "source_url": "https://mrmc.tu.edu.np/notices/15788"
+                },
+                {
+                    "title": "छात्रावृत्ति प्राप्त गर्ने विद्यार्थीहरुको नामावली प्रकाशन सम्बन्धमा",
+                    "date": "2026-10-05",
+                    "summary": "Publication of the list of students receiving scholarships, dated 19 Asoj 2083.",
+                    "source_url": "https://mrmc.tu.edu.np/news/1266"
+                }
+            ],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-27-520020",
+                    "+977-27-520665",
+                    "+977-27-521653"
+                ],
+                "emails": [
+                    "info@mrmc.tu.edu.np",
+                    "chief@mrmc.tu.edu.np"
+                ],
+                "website": "https://mrmc.tu.edu.np/",
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Mangalbare Multiple Campus",
+                "name_ne": "मंगलबारे बहुमुखी क्याम्पस",
+                "slug": "mangalbare-multiple-campus",
+                "ownership": "community",
+                "established_year": 2006,
+                "university": "Tribhuvan University",
+                "municipality": "Deumai Municipality",
+                "address": "Deumai Municipality-4, Mangalbare, Ilam, Nepal",
+                "description": "Community campus affiliated with Tribhuvan University, established in 2063 BS (2006 AD) at Mangalbare, Deumai. It offers bachelor programs in education, humanities, and management. UGC Nepal accredited the campus on 13 July 2022, with accreditation stated as valid until 12 July 2027.",
+                "mission": "To regulate the progressive activities for qualitative, practical and life-coping education.",
+                "vision": "To assure the qualitative outcome in higher education by providing an academic and research-oriented educational base, using modern technology, with a sense of ownership among local people.",
+                "source_urls": [
+                    "https://mangalbaremultiplecampus.edu.np/",
+                    "https://edusanjal.com/college/mangalbare-multiple-campus/",
+                    "https://www.collegenp.com/college/mangalbare-multiple-campus-ilam",
+                    "https://www.hamrakura.com/news-details/60535/2019-04-27"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Education (B.Ed.)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/mangalbare-multiple-campus-ilam-bachelor-of-education-bed-bed"
+                },
+                {
+                    "name": "Bachelor of Arts (BA)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Humanities",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/mangalbare-multiple-campus-ilam-bachelor-of-arts-ba-ba"
+                },
+                {
+                    "name": "Bachelor of Business Studies (BBS)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/mangalbare-multiple-campus-ilam-bachelor-of-business-studies-bbs-bbs"
+                }
+            ],
+            "facilities": [
+                "Cafeteria",
+                "Library",
+                "Sports",
+                "Science lab",
+                "Conference",
+                "Multimedia",
+                "Journal",
+                "Counselling",
+                "Scholarships",
+                "Classrooms",
+                "ECA"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [
+                {
+                    "title": "विदा सम्बन्धी सूचना",
+                    "date": null,
+                    "summary": "Holiday notice published on the campus website.",
+                    "source_url": "https://mangalbaremultiplecampus.edu.np/"
+                },
+                {
+                    "title": "परीक्षा आवेदन फाराम भर्ने सम्बन्धी अत्यन्त जरुरी सूचना",
+                    "date": null,
+                    "summary": "Urgent notice on filling examination application forms.",
+                    "source_url": "https://mangalbaremultiplecampus.edu.np/"
+                },
+                {
+                    "title": "अभिमुखीकरण सम्बन्धी सूचना",
+                    "date": null,
+                    "summary": "Orientation notice published on the campus website.",
+                    "source_url": "https://mangalbaremultiplecampus.edu.np/"
+                }
+            ],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-27-400082",
+                    "+977-9852640082"
+                ],
+                "emails": [
+                    "mmultiplecampus@gmail.com",
+                    "info@mangalbaremultiplecampus.edu.np"
+                ],
+                "website": "https://mangalbaremultiplecampus.edu.np/",
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Karfok Bidya Mandir Multiple Campus",
+                "name_ne": "करफोक विद्या मन्दिर बहुमुखी क्याम्पस",
+                "slug": "karfok-bidya-mandir-multiple-campus",
+                "ownership": "community",
+                "established_year": 2002,
+                "university": "Purbanchal University",
+                "municipality": "Suryodaya Municipality",
+                "address": "Suryodaya Municipality-12, Karfok, Ilam, Nepal",
+                "description": "Community campus at Karfok affiliated with Purbanchal University since 2059 BS (2002 AD). It grew out of a school established in 2010 BS and upgraded to a higher-secondary school in 2049 BS. Higher-education programs are in management, humanities, and education. The campus states that it is in the UGC QAA process and that a peer-review visit was completed in Asoj 2083.",
+                "mission": "To impart qualitative, skillful and life-coping education and to develop globally competent graduates so as to fulfill the demand of the present world.",
+                "vision": "To serve as a hub of academic excellence, dedicated to ensuring the highest standards of quality education.",
+                "source_urls": [
+                    "https://karfokmultiplecampus.edu.np/",
+                    "https://edusanjal.com/college/karfok-bidya-mandir-multiple-campus/",
+                    "https://www.collegenp.com/college/karfok-bidya-mandir-multiple-campus-ilam",
+                    "https://npca.edu.np/campus_details/301",
+                    "https://www.janachasokhabar.com/news/detail/4566"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Business Studies (BBS)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/karfok-bidya-mandir-multiple-campus-ilam-bachelor-of-business-studies-bbs-bbs"
+                },
+                {
+                    "name": "Bachelor of Business Administration (BBA)",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/college/karfok-bidya-mandir-multiple-campus/"
+                },
+                {
+                    "name": "Bachelor of Education (B.Ed.)",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/college/karfok-bidya-mandir-multiple-campus/"
+                },
+                {
+                    "name": "One-year Bachelor of Education (B.Ed.)",
+                    "level": "Bachelor",
+                    "duration": "1 year",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/college/karfok-bidya-mandir-multiple-campus/"
+                },
+                {
+                    "name": "Bachelor of Arts (BA)",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Humanities",
+                    "fee": null,
+                    "source_url": "https://karfokmultiplecampus.edu.np/"
+                }
+            ],
+            "facilities": [
+                "Library",
+                "Computer lab",
+                "Sports and playground",
+                "Auditorium",
+                "Science lab",
+                "Conference",
+                "Multimedia",
+                "Journal",
+                "Counselling",
+                "Scholarships",
+                "E-library",
+                "Classrooms"
+            ],
+            "gallery": [],
+            "videos": [
+                {
+                    "title": "Karfok Bidya Mandir Multiple Campus",
+                    "url": "https://www.youtube.com/watch?v=cWNzKkwb3Z4",
+                    "platform": "YouTube"
+                }
+            ],
+            "updates": [
+                {
+                    "title": "Tihar Notice",
+                    "date": "2026-11-06",
+                    "summary": "Tihar holiday notice published by the campus.",
+                    "source_url": "https://karfokmultiplecampus.edu.np/notice/view?notice_id=50"
+                },
+                {
+                    "title": "Peer Review Team (PRT) Visit Successfully Completed under QAA Process",
+                    "date": "2026-09-28",
+                    "summary": "Campus reports that the UGC QAA peer-review visit ran from 28 September to 2 October 2026 (Asoj 12-16, 2083).",
+                    "source_url": "https://karfokmultiplecampus.edu.np/"
+                },
+                {
+                    "title": "Renewal of Membership with Nepal Public Campus Association",
+                    "date": null,
+                    "summary": "NPCA confirmed continued membership of the Purbanchal University-affiliated community campus at Suryodaya-12 and requested renewal and welfare-fund contribution for 2082/083.",
+                    "source_url": "https://karfokmultiplecampus.edu.np/news/read?news_id=20"
+                }
+            ],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-27-555221",
+                    "+977-9852655951",
+                    "+977-9844655951"
+                ],
+                "emails": [
+                    "karfokcampus@gmail.com"
+                ],
+                "website": "https://karfokmultiplecampus.edu.np/",
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Garuwa Multiple Campus",
+                "name_ne": null,
+                "slug": "garuwa-multiple-campus",
+                "ownership": "community",
+                "established_year": 2008,
+                "university": "Tribhuvan University",
+                "municipality": "Mai Municipality",
+                "address": "Mai Municipality-2, Sittali, Danabari, Ilam, Nepal",
+                "description": "Community campus established in 2064 BS (2008 AD) at Danabari in Mai Municipality. It is affiliated with Tribhuvan University and offers a Bachelor of Education program. Nepal Public Campus Association lists its QAA status as not applied.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://garuwacampus.edu.np/",
+                    "https://www.collegenp.com/college/garuwa-multiple-campus",
+                    "https://edusanjal.com/college/garuwa-multiple-campus/",
+                    "https://npca.edu.np/campus_details/128",
+                    "https://suchanaa.com/directory/garuwa-multiple-campus/"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Education (B.Ed.)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/garuwa-multiple-campus-bachelor-of-education-bed"
+                }
+            ],
+            "facilities": [
+                "Library",
+                "Multimedia classrooms",
+                "Computer lab",
+                "Internet",
+                "E-library",
+                "Canteen",
+                "Sports ground",
+                "CCTV",
+                "Counselling",
+                "Scholarships",
+                "Journal",
+                "ECA"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-27-412004",
+                    "+977-9815091489"
+                ],
+                "emails": [
+                    "garuwamultiplec@gmail.com"
+                ],
+                "website": "https://garuwacampus.edu.np/",
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Ekatappa Multiple Campus",
+                "name_ne": null,
+                "slug": "ekatappa-multiple-campus",
+                "ownership": "community",
+                "established_year": 2012,
+                "university": "Tribhuvan University",
+                "municipality": "Phakphokthum Rural Municipality",
+                "address": "Phakphokthum-7, Ektappa, Ilam, Nepal",
+                "description": "Community campus established in 2069 BS (2012 AD) at Ektappa, Phakphokthum Rural Municipality. It is affiliated with Tribhuvan University and approved by the University Grants Commission, and offers a four-year Bachelor of Education.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://ekatappacampus.edu.np/",
+                    "https://edusanjal.com/college/ekatappa-multiple-campus/",
+                    "https://www.collegenp.com/course/ektappa-multiple-campus-ilam-bachelor-of-education-bed-bed"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Education (B.Ed.)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/ektappa-multiple-campus-ilam-bachelor-of-education-bed-bed"
+                }
+            ],
+            "facilities": [
+                "Library",
+                "Sports",
+                "Science lab",
+                "Conference",
+                "Counselling",
+                "Scholarships"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [
+                {
+                    "title": "भवन सूचना",
+                    "date": null,
+                    "summary": "Building notice published on the campus website.",
+                    "source_url": "https://ekatappacampus.edu.np/"
+                },
+                {
+                    "title": "Invitation for e-Bids",
+                    "date": null,
+                    "summary": "E-bid invitation published on the campus website.",
+                    "source_url": "https://ekatappacampus.edu.np/"
+                }
+            ],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-9863184946"
+                ],
+                "emails": [
+                    "ekatappamultiple@gmail.com"
+                ],
+                "website": "https://ekatappacampus.edu.np/",
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Atmananda Multiple Campus",
+                "name_ne": "आत्मनन्द बहुमुखी क्याम्पस",
+                "slug": "atmananda-multiple-campus",
+                "ownership": "community",
+                "established_year": 2017,
+                "university": "Tribhuvan University",
+                "municipality": "Mangsebung Rural Municipality",
+                "address": "Mangsebung Rural Municipality, Ilam, Nepal",
+                "description": "Community campus in Mangsebung Rural Municipality, named after Kirat religious leader Atmananda Lingden. A 2074 BS news report said four-year B.Ed. classes under Tribhuvan University began that year, initially at the local Bhalutar secondary school, with 36 students in the first year. Current directory listings still show only the B.Ed. program.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://edusanjal.com/college/atmananda-multiple-campus/",
+                    "https://www.collegenp.com/college/atmananda-multiple-campus-ilam",
+                    "https://www.ratopati.com/story/23268/study"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Education (B.Ed.)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/atmananda-multiple-campus-ilam-bachelor-of-education-bed-bed"
+                }
+            ],
+            "facilities": [
+                "Library",
+                "Sports",
+                "Science lab",
+                "Multimedia",
+                "Counselling",
+                "Scholarships"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [],
+                "emails": [],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Ilam Community Agriculture Campus",
+                "name_ne": "इलाम सामुदायिक कृषि क्याम्पस",
+                "slug": "ilam-community-agriculture-campus",
+                "ownership": "community",
+                "established_year": 2021,
+                "university": "Purbanchal University",
+                "municipality": "Ilam Municipality",
+                "address": "Ilam-9, Sera, Ilam, Koshi Province, Nepal",
+                "description": "Non-profit community agriculture campus established in 2021 through Ilam Municipality at Sera, Ilam-9. It is affiliated with Purbanchal University Faculty of Science and Technology and offers a four-year, eight-semester B.Sc. (Hons.) Agriculture program in English, with laboratory work, agricultural land, and satellite learning units in horticulture, temperate agriculture, agri-entrepreneurship, plantation crops, and livestock. Published intake is 48 seats.",
+                "mission": "To serve the nation through quality agriculture and livestock education, problem-oriented research, and production of competent agriculture graduates.",
+                "vision": "To develop the campus as a centre of excellence for agriculture education, research, and extension.",
+                "source_urls": [
+                    "https://www.collegenp.com/college/ilam-community-agriculture-campus",
+                    "https://edusanjal.com/college/ilam-community-agriculture-campus/",
+                    "https://pufost.edu.np/college",
+                    "https://nagariknews.nagariknetwork.com/education/719711-1642604943.html"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "B.Sc. (Hons.) in Agriculture",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Science and Technology / Agriculture",
+                    "fee": 450000,
+                    "source_url": "https://edusanjal.com/college/ilam-community-agriculture-campus/program/bachelor-of-sciencehonsin-agriculture-purbanchal-university/"
+                }
+            ],
+            "facilities": [
+                "Library",
+                "Laboratories",
+                "Agricultural land",
+                "Irrigation",
+                "Smart classrooms",
+                "Satellite learning units",
+                "Sports",
+                "Internet",
+                "Science lab",
+                "Conference",
+                "Multimedia",
+                "Counselling",
+                "Scholarships",
+                "Computer lab",
+                "Classrooms"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [
+                {
+                    "title": "Admissions open for B.Sc. (Hons.) Agriculture, 2083 intake",
+                    "date": "2026-09-23",
+                    "summary": "Edusanjal lists applications open from 23 September 2026 until 5 November 2026 for the Purbanchal University-affiliated B.Sc. (Hons.) Agriculture program.",
+                    "source_url": "https://edusanjal.com/admission/admissions-open-ilam-community-agriculture-campus/"
+                }
+            ],
+            "faqs": [
+                {
+                    "question": "When was Ilam Community Agriculture Campus established?",
+                    "answer": "The campus was established in 2021 under the initiative of Ilam Municipality."
+                },
+                {
+                    "question": "Which university is ICAC affiliated with?",
+                    "answer": "ICAC is affiliated with Purbanchal University, Nepal."
+                },
+                {
+                    "question": "What program does the campus offer?",
+                    "answer": "It offers the four-year B.Sc. (Hons.) in Agriculture program."
+                },
+                {
+                    "question": "Where is the campus located?",
+                    "answer": "The campus is located at Ilam-9, Sera, Ilam, Koshi Province, Nepal."
+                },
+                {
+                    "question": "Does the agriculture program include practical learning?",
+                    "answer": "Yes. The program includes laboratory practicals, project work, field-based internship, thesis research, agricultural land use, and exposure through satellite learning units."
+                },
+                {
+                    "question": "What entrance score is required for admission?",
+                    "answer": "Applicants must secure at least 50 percent in the relevant entrance examination."
+                }
+            ],
+            "contact": {
+                "phones": [
+                    "+977-27-524370",
+                    "+977-9842635893",
+                    "+977-9848283842"
+                ],
+                "emails": [
+                    "ilamagriculturecampus2078@gmail.com"
+                ],
+                "website": "https://icac.edu.np",
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Modern Campus Ilam",
+                "name_ne": null,
+                "slug": "modern-campus-ilam",
+                "ownership": "private",
+                "established_year": 2005,
+                "university": "Tribhuvan University",
+                "municipality": "Ilam Municipality",
+                "address": "Ilam-3, Ilam, Nepal",
+                "description": "Campus established in 2062 BS (2005 AD) at Ilam-3 and affiliated with Tribhuvan University. Directory listings describe it as a private campus offering Bachelor of Business Studies and Bachelor of Arts, with scholarships for talented and economically disadvantaged students.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://www.collegenp.com/college/modern-campus-ilam-ilam",
+                    "https://edusanjal.com/college/modern-campus/",
+                    "https://www.collegenp.com/course/modern-campus-ilam-ilam-bachelor-of-arts-ba-ba"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Arts (BA)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Humanities",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/modern-campus-ilam-ilam-bachelor-of-arts-ba-ba"
+                },
+                {
+                    "name": "Bachelor of Business Studies (BBS)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/modern-campus-ilam-ilam-bachelor-of-business-studies-bbs-bbs"
+                }
+            ],
+            "facilities": [
+                "Library",
+                "E-library",
+                "Sports",
+                "Internet",
+                "Science lab",
+                "Conference",
+                "Counselling",
+                "Scholarships",
+                "Internship",
+                "Computer lab",
+                "Classrooms",
+                "ECA",
+                "Multimedia"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-27-523475",
+                    "+977-27-521726",
+                    "+977-9852680884",
+                    "+977-9842627762",
+                    "+977-9842627515",
+                    "+977-9842635045",
+                    "+977-9842645601"
+                ],
+                "emails": [
+                    "ilameducationfoundation479@gmail.com"
+                ],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Ratna Kumar Bantawa Polytechnic Institute",
+                "name_ne": "रत्नकुमार बान्तवा बहुप्राविधिक शिक्षालय",
+                "slug": "ratna-kumar-bantawa-polytechnic-institute",
+                "ownership": "public",
+                "established_year": 2017,
+                "university": "CTEVT",
+                "municipality": "Ilam Municipality",
+                "address": "Ilam Municipality-1, Sakhejung, Ilam, Nepal",
+                "description": "CTEVT constituent polytechnic established in 2074 BS (2017 AD) at Sakhejung. Institute and directory pages describe it as a public technical institute on a large site and list diploma programs in agriculture, forestry, pharmacy, and civil engineering. A pre-diploma in tea technology is also mentioned, but that is below diploma level.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://rkbpi.edu.np/",
+                    "https://rkbpi.edu.np/courses",
+                    "https://suchanaa.com/directory/ratna-kumar-bantawa-polytechnic-institute/",
+                    "https://www.collegenp.com/college/ratna-kumar-bantawa-polytechnic-institute-ilam",
+                    "https://edusanjal.com/school/ratna-kumar-bantawa-polytechnic-institute/"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Diploma in Agriculture (Animal Science)",
+                    "level": "Diploma",
+                    "duration": "3 years",
+                    "faculty": "Agriculture",
+                    "fee": null,
+                    "source_url": "https://rkbpi.edu.np/courses"
+                },
+                {
+                    "name": "Diploma in Agriculture (Plant Science)",
+                    "level": "Diploma",
+                    "duration": "3 years",
+                    "faculty": "Agriculture",
+                    "fee": null,
+                    "source_url": "https://suchanaa.com/directory/ratna-kumar-bantawa-polytechnic-institute/"
+                },
+                {
+                    "name": "Diploma in Forestry",
+                    "level": "Diploma",
+                    "duration": "3 years",
+                    "faculty": "Forestry",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/ratna-kumar-bantawa-polytechnic-institute-ilam-diploma-in-forestry-diploma-in-forestry"
+                },
+                {
+                    "name": "Diploma in Pharmacy",
+                    "level": "Diploma",
+                    "duration": "3 years",
+                    "faculty": "Health",
+                    "fee": 155000,
+                    "source_url": "https://rkbpi.edu.np/courses/diploma-in-pharmacy"
+                },
+                {
+                    "name": "Diploma in Civil Engineering",
+                    "level": "Diploma",
+                    "duration": "3 years",
+                    "faculty": "Engineering",
+                    "fee": 75000,
+                    "source_url": "https://rkbpi.edu.np/courses/diploma-in-civil-engineering"
+                }
+            ],
+            "facilities": [
+                "Library",
+                "Veterinary facilities",
+                "Animal sheds",
+                "Classrooms"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [
+                {
+                    "title": "Career and study options after a 3-year diploma at RKBPI",
+                    "date": "2026-04-27",
+                    "summary": "Institute blog on further study and career options after the diploma.",
+                    "source_url": "https://rkbpi.edu.np/blog"
+                },
+                {
+                    "title": "Forestry student named CTEVT board topper",
+                    "date": "2026-02-24",
+                    "summary": "Campus blog says Diploma in Forestry student Lajima Thebe secured the highest position in the CTEVT board examinations.",
+                    "source_url": "https://rkbpi.edu.np/blog"
+                },
+                {
+                    "title": "Free one-day health camp at RKBPI",
+                    "date": "2025-06-19",
+                    "summary": "One-day free health camp held at the institute on 2082/03/05.",
+                    "source_url": "https://rkbpi.edu.np/blog"
+                }
+            ],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-27-421021",
+                    "+977-27-421022",
+                    "+977-9852680518",
+                    "+977-9842774566",
+                    "+977-9807314790"
+                ],
+                "emails": [
+                    "rkbpictevt@gmail.com",
+                    "rkbpiexam@gmail.com"
+                ],
+                "website": "https://rkbpi.edu.np/",
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Sunrise Engineering College",
+                "name_ne": null,
+                "slug": "sunrise-engineering-college-ilam",
+                "ownership": "private",
+                "established_year": null,
+                "university": "CTEVT",
+                "municipality": "Ilam Municipality",
+                "address": "Silikhan, Ilam Municipality Ward No. 9, near Mount Mechi Boarding School, Ilam, Nepal",
+                "description": "CTEVT-affiliated technical college in Ilam-9 offering three-year diploma programs after SEE/SLC. Public listings and a CTEVT institute dataset name Diploma in Forestry and Diploma in Civil Engineering. It appears as an examination institute assigned to an Ilam exam centre.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://www.glunis.com/NP/Ilam/565753896630078/Sunrise-Engineering-College-Ilam",
+                    "https://www.collegenp.com/exam/ctevt-diploma-certificate-exam-centers-2083"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Diploma in Forestry",
+                    "level": "Diploma",
+                    "duration": "3 years",
+                    "faculty": "Forestry",
+                    "fee": null,
+                    "source_url": "https://www.glunis.com/NP/Ilam/565753896630078/Sunrise-Engineering-College-Ilam"
+                },
+                {
+                    "name": "Diploma in Civil Engineering",
+                    "level": "Diploma",
+                    "duration": "3 years",
+                    "faculty": "Engineering",
+                    "fee": null,
+                    "source_url": "https://www.glunis.com/NP/Ilam/565753896630078/Sunrise-Engineering-College-Ilam"
+                }
+            ],
+            "facilities": [],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-27-524077",
+                    "+977-9814985855",
+                    "+977-9842780641",
+                    "+977-9852671004"
+                ],
+                "emails": [],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Janata Secondary School, Chulachuli",
+                "name_ne": "जनता माध्यमिक विद्यालय, चुलाचुली",
+                "slug": "janata-secondary-school-chulachuli",
+                "ownership": "public",
+                "established_year": null,
+                "university": "CTEVT",
+                "municipality": "Chulachuli Rural Municipality",
+                "address": "Baragothe, Chulachuli-2, Ilam, Nepal",
+                "description": "Public secondary school at Baragothe, Chulachuli, that also runs a CTEVT TECS Diploma in Civil Engineering in addition to school and plus-two classes. A 2019 local report said the three-year diploma was approved for 48 seats. Included only for the CTEVT diploma, not as a plus-two school.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://www.collegenp.com/course/shree-janata-secondary-school-diploma-in-civil-engineering-diploma-in-engineering",
+                    "https://edusanjal.com/school/janata-higher-secondary-school-ilam/",
+                    "https://www.collegenp.com/school/janata-secondary-school-chulachuli-ilam",
+                    "https://nayabulanda.com/2019/10/17/36396",
+                    "https://cgs.moest.gov.np/Uploads/Resource/CTEVT%20Institutions%20and%20Programs.pdf"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Diploma in Civil Engineering",
+                    "level": "Diploma",
+                    "duration": "3 years",
+                    "faculty": "Engineering",
+                    "fee": 190000,
+                    "source_url": "https://cgs.moest.gov.np/Uploads/Resource/CTEVT%20Institutions%20and%20Programs.pdf"
+                }
+            ],
+            "facilities": [
+                "Library",
+                "Sports",
+                "Science lab",
+                "Computer lab",
+                "Multimedia",
+                "Counselling",
+                "Scholarships",
+                "Classrooms",
+                "ECA"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-9842621145"
+                ],
+                "emails": [
+                    "shreejanata33@gmail.com"
+                ],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        }
+    ]
+}

@@ -1,0 +1,250 @@
+{
+  "research_metadata": {
+    "country": "Nepal",
+    "province": "Bagmati Province",
+    "district": "Bhaktapur",
+    "research_date": "2023-10-25",
+    "total_schools_discovered": 1,
+    "municipalities_covered": [
+      "Bhaktapur Municipality"
+    ],
+    "research_status": "partial",
+    "coverage_notes": "Initial batch for Bhaktapur district focusing on prominent institutions. Further municipalities will follow in subsequent batches."
+  },
+  "schools": [
+    {
+      "identity": {
+        "name": "Shree Padma Higher Secondary School",
+        "name_ne": "श्री पद्म माध्यमिक विद्यालय",
+        "alternative_names": [
+          "Padma Higher Secondary School",
+          "Padma School Bhaktapur"
+        ],
+        "slug": "shree-padma-higher-secondary-school",
+        "category": "school",
+        "school_type": "government",
+        "ownership": "Government / Public",
+        "established_year": 1948,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "short_description": "One of the oldest and historically significant public schools in Bhaktapur district.",
+        "description": "Shree Padma Higher Secondary School is a prominent government educational institution located in Bhaktapur. It offers education from early childhood development up to higher secondary (+2) levels across various streams."
+      },
+      "location": {
+        "province": "Bagmati Province",
+        "district": "Bhaktapur",
+        "municipality": "Bhaktapur Municipality",
+        "ward": 1,
+        "village": null,
+        "tole": "Dattatreya",
+        "full_address": "Dattatreya, Bhaktapur, Bagmati Province, Nepal",
+        "latitude": 27.6721,
+        "longitude": 85.4298,
+        "google_maps_url": null
+      },
+      "academics": {
+        "education_levels": [
+          "Primary",
+          "Lower Secondary",
+          "Secondary",
+          "Higher Secondary (+2)"
+        ],
+        "grades_offered": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12"
+        ],
+        "programs": [
+          "Management",
+          "Humanities",
+          "Education",
+          "Science"
+        ],
+        "curriculum": [
+          "National Curriculum Framework of Nepal"
+        ],
+        "study_system": "Full-time",
+        "examination_system": "Annual and Terminal Examinations",
+        "medium_of_instruction": [
+          "Nepali",
+          "English"
+        ],
+        "academic_calendar": "Nepali Academic Calendar (Baishakh to Chaitra)",
+        "teaching_methodology": "Classroom-based lectures, practical sessions, and interactive learning."
+      },
+      "admission": {
+        "requirements": [
+          "SEE pass certificate for +2 programs",
+          "Transfer certificate",
+          "Character certificate"
+        ],
+        "admission_process": [
+          "Submit application form",
+          "Document verification",
+          "Merit-based selection"
+        ],
+        "required_documents": [
+          "Mark sheets",
+          "Character certificate",
+          "Passport size photographs"
+        ],
+        "entrance_exam": null,
+        "application_url": null,
+        "admission_contact": [],
+        "notices": []
+      },
+      "fees_and_scholarships": {
+        "fee_details": [],
+        "scholarships": [
+          "Government scholarships for underprivileged and merit students"
+        ],
+        "financial_support": []
+      },
+      "facilities": [
+        "Science Lab",
+        "Computer Lab",
+        "Library",
+        "Sports Ground"
+      ],
+      "infrastructure": [
+        "Traditional and modern academic buildings",
+        "Admin block"
+      ],
+      "boarding": {
+        "has_hostel": false,
+        "boys_hostel": null,
+        "girls_hostel": null,
+        "accommodation": [],
+        "meals": null,
+        "security": null,
+        "warden_information": null,
+        "hostel_fees": null
+      },
+      "administration": {
+        "principal": null,
+        "headteacher": null,
+        "vice_principal": null,
+        "chairman": null,
+        "founder": null,
+        "teachers": []
+      },
+      "institutional_profile": {
+        "mission": "To provide quality education accessible to all sections of society.",
+        "vision": "To be a leading educational center focusing on academic excellence and moral values.",
+        "highlights": [
+          "Historical heritage",
+          "Affordable public education",
+          "Experienced faculty"
+        ],
+        "features": [],
+        "why_choose_this_school": [
+          "Long-standing reputation in Bhaktapur",
+          "Affordable fee structure",
+          "Diverse +2 programs"
+        ],
+        "achievements": [],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": [
+          "Sports tournaments",
+          "Cultural events",
+          "Quiz contests"
+        ],
+        "sports": [
+          "Football",
+          "Cricket",
+          "Volleyball",
+          "Badminton"
+        ],
+        "clubs": [],
+        "cultural_activities": [
+          "Traditional dance",
+          "Music",
+          "Hajuri gaan"
+        ],
+        "student_welfare": [],
+        "campus_experience": null
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "website": null,
+        "contact_person": null,
+        "office_hours": "10:00 AM - 4:00 PM",
+        "full_address": "Dattatreya, Bhaktapur, Nepal"
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "youtube": null,
+        "linkedin": null,
+        "x": null,
+        "other": []
+      },
+      "seo": {
+        "suggested_title": "Shree Padma Higher Secondary School, Bhaktapur",
+        "meta_description": "Learn about Shree Padma Higher Secondary School in Bhaktapur, offering quality public education from primary to +2 levels.",
+        "keywords": [
+          "Shree Padma Higher Secondary School",
+          "Padma School Bhaktapur",
+          "Government schools in Bhaktapur",
+          "Bhaktapur schools"
+        ],
+        "faq": []
+      },
+      "research_sources": [
+        {
+          "source_name": "Ministry of Education Nepal Educational Directory / Local Records",
+          "source_url": "",
+          "information_obtained": "Basic establishment details and location context.",
+          "source_type": "directory"
+        }
+      ],
+      "verification": {
+        "status": "partially_verified",
+        "missing_information": [
+          "Exact contact numbers",
+          "Principal name",
+          "Detailed fee structure"
+        ],
+        "notes": "School exists in public records as a prominent community/government school in Bhaktapur."
+      }
+    }
+  ],
+  "district_summary": {
+    "total_schools": 1,
+    "government_schools": 1,
+    "community_schools": 0,
+    "private_schools": 0,
+    "boarding_schools": 0,
+    "other_schools": 0,
+    "schools_by_municipality": [
+      {
+        "municipality": "Bhaktapur Municipality",
+        "count": 1
+      }
+    ],
+    "schools_by_education_level": [
+      {
+        "level": "Primary to Higher Secondary",
+        "count": 1
+      }
+    ],
+    "research_gaps": [
+      "Need to expand research across Suryabinayak, Madhyapur Thimi, and Changunarayan municipalities.",
+      "Collect comprehensive contact details and administration lists for all discovered institutions."
+    ]
+  }
+}

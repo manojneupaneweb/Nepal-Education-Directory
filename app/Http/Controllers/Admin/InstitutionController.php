@@ -21,15 +21,56 @@ class InstitutionController extends Controller
 
     public function __construct(private readonly InstitutionService $institutions) {}
 
-    public function index(): View
+    public function index(Request $request): View|RedirectResponse
     {
         $this->authorize('viewAny', Institution::class);
 
+        $type = InstitutionType::query()
+            ->where('slug', $request->string('type')->toString())
+            ->first();
+
+        if ($type?->slug === 'university') {
+            return redirect()->route('admin.universities.index', array_filter([
+                'q' => trim($request->string('q')->toString()) ?: null,
+            ]));
+        }
+
+        $term = trim($request->string('q')->toString());
+        $status = $request->string('status')->toString();
+
+        $scoped = Institution::query()
+            ->when($type, fn ($query) => $query->where('institution_type_id', $type->id));
+
+        $counts = (clone $scoped)
+            ->select('status')
+            ->selectRaw('COUNT(*) as total')
+            ->groupBy('status')
+            ->pluck('total', 'status')
+            ->mapWithKeys(fn ($total, $key) => [(string) $key => (int) $total]);
+
         return view('admin.institutions.index', [
-            'institutions' => Institution::query()
+            'institutions' => (clone $scoped)
                 ->with(['type', 'district'])
+                ->when($term !== '', function ($query) use ($term) {
+                    $like = '%'.addcslashes($term, '%_\\').'%';
+                    $query->where(function ($query) use ($like) {
+                        $query->where('name', 'like', $like)
+                            ->orWhere('name_ne', 'like', $like);
+                    });
+                })
+                ->when($status !== '', fn ($query) => $query->where('status', $status))
                 ->orderBy('name')
-                ->paginate(20),
+                ->paginate(20)
+                ->withQueryString(),
+            'type' => $type,
+            'term' => $term,
+            'status' => $status,
+            'counts' => [
+                'all' => (int) $counts->sum(),
+                'published' => (int) ($counts['published'] ?? 0),
+                'pending' => (int) ($counts['pending'] ?? 0),
+                'draft' => (int) ($counts['draft'] ?? 0),
+            ],
         ]);
     }
 

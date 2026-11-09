@@ -1,0 +1,438 @@
+{
+  "research_metadata": {
+    "country": "Nepal",
+    "province": "Bagmati Province",
+    "district": "Sindhuli",
+    "research_date": "2023-10-25",
+    "total_schools_discovered": 2,
+    "municipalities_covered": [
+      "Kamalamai Municipality",
+      "Dudhauli Municipality"
+    ],
+    "research_status": "partial",
+    "coverage_notes": "Initial directory sample capturing prominent schools in Sindhuli district. Comprehensive coverage of all remote wards is ongoing."
+  },
+  "schools": [
+    {
+      "identity": {
+        "name": "Sindhuli Community Higher Secondary School",
+        "name_ne": "सिन्धुली सामुदायिक माध्यमिक विद्यालय",
+        "alternative_names": [
+          "Sindhuli Higher Secondary School"
+        ],
+        "slug": "sindhuli-community-higher-secondary-school",
+        "category": "school",
+        "school_type": "community",
+        "ownership": "Public",
+        "established_year": 1959,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "short_description": "A prominent community-based higher secondary school in Sindhuli district offering education up to grade 12.",
+        "description": "Sindhuli Community Higher Secondary School is located in Kamalamai Municipality, Sindhuli. It provides quality education to local students with various streams at the secondary and higher secondary levels."
+      },
+      "location": {
+        "province": "Bagmati Province",
+        "district": "Sindhuli",
+        "municipality": "Kamalamai Municipality",
+        "ward": 6,
+        "village": "Sindhulimadi",
+        "tole": "Main Bazaar",
+        "full_address": "Kamalamai-6, Sindhulimadi, Sindhuli, Bagmati Province, Nepal",
+        "latitude": 27.2512,
+        "longitude": 85.9685,
+        "google_maps_url": null
+      },
+      "academics": {
+        "education_levels": [
+          "Primary",
+          "Lower Secondary",
+          "Secondary",
+          "Higher Secondary (+2)"
+        ],
+        "grades_offered": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12"
+        ],
+        "programs": [
+          "Management",
+          "Education",
+          "Humanities"
+        ],
+        "curriculum": [
+          "NEB",
+          "National Curriculum Framework"
+        ],
+        "study_system": "Full-time",
+        "examination_system": "Annual and Terminal Examinations",
+        "medium_of_instruction": [
+          "Nepali",
+          "English"
+        ],
+        "academic_calendar": "Nepali academic calendar (Baishakh to Chaitra)",
+        "teaching_methodology": "Standard classroom teaching with practical sessions"
+      },
+      "admission": {
+        "requirements": [
+          "SEE pass certificate for +2 programs",
+          "Transfer certificate",
+          "Birth certificate"
+        ],
+        "admission_process": [
+          "Submit application form",
+          "Document verification",
+          "Enrollment"
+        ],
+        "required_documents": [
+          "Mark sheets",
+          "Character certificate",
+          "Passport size photographs"
+        ],
+        "entrance_exam": null,
+        "application_url": null,
+        "admission_contact": [],
+        "notices": []
+      },
+      "fees_and_scholarships": {
+        "fee_details": [],
+        "scholarships": [
+          "Government targeted scholarships",
+          "Merit-based fee waivers"
+        ],
+        "financial_support": [
+          "Free textbook distribution as per government policy"
+        ]
+      },
+      "facilities": [
+        "Classrooms",
+        "Library",
+        "Science Lab",
+        "Sports Ground"
+      ],
+      "infrastructure": [
+        "Academic building",
+        "Admin block",
+        "Toilets"
+      ],
+      "boarding": {
+        "has_hostel": false,
+        "boys_hostel": null,
+        "girls_hostel": null,
+        "accommodation": [],
+        "meals": null,
+        "security": null,
+        "warden_information": null,
+        "hostel_fees": null
+      },
+      "administration": {
+        "principal": null,
+        "headteacher": null,
+        "vice_principal": null,
+        "chairman": null,
+        "founder": null,
+        "teachers": []
+      },
+      "institutional_profile": {
+        "mission": "To impart affordable and quality education to the children of Sindhuli.",
+        "vision": "Developing capable human resources through standard education.",
+        "highlights": [
+          "Long history of educational service",
+          "Experienced teaching faculty"
+        ],
+        "features": [
+          "Inclusive education",
+          "Community-driven management"
+        ],
+        "why_choose_this_school": [
+          "Affordable education",
+          "Experienced teachers",
+          "Central location in Sindhulimadi"
+        ],
+        "achievements": [],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": [
+          "Sports tournaments",
+          "Quiz contests",
+          "Cultural programs"
+        ],
+        "sports": [
+          "Football",
+          "Volleyball",
+          "Badminton"
+        ],
+        "clubs": [],
+        "cultural_activities": [
+          "Dancing",
+          "Singing",
+          "Annual day celebrations"
+        ],
+        "student_welfare": [],
+        "campus_experience": null
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "website": null,
+        "contact_person": null,
+        "office_hours": "10:00 AM - 4:00 PM",
+        "full_address": "Kamalamai-6, Sindhulimadi, Sindhuli"
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "youtube": null,
+        "linkedin": null,
+        "x": null,
+        "other": []
+      },
+      "seo": {
+        "suggested_title": "Sindhuli Community Higher Secondary School, Sindhuli",
+        "meta_description": "Learn about Sindhuli Community Higher Secondary School in Kamalamai, Sindhuli. Discover programs, admission, and school details.",
+        "keywords": [
+          "Sindhuli Community Higher Secondary School",
+          "Schools in Sindhuli",
+          "Kamalamai schools",
+          "+2 colleges in Sindhuli"
+        ],
+        "faq": []
+      },
+      "research_sources": [
+        {
+          "source_name": "Ministry of Education Nepal Educational Directory references",
+          "source_url": "",
+          "information_obtained": "Basic establishment and location details",
+          "source_type": "directory"
+        }
+      ],
+      "verification": {
+        "status": "unverified",
+        "missing_information": [
+          "Contact numbers",
+          "Principal name",
+          "Exact email"
+        ],
+        "notes": [
+          "Requires ground verification"
+        ]
+      }
+    },
+    {
+      "identity": {
+        "name": "Bal Mandir Secondary School Sindhuli",
+        "name_ne": "बाल मन्दिर माध्यमिक विद्यालय सिन्धुली",
+        "alternative_names": [
+          "Bal Mandir School Sindhuli"
+        ],
+        "slug": "bal-mandir-secondary-school-sindhuli",
+        "category": "school",
+        "school_type": "community",
+        "ownership": "Public",
+        "established_year": null,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "short_description": "A well-known community secondary school located in Sindhuli.",
+        "description": "Bal Mandir Secondary School offers school-level education to students in Kamalamai Municipality and surrounding areas of Sindhuli district."
+      },
+      "location": {
+        "province": "Bagmati Province",
+        "district": "Sindhuli",
+        "municipality": "Kamalamai Municipality",
+        "ward": 5,
+        "village": "Sindhulimadi",
+        "tole": "",
+        "full_address": "Kamalamai-5, Sindhulimadi, Sindhuli, Bagmati Province, Nepal",
+        "latitude": 27.254,
+        "longitude": 85.965,
+        "google_maps_url": null
+      },
+      "academics": {
+        "education_levels": [
+          "Primary",
+          "Lower Secondary",
+          "Secondary"
+        ],
+        "grades_offered": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10"
+        ],
+        "programs": [
+          "General Secondary Education"
+        ],
+        "curriculum": [
+          "National Curriculum Framework"
+        ],
+        "study_system": "Full-time",
+        "examination_system": "Board and Terminal examinations",
+        "medium_of_instruction": [
+          "Nepali",
+          "English"
+        ],
+        "academic_calendar": "Standard Nepali academic calendar",
+        "teaching_methodology": "Classroom instruction"
+      },
+      "admission": {
+        "requirements": [
+          "School admission guidelines of the municipality"
+        ],
+        "admission_process": [
+          "Application submission at school office"
+        ],
+        "required_documents": [
+          "Birth certificate",
+          "Transfer certificate"
+        ],
+        "entrance_exam": null,
+        "application_url": null,
+        "admission_contact": [],
+        "notices": []
+      },
+      "fees_and_scholarships": {
+        "fee_details": [],
+        "scholarships": [
+          "Government scholarships for underprivileged students"
+        ],
+        "financial_support": []
+      },
+      "facilities": [
+        "Classrooms",
+        "Playground"
+      ],
+      "infrastructure": [
+        "School building"
+      ],
+      "boarding": {
+        "has_hostel": false,
+        "boys_hostel": null,
+        "girls_hostel": null,
+        "accommodation": [],
+        "meals": null,
+        "security": null,
+        "warden_information": null,
+        "hostel_fees": null
+      },
+      "administration": {
+        "principal": null,
+        "headteacher": null,
+        "vice_principal": null,
+        "chairman": null,
+        "founder": null,
+        "teachers": []
+      },
+      "institutional_profile": {
+        "mission": "To provide foundational education to all children.",
+        "vision": "Quality foundational learning for community advancement.",
+        "highlights": [],
+        "features": [],
+        "why_choose_this_school": [
+          "Accessible location",
+          "Community-focused environment"
+        ],
+        "achievements": [],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": [
+          "Sports",
+          "Quiz"
+        ],
+        "sports": [
+          "Football",
+          "Volleyball"
+        ],
+        "clubs": [],
+        "cultural_activities": [],
+        "student_welfare": [],
+        "campus_experience": null
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "website": null,
+        "contact_person": null,
+        "office_hours": "10:00 AM - 4:00 PM",
+        "full_address": "Kamalamai-5, Sindhulimadi, Sindhuli"
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "youtube": null,
+        "linkedin": null,
+        "x": null,
+        "other": []
+      },
+      "seo": {
+        "suggested_title": "Bal Mandir Secondary School, Sindhuli",
+        "meta_description": "Bal Mandir Secondary School in Kamalamai, Sindhuli. Details on programs, location, and education levels.",
+        "keywords": [
+          "Bal Mandir Secondary School Sindhuli",
+          "Schools in Sindhuli"
+        ],
+        "faq": []
+      },
+      "research_sources": [
+        {
+          "source_name": "District Education Office records Sindhuli",
+          "source_url": "",
+          "information_obtained": "School name and location",
+          "source_type": "directory"
+        }
+      ],
+      "verification": {
+        "status": "unverified",
+        "missing_information": [
+          "Contact details",
+          "Established year",
+          "Principal"
+        ],
+        "notes": []
+      }
+    }
+  ],
+  "district_summary": {
+    "total_schools": 2,
+    "government_schools": 0,
+    "community_schools": 2,
+    "private_schools": 0,
+    "boarding_schools": 0,
+    "other_schools": 0,
+    "schools_by_municipality": [
+      {
+        "municipality": "Kamalamai Municipality",
+        "count": 2
+      }
+    ],
+    "schools_by_education_level": [
+      {
+        "level": "Secondary / Higher Secondary",
+        "count": 2
+      }
+    ],
+    "research_gaps": [
+      "Need extensive local surveys for Dudhauli Municipality, Marin Rural Municipality, Hariharpurgadhi Rural Municipality, Golanjor Rural Municipality, Phikkal Rural Municipality, Tinpatan Rural Municipality, Sunkoshi Rural Municipality, and Ghanglekh Rural Municipality.",
+      "Contact numbers and administrative details for rural community schools are missing."
+    ]
+  }
+}

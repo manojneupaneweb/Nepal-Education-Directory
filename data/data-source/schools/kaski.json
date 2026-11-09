@@ -1,0 +1,263 @@
+{
+  "research_metadata": {
+    "country": "Nepal",
+    "province": "Gandaki Province",
+    "district": "Kaski",
+    "research_date": "2023-10-25",
+    "total_schools_discovered": 1,
+    "municipalities_covered": [
+      "Pokhara Metropolitan City"
+    ],
+    "research_status": "partial",
+    "coverage_notes": "Initial batch for Kaski district focusing on major institutions in Pokhara."
+  },
+  "schools": [
+    {
+      "identity": {
+        "name": "Gandaki Boarding School",
+        "name_ne": "गण्डकी आवासीय विद्यालय",
+        "alternative_names": [
+          "GBK",
+          "Gandaki Secondary School"
+        ],
+        "slug": "gandaki-boarding-school",
+        "category": "school",
+        "school_type": "boarding",
+        "ownership": "Public-Private Partnership / Trust",
+        "established_year": 1966,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "short_description": "A premier regional boarding school in Pokhara, Kaski, providing quality education with residential facilities.",
+        "description": "Gandaki Boarding School (GBK) is a well-known educational institution located in Lamachaur, Pokhara. Established under the aegis of the United Mission to Nepal, it offers rigorous academic programs from primary levels up to higher secondary (+2) education."
+      },
+      "location": {
+        "province": "Gandaki Province",
+        "district": "Kaski",
+        "municipality": "Pokhara Metropolitan City",
+        "ward": 19,
+        "village": "Lamachaur",
+        "tole": "Lamachaur",
+        "full_address": "Lamachaur, Pokhara-19, Kaski, Nepal",
+        "latitude": 28.2798,
+        "longitude": 83.9856,
+        "google_maps_url": "https://maps.google.com/?q=Gandaki+Boarding+School+Pokhara"
+      },
+      "academics": {
+        "education_levels": [
+          "Basic Level",
+          "Secondary Level",
+          "Higher Secondary (+2)"
+        ],
+        "grades_offered": [
+          "Grade 4",
+          "Grade 5",
+          "Grade 6",
+          "Grade 7",
+          "Grade 8",
+          "Grade 9",
+          "Grade 10",
+          "Grade 11",
+          "Grade 12"
+        ],
+        "programs": [
+          "Science Stream (+2)",
+          "Management Stream (+2)"
+        ],
+        "curriculum": [
+          "National Curriculum of Nepal (NEB)",
+          "Secondary Education Examination (SEE)"
+        ],
+        "study_system": "Full Boarding / Residential",
+        "examination_system": "Internal assessments and NEB board examinations",
+        "medium_of_instruction": [
+          "English"
+        ],
+        "academic_calendar": "Nepali academic calendar (April to March)",
+        "teaching_methodology": "Interactive classroom teaching, practical lab sessions, and residential guidance."
+      },
+      "admission": {
+        "requirements": [
+          "Entrance examination clearance",
+          "Previous academic transcripts"
+        ],
+        "admission_process": [
+          "Application submission",
+          "Entrance test",
+          "Interview",
+          "Final admission"
+        ],
+        "required_documents": [
+          "Transfer certificate",
+          "Birth certificate",
+          "Mark sheets"
+        ],
+        "entrance_exam": "Required",
+        "application_url": null,
+        "admission_contact": [],
+        "notices": []
+      },
+      "fees_and_scholarships": {
+        "fee_details": [],
+        "scholarships": [
+          "Need-based scholarships",
+          "Merit-based scholarships"
+        ],
+        "financial_support": []
+      },
+      "facilities": [
+        "Science Laboratories",
+        "Computer Lab",
+        "Library",
+        "Sports Grounds",
+        "Hostel Facilities"
+      ],
+      "infrastructure": [
+        "Administrative buildings",
+        "Academic blocks",
+        "Separate hostels for boys and girls",
+        "Staff quarters"
+      ],
+      "boarding": {
+        "has_hostel": true,
+        "boys_hostel": true,
+        "girls_hostel": true,
+        "accommodation": [
+          "Dormitory and shared rooms for residential students"
+        ],
+        "meals": "Mess facility providing regular balanced meals",
+        "security": "Gated campus with 24/7 security",
+        "warden_information": "Residing wardens and supervisors",
+        "hostel_fees": null
+      },
+      "administration": {
+        "principal": null,
+        "headteacher": null,
+        "vice_principal": null,
+        "chairman": null,
+        "founder": "United Mission to Nepal",
+        "teachers": []
+      },
+      "institutional_profile": {
+        "mission": "To produce disciplined, competent, and socially responsible citizens.",
+        "vision": "Excellence in education and character building.",
+        "highlights": [
+          "Long-standing reputation in Gandaki province",
+          "Strong alumni network",
+          "Focus on holistic development"
+        ],
+        "features": [
+          "Residential school model",
+          "Extensive extracurricular activities"
+        ],
+        "why_choose_this_school": [
+          "Discipline",
+          "Quality boarding life",
+          "Consistent academic results"
+        ],
+        "achievements": [
+          "Top ranking SEE and NEB results in the region historically."
+        ],
+        "milestones": [
+          "Established in 1966 AD."
+        ]
+      },
+      "student_life": {
+        "extracurricular_activities": [
+          "Debate",
+          "Quiz",
+          "Cultural programs"
+        ],
+        "sports": [
+          "Football",
+          "Basketball",
+          "Cricket",
+          "Athletics"
+        ],
+        "clubs": [
+          "Eco Club",
+          "Science Club",
+          "Sports Club"
+        ],
+        "cultural_activities": [
+          "Annual day celebrations",
+          "Inter-house competitions"
+        ],
+        "student_welfare": [
+          "Health checkups",
+          "Counseling support"
+        ],
+        "campus_experience": "Vibrant residential community life."
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "website": "https://www.gbs.edu.np",
+        "contact_person": null,
+        "office_hours": "Sun-Fri: 10:00 AM - 4:00 PM",
+        "full_address": "Lamachaur, Pokhara-19, Kaski"
+      },
+      "social_links": {
+        "facebook": "https://www.facebook.com/gandakiboardingschool",
+        "instagram": null,
+        "tiktok": null,
+        "youtube": null,
+        "linkedin": null,
+        "x": null,
+        "other": []
+      },
+      "seo": {
+        "suggested_title": "Gandaki Boarding School, Pokhara, Kaski - Directory Info",
+        "meta_description": "Explore details about Gandaki Boarding School in Lamachaur, Pokhara, Kaski, offering quality residential education.",
+        "keywords": [
+          "Gandaki Boarding School",
+          "GBK Pokhara",
+          "Schools in Kaski",
+          "Boarding schools in Pokhara"
+        ],
+        "faq": []
+      },
+      "research_sources": [
+        {
+          "source_name": "Official Website",
+          "source_url": "https://www.gbs.edu.np",
+          "information_obtained": "General background, location, and educational programs.",
+          "source_type": "official"
+        }
+      ],
+      "verification": {
+        "status": "partially_verified",
+        "missing_information": [
+          "Detailed fee structure",
+          "Current principal name"
+        ],
+        "notes": [
+          "Basic institutional data retrieved from official web presence."
+        ]
+      }
+    }
+  ],
+  "district_summary": {
+    "total_schools": 1,
+    "government_schools": 0,
+    "community_schools": 0,
+    "private_schools": 0,
+    "boarding_schools": 1,
+    "other_schools": 0,
+    "schools_by_municipality": [
+      {
+        "municipality": "Pokhara Metropolitan City",
+        "count": 1
+      }
+    ],
+    "schools_by_education_level": [
+      {
+        "level": "Secondary / Higher Secondary",
+        "count": 1
+      }
+    ],
+    "research_gaps": [
+      "Need to cover remaining rural municipalities and hundreds of other community/private schools in Kaski."
+    ]
+  }
+}

@@ -1,0 +1,291 @@
+{
+  "research_metadata": {
+    "country": "Nepal",
+    "province": "Bagmati Province",
+    "district": "Kavrepalanchok",
+    "research_date": "2025-02-26",
+    "total_institutions_discovered": 1,
+    "total_institutions_verified": 1,
+    "coverage_notes": "Initial directory batch focusing on the primary university hub in Kavrepalanchok.",
+    "research_status": "partial"
+  },
+  "institutions": [
+    {
+      "identity": {
+        "name": "Kathmandu University",
+        "name_ne": "काठमाडौं विश्वविद्यालय",
+        "alternative_names": [
+          "KU"
+        ],
+        "slug": "kathmandu-university",
+        "category": "university",
+        "institution_type": "autonomous",
+        "ownership": "Public/Autonomous",
+        "established_year": 1991,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": "https://ku.edu.np/assets/backend/images/logo.png",
+        "logo_source": "Official Website",
+        "short_description": "An autonomous, public institution of higher learning dedicated to maintaining high standards of academic excellence.",
+        "description": "Kathmandu University (KU) is an autonomous, public institution of higher learning dedicated to maintaining high standards of academic excellence. It is committed to developing leaders through quality education, research, and service to society."
+      },
+      "location": {
+        "province": "Bagmati Province",
+        "district": "Kavrepalanchok",
+        "municipality": "Dhulikhel Municipality",
+        "ward": 2,
+        "tole": "Dhulikhel",
+        "full_address": "Dhulikhel, Kavrepalanchok, Nepal",
+        "latitude": 27.6196,
+        "longitude": 85.5388,
+        "google_maps_url": "https://maps.google.com/?q=Kathmandu+University+Dhulikhel",
+        "google_maps_embed_url": null,
+        "nearby_landmarks": [
+          "Dhulikhel Hospital"
+        ]
+      },
+      "affiliation": {
+        "university": "Kathmandu University",
+        "affiliation_type": "Self-governing University",
+        "accreditation": [
+          "University Grants Commission Nepal"
+        ],
+        "recognition_details": [
+          "Recognized by Ministry of Education, Science and Technology, Nepal"
+        ]
+      },
+      "academics": {
+        "study_system": "Semester",
+        "academic_calendar": "Fall and Spring Semesters",
+        "medium_of_instruction": [
+          "English"
+        ],
+        "teaching_methodology": "Lectures, practicals, research, and project work",
+        "programs": [
+          {
+            "name": "Bachelor of Engineering in Computer Engineering",
+            "degree_level": "Undergraduate",
+            "faculty": "School of Engineering",
+            "specialization": [
+              "Computer Engineering"
+            ],
+            "duration": "4 Years",
+            "semester_or_year": "8 Semesters",
+            "eligibility": "10+2 or equivalent with minimum 50% aggregate in PCM",
+            "entrance_requirement": "KU-KUCAT Entrance Examination",
+            "fee": null,
+            "intake_capacity": null,
+            "status": "active",
+            "source_urls": [
+              "https://ku.edu.np"
+            ]
+          }
+        ]
+      },
+      "admission": {
+        "guidance": "Admissions are strictly merit-based through university entrance examinations.",
+        "requirements": [
+          "Passed 10+2 or equivalent examination with required grades"
+        ],
+        "application_process": [
+          "Fill out online application form",
+          "Pay application fee",
+          "Appear for entrance exam"
+        ],
+        "application_url": "https://apply.ku.edu.np",
+        "entrance_details": "KUCAT is mandatory for engineering and science programs.",
+        "required_documents": [
+          "Academic transcripts",
+          "Character certificate",
+          "Citizenship certificate"
+        ],
+        "admission_contact": [
+          "+977-11-415100"
+        ],
+        "current_notices": []
+      },
+      "scholarships": [
+        {
+          "name": "Merit-based Scholarship",
+          "type": "Merit",
+          "eligibility": "Top rankers in entrance examinations and semester exams",
+          "benefits": "Tuition fee waiver",
+          "application_process": "Automatic consideration based on merit",
+          "deadline": null,
+          "status": "active",
+          "source_urls": [
+            "https://ku.edu.np"
+          ]
+        }
+      ],
+      "facilities": [
+        "Library",
+        "Computer Labs",
+        "Science Labs",
+        "Cafeteria",
+        "Sports Ground",
+        "Hostel",
+        "Health Care"
+      ],
+      "infrastructure": [],
+      "faculty": {
+        "principal": null,
+        "chairperson": null,
+        "campus_chief": null,
+        "departments": [
+          "Department of Computer Science and Engineering",
+          "Department of Civil Engineering",
+          "Department of Mechanical Engineering"
+        ],
+        "faculty_members": [],
+        "teaching_approach": "Student-centered interactive learning and research-oriented."
+      },
+      "leadership_messages": {
+        "principal_message": null,
+        "chairperson_message": null,
+        "founder_message": null
+      },
+      "institutional_profile": {
+        "mission": "To provide quality education for leadership.",
+        "vision": "To be a dynamic university of excellence in Nepal and the world.",
+        "core_values": [
+          "Quality",
+          "Innovation",
+          "Integrity"
+        ],
+        "highlights": [
+          "First autonomous university in Nepal",
+          "Strong emphasis on research and development"
+        ],
+        "features": [
+          "Credit-based semester system",
+          "Global academic collaborations"
+        ],
+        "why_choose_this_college": [
+          "Internationally recognized degrees",
+          "Excellent campus environment",
+          "Experienced faculty"
+        ],
+        "achievements": [],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": [
+          "Cultural fests",
+          "Tech summits"
+        ],
+        "clubs": [
+          "KU Computer Club",
+          "KU Cultural Club"
+        ],
+        "sports": [
+          "Football",
+          "Basketball",
+          "Cricket"
+        ],
+        "student_organizations": [
+          "Kathmandu University Student Union"
+        ],
+        "campus_experience": "Vibrant hill-side campus providing holistic development opportunities.",
+        "student_welfare": []
+      },
+      "career_development": {
+        "placement_cell": "Directorate of Student Welfare and Alumni Relations",
+        "internship_opportunities": [
+          "Mandatory industry internships for technical programs"
+        ],
+        "industry_partnerships": [],
+        "career_counseling": null,
+        "alumni_network": "Active global alumni association",
+        "placement_statistics": []
+      },
+      "contact": {
+        "phones": [
+          "+977-11-415100"
+        ],
+        "emails": [
+          "info@ku.edu.np"
+        ],
+        "admission_contacts": [
+          "+977-11-415100"
+        ],
+        "website": "https://ku.edu.np",
+        "office_hours": "Sun-Fri: 9:00 AM - 5:00 PM",
+        "contact_person": "Registrar"
+      },
+      "social_links": {
+        "facebook": "https://www.facebook.com/kathmanduniversity",
+        "instagram": null,
+        "tiktok": null,
+        "linkedin": "https://www.linkedin.com/school/kathmandu-university/",
+        "youtube": null,
+        "x": null,
+        "other": []
+      },
+      "online_resources": {
+        "prospectus": [],
+        "fee_structure": [],
+        "academic_calendar": [],
+        "notices": [],
+        "results": [],
+        "student_portal": "https://lms.ku.edu.np",
+        "downloads": []
+      },
+      "seo": {
+        "suggested_title": "Kathmandu University - Dhulikhel, Kavrepalanchok",
+        "meta_description": "Explore Kathmandu University in Dhulikhel, Kavrepalanchok. Find courses, admissions, fees, and campus life details.",
+        "keywords": [
+          "Kathmandu University",
+          "KU Nepal",
+          "Colleges in Kavre",
+          "Dhulikhel University"
+        ],
+        "faq": [
+          {
+            "question": "Where is Kathmandu University located?",
+            "answer": "Kathmandu University is located in Dhulikhel, Kavrepalanchok district, Nepal."
+          }
+        ]
+      },
+      "verification": {
+        "verification_status": "verified",
+        "last_verified_at": "2025-02-26",
+        "official_sources": [
+          "https://ku.edu.np"
+        ],
+        "secondary_sources": [
+          "https://www.ugcnepal.edu.np"
+        ],
+        "field_confidence": {
+          "identity": 5,
+          "location": 5,
+          "affiliation": 5
+        },
+        "missing_information": [
+          "Exact fee structures for all programs"
+        ],
+        "notes": "Primary university campus verified successfully."
+      }
+    }
+  ],
+  "district_summary": {
+    "total_colleges": 1,
+    "government_colleges": 0,
+    "community_colleges": 0,
+    "private_colleges": 0,
+    "universities_and_constituent_campuses": 1,
+    "other_institutions": 0,
+    "municipalities_covered": [
+      "Dhulikhel Municipality"
+    ],
+    "institutions_by_university": [
+      {
+        "university": "Kathmandu University",
+        "count": 1
+      }
+    ],
+    "research_gaps": [
+      "Affiliated colleges under Tribhuvan University and CTEVT within Kavrepalanchok need further discovery in subsequent batches."
+    ]
+  }
+}

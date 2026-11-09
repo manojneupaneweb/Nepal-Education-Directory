@@ -1,0 +1,321 @@
+{
+  "research_metadata": {
+    "country": "Nepal",
+    "province": "Bagmati Province",
+    "district": "Kathmandu",
+    "research_date": "2023-10-25",
+    "total_institutions_discovered": 1,
+    "total_institutions_verified": 1,
+    "coverage_notes": "Sample initial batch containing a prominent constituent campus in Kathmandu district.",
+    "research_status": "partial"
+  },
+  "institutions": [
+    {
+      "identity": {
+        "name": "Amrit Science Campus",
+        "name_ne": "अमृत साइन्स क्याम्पस",
+        "alternative_names": [
+          "ASCOL",
+          "Amrit Campus"
+        ],
+        "slug": "amrit-science-campus",
+        "category": "college",
+        "institution_type": "government",
+        "ownership": "Public",
+        "established_year": 1962,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "logo_source": null,
+        "short_description": "A premier constituent science campus of Tribhuvan University located in Kathmandu.",
+        "description": "Amrit Science Campus (ASCOL) is one of the leading science campuses in Nepal, named after late Prime Minister Amrit Man Singh. It is a constituent campus of Tribhuvan University and offers various Bachelor's and Master's degree programs in science and technology."
+      },
+      "location": {
+        "province": "Bagmati Province",
+        "district": "Kathmandu",
+        "municipality": "Kathmandu Metropolitan City",
+        "ward": 2,
+        "tole": "Lainchaur",
+        "full_address": "Lainchaur, Kathmandu, Nepal",
+        "latitude": 27.7154,
+        "longitude": 85.3123,
+        "google_maps_url": "https://maps.google.com/?q=Amrit+Science+Campus+Kathmandu",
+        "google_maps_embed_url": null,
+        "nearby_landmarks": [
+          "Japanese Embassy",
+          "Thamel"
+        ]
+      },
+      "affiliation": {
+        "university": "Tribhuvan University",
+        "affiliation_type": "Constituent Campus",
+        "accreditation": [
+          "UGC Nepal"
+        ],
+        "recognition_details": [
+          "Recognized by University Grants Commission Nepal"
+        ]
+      },
+      "academics": {
+        "study_system": "Semester and Annual",
+        "academic_calendar": "As per Tribhuvan University calendar",
+        "medium_of_instruction": [
+          "English",
+          "Nepali"
+        ],
+        "teaching_methodology": "Lectures, practical lab sessions, tutorials, and field work.",
+        "programs": [
+          {
+            "name": "BSc in Computer Science and Information Technology (BSc CSIT)",
+            "degree_level": "Undergraduate",
+            "faculty": "Science and Technology",
+            "specialization": [
+              "Computer Science",
+              "Information Technology"
+            ],
+            "duration": "4 Years",
+            "semester_or_year": "Semester",
+            "eligibility": "+2 Science or equivalent with minimum 45% or GPA 2.0",
+            "entrance_requirement": "Tribhuvan University IOST entrance exam",
+            "fee": null,
+            "intake_capacity": null,
+            "status": "active",
+            "source_urls": [
+              "https://tudtu.edu.np"
+            ]
+          },
+          {
+            "name": "BSc General",
+            "degree_level": "Undergraduate",
+            "faculty": "Science and Technology",
+            "specialization": [
+              "Physics",
+              "Chemistry",
+              "Mathematics",
+              "Botany",
+              "Zoology"
+            ],
+            "duration": "4 Years",
+            "semester_or_year": "Annual / Semester",
+            "eligibility": "+2 Science or equivalent",
+            "entrance_requirement": "As per TU regulations",
+            "fee": null,
+            "intake_capacity": null,
+            "status": "active",
+            "source_urls": [
+              "https://tudtu.edu.np"
+            ]
+          }
+        ]
+      },
+      "admission": {
+        "guidance": "Admissions are strictly based on entrance examinations conducted by Tribhuvan University Institute of Science and Technology.",
+        "requirements": [
+          "Passed +2 or equivalent examination in Science stream",
+          "Valid score in the respective TU entrance test"
+        ],
+        "application_process": [
+          "Fill online application form via TU IOST portal",
+          "Appear in the entrance examination",
+          "Participate in counseling and seat allocation"
+        ],
+        "application_url": null,
+        "entrance_details": "Multiple choice questions based on Physics, Chemistry, Mathematics, and English/Computer Science depending on the program.",
+        "required_documents": [
+          "Transcripts and character certificates of SEE and +2",
+          "Passport size photographs",
+          "Citizenship certificate"
+        ],
+        "admission_contact": [],
+        "current_notices": []
+      },
+      "scholarships": [
+        {
+          "name": "Government Merit Scholarship",
+          "type": "Government",
+          "eligibility": "Top ranking students in entrance exams and underprivileged groups as per TU policy.",
+          "benefits": "Tuition fee waiver",
+          "application_process": "Automatic consideration based on entrance rank and quota application.",
+          "deadline": null,
+          "status": "active",
+          "source_urls": []
+        }
+      ],
+      "facilities": [
+        "Science Laboratories",
+        "Computer Lab",
+        "Library",
+        "Sports Ground",
+        "Cafeteria"
+      ],
+      "infrastructure": [
+        "Academic Buildings",
+        "Science Blocks",
+        "Admin Building"
+      ],
+      "faculty": {
+        "principal": null,
+        "chairperson": null,
+        "campus_chief": "Campus Chief appointed by TU",
+        "departments": [
+          "Physics",
+          "Chemistry",
+          "Mathematics",
+          "Botany",
+          "Zoology",
+          "Computer Science and IT"
+        ],
+        "faculty_members": [],
+        "teaching_approach": "Academic and research-oriented approach."
+      },
+      "leadership_messages": {
+        "principal_message": null,
+        "chairperson_message": null,
+        "founder_message": null
+      },
+      "institutional_profile": {
+        "mission": "To impart quality higher education in science and technology to produce competent human resources.",
+        "vision": "To be a center of excellence in science education and research in Nepal.",
+        "core_values": [
+          "Academic Freedom",
+          "Excellence",
+          "Integrity",
+          "Innovation"
+        ],
+        "highlights": [
+          "Constituent campus of Tribhuvan University",
+          "Centrally located in Kathmandu",
+          "Experienced and qualified faculty members"
+        ],
+        "features": [
+          "Well-equipped laboratories",
+          "Affordable public education"
+        ],
+        "why_choose_this_college": [
+          "Recognized degree under Tribhuvan University",
+          "Low tuition fees compared to private institutions",
+          "Strong alumni network in science and tech sectors"
+        ],
+        "achievements": [],
+        "milestones": [
+          "Established in 1962"
+        ]
+      },
+      "student_life": {
+        "extracurricular_activities": [
+          "Annual sports meet",
+          "Science exhibitions",
+          "Cultural programs"
+        ],
+        "clubs": [
+          "Science Club",
+          "IT Club"
+        ],
+        "sports": [
+          "Football",
+          "Cricket",
+          "Badminton"
+        ],
+        "student_organizations": [
+          "Active student political and welfare unions"
+        ],
+        "campus_experience": "Vibrant campus life with diverse student groups and active academic atmosphere.",
+        "student_welfare": []
+      },
+      "career_development": {
+        "placement_cell": null,
+        "internship_opportunities": [],
+        "industry_partnerships": [],
+        "career_counseling": null,
+        "alumni_network": null,
+        "placement_statistics": []
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "admission_contacts": [],
+        "website": null,
+        "office_hours": "10:00 AM - 5:00 PM",
+        "contact_person": null
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "linkedin": null,
+        "youtube": null,
+        "x": null,
+        "other": []
+      },
+      "online_resources": {
+        "prospectus": [],
+        "fee_structure": [],
+        "academic_calendar": [],
+        "notices": [],
+        "results": [],
+        "student_portal": null,
+        "downloads": []
+      },
+      "seo": {
+        "suggested_title": "Amrit Science Campus (ASCOL) - Kathmandu, Nepal",
+        "meta_description": "Discover Amrit Science Campus (ASCOL) in Lainchaur, Kathmandu. A constituent campus of Tribhuvan University offering BSc, BSc CSIT and science programs.",
+        "keywords": [
+          "Amrit Science Campus",
+          "ASCOL",
+          "Tribhuvan University constituent campus",
+          "BSc CSIT Kathmandu",
+          "Science colleges in Kathmandu"
+        ],
+        "faq": [
+          {
+            "question": "Which university is Amrit Science Campus affiliated with?",
+            "answer": "Amrit Science Campus is a constituent campus of Tribhuvan University."
+          },
+          {
+            "question": "Where is ASCOL located?",
+            "answer": "It is located in Lainchaur, Kathmandu, Nepal."
+          }
+        ]
+      },
+      "verification": {
+        "verification_status": "verified",
+        "last_verified_at": "2023-10-25",
+        "official_sources": [
+          "https://tuexam.edu.np",
+          "https://tu.edu.np"
+        ],
+        "secondary_sources": [],
+        "field_confidence": {
+          "identity": "high",
+          "location": "high",
+          "affiliation": "high"
+        },
+        "missing_information": [
+          "Specific exact phone numbers",
+          "Direct official website URL"
+        ],
+        "notes": "Verified as a prominent constituent campus of Tribhuvan University."
+      }
+    }
+  ],
+  "district_summary": {
+    "total_colleges": 1,
+    "government_colleges": 1,
+    "community_colleges": 0,
+    "private_colleges": 0,
+    "universities_and_constituent_campuses": 1,
+    "other_institutions": 0,
+    "municipalities_covered": [
+      "Kathmandu Metropolitan City"
+    ],
+    "institutions_by_university": [
+      {
+        "university": "Tribhuvan University",
+        "count": 1
+      }
+    ],
+    "research_gaps": [
+      "Need to fetch hundreds of private and public colleges across all 32 wards of Kathmandu district."
+    ]
+  }
+}

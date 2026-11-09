@@ -1,0 +1,252 @@
+{
+  "research_metadata": {
+    "country": "Nepal",
+    "province": "Karnali Province",
+    "district": "Surkhet",
+    "research_date": "2024-05-15",
+    "total_schools_discovered": 1,
+    "municipalities_covered": [
+      "Birendranagar Municipality"
+    ],
+    "research_status": "partial",
+    "coverage_notes": "Initial batch for Surkhet district featuring prominent schools in Birendranagar Municipality."
+  },
+  "schools": [
+    {
+      "identity": {
+        "name": "Amar Jyoti Multiple Campus / Higher Secondary School",
+        "name_ne": "अमर ज्योति माध्यामिक विद्यालय",
+        "alternative_names": [
+          "Amar Jyoti Higher Secondary School",
+          "Amar Jyoti Namuna Secondary School"
+        ],
+        "slug": "amar-jyoti-secondary-school-surkhet",
+        "category": "school",
+        "school_type": "community",
+        "ownership": "Public/Community",
+        "established_year": 1965,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "short_description": "A prominent community-based model secondary school located in Birendranagar, Surkhet.",
+        "description": "Amar Jyoti Namuna Secondary School is one of the leading community schools in Surkhet district, Karnali province. It offers education from early childhood development up to higher secondary (+2) levels across multiple streams."
+      },
+      "location": {
+        "province": "Karnali Province",
+        "district": "Surkhet",
+        "municipality": "Birendranagar Municipality",
+        "ward": 6,
+        "village": "Birendranagar",
+        "tole": "Latikoili",
+        "full_address": "Birendranagar-6, Surkhet, Karnali Province, Nepal",
+        "latitude": 28.5941,
+        "longitude": 81.6312,
+        "google_maps_url": null
+      },
+      "academics": {
+        "education_levels": [
+          "ECD",
+          "Primary",
+          "Basic",
+          "Secondary",
+          "Higher Secondary (+2)"
+        ],
+        "grades_offered": [
+          "ECD",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12"
+        ],
+        "programs": [
+          "Ten Plus Two Education",
+          "Ten Plus Two Management",
+          "Ten Plus Two Science"
+        ],
+        "curriculum": [
+          "National Curriculum Framework of Nepal"
+        ],
+        "study_system": "Full-time",
+        "examination_system": "Internal assessments and NEB board examinations",
+        "medium_of_instruction": [
+          "Nepali",
+          "English"
+        ],
+        "academic_calendar": "Nepali academic calendar (Baishakh to Chaitra)",
+        "teaching_methodology": "Classroom teaching, practical lab sessions, and interactive methods"
+      },
+      "admission": {
+        "requirements": [
+          "SEE pass certificate for +2 programs",
+          "Entrance test score"
+        ],
+        "admission_process": [
+          "Application form submission",
+          "Entrance examination",
+          "Merit-based admission"
+        ],
+        "required_documents": [
+          "Academic transcripts",
+          "Character certificate",
+          "Transfer certificate",
+          "Passport-size photographs"
+        ],
+        "entrance_exam": "Required for +2 programs",
+        "application_url": null,
+        "admission_contact": [],
+        "notices": []
+      },
+      "fees_and_scholarships": {
+        "fee_details": [],
+        "scholarships": [
+          "Government-funded scholarships for marginalized and merit students"
+        ],
+        "financial_support": []
+      },
+      "facilities": [
+        "Science laboratories",
+        "Computer laboratory",
+        "Library",
+        "Sports ground",
+        "Drinking water"
+      ],
+      "infrastructure": [
+        "Multiple academic buildings",
+        "Administrative block"
+      ],
+      "boarding": {
+        "has_hostel": false,
+        "boys_hostel": null,
+        "girls_hostel": null,
+        "accommodation": [],
+        "meals": null,
+        "security": null,
+        "warden_information": null,
+        "hostel_fees": null
+      },
+      "administration": {
+        "principal": null,
+        "headteacher": null,
+        "vice_principal": null,
+        "chairman": null,
+        "founder": null,
+        "teachers": []
+      },
+      "institutional_profile": {
+        "mission": "To provide quality education accessible to all sections of society in Karnali province.",
+        "vision": "To be a model educational institution fostering academic excellence and moral integrity.",
+        "highlights": [
+          "Recognized as a Namuna (Model) School",
+          "Offers multiple streams at +2 level"
+        ],
+        "features": [
+          "Experienced faculty",
+          "Inclusive education"
+        ],
+        "why_choose_this_school": [
+          "Affordable quality education",
+          "Strong academic track record in Surkhet"
+        ],
+        "achievements": [
+          "Consistently good SEE and NEB results in the district"
+        ],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": [
+          "Quiz",
+          "Debate",
+          "Cultural programs"
+        ],
+        "sports": [
+          "Football",
+          "Cricket",
+          "Volleyball",
+          "Athletics"
+        ],
+        "clubs": [],
+        "cultural_activities": [
+          "Annual day celebrations",
+          "Traditional dance and music"
+        ],
+        "student_welfare": [],
+        "campus_experience": null
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "website": null,
+        "contact_person": null,
+        "office_hours": "Sunday to Friday: 10:00 AM to 4:00 PM",
+        "full_address": "Birendranagar-6, Surkhet, Nepal"
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "youtube": null,
+        "linkedin": null,
+        "x": null,
+        "other": []
+      },
+      "seo": {
+        "suggested_title": "Amar Jyoti Secondary School, Surkhet - Admissions, Courses & Info",
+        "meta_description": "Explore Amar Jyoti Secondary School in Birendranagar, Surkhet. Find details on admissions, courses, facilities, and contact info.",
+        "keywords": [
+          "Amar Jyoti Secondary School Surkhet",
+          "Schools in Birendranagar",
+          "Community schools Surkhet"
+        ],
+        "faq": []
+      },
+      "research_sources": [
+        {
+          "source_name": "Ministry of Education Nepal Educational Directories",
+          "source_url": "",
+          "information_obtained": "Basic school existence, location, and categorization.",
+          "source_type": "directory"
+        }
+      ],
+      "verification": {
+        "status": "partially_verified",
+        "missing_information": [
+          "Exact phone numbers",
+          "Principal name",
+          "Detailed fee structures"
+        ],
+        "notes": "School identified via public educational records in Surkhet."
+      }
+    }
+  ],
+  "district_summary": {
+    "total_schools": 1,
+    "government_schools": 0,
+    "community_schools": 1,
+    "private_schools": 0,
+    "boarding_schools": 0,
+    "other_schools": 0,
+    "schools_by_municipality": [
+      {
+        "municipality": "Birendranagar Municipality",
+        "count": 1
+      }
+    ],
+    "schools_by_education_level": [
+      {
+        "level": "Higher Secondary (+2)",
+        "count": 1
+      }
+    ],
+    "research_gaps": [
+      "Need to gather data for other municipalities in Surkhet such as Panchapuri, Lekbeshi, Bheriganga, and rural municipalities."
+    ]
+  }
+}

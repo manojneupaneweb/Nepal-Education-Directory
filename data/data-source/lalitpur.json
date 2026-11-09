@@ -1,0 +1,208 @@
+{
+  "research_metadata": {
+    "country": "Nepal",
+    "province": "Bagmati Province",
+    "district": "Lalitpur",
+    "research_date": "2023-10-25",
+    "total_institutions_discovered": 1,
+    "total_institutions_verified": 1,
+    "coverage_notes": "Initial batch focusing on premier and well-documented constituent and affiliated campuses in Lalitpur district.",
+    "research_status": "partial"
+  },
+  "institutions": [
+    {
+      "identity": {
+        "name": "Patan Multiple Campus",
+        "name_ne": "पाटन संयुक्त क्याम्पस",
+        "alternative_names": ["Patan Campus"],
+        "slug": "patan-multiple-campus",
+        "category": "campus",
+        "institution_type": "constituent",
+        "ownership": "Government",
+        "established_year": 1954,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "logo_source": null,
+        "short_description": "One of the oldest and largest constituent campuses of Tribhuvan University located in Lalitpur.",
+        "description": "Patan Multiple Campus is a prominent constituent campus of Tribhuvan University, offering a wide range of undergraduate and graduate programs in Humanities, Science, and Management."
+      },
+      "location": {
+        "province": "Bagmati Province",
+        "district": "Lalitpur",
+        "municipality": "Lalitpur Metropolitan City",
+        "ward": 5,
+        "tole": "Patan",
+        "full_address": "Patan Dhoka, Lalitpur, Nepal",
+        "latitude": 27.6749,
+        "longitude": 85.3245,
+        "google_maps_url": null,
+        "google_maps_embed_url": null,
+        "nearby_landmarks": ["Patan Dhoka", "Patan Durbar Square"]
+      },
+      "affiliation": {
+        "university": "Tribhuvan University",
+        "affiliation_type": "Constituent",
+        "accreditation": ["UGC Nepal"],
+        "recognition_details": ["Recognized by University Grants Commission Nepal"]
+      },
+      "academics": {
+        "study_system": "Semester and Annual",
+        "academic_calendar": "As per Tribhuvan University calendar",
+        "medium_of_instruction": ["Nepali", "English"],
+        "teaching_methodology": "Lectures, practicals, assignments, and research",
+        "programs": [
+          {
+            "name": "Bachelor of Business Studies (BBS)",
+            "degree_level": "Undergraduate",
+            "faculty": "Management",
+            "specialization": ["Management"],
+            "duration": "4 years",
+            "semester_or_year": "Annual",
+            "eligibility": "10+2 or equivalent in any stream with minimum score requirements",
+            "entrance_requirement": "As per TU rules",
+            "fee": null,
+            "intake_capacity": null,
+            "status": "active",
+            "source_urls": ["https://www.tu.edu.np"]
+          }
+        ]
+      },
+      "admission": {
+        "guidance": "Admissions are conducted as per Tribhuvan University guidelines and academic calendars.",
+        "requirements": ["Passed 10+2 or equivalent", "Satisfy entrance exam criteria where applicable"],
+        "application_process": ["Online or offline application submission through campus administration or TU portal"],
+        "application_url": null,
+        "entrance_details": "Entrance exams are required for specific programs as mandated by the respective faculties of Tribhuvan University.",
+        "required_documents": ["Academic transcripts", "Character certificate", "Citizenship copy", "Passport size photos"],
+        "admission_contact": [],
+        "current_notices": []
+      },
+      "scholarships": [
+        {
+          "name": "Government/TU Merit Scholarships",
+          "type": "Merit-based",
+          "eligibility": "Top ranking students in entrance or board examinations",
+          "benefits": "Tuition fee waiver or partial financial support",
+          "application_process": "Apply through campus administration office with relevant documents",
+          "deadline": null,
+          "status": "active",
+          "source_urls": []
+        }
+      ],
+      "facilities": ["Library", "Science Laboratories", "Computer Lab", "Sports Ground", "Cafeteria"],
+      "infrastructure": ["Main academic building", "Administration block", "Library building"],
+      "faculty": {
+        "principal": null,
+        "chairperson": null,
+        "campus_chief": null,
+        "departments": ["Science", "Management", "Humanities"],
+        "faculty_members": [],
+        "teaching_approach": "Interactive classroom teaching combined with practical sessions."
+      },
+      "leadership_messages": {
+        "principal_message": null,
+        "chairperson_message": null,
+        "founder_message": null
+      },
+      "institutional_profile": {
+        "mission": "To impart quality higher education to students from diverse backgrounds and foster academic excellence.",
+        "vision": "To be a leading center of higher learning and research in Nepal.",
+        "core_values": ["Academic Freedom", "Inclusivity", "Integrity", "Excellence"],
+        "highlights": ["One of the oldest constituent campuses of TU", "Wide range of programs", "Experienced faculty members"],
+        "features": ["Affordable education", "Central location in Lalitpur", "Diverse student community"],
+        "why_choose_this_college": ["Government-backed credibility under Tribhuvan University", "Economical fee structure", "Rich history and alumni network"],
+        "achievements": ["Successfully educated thousands of professionals serving nation-wide."],
+        "milestones": ["Established in 1954 AD."]
+      },
+      "student_life": {
+        "extracurricular_activities": ["Debates", "Quizzes", "Cultural programs"],
+        "clubs": ["Sports Club", "Cultural Club"],
+        "sports": ["Football", "Cricket", "Basketball", "Badminton"],
+        "student_organizations": ["Various student unions and active bodies"],
+        "campus_experience": "Vibrant and politically active student community with diverse cultural backgrounds.",
+        "student_welfare": ["Counseling support", "Financial aid for deserving students"]
+      },
+      "career_development": {
+        "placement_cell": null,
+        "internship_opportunities": [],
+        "industry_partnerships": [],
+        "career_counseling": null,
+        "alumni_network": null,
+        "placement_statistics": []
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "admission_contacts": [],
+        "website": null,
+        "office_hours": "10:00 AM - 5:00 PM",
+        "contact_person": null
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "linkedin": null,
+        "youtube": null,
+        "x": null,
+        "other": []
+      },
+      "online_resources": {
+        "prospectus": [],
+        "fee_structure": [],
+        "academic_calendar": [],
+        "notices": [],
+        "results": [],
+        "student_portal": null,
+        "downloads": []
+      },
+      "seo": {
+        "suggested_title": "Patan Multiple Campus - Lalitpur, Nepal",
+        "meta_description": "Explore Patan Multiple Campus in Lalitpur, a constituent campus of Tribhuvan University offering undergraduate and graduate programs.",
+        "keywords": ["Patan Multiple Campus", "Colleges in Lalitpur", "Tribhuvan University constituent campus Lalitpur", "Patan Campus courses"],
+        "faq": [
+          {
+            "question": "Which university is Patan Multiple Campus affiliated with?",
+            "answer": "Patan Multiple Campus is a constituent campus of Tribhuvan University."
+          },
+          {
+            "question": "Where is Patan Multiple Campus located?",
+            "answer": "It is located at Patan Dhoka, Lalitpur, Nepal."
+          }
+        ]
+      },
+      "verification": {
+        "verification_status": "partial",
+        "last_verified_at": "2023-10-25",
+        "official_sources": ["https://www.tu.edu.np"],
+        "secondary_sources": ["University Grants Commission Nepal Directory"],
+        "field_confidence": {
+          "identity": "high",
+          "location": "high",
+          "affiliation": "high"
+        },
+        "missing_information": ["Detailed specific fees", "Exact GPS coordinates", "Direct campus phone numbers"],
+        "notes": "Basic constituent campus details recorded. Further deeper phone/email verification required."
+      }
+    }
+  ],
+  "district_summary": {
+    "total_colleges": 1,
+    "government_colleges": 1,
+    "community_colleges": 0,
+    "private_colleges": 0,
+    "universities_and_constituent_campuses": 1,
+    "other_institutions": 0,
+    "municipalities_covered": ["Lalitpur Metropolitan City"],
+    "institutions_by_university": [
+      {
+        "university": "Tribhuvan University",
+        "count": 1
+      }
+    ],
+    "research_gaps": [
+      "Private and community colleges in Lalitpur need to be appended in subsequent batches."
+    ]
+  }
+}

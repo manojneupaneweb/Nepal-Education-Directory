@@ -1,0 +1,536 @@
+{
+    "research_metadata": {
+        "country": "Nepal",
+        "province": "Koshi Province",
+        "district": "Terhathum",
+        "research_date": "2026-04-28",
+        "total_institutions_discovered": 6,
+        "research_status": "completed",
+        "collection_mode": "responses"
+    },
+    "institutions": [
+        {
+            "overview": {
+                "name": "Terhathum Multiple Campus",
+                "name_ne": "तेह्रथुम बहुमुखी क्याम्पस",
+                "slug": "terhathum-multiple-campus",
+                "ownership": "constituent",
+                "established_year": 1960,
+                "university": "Tribhuvan University",
+                "municipality": "Aathrai Rural Municipality",
+                "address": "Aathrai-6, Chuhandanda, Terhathum, Koshi Province, Nepal",
+                "description": "Constituent campus of Tribhuvan University at Chuhandanda, Aathrai. Established on 2017-02-21 BS as Birendra Inter College, permanently accepted on 2018-06-03 BS, and renamed Terhathum Campus in Bhadra 2035 BS. Later described as Tehrathum Bahumukhi Campus. It is about 500 metres from the Puspalal Mid-Hill Highway and serves students from Terhathum, Taplejung, Panchthar and Sankhuwasabha. Published staffing and enrolment figures differ by source (about 18–20 teachers, 8–9 administrative staff, and roughly 233–300 students). Faculties published on the campus site are Education and Humanities and Social Sciences; the homepage also lists BBS.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://temc.tu.edu.np/",
+                    "https://temc.tu.edu.np/about-us",
+                    "https://www.collegenp.com/college/terhathum-multiple-campus-terhathum",
+                    "https://edusanjal.com/college/tehrathum-multiple-campus/",
+                    "https://tu.edu.np/campuses?letter=T"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Arts (BA)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Humanities and Social Sciences",
+                    "fee": null,
+                    "source_url": "https://temc.tu.edu.np/"
+                },
+                {
+                    "name": "Bachelor of Education (B.Ed.)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://temc.tu.edu.np/about-us"
+                },
+                {
+                    "name": "One-year B.Ed.",
+                    "level": "Bachelor",
+                    "duration": "1 year",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://temc.tu.edu.np/about-us"
+                },
+                {
+                    "name": "Bachelor of Business Studies (BBS)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://temc.tu.edu.np/"
+                },
+                {
+                    "name": "MA in Population Studies",
+                    "level": "Master",
+                    "duration": null,
+                    "faculty": "Humanities and Social Sciences",
+                    "fee": null,
+                    "source_url": "https://temc.tu.edu.np/"
+                }
+            ],
+            "facilities": [
+                "Academic buildings",
+                "Seminar hall",
+                "Administrative blocks",
+                "Library",
+                "Staff quarters",
+                "Student hostels",
+                "Guest houses",
+                "Student union building",
+                "Cafeteria",
+                "Sports",
+                "Internet",
+                "Science lab",
+                "Conference hall",
+                "Computer lab",
+                "Counselling",
+                "Scholarships",
+                "Educational tour",
+                "ECA"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [
+                {
+                    "title": "Notice for Financial Bid Opening",
+                    "date": "2026-04-28",
+                    "summary": "Financial bid opening notice published on the campus notice board.",
+                    "source_url": "https://temc.tu.edu.np/notices/12612"
+                },
+                {
+                    "title": "Notice for Financial Bid Opening",
+                    "date": "2026-04-28",
+                    "summary": "A second financial bid opening notice published the same day.",
+                    "source_url": "https://temc.tu.edu.np/notices/12611"
+                },
+                {
+                    "title": "उद्यमीलता सहयोग कार्यक्रमको तालिम तथा कार्यशाला सञ्चालन सम्बन्धी सूचना",
+                    "date": "2026-04-06",
+                    "summary": "Notice on training and workshop under the entrepreneurship support programme.",
+                    "source_url": "https://temc.tu.edu.np/notices/12282"
+                },
+                {
+                    "title": "पुरुष छात्रवास निर्माणको लागि विद्युतीय बोलपत्र आव्हान गरिएको सम्बन्धी सूचना",
+                    "date": "2026-03-18",
+                    "summary": "E-bidding notice for construction of a boys' hostel.",
+                    "source_url": "https://temc.tu.edu.np/notices/12010"
+                },
+                {
+                    "title": "रजिस्ट्रार प्रा. डा. केदारप्रसाद रिजाल सहितको टोली क्याम्पस अनुगमनमा",
+                    "date": "2026-02-20",
+                    "summary": "Campus news on a monitoring visit by a team including TU Registrar Prof. Dr. Kedar Prasad Rijal.",
+                    "source_url": "https://temc.tu.edu.np/news/1040"
+                },
+                {
+                    "title": "तेहथुम बहुमुखी क्याम्पसको नवनिर्मित शिक्षण भवनको उद्घाटन",
+                    "date": "2025-03-04",
+                    "summary": "News of the inauguration of a newly built teaching building.",
+                    "source_url": "https://temc.tu.edu.np/news/759"
+                }
+            ],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-26-469023",
+                    "+977-9852666670"
+                ],
+                "emails": [
+                    "info@temc.tu.edu.np",
+                    "chief@temc.tu.edu.np"
+                ],
+                "website": "https://temc.tu.edu.np/",
+                "map_url": null
+            },
+            "reviews": [
+                {
+                    "platform": "Campus website",
+                    "rating": null,
+                    "text": "Tara Prasad Dahal, Chairperson of the Free Student Union, wrote that campus leadership and teachers had improved the student experience and created a supportive environment.",
+                    "source_url": "https://temc.tu.edu.np/"
+                }
+            ],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Myanglung Campus",
+                "name_ne": "म्याङलुङ क्याम्पस",
+                "slug": "myanglung-campus",
+                "ownership": "community",
+                "established_year": 1981,
+                "university": "Tribhuvan University",
+                "municipality": "Myanglung Municipality",
+                "address": "Myanglung Municipality-10, Tamphula, Terhathum, Nepal",
+                "description": "Community/public campus affiliated to Tribhuvan University for bachelor and master programmes and to the National Examinations Board for +2. Formally established in 2038 BS at the district headquarters after higher education had been available only at Chuhandanda. It began with PCL Humanities, added BA in 2048/049 BS, B.Ed. in 2057/058 BS, BBS in 2064/065 BS, and master's classes from 2066/067 BS. Edusanjal reported 241 students. The campus has taken part in UGC SHEP and HERP and has been in the QAA process. It also runs +2 Management, Education and Humanities, which are not bachelor or higher programmes.",
+                "mission": "To impart skill- and job-oriented quality education for academic excellence by properly using available means and resources.",
+                "vision": "Myanglung Campus will be the centre of excellence in imparting higher education in the district.",
+                "source_urls": [
+                    "https://myanglungcampus.edu.np/",
+                    "https://myanglungcampus.edu.np/about-campus/",
+                    "https://www.collegenp.com/college/myanglung-campus",
+                    "https://edusanjal.com/college/myanglung-campus/",
+                    "https://npca.edu.np/campus_details/357"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Arts (BA)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Humanities and Social Sciences",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/myanglung-campus-bachelor-of-arts-ba"
+                },
+                {
+                    "name": "Bachelor of Education (B.Ed.)",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://myanglungcampus.edu.np/about-campus/"
+                },
+                {
+                    "name": "Bachelor of Business Studies (BBS)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/myanglung-campus-bachelor-of-business-studies-bbs"
+                },
+                {
+                    "name": "MA in Nepali",
+                    "level": "Master",
+                    "duration": "2 years",
+                    "faculty": "Humanities and Social Sciences",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/myanglung-campus-ma-in-nepali"
+                },
+                {
+                    "name": "M.Ed. in Educational Planning and Management (EPM)",
+                    "level": "Master",
+                    "duration": null,
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://myanglungcampus.edu.np/"
+                }
+            ],
+            "facilities": [
+                "Library",
+                "Internet",
+                "Educational tours",
+                "Field visits",
+                "Cafeteria",
+                "First aid",
+                "Common room",
+                "Changing room",
+                "Sports",
+                "Computer lab",
+                "Conference hall",
+                "Multimedia",
+                "Counselling",
+                "Scholarships",
+                "Remedial classes",
+                "ECA"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [
+                {
+                    "title": "अतिरिक्त कक्षा सञ्चालन (Remedial Class) सम्बन्धि सूचना",
+                    "date": null,
+                    "summary": "Notice dated 2083 Shrawan 26 on the campus website about remedial classes.",
+                    "source_url": "https://myanglungcampus.edu.np/%e0%a4%85%e0%a4%a4%e0%a4%bf%e0%a4%b0%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%a4-%e0%a4%95%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be-%e0%a4%b8%e0%a4%9e%e0%a5%8d%e0%a4%9a%e0%a4%be%e0%a4%b2%e0%a4%a8remedial-class/"
+                },
+                {
+                    "title": "२०८२।०८३ को लेखा परीक्षण सम्बन्धि सूचना",
+                    "date": null,
+                    "summary": "Notice on audit for fiscal year 2082/083.",
+                    "source_url": "https://myanglungcampus.edu.np/%e0%a5%a8%e0%a5%a6%e0%a5%ae%e0%a5%a8%e0%a5%a4%e0%a5%a6%e0%a5%ae%e0%a5%a9-%e0%a4%95%e0%a5%8b-%e0%a4%b2%e0%a5%87%e0%a4%96%e0%a4%be-%e0%a4%aa%e0%a4%b0%e0%a5%80%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%a3/"
+                }
+            ],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-26-460120",
+                    "+977-9852077120"
+                ],
+                "emails": [
+                    "myanglungcampusmct@gmail.com"
+                ],
+                "website": "https://myanglungcampus.edu.np/",
+                "map_url": null
+            },
+            "reviews": [
+                {
+                    "platform": "Edusanjal",
+                    "rating": 5,
+                    "text": "A review posted under the name MYANGLUNG CAMPUS TEHRATHUM on 10 March 2026 describes the campus as a public campus established in 2038 BS, notes financial constraints, participation in UGC SHEP and HERP, and ongoing QAA work after an SSR submission and pre-visit.",
+                    "source_url": "https://edusanjal.com/college/myanglung-campus/"
+                }
+            ],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Basanta Multiple Campus",
+                "name_ne": "बसन्त बहुमुखी क्याम्पस",
+                "slug": "basanta-multiple-campus",
+                "ownership": "community",
+                "established_year": 2009,
+                "university": "Tribhuvan University",
+                "municipality": "Laligurans Municipality",
+                "address": "Laligurans Municipality-2, Basantapur, Tehrathum, Nepal",
+                "description": "Community, non-profit campus affiliated to Tribhuvan University and recognized by UGC. The campus website says a public meeting on 17 Magh 2066 BS decided to establish it at the then Basanta Higher Secondary School grounds, and that BBS affiliation was received in the last week of Shrawan 2067 BS, with B.Ed. added in 2069 BS. Morning classes run from 6:00 to 11:00. Edusanjal reported 66 students (32 in B.Ed. and 34 in BBS). Published establishment dates conflict: campus site Magh 2066 BS, CollegeNP 2009 AD / 2066 BS, Edusanjal and the chair's message 2067 BS, and NPCA 2067-04-24 BS.",
+                "mission": "सिमिति श्रोत तथा आधुनिक साधनको अधिकतम प्रयोगद्वारा गुणस्तरीय, व्यावहारिक, प्रविधियुक्त, अनुसन्धान केन्द्रित उच्च शिक्षा प्रदान गर्नु।",
+                "vision": "क्याम्पसको सपना, गुणस्तरीय जनशक्तिको उत्पादनसँगै समृद्ध समाजको स्थापना।",
+                "source_urls": [
+                    "https://basantamultiplecampus.edu.np/",
+                    "https://www.collegenp.com/college/basanta-multiple-campus-terhathum",
+                    "https://edusanjal.com/college/basanta-multiple-campus/",
+                    "https://npca.edu.np/campus_details/27"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Business Studies (BBS)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://basantamultiplecampus.edu.np/"
+                },
+                {
+                    "name": "Bachelor of Education (B.Ed.)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/basanta-multiple-campus-terhathum-bachelor-of-education-bed-bed"
+                }
+            ],
+            "facilities": [
+                "Library",
+                "Sports",
+                "Science lab",
+                "Conference",
+                "Multimedia",
+                "Journal",
+                "Counselling",
+                "Scholarships",
+                "Tour",
+                "Computer lab",
+                "Classrooms",
+                "ECA"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [
+                {
+                    "title": "एक दिने कानूनी सचेतना कार्यक्रम सम्पन्न",
+                    "date": null,
+                    "summary": "Campus news item listed as about two years old; no exact date was published on the homepage extract.",
+                    "source_url": "https://basantamultiplecampus.edu.np/"
+                },
+                {
+                    "title": "राष्ट्रिय वाणिज्य बैंकको वित्तीय साक्षरता कार्यक्रम सम्पन्न",
+                    "date": null,
+                    "summary": "Campus news item on a financial-literacy programme; exact date not published on the homepage extract.",
+                    "source_url": "https://basantamultiplecampus.edu.np/"
+                }
+            ],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-26-402175"
+                ],
+                "emails": [
+                    "basanta.campus2067@gmail.com"
+                ],
+                "website": "https://basantamultiplecampus.edu.np/",
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Hyatrung Jharana Campus",
+                "name_ne": "ह्यात्रुङ झरना क्याम्पस",
+                "slug": "hyatrung-jharana-campus",
+                "ownership": "community",
+                "established_year": 2009,
+                "university": "Tribhuvan University",
+                "municipality": "Aathrai Rural Municipality",
+                "address": "Aathrai Rural Municipality-1, Sankranti Bazar, Dadagaun, Tehrathum, Nepal",
+                "description": "Community campus affiliated to Tribhuvan University and described as UGC-approved. Established in 2066 BS (published as 2009 AD) and named after Hyatrung waterfall. It offers bachelor-level education. EducateNepal reported 52 students in B.Ed. No campus website, phone, or email was published on the pages reviewed.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://www.collegenp.com/college/hyatrung-jharana-campus-terhathum",
+                    "https://edusanjal.com/college/hyatrung-jharana-campus/",
+                    "https://www.educatenepal.com/institutions/detail/hyatrung-jharana-campus"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Education (B.Ed.)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/hyatrung-jharana-campus-terhathum-bachelor-of-education-bed-bed"
+                }
+            ],
+            "facilities": [
+                "Library",
+                "Sports",
+                "Conference",
+                "Multimedia",
+                "Journal",
+                "Counselling",
+                "Scholarships",
+                "Tour",
+                "Classrooms",
+                "ECA"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [],
+                "emails": [],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Chhathar Campus",
+                "name_ne": "छथर क्याम्पस",
+                "slug": "chhathar-campus",
+                "ownership": "community",
+                "established_year": 2012,
+                "university": "Tribhuvan University",
+                "municipality": "Chhathar Rural Municipality",
+                "address": "Chhathar, Panchakanya Pokhari, Chhathar Rural Municipality, Terhathum, Nepal",
+                "description": "Community campus affiliated to Tribhuvan University and described as UGC-recognized. Established in 2069 BS (2012 AD). It offers B.Ed. with published specializations in Economics, English and Nepali, including morning classes for employed learners. Edusanjal reported 79 students. Directory pages that call it private or give a generic info@chhatharcampus.edu.np address were not used because they conflict with community-campus sources and show an unclaimed listing.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://www.collegenp.com/college/chhathar-campus-terhathum",
+                    "https://edusanjal.com/college/chhathar-campus/",
+                    "https://edusanjal.com/local-level/chhathar/"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Education (B.Ed.)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/chhathar-campus-terhathum-bachelor-of-education-bed-bed"
+                }
+            ],
+            "facilities": [
+                "Library",
+                "Sports",
+                "Science lab",
+                "Conference",
+                "Counselling",
+                "Scholarships",
+                "Classrooms",
+                "ECA",
+                "Own building",
+                "Educational tours"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-9842070143",
+                    "+977-9800952614"
+                ],
+                "emails": [
+                    "chhatharcampus2069@gamil.com"
+                ],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Tehrathum Polytechnic Institute",
+                "name_ne": "तेह्रथुम बहुप्राविधिक शिक्षालय",
+                "slug": "tehrathum-polytechnic-institute",
+                "ownership": "constituent",
+                "established_year": null,
+                "university": "CTEVT",
+                "municipality": "Aathrai Rural Municipality",
+                "address": "Ewa, Aathrai-4, Tehrathum, Nepal",
+                "description": "CTEVT constituent technical institute at Ewa, Aathrai-4. CTEVT's annual report lists it as तेह्रथुम बहुप्राविधिक शिक्षालय, आठराई, तेह्रथुम, offering Diploma in Agriculture (Plant Science) and Diploma in Agriculture (Animal Science). It is not a +2-only school. A CollegeNP establishment year of 1989 matches CTEVT's own founding year and is not treated as the institute's founding year. Published phones differ between the institute site and CollegeNP.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://tpictevt.edu.np/about/our-team/",
+                    "https://tpictevt.edu.np/diploma-in-agriculture-animal-science/",
+                    "https://tpictevt.edu.np/diploma-in-agriculture-plant-science/",
+                    "https://edusanjal.com/school/tehrathum-polytechnic-institute/",
+                    "https://ctevt.org.np/public/uploads/kcfinder/files/CTEVT%20Annual%20Report_2081_82_final.pdf"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Diploma in Agriculture (Plant Science)",
+                    "level": "Diploma",
+                    "duration": "3 years",
+                    "faculty": "Agriculture",
+                    "fee": 60000,
+                    "source_url": "https://tpictevt.edu.np/diploma-in-agriculture-plant-science/"
+                },
+                {
+                    "name": "Diploma in Agriculture (Animal Science)",
+                    "level": "Diploma",
+                    "duration": "3 years",
+                    "faculty": "Agriculture",
+                    "fee": 60000,
+                    "source_url": "https://tpictevt.edu.np/diploma-in-agriculture-animal-science/"
+                }
+            ],
+            "facilities": [
+                "Sports",
+                "Transport",
+                "Parking",
+                "Computer lab"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-9852623399",
+                    "+977-9867842049"
+                ],
+                "emails": [
+                    "polytechnictehrathum@gmail.com"
+                ],
+                "website": "https://tpictevt.edu.np/",
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        }
+    ]
+}

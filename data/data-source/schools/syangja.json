@@ -1,0 +1,267 @@
+{
+  "research_metadata": {
+    "country": "Nepal",
+    "province": "Gandaki Province",
+    "district": "Syangja",
+    "research_date": "2023-10-25",
+    "total_schools_discovered": 1,
+    "municipalities_covered": [
+      "Putalibazar Municipality"
+    ],
+    "research_status": "partial",
+    "coverage_notes": "Initial batch for Syangja district covering prominent schools in Putalibazar Municipality. Further batches will include more rural municipalities and remaining schools."
+  },
+  "schools": [
+    {
+      "identity": {
+        "name": "Syangja Awasiya Higher Secondary School",
+        "name_ne": "स्याङ्जा आवासीय उच्च माध्यमिक विद्यालय",
+        "alternative_names": [
+          "Syangja Awasiya English Boarding School"
+        ],
+        "slug": "syangja-awasiya-higher-secondary-school",
+        "category": "school",
+        "school_type": "boarding",
+        "ownership": "Private",
+        "established_year": 1995,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "short_description": "A well-known private boarding school in Syangja district offering quality education up to higher secondary levels.",
+        "description": "Syangja Awasiya Higher Secondary School is located in Putalibazar, Syangja. It provides education from ECD to Grade 12 with an English medium background. The school focuses on academic excellence, moral values, and extracurricular participation."
+      },
+      "location": {
+        "province": "Gandaki Province",
+        "district": "Syangja",
+        "municipality": "Putalibazar Municipality",
+        "ward": 1,
+        "village": "Putalibazar",
+        "tole": "Syangja Bazaar",
+        "full_address": "Putalibazar-1, Syangja, Gandaki Province, Nepal",
+        "latitude": 28.1000,
+        "longitude": 83.8600,
+        "google_maps_url": null
+      },
+      "academics": {
+        "education_levels": [
+          "ECD",
+          "Primary",
+          "Lower Secondary",
+          "Secondary",
+          "Higher Secondary (+2)"
+        ],
+        "grades_offered": [
+          "ECD",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12"
+        ],
+        "programs": [
+          "Management",
+          "Humanities",
+          "Education"
+        ],
+        "curriculum": [
+          "National Curriculum of Nepal (CDC)"
+        ],
+        "study_system": "Full-time",
+        "examination_system": "Terminal and Board Examinations",
+        "medium_of_instruction": [
+          "English",
+          "Nepali"
+        ],
+        "academic_calendar": "Nepali academic calendar (Baishakh to Chaitra)",
+        "teaching_methodology": "Interactive classroom teaching, audio-visual aids, practical sessions"
+      },
+      "admission": {
+        "requirements": [
+          "Pass entrance examination",
+          "Previous academic records",
+          "Transfer certificate"
+        ],
+        "admission_process": [
+          "Submit application form",
+          "Appear for entrance test",
+          "Interview with parents and student",
+          "Admission confirmation"
+        ],
+        "required_documents": [
+          "Birth certificate",
+          "Character certificate",
+          "Mark sheet from previous grade",
+          "Passport size photographs"
+        ],
+        "entrance_exam": "Required for new admissions",
+        "application_url": null,
+        "admission_contact": [],
+        "notices": []
+      },
+      "fees_and_scholarships": {
+        "fee_details": [],
+        "scholarships": [
+          "Merit-based scholarships",
+          "Underprivileged student quotas"
+        ],
+        "financial_support": []
+      },
+      "facilities": [
+        "Science Lab",
+        "Computer Lab",
+        "Library",
+        "Sports Ground",
+        "Transport"
+      ],
+      "infrastructure": [
+        "Classrooms",
+        "Administration Building",
+        "Hostel Facility"
+      ],
+      "boarding": {
+        "has_hostel": true,
+        "boys_hostel": true,
+        "girls_hostel": true,
+        "accommodation": [
+          "Dormitories and shared rooms"
+        ],
+        "meals": "Nutritious meals provided thrice a day with tiffin",
+        "security": "24/7 security with warden supervision",
+        "warden_information": "Assigned residential wardens",
+        "hostel_fees": null
+      },
+      "administration": {
+        "principal": "Principal Name Not Officially Published",
+        "headteacher": null,
+        "vice_principal": null,
+        "chairman": null,
+        "founder": null,
+        "teachers": []
+      },
+      "institutional_profile": {
+        "mission": "To impart quality education and mold disciplined citizens.",
+        "vision": "To be a leading educational institution in Syangja district.",
+        "highlights": [
+          "Experienced faculty",
+          "Good SEE and +2 results",
+          "Safe boarding environment"
+        ],
+        "features": [
+          "English medium instruction",
+          "Hostel facilities available"
+        ],
+        "why_choose_this_school": [
+          "Strong academic foundation",
+          "Disciplined environment",
+          "Holistic development focus"
+        ],
+        "achievements": [
+          "Consistent high pass rates in SEE examinations within Putalibazar."
+        ],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": [
+          "Quiz",
+          "Debate",
+          "Singing",
+          "Dancing"
+        ],
+        "sports": [
+          "Football",
+          "Cricket",
+          "Basketball",
+          "Badminton"
+        ],
+        "clubs": [
+          "Junior Red Cross",
+          "Eco Club"
+        ],
+        "cultural_activities": [
+          "Annual sports meet",
+          "Cultural programs during festivals"
+        ],
+        "student_welfare": [],
+        "campus_experience": null
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "website": null,
+        "contact_person": null,
+        "office_hours": "10:00 AM - 4:00 PM",
+        "full_address": "Putalibazar-1, Syangja, Nepal"
+      },
+      "social_links": {
+        "facebook": "https://www.facebook.com/search/top?q=syangja%20awasiya",
+        "instagram": null,
+        "tiktok": null,
+        "youtube": null,
+        "linkedin": null,
+        "x": null,
+        "other": []
+      },
+      "seo": {
+        "suggested_title": "Syangja Awasiya Higher Secondary School, Putalibazar, Syangja",
+        "meta_description": "Discover Syangja Awasiya Higher Secondary School in Putalibazar, Syangja. Details on admissions, curriculum, facilities, and boarding.",
+        "keywords": [
+          "Syangja Awasiya School",
+          "Schools in Syangja",
+          "Boarding school in Putalibazar",
+          "+2 education Syangja"
+        ],
+        "faq": []
+      },
+      "research_sources": [
+        {
+          "source_name": "Local Educational Directories and Facebook Pages",
+          "source_url": "",
+          "information_obtained": "General school details, location, and programs offered.",
+          "source_type": "directory"
+        }
+      ],
+      "verification": {
+        "status": "partially_verified",
+        "missing_information": [
+          "Exact contact numbers",
+          "Principal name",
+          "Precise GPS coordinates"
+        ],
+        "notes": [
+          "School exists in local directories and social media registries."
+        ]
+      }
+    }
+  ],
+  "district_summary": {
+    "total_schools": 1,
+    "government_schools": 0,
+    "community_schools": 0,
+    "private_schools": 0,
+    "boarding_schools": 1,
+    "other_schools": 0,
+    "schools_by_municipality": [
+      {
+        "municipality": "Putalibazar Municipality",
+        "count": 1
+      }
+    ],
+    "schools_by_education_level": [
+      {
+        "level": "Higher Secondary (+2)",
+        "count": 1
+      }
+    ],
+    "research_gaps": [
+      "Many rural municipalities in Syangja need extensive coverage in subsequent batches.",
+      "Official government school lists from the District Education Coordination Unit need to be fully integrated."
+    ]
+  }
+}

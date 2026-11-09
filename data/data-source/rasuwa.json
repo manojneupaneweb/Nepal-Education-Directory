@@ -1,0 +1,294 @@
+{
+  "research_metadata": {
+    "country": "Nepal",
+    "province": "Bagmati Province",
+    "district": "Rasuwa",
+    "research_date": "2023-10-25",
+    "total_institutions_discovered": 1,
+    "total_institutions_verified": 1,
+    "coverage_notes": "Rasuwa is a remote mountainous district in Bagmati Province with very limited higher education infrastructure. Most students travel to Kathmandu or Nuwakot for higher education. The primary higher education institution located directly within Rasuwa district is Rasuwa Multiple Campus.",
+    "research_status": "completed"
+  },
+  "institutions": [
+    {
+      "identity": {
+        "name": "Rasuwa Multiple Campus",
+        "name_ne": "रसुवा बहुमुखी क्याम्पस",
+        "alternative_names": [
+          "Shree Rasuwa Multiple Campus"
+        ],
+        "slug": "rasuwa-multiple-campus",
+        "category": "college",
+        "institution_type": "community",
+        "ownership": "Community-owned",
+        "established_year": 2007,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "logo_source": null,
+        "short_description": "Rasuwa Multiple Campus is a community-based campus located in Dhunche, Rasuwa district, affiliated with Tribhuvan University.",
+        "description": "Rasuwa Multiple Campus is the leading higher education institution in the Rasuwa district of Bagmati Province. Established to provide accessible higher education to the local mountainous community, it offers programs primarily in education and humanities under the affiliation of Tribhuvan University."
+      },
+      "location": {
+        "province": "Bagmati Province",
+        "district": "Rasuwa",
+        "municipality": "Uttargaya / Gosainkunda (Dhunche)",
+        "ward": null,
+        "tole": "Dhunche",
+        "full_address": "Dhunche, Gosainkunda Rural Municipality, Rasuwa, Bagmati Province, Nepal",
+        "latitude": 28.1105,
+        "longitude": 85.3094,
+        "google_maps_url": null,
+        "google_maps_embed_url": null,
+        "nearby_landmarks": [
+          "District Administration Office Rasuwa",
+          "Dhunche Bazaar"
+        ]
+      },
+      "affiliation": {
+        "university": "Tribhuvan University",
+        "affiliation_type": "Affiliated campus",
+        "accreditation": [],
+        "recognition_details": [
+          "Recognized by Tribhuvan University and University Grants Commission Nepal"
+        ]
+      },
+      "academics": {
+        "study_system": "Annual and Semester",
+        "academic_calendar": "Following Tribhuvan University academic calendar",
+        "medium_of_instruction": [
+          "Nepali",
+          "English"
+        ],
+        "teaching_methodology": "Lectures, discussions, and practical assignments as per TU guidelines.",
+        "programs": [
+          {
+            "name": "Bachelor of Education (B.Ed)",
+            "degree_level": "Undergraduate",
+            "faculty": "Education",
+            "specialization": [],
+            "duration": "4 years",
+            "semester_or_year": "Annual / Semester system",
+            "eligibility": "+2 or equivalent in any discipline from a recognized board.",
+            "entrance_requirement": "As per Tribhuvan University rules",
+            "fee": null,
+            "intake_capacity": null,
+            "status": "active",
+            "source_urls": []
+          },
+          {
+            "name": "Bachelor of Arts (BA)",
+            "degree_level": "Undergraduate",
+            "faculty": "Humanities and Social Sciences",
+            "specialization": [],
+            "duration": "4 years",
+            "semester_or_year": "Annual system",
+            "eligibility": "+2 or equivalent from a recognized board.",
+            "entrance_requirement": "As per Tribhuvan University rules",
+            "fee": null,
+            "intake_capacity": null,
+            "status": "active",
+            "source_urls": []
+          }
+        ]
+      },
+      "admission": {
+        "guidance": "Admissions are conducted in accordance with Tribhuvan University schedules and guidelines.",
+        "requirements": [
+          "Successfully passed +2 or equivalent examination",
+          "Submitted academic transcripts and character certificates"
+        ],
+        "application_process": [
+          "Obtain application form from the campus administration",
+          "Submit filled form along with necessary documents within deadlines"
+        ],
+        "application_url": null,
+        "entrance_details": "Entrance exams or merit-based selection as required by TU faculties.",
+        "required_documents": [
+          "Plus Two transcripts and certificates",
+          "Character certificate",
+          "Recent passport-size photographs",
+          "Citizenship certificate copy"
+        ],
+        "admission_contact": [],
+        "current_notices": []
+      },
+      "scholarships": [
+        {
+          "name": "Government and University Scholarships",
+          "type": "Need-based and Merit-based",
+          "eligibility": "Reserved quotas for marginalized, economically disadvantaged, and meritorious students as per TU and UGC norms.",
+          "benefits": "Partial or full tuition fee waiver",
+          "application_process": "Apply through the campus administration office with required proofs.",
+          "deadline": null,
+          "status": "active",
+          "source_urls": []
+        }
+      ],
+      "facilities": [
+        "Classrooms",
+        "Library",
+        "Administration building",
+        "Drinking water"
+      ],
+      "infrastructure": [],
+      "faculty": {
+        "principal": null,
+        "chairperson": null,
+        "campus_chief": null,
+        "departments": [
+          "Department of Education",
+          "Department of Humanities"
+        ],
+        "faculty_members": [],
+        "teaching_approach": "Traditional classroom instruction supported by practical assignments."
+      },
+      "leadership_messages": {
+        "principal_message": null,
+        "chairperson_message": null,
+        "founder_message": null
+      },
+      "institutional_profile": {
+        "mission": "To impart quality higher education to the students of Rasuwa and neighboring remote districts.",
+        "vision": "To be a premier center of higher learning in the mountainous region.",
+        "core_values": [
+          "Accessibility",
+          "Quality",
+          "Community Engagement"
+        ],
+        "highlights": [
+          "The primary higher education provider in Rasuwa District",
+          "Affiliated with Tribhuvan University"
+        ],
+        "features": [
+          "Community-managed institution",
+          "Affordable education for local residents"
+        ],
+        "why_choose_this_college": [
+          "Locally available higher education saving migration costs to Kathmandu",
+          "Affiliation with Tribhuvan University"
+        ],
+        "achievements": [],
+        "milestones": [
+          "Established in 2007 to address higher education gaps in Rasuwa."
+        ]
+      },
+      "student_life": {
+        "extracurricular_activities": [
+          "Annual sports meet",
+          "Cultural programs"
+        ],
+        "clubs": [],
+        "sports": [
+          "Volleyball",
+          "Badminton",
+          "Football"
+        ],
+        "student_organizations": [
+          "Student union chapters affiliated with national student wings"
+        ],
+        "campus_experience": "A community-focused campus environment interacting closely with local hill communities.",
+        "student_welfare": []
+      },
+      "career_development": {
+        "placement_cell": null,
+        "internship_opportunities": [],
+        "industry_partnerships": [],
+        "career_counseling": null,
+        "alumni_network": null,
+        "placement_statistics": []
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "admission_contacts": [],
+        "website": null,
+        "office_hours": "Sun-Fri: 10:00 AM - 4:00 PM",
+        "contact_person": null
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "linkedin": null,
+        "youtube": null,
+        "x": null,
+        "other": []
+      },
+      "online_resources": {
+        "prospectus": [],
+        "fee_structure": [],
+        "academic_calendar": [],
+        "notices": [],
+        "results": [],
+        "student_portal": null,
+        "downloads": []
+      },
+      "seo": {
+        "suggested_title": "Rasuwa Multiple Campus, Dhunche, Rasuwa",
+        "meta_description": "Explore Rasuwa Multiple Campus in Dhunche, Rasuwa - a community-based Tribhuvan University-affiliated campus offering B.Ed and BA programs.",
+        "keywords": [
+          "Rasuwa Multiple Campus",
+          "Colleges in Rasuwa",
+          "Tribhuvan University affiliated colleges Rasuwa",
+          "Higher education in Dhunche Rasuwa"
+        ],
+        "faq": [
+          {
+            "question": "Which university is Rasuwa Multiple Campus affiliated with?",
+            "answer": "Rasuwa Multiple Campus is affiliated with Tribhuvan University."
+          },
+          {
+            "question": "Where is Rasuwa Multiple Campus located?",
+            "answer": "It is located in Dhunche, Gosainkunda Rural Municipality, Rasuwa District, Bagmati Province, Nepal."
+          }
+        ]
+      },
+      "verification": {
+        "verification_status": "partial",
+        "last_verified_at": "2023-10-25",
+        "official_sources": [
+          "Tribhuvan University Affiliated Campuses Directory",
+          "University Grants Commission Nepal Reports"
+        ],
+        "secondary_sources": [
+          "Educational directories of Nepal"
+        ],
+        "field_confidence": {
+          "identity": "high",
+          "location": "high",
+          "affiliation": "high",
+          "academics": "medium"
+        },
+        "missing_information": [
+          "Exact contact numbers",
+          "Official website URL",
+          "Detailed fee structure",
+          "Current campus chief name"
+        ],
+        "notes": "Rasuwa is extremely remote and has very few higher education options. Rasuwa Multiple Campus is the main recognized campus operating in the district."
+      }
+    }
+  ],
+  "district_summary": {
+    "total_colleges": 1,
+    "government_colleges": 0,
+    "community_colleges": 1,
+    "private_colleges": 0,
+    "universities_and_constituent_campuses": 0,
+    "other_institutions": 0,
+    "municipalities_covered": [
+      "Gosainkunda Rural Municipality (Dhunche)"
+    ],
+    "institutions_by_university": [
+      {
+        "university": "Tribhuvan University",
+        "count": 1
+      }
+    ],
+    "research_gaps": [
+      "Lack of online presence and official websites for institutions in Rasuwa district",
+      "Limited technical or vocational higher education institutes directly operating in the district beyond short-term CTEVT-affiliated skill trainings"
+    ]
+  }
+}

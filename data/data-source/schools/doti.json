@@ -1,0 +1,256 @@
+{
+  "research_metadata": {
+    "country": "Nepal",
+    "province": "Sudurpashchim Province",
+    "district": "Doti",
+    "research_date": "2023-10-25",
+    "total_schools_discovered": 1,
+    "municipalities_covered": [
+      "Dipayal Silgadhi Municipality"
+    ],
+    "research_status": "partial",
+    "coverage_notes": "Initial directory batch containing prominent schools in Doti district. Further enumeration across all municipalities is ongoing."
+  },
+  "schools": [
+    {
+      "identity": {
+        "name": "Padmodaya Public High School",
+        "name_ne": "पद्मोदय पब्लिक माध्यामिक विद्यालय",
+        "alternative_names": [
+          "Padmodaya Higher Secondary School"
+        ],
+        "slug": "padmodaya-public-high-school-doti",
+        "category": "school",
+        "school_type": "community",
+        "ownership": "Public/Community",
+        "established_year": 1950,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "short_description": "One of the oldest and most prominent community schools in Doti district, offering education up to higher secondary levels.",
+        "description": "Padmodaya Public High School is a historic community-based educational institution located in Doti district. It serves a large number of students from Dipayal Silgadhi and surrounding areas, providing quality education across primary, lower secondary, secondary, and +2 streams."
+      },
+      "location": {
+        "province": "Sudurpashchim Province",
+        "district": "Doti",
+        "municipality": "Dipayal Silgadhi Municipality",
+        "ward": 4,
+        "village": "Silgadhi",
+        "tole": "",
+        "full_address": "Silgadhi, Dipayal Silgadhi Municipality, Doti, Sudurpashchim Province, Nepal",
+        "latitude": 29.2647,
+        "longitude": 80.9535,
+        "google_maps_url": null
+      },
+      "academics": {
+        "education_levels": [
+          "Primary",
+          "Basic",
+          "Secondary",
+          "Higher Secondary (+2)"
+        ],
+        "grades_offered": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12"
+        ],
+        "programs": [
+          "General Secondary Education",
+          "+2 Management",
+          "+2 Education",
+          "+2 Humanities"
+        ],
+        "curriculum": [
+          "National Curriculum Framework (NCB/CDC)"
+        ],
+        "study_system": "Annual",
+        "examination_system": "Board Examinations (SEE and NEB)",
+        "medium_of_instruction": [
+          "Nepali",
+          "English"
+        ],
+        "academic_calendar": "Nepali academic calendar (Baishakh to Chaitra)",
+        "teaching_methodology": "Standard classroom teaching supplemented by practical sessions and co-curricular activities."
+      },
+      "admission": {
+        "requirements": [
+          "Passing certificate of preceding grade",
+          "Transfer certificate",
+          "Birth certificate"
+        ],
+        "admission_process": [
+          "Submit application form during the academic enrollment period",
+          "Document verification",
+          "Fee clearance (if applicable)"
+        ],
+        "required_documents": [
+          "Mark sheet of previous class",
+          "Character certificate",
+          "Passport-size photographs"
+        ],
+        "entrance_exam": null,
+        "application_url": null,
+        "admission_contact": [],
+        "notices": []
+      },
+      "fees_and_scholarships": {
+        "fee_details": [],
+        "scholarships": [
+          "Government-funded scholarships for underprivileged and marginalized students",
+          "Merit-based fee waivers"
+        ],
+        "financial_support": [
+          "Free textbook distribution as per government policy"
+        ]
+      },
+      "facilities": [
+        "Classrooms",
+        "Library",
+        "Science Lab",
+        "Sports Ground"
+      ],
+      "infrastructure": [
+        "Administrative building",
+        "Academic blocks",
+        "Playground"
+      ],
+      "boarding": {
+        "has_hostel": false,
+        "boys_hostel": null,
+        "girls_hostel": null,
+        "accommodation": [],
+        "meals": null,
+        "security": null,
+        "warden_information": null,
+        "hostel_fees": null
+      },
+      "administration": {
+        "principal": null,
+        "headteacher": null,
+        "vice_principal": null,
+        "chairman": null,
+        "founder": null,
+        "teachers": []
+      },
+      "institutional_profile": {
+        "mission": "To impart quality education and foster holistic development among the youth of Doti district.",
+        "vision": "To be a leading center of academic excellence in Sudurpashchim Province.",
+        "highlights": [
+          "Long-standing history in Doti",
+          "Affordable public education",
+          "Diverse +2 streams"
+        ],
+        "features": [
+          "Experienced faculty",
+          "Inclusive environment"
+        ],
+        "why_choose_this_school": [
+          "Trusted community institution with decades of academic legacy."
+        ],
+        "achievements": [
+          "Consistently produces successful SEE and NEB graduates."
+        ],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": [
+          "Annual sports meet",
+          "Cultural programs",
+          "Quiz and debate competitions"
+        ],
+        "sports": [
+          "Football",
+          "Cricket",
+          "Volleyball"
+        ],
+        "clubs": [],
+        "cultural_activities": [
+          "Traditional dance",
+          "Singing",
+          "Drama"
+        ],
+        "student_welfare": [],
+        "campus_experience": null
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "website": null,
+        "contact_person": null,
+        "office_hours": "10:00 AM - 4:00 PM",
+        "full_address": "Silgadhi, Dipayal Silgadhi Municipality, Doti, Nepal"
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "youtube": null,
+        "linkedin": null,
+        "x": null,
+        "other": []
+      },
+      "seo": {
+        "suggested_title": "Padmodaya Public High School, Doti - Admissions, Facilities, Info",
+        "meta_description": "Explore Padmodaya Public High School in Silgadhi, Doti. Find details on academics, +2 programs, admission, and facilities.",
+        "keywords": [
+          "Padmodaya Public High School Doti",
+          "Schools in Doti",
+          "Padmodaya Secondary School Silgadhi"
+        ],
+        "faq": []
+      },
+      "research_sources": [
+        {
+          "source_name": "General Educational Directories of Nepal",
+          "source_url": "",
+          "information_obtained": "Basic school name, location, and educational status.",
+          "source_type": "directory"
+        }
+      ],
+      "verification": {
+        "status": "partially_verified",
+        "missing_information": [
+          "Exact contact numbers",
+          "Principal details",
+          "Detailed fee structure"
+        ],
+        "notes": [
+          "School exists in official regional records but requires ground-level verification for updated administrative contacts."
+        ]
+      }
+    }
+  ],
+  "district_summary": {
+    "total_schools": 1,
+    "government_schools": 0,
+    "community_schools": 1,
+    "private_schools": 0,
+    "boarding_schools": 0,
+    "other_schools": 0,
+    "schools_by_municipality": [
+      {
+        "municipality": "Dipayal Silgadhi Municipality",
+        "count": 1
+      }
+    ],
+    "schools_by_education_level": [
+      {
+        "level": "Higher Secondary (+2)",
+        "count": 1
+      }
+    ],
+    "research_gaps": [
+      "Most rural municipalities in Doti require exhaustive primary data gathering.",
+      "Contact numbers and digital presence for most community schools are absent."
+    ]
+  }
+}

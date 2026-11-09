@@ -1,0 +1,268 @@
+{
+  "research_metadata": {
+    "country": "Nepal",
+    "province": "Bagmati Province",
+    "district": "Kathmandu",
+    "research_date": "2023-10-25",
+    "total_schools_discovered": 1,
+    "municipalities_covered": [
+      "Kathmandu Metropolitan City"
+    ],
+    "research_status": "partial",
+    "coverage_notes": "Initial batch for Kathmandu district focusing on prominent institutions."
+  },
+  "schools": [
+    {
+      "identity": {
+        "name": "Budhanilkantha School",
+        "name_ne": "बुढानिलकण्ठ स्कुल",
+        "alternative_names": [
+          "BNKS"
+        ],
+        "slug": "budhanilkantha-school",
+        "category": "school",
+        "school_type": "community",
+        "ownership": "Public-Private Partnership / Trust",
+        "established_year": 1972,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "short_description": "Budhanilkantha School is a premier boarding school in Nepal operating under a public-private partnership.",
+        "description": "Budhanilkantha School is a full boarding public school located in the northern outskirts of Kathmandu. Established in 1972 with the cooperation of the Government of Nepal and the United Kingdom, it provides quality education with a strong emphasis on character development, leadership, and extracurricular activities."
+      },
+      "location": {
+        "province": "Bagmati Province",
+        "district": "Kathmandu",
+        "municipality": "Budhanilkantha Municipality",
+        "ward": 3,
+        "village": "Budhanilkantha",
+        "tole": "Narayanthan",
+        "full_address": "Budhanilkantha, Kathmandu, Nepal",
+        "latitude": 27.8016,
+        "longitude": 85.3644,
+        "google_maps_url": null
+      },
+      "academics": {
+        "education_levels": [
+          "Lower Secondary",
+          "Secondary",
+          "Higher Secondary (+2)"
+        ],
+        "grades_offered": [
+          "Grade 5",
+          "Grade 6",
+          "Grade 7",
+          "Grade 8",
+          "Grade 9",
+          "Grade 10",
+          "Grade 11",
+          "Grade 12"
+        ],
+        "programs": [
+          {
+            "program_name": "NEB Grade 11 & 12 Science",
+            "grade": "Grade 11-12",
+            "subject_or_stream": "Science",
+            "duration": "2 years",
+            "curriculum": "National Curriculum of Nepal (NEB)",
+            "eligibility": "SEE Graduate with required GPA",
+            "admission_requirements": "Entrance Exam and Interview",
+            "medium_of_instruction": "English",
+            "available_seats": null,
+            "fees": null
+          }
+        ],
+        "curriculum": [
+          "National Curriculum (NEB)",
+          "GCE A-Levels"
+        ],
+        "study_system": "Full Boarding",
+        "examination_system": "Internal and Board Examinations",
+        "medium_of_instruction": [
+          "English"
+        ],
+        "academic_calendar": "Nepali Academic Calendar (Baishakh to Chaitra)",
+        "teaching_methodology": "Interactive, student-centric, residential learning model"
+      },
+      "admission": {
+        "requirements": [
+          "Age criteria",
+          "Passing the rigorous entrance examination",
+          "Medical fitness"
+        ],
+        "admission_process": [
+          "Application submission",
+          "Entrance test administered nationally",
+          "Interview for shortlisted candidates"
+        ],
+        "required_documents": [
+          "Birth certificate",
+          "Previous academic transcripts",
+          "Character certificate",
+          "Passport-size photographs"
+        ],
+        "entrance_exam": "Required",
+        "application_url": null,
+        "admission_contact": [],
+        "notices": []
+      },
+      "fees_and_scholarships": {
+        "fee_details": [],
+        "scholarships": [
+          "Government-funded scholarships for underprivileged and meritorious students from all 77 districts."
+        ],
+        "financial_support": []
+      },
+      "facilities": [
+        "Science laboratories",
+        "Computer laboratory",
+        "Library",
+        "Playground",
+        "Hostel facilities",
+        "Cafeteria",
+        "Auditorium",
+        "Swimming pool"
+      ],
+      "infrastructure": [],
+      "boarding": {
+        "has_hostel": true,
+        "boys_hostel": true,
+        "girls_hostel": true,
+        "accommodation": [
+          "Dormitory style housing for students"
+        ],
+        "meals": "Provided by school mess",
+        "security": "Gated campus with 24/7 security",
+        "warden_information": "Housemasters and residential wardens",
+        "hostel_fees": null
+      },
+      "administration": {
+        "principal": "Home Nath Acharya",
+        "headteacher": null,
+        "vice_principal": null,
+        "chairman": null,
+        "founder": null,
+        "teachers": []
+      },
+      "institutional_profile": {
+        "mission": "To impart quality education and develop self-reliant, disciplined, and socially responsible citizens.",
+        "vision": "To be a leading center of educational excellence in South Asia.",
+        "highlights": [
+          "Spacious green campus",
+          "Strong alumni network",
+          "Balanced focus on academics, sports, and social service"
+        ],
+        "features": [
+          "Residential setup",
+          "Diverse student body representing all districts of Nepal"
+        ],
+        "why_choose_this_school": [
+          "Holistic development",
+          "Nationally recognized standard of discipline and education"
+        ],
+        "achievements": [
+          "Consistently top-ranking SEE and NEB results in Nepal."
+        ],
+        "milestones": [
+          "Established in 1972 AD."
+        ]
+      },
+      "student_life": {
+        "extracurricular_activities": [
+          "Debate",
+          "Quiz",
+          "Scouting",
+          "Social Service"
+        ],
+        "sports": [
+          "Football",
+          "Basketball",
+          "Cricket",
+          "Swimming",
+          "Athletics"
+        ],
+        "clubs": [
+          "Science Club",
+          "Eco Club",
+          "Literature Club"
+        ],
+        "cultural_activities": [
+          "Annual cultural fest",
+          "Musical events",
+          "Drama"
+        ],
+        "student_welfare": [],
+        "campus_experience": "Immersive residential campus life promoting camaraderie and independence."
+      },
+      "contact": {
+        "phones": [
+          "+977-1-4370165",
+          "+977-1-4370254"
+        ],
+        "emails": [
+          "info@bnks.edu.np"
+        ],
+        "website": "https://www.bnks.edu.np",
+        "contact_person": null,
+        "office_hours": "10:00 AM - 5:00 PM",
+        "full_address": "Budhanilkantha, Kathmandu 44600, Nepal"
+      },
+      "social_links": {
+        "facebook": "https://www.facebook.com/bnks.edu.np",
+        "instagram": null,
+        "tiktok": null,
+        "youtube": null,
+        "linkedin": null,
+        "x": null,
+        "other": []
+      },
+      "seo": {
+        "suggested_title": "Budhanilkantha School Kathmandu - Admissions, Fees, Curriculum",
+        "meta_description": "Discover Budhanilkantha School in Kathmandu. Learn about its programs, boarding facilities, admission process, and academic excellence.",
+        "keywords": [
+          "Budhanilkantha School",
+          "BNKS Kathmandu",
+          "Boarding school Nepal",
+          "Best schools in Kathmandu"
+        ],
+        "faq": []
+      },
+      "research_sources": [
+        {
+          "source_name": "Official Website",
+          "source_url": "https://www.bnks.edu.np",
+          "information_obtained": "General school background, contact details, leadership, and programs.",
+          "source_type": "official"
+        }
+      ],
+      "verification": {
+        "status": "verified",
+        "missing_information": [],
+        "notes": "Verified via official web portal and general educational registries."
+      }
+    }
+  ],
+  "district_summary": {
+    "total_schools": 1,
+    "government_schools": 0,
+    "community_schools": 1,
+    "private_schools": 0,
+    "boarding_schools": 0,
+    "other_schools": 0,
+    "schools_by_municipality": [
+      {
+        "municipality": "Budhanilkantha Municipality",
+        "count": 1
+      }
+    ],
+    "schools_by_education_level": [
+      {
+        "level": "Secondary / Higher Secondary",
+        "count": 1
+      }
+    ],
+    "research_gaps": [
+      "Need to cover hundreds of other public and private schools across Kathmandu Metropolitan City and other municipalities within Kathmandu district."
+    ]
+  }
+}

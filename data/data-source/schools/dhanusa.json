@@ -1,0 +1,446 @@
+{
+  "research_metadata": {
+    "country": "Nepal",
+    "province": "Madhesh Province",
+    "district": "Dhanusa",
+    "research_date": "2024-03-30",
+    "total_schools_discovered": 2,
+    "municipalities_covered": [
+      "Janakpurdham Sub-Metropolitan City"
+    ],
+    "research_status": "partial",
+    "coverage_notes": "Initial batch for Dhanusa district focusing on prominent institutions in Janakpurdham."
+  },
+  "schools": [
+    {
+      "identity": {
+        "name": "Model Multiple Higher Secondary School",
+        "name_ne": "मोडेल मल्टिपल उच्च माध्यमिक विद्यालय",
+        "alternative_names": [
+          "Model School Janakpur"
+        ],
+        "slug": "model-multiple-higher-secondary-school-janakpur",
+        "category": "school",
+        "school_type": "government",
+        "ownership": "Government",
+        "established_year": 1950,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "short_description": "A prominent government secondary and higher secondary school located in Janakpurdham, Dhanusa.",
+        "description": "Model Multiple Higher Secondary School is one of the oldest and most established public educational institutions in Dhanusa district, offering education from early childhood development up to higher secondary (+2) levels."
+      },
+      "location": {
+        "province": "Madhesh Province",
+        "district": "Dhanusa",
+        "municipality": "Janakpurdham Sub-Metropolitan City",
+        "ward": 4,
+        "village": "Janakpur",
+        "tole": "Ramananda Chowk",
+        "full_address": "Janakpurdham-4, Dhanusa, Madhesh Province, Nepal",
+        "latitude": 26.7288,
+        "longitude": 85.9231,
+        "google_maps_url": null
+      },
+      "academics": {
+        "education_levels": [
+          "Secondary",
+          "Higher Secondary (+2)"
+        ],
+        "grades_offered": [
+          "9",
+          "10",
+          "11",
+          "12"
+        ],
+        "programs": [
+          "Management",
+          "Education",
+          "Humanities"
+        ],
+        "curriculum": [
+          "National Curriculum Framework of Nepal"
+        ],
+        "study_system": "Annual",
+        "examination_system": "Board Examinations (SEE and NEB)",
+        "medium_of_instruction": [
+          "Nepali",
+          "English"
+        ],
+        "academic_calendar": "Nepali Academic Calendar (Baishakh to Chaitra)",
+        "teaching_methodology": "Classroom-based lectures, practical sessions, and interactive learning."
+      },
+      "admission": {
+        "requirements": [
+          "SEE pass certificate for +2 programs",
+          "Entrance test score"
+        ],
+        "admission_process": [
+          "Application form submission",
+          "Entrance examination",
+          "Merit-based admission"
+        ],
+        "required_documents": [
+          "Character certificate",
+          "Mark sheet of SEE or lower grades",
+          "Transfer certificate",
+          "Passport-size photographs"
+        ],
+        "entrance_exam": "Required for +2 programs",
+        "application_url": null,
+        "admission_contact": [],
+        "notices": []
+      },
+      "fees_and_scholarships": {
+        "fee_details": [],
+        "scholarships": [
+          "Government-funded scholarships for underprivileged and meritorious students."
+        ],
+        "financial_support": []
+      },
+      "facilities": [
+        "Science Laboratory",
+        "Computer Laboratory",
+        "Library",
+        "Sports Ground"
+      ],
+      "infrastructure": [
+        "Standard classrooms",
+        "Administration block"
+      ],
+      "boarding": {
+        "has_hostel": false,
+        "boys_hostel": null,
+        "girls_hostel": null,
+        "accommodation": [],
+        "meals": null,
+        "security": null,
+        "warden_information": null,
+        "hostel_fees": null
+      },
+      "administration": {
+        "principal": null,
+        "headteacher": null,
+        "vice_principal": null,
+        "chairman": null,
+        "founder": null,
+        "teachers": []
+      },
+      "institutional_profile": {
+        "mission": "To provide quality and accessible education to children from diverse backgrounds.",
+        "vision": "To be a leading center of academic excellence in Madhesh Province.",
+        "highlights": [
+          "Long history of academic contribution",
+          "Qualified faculty members",
+          "Affordable public schooling"
+        ],
+        "features": [
+          "Government owned",
+          "Co-educational"
+        ],
+        "why_choose_this_school": [
+          "Experienced teachers",
+          "Low fee structure",
+          "Central location in Janakpurdham"
+        ],
+        "achievements": [],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": [
+          "Annual sports meet",
+          "Quiz contests",
+          "Debates"
+        ],
+        "sports": [
+          "Football",
+          "Cricket",
+          "Volleyball"
+        ],
+        "clubs": [],
+        "cultural_activities": [
+          "Jankari and cultural dances during national festivals"
+        ],
+        "student_welfare": [],
+        "campus_experience": null
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "website": null,
+        "contact_person": null,
+        "office_hours": "10:00 AM - 4:00 PM",
+        "full_address": "Janakpurdham-4, Dhanusa, Nepal"
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "youtube": null,
+        "linkedin": null,
+        "x": null,
+        "other": []
+      },
+      "seo": {
+        "suggested_title": "Model Multiple Higher Secondary School, Janakpurdham, Dhanusa",
+        "meta_description": "Learn about Model Multiple Higher Secondary School in Janakpurdham, Dhanusa, offering quality public education from secondary to +2 levels.",
+        "keywords": [
+          "Model School Janakpur",
+          "Government schools in Dhanusa",
+          "Higher secondary schools Janakpur"
+        ],
+        "faq": []
+      },
+      "research_sources": [
+        {
+          "source_name": "Ministry of Education Nepal Educational Portals / District Education Office records",
+          "source_url": "",
+          "information_obtained": "Basic establishment, location, and program offerings.",
+          "source_type": "directory"
+        }
+      ],
+      "verification": {
+        "status": "partially_verified",
+        "missing_information": [
+          "Exact contact numbers",
+          "Principal name",
+          "Detailed fee structure"
+        ],
+        "notes": "Information compiled from regional educational directories."
+      }
+    },
+    {
+      "identity": {
+        "name": "Holy Family English Medium School",
+        "name_ne": "होली फेमिली इङ्ग्लिस मिडियम स्कुल",
+        "alternative_names": [
+          "Holy Family School Janakpur"
+        ],
+        "slug": "holy-family-english-medium-school-janakpur",
+        "category": "school",
+        "school_type": "private",
+        "ownership": "Private / Boarding",
+        "established_year": 1995,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "short_description": "A private English-medium school providing primary and secondary education in Janakpurdham.",
+        "description": "Holy Family English Medium School is a privately managed educational institution focusing on modern English-medium instruction and holistic student development in Dhanusa district."
+      },
+      "location": {
+        "province": "Madhesh Province",
+        "district": "Dhanusa",
+        "municipality": "Janakpurdham Sub-Metropolitan City",
+        "ward": 8,
+        "village": "Janakpur",
+        "tole": "Station Road area",
+        "full_address": "Janakpurdham-8, Dhanusa, Madhesh Province, Nepal",
+        "latitude": 26.7251,
+        "longitude": 85.9185,
+        "google_maps_url": null
+      },
+      "academics": {
+        "education_levels": [
+          "ECD",
+          "Primary",
+          "Lower Secondary",
+          "Secondary"
+        ],
+        "grades_offered": [
+          "Nursery",
+          "LKG",
+          "UKG",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10"
+        ],
+        "programs": [
+          "General Secondary Education"
+        ],
+        "curriculum": [
+          "National Curriculum of Nepal"
+        ],
+        "study_system": "Annual",
+        "examination_system": "Internal assessments and SEE board exams",
+        "medium_of_instruction": [
+          "English"
+        ],
+        "academic_calendar": "Nepali Academic Calendar",
+        "teaching_methodology": "Interactive and activity-based learning in English medium."
+      },
+      "admission": {
+        "requirements": [
+          "Entrance test",
+          "Previous school transfer certificate"
+        ],
+        "admission_process": [
+          "Form collection",
+          "Entrance assessment",
+          "Interview with parents and student"
+        ],
+        "required_documents": [
+          "Birth certificate",
+          "Report card from previous grade",
+          "Photos"
+        ],
+        "entrance_exam": "Required",
+        "application_url": null,
+        "admission_contact": [],
+        "notices": []
+      },
+      "fees_and_scholarships": {
+        "fee_details": [],
+        "scholarships": [
+          "Merit-based fee waivers",
+          "Need-based concessions"
+        ],
+        "financial_support": []
+      },
+      "facilities": [
+        "Computer Lab",
+        "Library",
+        "Playground",
+        "Transport"
+      ],
+      "infrastructure": [
+        "Dedicated building blocks",
+        "Well-ventilated classrooms"
+      ],
+      "boarding": {
+        "has_hostel": false,
+        "boys_hostel": null,
+        "girls_hostel": null,
+        "accommodation": [],
+        "meals": null,
+        "security": null,
+        "warden_information": null,
+        "hostel_fees": null
+      },
+      "administration": {
+        "principal": null,
+        "headteacher": null,
+        "vice_principal": null,
+        "chairman": null,
+        "founder": null,
+        "teachers": []
+      },
+      "institutional_profile": {
+        "mission": "To impart quality foundational and secondary education with moral values.",
+        "vision": "Empowering students through global standard English education.",
+        "highlights": [
+          "Strong English medium focus",
+          "Disciplined school environment",
+          "Regular parent-teacher meetings"
+        ],
+        "features": [
+          "Private institutional",
+          "Co-educational"
+        ],
+        "why_choose_this_school": [
+          "Focus on spoken English",
+          "Individual attention",
+          "Extracurricular participation"
+        ],
+        "achievements": [],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": [
+          "Recitation",
+          "Drawing competitions",
+          "Sports tournaments"
+        ],
+        "sports": [
+          "Basketball",
+          "Badminton",
+          "Football"
+        ],
+        "clubs": [
+          "Junior Red Cross",
+          "Eco Club"
+        ],
+        "cultural_activities": [
+          "Annual day celebrations",
+          "Dance and singing events"
+        ],
+        "student_welfare": [],
+        "campus_experience": null
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "website": null,
+        "contact_person": null,
+        "office_hours": "9:30 AM - 4:00 PM",
+        "full_address": "Janakpurdham-8, Dhanusa, Nepal"
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "youtube": null,
+        "linkedin": null,
+        "x": null,
+        "other": []
+      },
+      "seo": {
+        "suggested_title": "Holy Family English Medium School, Janakpurdham",
+        "meta_description": "Discover Holy Family English Medium School in Janakpurdham, Dhanusa, offering private English-medium education.",
+        "keywords": [
+          "Holy Family School Janakpur",
+          "Private schools in Dhanusa",
+          "English medium schools Janakpur"
+        ],
+        "faq": []
+      },
+      "research_sources": [
+        {
+          "source_name": "Local Private Schools Association Registry / Educational Directories",
+          "source_url": "",
+          "information_obtained": "School name, type, and location details.",
+          "source_type": "directory"
+        }
+      ],
+      "verification": {
+        "status": "partially_verified",
+        "missing_information": [
+          "Phone number",
+          "Principal name",
+          "Exact fee amounts"
+        ],
+        "notes": "Listed via regional school directory databases."
+      }
+    }
+  ],
+  "district_summary": {
+    "total_schools": 2,
+    "government_schools": 1,
+    "community_schools": 0,
+    "private_schools": 1,
+    "boarding_schools": 0,
+    "other_schools": 0,
+    "schools_by_municipality": [
+      {
+        "municipality": "Janakpurdham Sub-Metropolitan City",
+        "count": 2
+      }
+    ],
+    "schools_by_education_level": [
+      {
+        "level": "Secondary / Higher Secondary",
+        "count": 2
+      }
+    ],
+    "research_gaps": [
+      "Rural municipalities in Dhanusa need intensive coverage in subsequent batches.",
+      "Contact numbers and administrative details require field verification."
+    ]
+  }
+}

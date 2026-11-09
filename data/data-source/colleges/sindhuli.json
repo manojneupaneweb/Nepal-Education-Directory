@@ -1,0 +1,1262 @@
+{
+    "research_metadata": {
+        "country": "Nepal",
+        "province": "Bagmati Province",
+        "district": "Sindhuli",
+        "research_date": "2026-11-08",
+        "total_institutions_discovered": 17,
+        "research_status": "completed",
+        "collection_mode": "responses"
+    },
+    "institutions": [
+        {
+            "overview": {
+                "name": "Sindhuli Multiple Campus",
+                "name_ne": "सिन्धुली बहुमुखी क्याम्पस",
+                "slug": "sindhuli-multiple-campus",
+                "ownership": "community",
+                "established_year": 1984,
+                "university": "Tribhuvan University",
+                "municipality": "Kamalamai Municipality",
+                "address": "Dhungrebas, Kamalamai Municipality, Sindhulimadi, Sindhuli, Bagmati Province, Nepal",
+                "description": "Community campus established in 2041 BS (1984 AD). Affiliated to Tribhuvan University for bachelor's and master's programs and to the National Examinations Board for +2. Recognized by the University Grants Commission; public pages also report QAA certification. Runs humanities, education, and management programs from +2 through master's level.",
+                "mission": null,
+                "vision": "Published goals include maintaining high-quality teaching programs, aligning programs with local community needs, developing student enrollment and support, and establishing a good learning environment.",
+                "source_urls": [
+                    "https://www.collegenp.com/college/sindhuli-multiple-campus-sindhuli",
+                    "https://edusanjal.com/college/sindhuli-multiple-campus/",
+                    "https://sindhulicampus.edu.np/",
+                    "https://npca.edu.np/campus_details/380"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Arts (BA)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Humanities and Social Sciences",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/sindhuli-multiple-campus-sindhuli"
+                },
+                {
+                    "name": "Bachelor of Business Studies (BBS)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/sindhuli-multiple-campus-sindhuli"
+                },
+                {
+                    "name": "Bachelor of Education (B.Ed.)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/sindhuli-multiple-campus-sindhuli"
+                },
+                {
+                    "name": "Bachelor of Business Administration (BBA)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/sindhuli-multiple-campus-sindhuli"
+                },
+                {
+                    "name": "Bachelor of Information and Communication Technology Education (BICTE)",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://npca.edu.np/campus_details/380"
+                },
+                {
+                    "name": "M.Ed. Education Planning and Management",
+                    "level": "Master",
+                    "duration": "2 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/sindhuli-multiple-campus-sindhuli"
+                },
+                {
+                    "name": "M.Ed. Nepali Language Education",
+                    "level": "Master",
+                    "duration": "2 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/sindhuli-multiple-campus-sindhuli"
+                },
+                {
+                    "name": "M.Ed. Population Education",
+                    "level": "Master",
+                    "duration": "2 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/sindhuli-multiple-campus-sindhuli"
+                },
+                {
+                    "name": "MA in Sociology",
+                    "level": "Master",
+                    "duration": "2 years",
+                    "faculty": "Humanities and Social Sciences",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/sindhuli-multiple-campus-sindhuli"
+                },
+                {
+                    "name": "Master of Business Studies (MBS)",
+                    "level": "Master",
+                    "duration": "2 years",
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/sindhuli-multiple-campus-sindhuli-master-of-business-studies-mbs-mbs"
+                }
+            ],
+            "facilities": [
+                "Library",
+                "Internet",
+                "Science lab",
+                "Computer lab",
+                "Multimedia",
+                "Classrooms",
+                "Conference hall",
+                "Sports",
+                "Counseling",
+                "Canteen",
+                "Cafeteria",
+                "Transportation"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [
+                {
+                    "title": "स्नातकोत्तर तह M.Ed./MSSED कार्यक्रमको भर्ना (CEAT Exam) कार्यतालिका सम्बन्धी सूचना 2082",
+                    "date": null,
+                    "summary": "Admission schedule notice for postgraduate M.Ed./MSSED (CEAT) published on the campus website.",
+                    "source_url": "https://sindhulicampus.edu.np/"
+                },
+                {
+                    "title": "Call for Research Articles and Notification of Training Program",
+                    "date": null,
+                    "summary": "Campus notice calling for research articles and announcing a training program.",
+                    "source_url": "https://sindhulicampus.edu.np/"
+                },
+                {
+                    "title": "४ वर्षे स्नातक तह दोस्रो वर्षको नियमित परीक्षा आवेदन फारम भर्ने सूचना",
+                    "date": null,
+                    "summary": "Notice for four-year bachelor second-year regular examination form fill-up.",
+                    "source_url": "https://sindhulicampus.edu.np/"
+                },
+                {
+                    "title": "Notice regarding filling up the exam form for M.Ed. 2nd Semester",
+                    "date": null,
+                    "summary": "Exam form notice for M.Ed. second semester.",
+                    "source_url": "https://sindhulicampus.edu.np/"
+                },
+                {
+                    "title": "बस्तु निर्माण कार्यको वार्षिक खरिद योजना",
+                    "date": null,
+                    "summary": "Annual procurement plan notice for construction works.",
+                    "source_url": "https://sindhulicampus.edu.np/"
+                }
+            ],
+            "faqs": [
+                {
+                    "question": "What is Sindhuli Multiple Campus affiliated with?",
+                    "answer": "Tribhuvan University for higher education programs and the National Examinations Board for +2 programs."
+                }
+            ],
+            "contact": {
+                "phones": [
+                    "+977-47-520066"
+                ],
+                "emails": [
+                    "info@sindhulicampus.edu.np"
+                ],
+                "website": "https://sindhulicampus.edu.np",
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Kamala Science Campus",
+                "name_ne": "कमला साइन्स क्याम्पस",
+                "slug": "kamala-science-campus",
+                "ownership": "community",
+                "established_year": 2009,
+                "university": "Tribhuvan University",
+                "municipality": "Kamalamai Municipality",
+                "address": "Dhungrebas, Kamalamai, Sindhuli, Bagmati Province, Nepal",
+                "description": "Community campus established in 2066 BS (2009 AD). Affiliated to Tribhuvan University for bachelor-level science and to the National Examinations Board for +2 Science. Recognized by the University Grants Commission.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://www.collegenp.com/college/kamala-science-campus-sindhuli",
+                    "https://edusanjal.com/college/kamala-science-campus/",
+                    "https://www.collegesnepal.com/kamala-science-campus/"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Science (B.Sc.) General",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Institute of Science and Technology",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/kamala-science-campus-sindhuli"
+                }
+            ],
+            "facilities": [
+                "Library",
+                "Science lab",
+                "Computer lab",
+                "Conference hall",
+                "Sports",
+                "Counseling"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-47-520203"
+                ],
+                "emails": [
+                    "heroatom@gmail.com"
+                ],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Kamala Multiple Campus",
+                "name_ne": "कमला बहुमुखी क्याम्पस",
+                "slug": "kamala-multiple-campus",
+                "ownership": "community",
+                "established_year": 2007,
+                "university": "Tribhuvan University",
+                "municipality": "Dudhauli Municipality",
+                "address": "Dudhauli Municipality-9, Dudhauli, Sindhuli, Bagmati Province, Nepal",
+                "description": "Community campus established in 2064 BS. Affiliated to Tribhuvan University and recognized by the University Grants Commission. Offers bachelor's and master's programs in education and humanities. Public pages report more than 500 students and 21 teachers and staff.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://www.collegenp.com/college/kamala-multiple-campus-sindhuli",
+                    "https://edusanjal.com/college/kamala-multiple-campus/",
+                    "https://npca.edu.np/campus_details/414"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Arts (BA)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Humanities and Social Sciences",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/kamala-multiple-campus-sindhuli"
+                },
+                {
+                    "name": "Bachelor of Education (B.Ed.)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/kamala-multiple-campus-sindhuli"
+                },
+                {
+                    "name": "Master of Education (M.Ed.)",
+                    "level": "Master",
+                    "duration": "2 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/kamala-multiple-campus-sindhuli"
+                }
+            ],
+            "facilities": [
+                "Own building",
+                "Library",
+                "Sports"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-9807772143",
+                    "+977-9801645990",
+                    "+977-9814736146",
+                    "+977-9844019970"
+                ],
+                "emails": [
+                    "kamalamultiplecampusdudhauli@gmail.com"
+                ],
+                "website": "https://kamalamultiplecampus.edu.np",
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "College of Natural Resource Management, Marin, Kapilakot",
+                "name_ne": null,
+                "slug": "cnrm-marin-kapilakot-sindhuli",
+                "ownership": "constituent",
+                "established_year": 2017,
+                "university": "Agriculture and Forestry University",
+                "municipality": "Marin Rural Municipality",
+                "address": "Marin Rural Municipality-7, Kapilakot, Sindhuli, Bagmati Province, Nepal",
+                "description": "Second constituent college of Agriculture and Forestry University, established by a senate decision on 5 Baisakh 2074. Located about 26 km west of Sindhulimadi. Offers B.Sc. Agriculture. Formal opening was on 3 Falgun 2074. Published intake figures vary by page (about 45 to 54 students per year).",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://www.afu.edu.np/faculties/foa/colleges/cnrm-kapilakot",
+                    "https://edusanjal.com/college/marin-college-natural-resource-management/",
+                    "https://www.collegenp.com/college/marin-college-of-natural-resource-management-sindhuli"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Science in Agriculture (B.Sc. Ag)",
+                    "level": "Bachelor",
+                    "duration": "4 years (8 semesters)",
+                    "faculty": "Agriculture",
+                    "fee": 170000,
+                    "source_url": "https://www.collegenp.com/course/marin-college-of-natural-resource-management-sindhuli-bachelor-of-science-in-agriculture-bsc-ag-b"
+                }
+            ],
+            "facilities": [
+                "Library",
+                "Sports",
+                "Science lab",
+                "Conference",
+                "Multimedia",
+                "Journal",
+                "Counseling",
+                "Scholarships",
+                "Tour",
+                "Academic complex and practical farm land in the published master plan"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [
+                {
+                    "title": "Notice regarding Orientation of B.Sc. Ag - CNRM Sindhuli",
+                    "date": "2026-11-03",
+                    "summary": "AFU notice on orientation for B.Sc. Ag students at CNRM Sindhuli.",
+                    "source_url": "https://www.afu.edu.np/notices/notice-regarding-orientation-of-bscag-cnrm-sindhuli"
+                }
+            ],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-47-520170"
+                ],
+                "emails": [
+                    "cnrmsindhuli@afu.edu.np"
+                ],
+                "website": "https://www.afu.edu.np/faculties/foa/colleges/cnrm-kapilakot",
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": [
+                {
+                    "question": "i want to admission in bsc ag so how much GPA is suffisent",
+                    "answer": null,
+                    "source_url": "https://www.collegenp.com/course/marin-college-of-natural-resource-management-sindhuli-bachelor-of-science-in-agriculture-bsc-ag-b"
+                }
+            ]
+        },
+        {
+            "overview": {
+                "name": "Sindhuli Community Technical Institute",
+                "name_ne": "सिन्धुली सामुदायिक टेक्निकल इन्स्टिच्युट",
+                "slug": "sindhuli-community-technical-institute",
+                "ownership": "community",
+                "established_year": 2014,
+                "university": "Kathmandu University; CTEVT",
+                "municipality": "Kamalamai Municipality",
+                "address": "Nunthala, Kamalamai Municipality-6, Rammadi, Sindhuli, Bagmati Province, Nepal",
+                "description": "Nonprofit community technical institute formed with DCC Sindhuli, Kamalamai Municipality, and CTEVT. Operates on CTEVT-owned land of about 3.399 hectares at Nunthala. Runs CTEVT diploma programs and Kathmandu University bachelor programs in technical education. A 2022 KU agreement covered B.Tech.Ed. (IT) and B.Tech.Ed. (Civil Engineering).",
+                "mission": "To produce skilled technical workforce as per community and industrial needs.",
+                "vision": "A leading polytechnic that provides qualitative training and education to create skilled manpower, and generates new knowledge for society and industry.",
+                "source_urls": [
+                    "https://scti.edu.np/about/",
+                    "https://www.collegenp.com/college/sindhuli-community-technical-institute-sindhuli",
+                    "https://edusanjal.com/school/sindhuli-community-technical-institute/",
+                    "https://ku.edu.np/news-app/agreements-signed-with-butwal-technical-institute-janaki-college-for-professional-studies-and-sindhuli-samudayik-technical-institute"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Technical Education in Information Technology (B.Tech.Ed. IT) / BIT",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Education / Information Technology",
+                    "fee": 470000,
+                    "source_url": "https://www.collegenp.com/college/sindhuli-community-technical-institute-sindhuli"
+                },
+                {
+                    "name": "Bachelor of Technical Education (Civil Engineering)",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Education / Engineering",
+                    "fee": null,
+                    "source_url": "https://ku.edu.np/news-app/agreements-signed-with-butwal-technical-institute-janaki-college-for-professional-studies-and-sindhuli-samudayik-technical-institute"
+                },
+                {
+                    "name": "Diploma in Civil Engineering",
+                    "level": "Diploma",
+                    "duration": "3 years",
+                    "faculty": "Engineering",
+                    "fee": 117000,
+                    "source_url": "https://www.collegenp.com/college/sindhuli-community-technical-institute-sindhuli"
+                },
+                {
+                    "name": "Diploma in Agriculture (Veterinary Science)",
+                    "level": "Diploma",
+                    "duration": "3 years",
+                    "faculty": "Agriculture",
+                    "fee": 129000,
+                    "source_url": "https://www.collegenp.com/college/sindhuli-community-technical-institute-sindhuli"
+                }
+            ],
+            "facilities": [
+                "Three-storey academic building",
+                "Computer and internet lab",
+                "Reading room",
+                "Classrooms",
+                "Science lab"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [
+                {
+                    "title": "Admission open for Bachelor and Diploma programs",
+                    "date": null,
+                    "summary": "Institute pages and public posts announce admission for KU bachelor technical-education programs and CTEVT diploma programs.",
+                    "source_url": "https://scti.edu.np/"
+                }
+            ],
+            "faqs": [
+                {
+                    "question": "Which academic bodies are associated with SCTI?",
+                    "answer": "The B.Tech.Ed. IT program is affiliated with Kathmandu University. Diploma in Civil Engineering and Diploma in Agriculture are affiliated with CTEVT."
+                },
+                {
+                    "question": "What programs does SCTI offer?",
+                    "answer": "Published program lists include Bachelor of Technical Education in Information Technology, Diploma in Civil Engineering, and Diploma in Agriculture (Veterinary Science). Separate public sources also refer to Bachelor of Technical Education in Civil Engineering."
+                }
+            ],
+            "contact": {
+                "phones": [
+                    "+977-47-590818",
+                    "+977-9854041424",
+                    "+977-9854040818",
+                    "+977-9844082555",
+                    "+977-9854048066"
+                ],
+                "emails": [
+                    "scti.sindhuli@gmail.com",
+                    "sctibteched@gmail.com"
+                ],
+                "website": "https://scti.edu.np/",
+                "map_url": null
+            },
+            "reviews": [
+                {
+                    "platform": "Edusanjal",
+                    "rating": 5,
+                    "text": "Best Technical Institute for Engineering study.",
+                    "source_url": "https://edusanjal.com/school/sindhuli-community-technical-institute/"
+                }
+            ],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Technical Training Centre, Kamalamai",
+                "name_ne": null,
+                "slug": "technical-training-centre-kamalamai-sindhuli",
+                "ownership": "private",
+                "established_year": 1996,
+                "university": "CTEVT",
+                "municipality": "Kamalamai Municipality",
+                "address": "Kamalamai-6, Sindhulimadi, Sindhuli, Bagmati Province, Nepal",
+                "description": "CTEVT-affiliated technical training centre established in 1996 (2053 BS). Not a +2-only school. Published program lists differ by source: one lists ANM and TSLC Community Medicine Assistant; another lists TSLC in Civil Engineering, Certificate in Diagnostic Radiography, and PCL in General Medicine (Health Assistant).",
+                "mission": "To strengthen the technical capability of trainers so they can play a productive role in the development of Sindhuli and neighbouring districts.",
+                "vision": "To meet the needs and expectations of the target community and other stakeholders for appropriate, need-based, quality training.",
+                "source_urls": [
+                    "https://www.collegenp.com/college/technical-training-centre-sindhuli",
+                    "https://edusanjal.com/school/technical-training-centre-sindhuli/"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "PCL in General Medicine (Health Assistant)",
+                    "level": "PCL",
+                    "duration": null,
+                    "faculty": "Health",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/school/technical-training-centre-sindhuli/"
+                },
+                {
+                    "name": "Certificate in Diagnostic Radiography",
+                    "level": "Certificate",
+                    "duration": null,
+                    "faculty": "Health",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/school/technical-training-centre-sindhuli/"
+                },
+                {
+                    "name": "Auxiliary Nurse Midwife (ANM)",
+                    "level": "Certificate",
+                    "duration": null,
+                    "faculty": "Health",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/technical-training-centre-sindhuli"
+                },
+                {
+                    "name": "TSLC in Community Medicine Assistant (CMA)",
+                    "level": "TSLC",
+                    "duration": null,
+                    "faculty": "Health",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/technical-training-centre-sindhuli"
+                },
+                {
+                    "name": "TSLC in Civil Engineering",
+                    "level": "TSLC",
+                    "duration": null,
+                    "faculty": "Engineering",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/school/technical-training-centre-sindhuli/"
+                }
+            ],
+            "facilities": [],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-47-520358"
+                ],
+                "emails": [],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Sunkoshi Campus",
+                "name_ne": "सुनकोशी क्याम्पस",
+                "slug": "sunkoshi-campus-sindhuli",
+                "ownership": "community",
+                "established_year": 1991,
+                "university": "Tribhuvan University",
+                "municipality": "Sunkoshi Rural Municipality",
+                "address": "Sunkoshi Rural Municipality-3, Bohoretar / Ratamata, Sindhuli, Bagmati Province, Nepal",
+                "description": "Community campus established in 2048 BS (1991 AD) along the B.P. Highway. Affiliated to Tribhuvan University and recognized by the University Grants Commission. Offers a four-year Bachelor of Education.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://www.collegenp.com/college/sunkoshi-campus-sindhuli",
+                    "https://edusanjal.com/college/district/sindhuli/"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Education (B.Ed.)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/sunkoshi-campus-sindhuli"
+                }
+            ],
+            "facilities": [
+                "Library"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-47-529190",
+                    "986163318",
+                    "9764014627",
+                    "9862366138"
+                ],
+                "emails": [
+                    "sunkoshicampusofficial@gmail.com"
+                ],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Kusheshwar Bidhyapith Multiple Campus",
+                "name_ne": "कुशेश्वर विद्यापीठ बहुमुखी क्याम्पस",
+                "slug": "kusheshwar-bidhyapith-multiple-campus",
+                "ownership": "community",
+                "established_year": 2007,
+                "university": "Tribhuvan University",
+                "municipality": "Sunkoshi Rural Municipality",
+                "address": "Sunkoshi Rural Municipality-1, Dumja, Kusheshwar, Sindhuli, Bagmati Province, Nepal",
+                "description": "Community campus established in 2064 BS (2007 AD). Affiliated to Tribhuvan University and recognized by the University Grants Commission. Offers a four-year Bachelor of Education.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://www.collegenp.com/college/kusheshwar-bidhyapith-multiple-campus-sindhuli",
+                    "https://edusanjal.com/college/district/sindhuli/"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Education (B.Ed.)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/kusheshwar-bidhyapith-multiple-campus-sindhuli"
+                }
+            ],
+            "facilities": [
+                "Library",
+                "Sports",
+                "Counseling",
+                "Classrooms",
+                "Conference hall",
+                "Journal",
+                "Educational tours",
+                "ECA"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-47-690533"
+                ],
+                "emails": [],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Tripureshwor Shiksha Campus",
+                "name_ne": "त्रिपुरेश्वर शिक्षा क्याम्पस",
+                "slug": "tripureshwor-shiksha-campus",
+                "ownership": "community",
+                "established_year": 2007,
+                "university": "Tribhuvan University",
+                "municipality": "Tinpatan Rural Municipality",
+                "address": "Tinpatan Rural Municipality-8, Bahuntilpung, Sindhuli, Bagmati Province, Nepal",
+                "description": "Community campus established on 5 October 2007 (18 Ashwin 2064 BS) to provide local higher education. Affiliated to Tribhuvan University and recognized by the University Grants Commission. Main published higher-education program is Bachelor of Education. Early classes were held at Benkateshwar Higher Secondary School.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://www.collegenp.com/college/tripureshwor-shiksha-campus-sindhuli",
+                    "https://edusanjal.com/college/tripureshwar-shiksha-campus/"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Education (B.Ed.)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/tripureshwor-shiksha-campus-sindhuli"
+                }
+            ],
+            "facilities": [],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-47-690590",
+                    "+977-9844538428",
+                    "+977-9841811537",
+                    "+977-9767358861",
+                    "+977-9745941020"
+                ],
+                "emails": [
+                    "tripureshworcampus@gmail.com"
+                ],
+                "website": "https://tscampus.edu.np",
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Gaumati Multiple Campus",
+                "name_ne": "गौमती बहुमुखी क्याम्पस",
+                "slug": "gaumati-multiple-campus",
+                "ownership": "community",
+                "established_year": 2010,
+                "university": "Tribhuvan University",
+                "municipality": "Kamalamai Municipality",
+                "address": "Madibazar, Kamalamai Municipality-6, Sindhuli, Bagmati Province, Nepal",
+                "description": "Community campus established in 2067 BS (2010 AD). Affiliated to Tribhuvan University and recognized by the University Grants Commission. Confirmed programs include BA and BBS. An Edusanjal page also lists B.Ed.; a UGC EMIS extract for 2023-24 records BA and BBS enrollment.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://www.collegenp.com/college/gaumati-multiple-campus-sindhuli",
+                    "https://edusanjal.com/college/gaumati-multiple-campus/",
+                    "https://www.educatenepal.com/institutions/detail/gaumati-multiple-campus"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Arts (BA)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Humanities and Social Sciences",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/gaumati-multiple-campus-sindhuli"
+                },
+                {
+                    "name": "Bachelor of Business Studies (BBS)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/gaumati-multiple-campus-sindhuli"
+                },
+                {
+                    "name": "Bachelor of Education (B.Ed.)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/college/gaumati-multiple-campus/"
+                }
+            ],
+            "facilities": [
+                "Library"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-47-520136"
+                ],
+                "emails": [
+                    "info@gaumatimultiplecampus.com"
+                ],
+                "website": "https://gaumatimultiplecampus.edu.np",
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Siddhajyoti Education Campus",
+                "name_ne": "सिद्धज्योती शिक्षा क्याम्पस",
+                "slug": "siddhajyoti-education-campus",
+                "ownership": "community",
+                "established_year": 2006,
+                "university": "Tribhuvan University",
+                "municipality": "Kamalamai Municipality",
+                "address": "Kamalamai Municipality-5, Phosretar, Sindhuli, Bagmati Province, Nepal",
+                "description": "Community education campus established in 2063 BS (2006 AD). Affiliated to Tribhuvan University. Offers B.Ed. and M.Ed. UGC QAA accreditation was granted on 13 July 2022 and is published as valid until 12 July 2027. B.Ed. subject areas published include English, Nepali, Mathematics, Health, Physical Education, and Population; M.Ed. areas include English Education and Nepali Education.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://edusanjal.com/college/siddhajyoti-education-campus/",
+                    "https://www.collegenp.com/college/siddhajyoti-education-campus-sindhuli",
+                    "https://npca.edu.np/campus_details/131",
+                    "https://siddhajyoticampus.edu.np/"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Education (B.Ed.)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/siddhajyoti-education-campus-sindhuli"
+                },
+                {
+                    "name": "Master of Education (M.Ed.)",
+                    "level": "Master",
+                    "duration": "2 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/siddhajyoti-education-campus-sindhuli"
+                }
+            ],
+            "facilities": [
+                "Library",
+                "Reading room",
+                "Multimedia",
+                "Conference hall",
+                "Classrooms",
+                "Sports",
+                "Counseling",
+                "Journal",
+                "ECA"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-47-520216",
+                    "+977-47-520916",
+                    "+977-9844041187"
+                ],
+                "emails": [
+                    "esiddhajyoticampus2063@gmail.com"
+                ],
+                "website": "https://siddhajyoticampus.edu.np/",
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Marin Multiple Campus",
+                "name_ne": "मरिण बहुमुखी क्याम्पस",
+                "slug": "marin-multiple-campus",
+                "ownership": "community",
+                "established_year": 2007,
+                "university": "Tribhuvan University",
+                "municipality": "Marin Rural Municipality",
+                "address": "Marin Rural Municipality-7, Chhap Maheshwata, Sindhuli, Bagmati Province, Nepal",
+                "description": "Community campus established in 2007 at Maheswata. Affiliated to Tribhuvan University and recognized by the University Grants Commission. Offers a four-year Bachelor of Education.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://www.collegenp.com/college/marin-multiple-campus-sindhuli",
+                    "https://www.marinmultiple.edu.np/",
+                    "https://edusanjal.com/college/district/sindhuli/"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Education (B.Ed.)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/marin-multiple-campus-sindhuli"
+                }
+            ],
+            "facilities": [
+                "Library",
+                "Counseling",
+                "Conference hall",
+                "Sports",
+                "Tours",
+                "ECA"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [
+                {
+                    "title": "फर्निचर खरिदको लागि कोटेशन आव्हान",
+                    "date": "2026-04-22",
+                    "summary": "Quotation call for furniture purchase.",
+                    "source_url": "https://www.marinmultiple.edu.np/"
+                },
+                {
+                    "title": "4 Years BEd First Year Admission Open Notice For 2082",
+                    "date": "2025-08-08",
+                    "summary": "Admission-open notice for four-year B.Ed. first year, 2082.",
+                    "source_url": "https://www.marinmultiple.edu.np/"
+                }
+            ],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-47-690306"
+                ],
+                "emails": [],
+                "website": "https://www.marinmultiple.edu.np/",
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Tinpatan Multiple Campus",
+                "name_ne": "तीनपाटन बहुमुखी क्याम्पस",
+                "slug": "tinpatan-multiple-campus",
+                "ownership": "community",
+                "established_year": 2007,
+                "university": "Tribhuvan University",
+                "municipality": "Tinpatan Rural Municipality",
+                "address": "Tinpatan Rural Municipality-2, Bhimsthan, Sindhuli, Bagmati Province, Nepal",
+                "description": "Community campus established in 2064 BS (2007 AD), also listed as Tinpatan Shiksha Campus. TU campus code 638. Affiliated to Tribhuvan University and recognized by the University Grants Commission. Offers B.Ed. and BBS.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://www.collegenp.com/college/tinpatan-education-campus-sindhuli",
+                    "https://edusanjal.com/college/district/sindhuli/",
+                    "https://www.educatenepal.com/institutions/detail/tinpatan-shiksha-campus"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Education (B.Ed.)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/tinpatan-education-campus-sindhuli"
+                },
+                {
+                    "name": "Bachelor of Business Studies (BBS)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/tinpatan-education-campus-sindhuli"
+                }
+            ],
+            "facilities": [
+                "Library",
+                "Sports",
+                "Science lab",
+                "Multimedia",
+                "Journal",
+                "Counseling",
+                "Scholarships",
+                "Tour",
+                "Conference hall",
+                "ECA"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-47-690264",
+                    "+977-9860244838",
+                    "+977-9854041677",
+                    "+977-9804807705"
+                ],
+                "emails": [
+                    "campustinpatan@gmail.com",
+                    "campustinpatanmultiple@gmail.com"
+                ],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Saraswoti Campus",
+                "name_ne": "सरस्वती क्याम्पस",
+                "slug": "saraswoti-campus-sindhuli",
+                "ownership": "community",
+                "established_year": 2007,
+                "university": "Tribhuvan University",
+                "municipality": "Dudhauli Municipality",
+                "address": "Dudhauli Municipality-4, Dakaha, Sindhuli, Bagmati Province, Nepal",
+                "description": "Community campus established in 2064 BS (2007 AD). TU campus code 636. Affiliated to Tribhuvan University and recognized by the University Grants Commission. Offers B.Ed. and BBS under the annual system.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://www.collegenp.com/college/saraswoti-multiple-campus-dakaha-sindhuli",
+                    "https://www.educatenepal.com/institutions/detail/saraswoti-campus-sindhuli",
+                    "https://edusanjal.com/college/district/sindhuli/"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Education (B.Ed.)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/saraswoti-multiple-campus-dakaha-sindhuli"
+                },
+                {
+                    "name": "Bachelor of Business Studies (BBS)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/saraswoti-multiple-campus-dakaha-sindhuli"
+                }
+            ],
+            "facilities": [
+                "Library",
+                "Multimedia",
+                "Counseling",
+                "Sports",
+                "ECA"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-47-690176",
+                    "+977-9854042502",
+                    "+977-9812016037"
+                ],
+                "emails": [
+                    "campussaraswati4@gmail.com"
+                ],
+                "website": "https://saraswoticampus.edu.np",
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Janajagriti Campus",
+                "name_ne": "जनजागृति क्याम्पस",
+                "slug": "janajagriti-campus-bhiman",
+                "ownership": "community",
+                "established_year": 2006,
+                "university": "Tribhuvan University",
+                "municipality": "Kamalamai Municipality",
+                "address": "Kamalamai Municipality-9, Bhiman, Sindhuli, Bagmati Province, Nepal",
+                "description": "Community campus at Bhiman. Detailed campus pages date establishment to 2063 BS (2006 AD); one directory header also shows 2003. Affiliated to Tribhuvan University and recognized by the University Grants Commission. Offers a four-year Bachelor of Education. A sister school, Jana Jagriti Secondary School, operates separately at school level.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://www.collegenp.com/college/janajagriti-campus-sindhuli",
+                    "https://edusanjal.com/college/janajagriti-campus/"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Education (B.Ed.)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/janajagriti-campus-sindhuli"
+                }
+            ],
+            "facilities": [
+                "Library",
+                "Sports",
+                "Science lab",
+                "Conference",
+                "Counseling",
+                "Scholarships",
+                "Tour",
+                "Classrooms",
+                "ECA"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-47-410027",
+                    "+977-9844020329",
+                    "+977-47-691012"
+                ],
+                "emails": [],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Bhimjyoti Campus",
+                "name_ne": "भिमज्योति क्याम्पस",
+                "slug": "bhimjyoti-campus-khurkot",
+                "ownership": "community",
+                "established_year": 2007,
+                "university": "Tribhuvan University",
+                "municipality": "Golanjor Rural Municipality",
+                "address": "Golanjor Rural Municipality-7, Khurkot, Bhimeshwar, Sindhuli, Bagmati Province, Nepal",
+                "description": "Community campus established in 2064 BS (2007 AD). Affiliated to Tribhuvan University and recognized by the University Grants Commission. Offers a four-year Bachelor of Education. Published subject areas include English, Nepali, Mathematics, and Population.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://www.collegenp.com/college/bhimjyoti-campus-sindhuli",
+                    "https://edusanjal.com/college/bhimjyoti-campus/"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Education (B.Ed.)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/bhimjyoti-campus-sindhuli"
+                }
+            ],
+            "facilities": [
+                "Library",
+                "Sports",
+                "Science lab",
+                "Conference",
+                "Parking",
+                "Journal",
+                "Counseling",
+                "Scholarships",
+                "Tour",
+                "Computer lab",
+                "Classrooms",
+                "ECA"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-9844198624",
+                    "+977-9851147971"
+                ],
+                "emails": [],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Lampantar Multiple Campus",
+                "name_ne": "लाम्पनटार बहुमुखी क्याम्पस",
+                "slug": "lampantar-multiple-campus",
+                "ownership": "community",
+                "established_year": 2005,
+                "university": "Tribhuvan University",
+                "municipality": "Tinpatan Rural Municipality",
+                "address": "Tinpatan Rural Municipality-11, Lampantar, Sindhuli, Bagmati Province, Nepal",
+                "description": "Community campus established in 2062 BS (2005 AD), described by the campus as the second higher-education institution in Sindhuli and the first outside the district headquarters. Affiliated to Tribhuvan University and recognized by the University Grants Commission. Runs bachelor's and master's programs in education, humanities, and management, plus +2 streams.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://www.collegenp.com/college/lampantar-multiple-campus-sindhuli",
+                    "https://lmctinpatan.edu.np/",
+                    "https://npca.edu.np/campus_details/107"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Education (B.Ed.)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/lampantar-multiple-campus-sindhuli"
+                },
+                {
+                    "name": "Bachelor of Arts (BA)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Humanities and Social Sciences",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/lampantar-multiple-campus-sindhuli"
+                },
+                {
+                    "name": "Bachelor of Business Studies (BBS)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/lampantar-multiple-campus-sindhuli"
+                },
+                {
+                    "name": "Master of Education (M.Ed.)",
+                    "level": "Master",
+                    "duration": "2 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/lampantar-multiple-campus-sindhuli"
+                },
+                {
+                    "name": "MA in Population",
+                    "level": "Master",
+                    "duration": "2 years",
+                    "faculty": "Humanities and Social Sciences",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/lampantar-multiple-campus-sindhuli"
+                }
+            ],
+            "facilities": [
+                "Library",
+                "Computer lab",
+                "Counseling",
+                "Scholarships",
+                "Sports",
+                "Hostel",
+                "ECA",
+                "Conference hall",
+                "Cafeteria",
+                "Multimedia"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [
+                {
+                    "title": "Research Methodology Training",
+                    "date": "2024-06-14",
+                    "summary": "Campus news item on research methodology training.",
+                    "source_url": "https://lmctinpatan.edu.np/"
+                }
+            ],
+            "faqs": [
+                {
+                    "question": "What type of institution is Lampantar Multiple Campus?",
+                    "answer": "A community campus established in 2062 BS (2005 AD)."
+                }
+            ],
+            "contact": {
+                "phones": [
+                    "+977-47-690192",
+                    "+977-49-690192"
+                ],
+                "emails": [
+                    "lampantarcampus11@gmail.com",
+                    "info@lampantarcampus.edu.np"
+                ],
+                "website": "https://lmctinpatan.edu.np/",
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        }
+    ]
+}

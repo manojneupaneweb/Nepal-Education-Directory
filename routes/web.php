@@ -1,10 +1,16 @@
 <?php
 
+use App\Http\Controllers\Admin\CloudflareController;
+use App\Http\Controllers\Admin\ContactMessageController;
 use App\Http\Controllers\Admin\DashboardController;
+use App\Http\Controllers\Admin\DeveloperController;
 use App\Http\Controllers\Admin\InstitutionController;
+use App\Http\Controllers\Admin\KeywordController;
+use App\Http\Controllers\Admin\UniversityController as AdminUniversityController;
 use App\Http\Controllers\Auth\LoginController;
 use App\Http\Controllers\Public\DirectoryController;
 use App\Http\Controllers\Public\HomeController;
+use App\Http\Controllers\Public\InstitutionSuggestionController;
 use App\Http\Controllers\Public\SearchController;
 use App\Http\Controllers\Public\SitemapController;
 use App\Http\Controllers\Public\UniversityController;
@@ -13,6 +19,7 @@ use Illuminate\Support\Facades\Route;
 
 Route::get('/', [HomeController::class, 'index'])->name('home');
 Route::get('/schools', [DirectoryController::class, 'schools'])->name('schools.index');
+Route::get('/colleges', [DirectoryController::class, 'colleges'])->name('colleges.index');
 Route::get('/universities', [UniversityController::class, 'index'])->name('universities.index');
 Route::get('/universities/{university}/colleges', [UniversityController::class, 'colleges'])->name('universities.colleges');
 Route::get('/universities/{university}', [UniversityController::class, 'show'])->name('universities.show');
@@ -35,6 +42,9 @@ Route::get('/pabson', [DirectoryController::class, 'pabson'])->name('pabson');
 Route::get('/about', [DirectoryController::class, 'about'])->name('about');
 Route::get('/how-it-works', [DirectoryController::class, 'howItWorks'])->name('how-it-works');
 Route::get('/contact', [DirectoryController::class, 'contact'])->name('contact');
+Route::post('/contact', [DirectoryController::class, 'storeContact'])->name('contact.store')->middleware('throttle:10,1');
+Route::get('/suggest-an-institution', [InstitutionSuggestionController::class, 'create'])->name('suggestions.create');
+Route::post('/suggest-an-institution', [InstitutionSuggestionController::class, 'store'])->name('suggestions.store')->middleware('throttle:10,1');
 Route::get('/blog', [DirectoryController::class, 'blog'])->name('blog');
 Route::middleware('guest')->group(function (): void {
     Route::get('/login', [LoginController::class, 'create'])->name('login');
@@ -57,4 +67,14 @@ Route::middleware('auth')->prefix('admin')->name('admin.')->group(function (): v
     Route::post('/institutions/{institution}/reject', [InstitutionController::class, 'reject'])->name('institutions.reject');
     Route::post('/institutions/{institution}/archive', [InstitutionController::class, 'archive'])->name('institutions.archive');
     Route::delete('/institutions/{institution}', [InstitutionController::class, 'destroy'])->name('institutions.destroy');
+
+    Route::get('/universities', [AdminUniversityController::class, 'index'])->name('universities.index');
+
+    Route::get('/keywords', [KeywordController::class, 'index'])->name('keywords.index');
+    Route::get('/messages', [ContactMessageController::class, 'index'])->name('messages.index');
+    Route::get('/cloudflare', [CloudflareController::class, 'index'])->name('cloudflare');
+    Route::get('/settings', [SettingsController::class, 'edit'])->name('settings.edit');
+    Route::put('/settings/password', [SettingsController::class, 'updatePassword'])->name('settings.password');
+    Route::get('/developer', [DeveloperController::class, 'index'])->name('developer.index');
+    Route::post('/developer/{projectError}/resolve', [DeveloperController::class, 'resolve'])->name('developer.resolve');
 });

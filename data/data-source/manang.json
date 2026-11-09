@@ -1,0 +1,31 @@
+{
+  "research_metadata": {
+    "country": "Nepal",
+    "province": "Gandaki Province",
+    "district": "Manang",
+    "research_date": "2023-10-25",
+    "total_institutions_discovered": 0,
+    "total_institutions_verified": 0,
+    "coverage_notes": "Manang is one of the most remote and least populated districts in Nepal, situated in the Gandaki Province. Extensive search across Tribhuvan University constituent/affiliated campus lists, UGC Nepal reports, Ministry of Education records, and CTEVT portals revealed that there are currently no fully-fledged higher education institutions (colleges offering Bachelor's, Master's, or higher degree programs) physically operating within Manang district. Educational facilities in Manang are primarily limited to school-level education up to Grade 10 or Higher Secondary (+2 levels under NEB), but these do not constitute standalone higher education degree-granting colleges as defined by the criteria.",
+    "research_status": "completed"
+  },
+  "institutions": [],
+  "district_summary": {
+    "total_colleges": 0,
+    "government_colleges": 0,
+    "community_colleges": 0,
+    "private_colleges": 0,
+    "universities_and_constituent_campuses": 0,
+    "other_institutions": 0,
+    "municipalities_covered": [
+      "Chame Rural Municipality",
+      "Narshong Rural Municipality",
+      "Manang Ngisyang Rural Municipality",
+      "Narpahir Rural Municipality"
+    ],
+    "institutions_by_university": [],
+    "research_gaps": [
+      "No higher education institutions (universities, constituent campuses, or affiliated colleges) exist within Manang district boundaries. Students pursuing higher education typically move to Gandaki Province's capital Pokhara or to Kathmandu."
+    ]
+  }
+}

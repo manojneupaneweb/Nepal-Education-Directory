@@ -1,0 +1,283 @@
+{
+  "research_metadata": {
+    "country": "Nepal",
+    "province": "Lumbini Province",
+    "district": "Gulmi",
+    "research_date": "2024-05-01",
+    "total_institutions_discovered": 1,
+    "total_institutions_verified": 1,
+    "coverage_notes": "Initial batch focusing on major public/community campuses in Gulmi district under Tribhuvan University.",
+    "research_status": "partial"
+  },
+  "institutions": [
+    {
+      "identity": {
+        "name": "Bir Campus",
+        "name_ne": "वीर क्याम्पस",
+        "alternative_names": ["Bir Multiple Campus"],
+        "slug": "bir-campus-gulmi",
+        "category": "college",
+        "institution_type": "community",
+        "ownership": "Public/Community",
+        "established_year": 1991,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "logo_source": null,
+        "short_description": "A prominent community-based campus providing higher education in the Gulmi district.",
+        "description": "Bir Campus is a community-owned campus affiliated with Tribhuvan University, located in the Gulmi district of Lumbini Province, Nepal. It offers undergraduate programs primarily in humanities, education, and management streams."
+      },
+      "location": {
+        "province": "Lumbini Province",
+        "district": "Gulmi",
+        "municipality": "Musikot Municipality",
+        "ward": null,
+        "tole": "Wami Taksar",
+        "full_address": "Musikot, Wami Taksar, Gulmi, Lumbini Province, Nepal",
+        "latitude": null,
+        "longitude": null,
+        "google_maps_url": null,
+        "google_maps_embed_url": null,
+        "nearby_landmarks": [
+          "Wami Taksar Bazaar"
+        ]
+      },
+      "affiliation": {
+        "university": "Tribhuvan University",
+        "affiliation_type": "Affiliated",
+        "accreditation": [],
+        "recognition_details": [
+          "Recognized by Tribhuvan University and UGC Nepal"
+        ]
+      },
+      "academics": {
+        "study_system": "Annual / Semester",
+        "academic_calendar": "As per Tribhuvan University guidelines",
+        "medium_of_instruction": [
+          "Nepali",
+          "English"
+        ],
+        "teaching_methodology": "Lectures, practical sessions, assignments, and internal evaluations.",
+        "programs": [
+          {
+            "name": "Bachelor of Education (B.Ed)",
+            "degree_level": "Undergraduate",
+            "faculty": "Education",
+            "specialization": [],
+            "duration": "4 Years",
+            "semester_or_year": "Annual",
+            "eligibility": "10+2 or equivalent in any stream from a recognized board.",
+            "entrance_requirement": "As per Tribhuvan University rules",
+            "fee": null,
+            "intake_capacity": null,
+            "status": "active",
+            "source_urls": [
+              "https://www.tu.edu.np"
+            ]
+          },
+          {
+            "name": "Bachelor of Arts (BA)",
+            "degree_level": "Undergraduate",
+            "faculty": "Humanities and Social Sciences",
+            "specialization": [],
+            "duration": "4 Years",
+            "semester_or_year": "Annual",
+            "eligibility": "10+2 or equivalent from a recognized board.",
+            "entrance_requirement": "As per Tribhuvan University rules",
+            "fee": null,
+            "intake_capacity": null,
+            "status": "active",
+            "source_urls": [
+              "https://www.tu.edu.np"
+            ]
+          }
+        ]
+      },
+      "admission": {
+        "guidance": "Admissions are open annually following the academic calendar of Tribhuvan University.",
+        "requirements": [
+          "Passed 10+2 or equivalent examination"
+        ],
+        "application_process": [
+          "Obtain application form from campus administration",
+          "Submit academic transcripts and certificates",
+          "Appear for entrance if required by the faculty"
+        ],
+        "application_url": null,
+        "entrance_details": "Conducted as per TU Faculty guidelines.",
+        "required_documents": [
+          "Mark sheets and certificates of SEE/SLC and 10+2",
+          "Character certificate",
+          "Recent passport-sized photographs"
+        ],
+        "admission_contact": [],
+        "current_notices": []
+      },
+      "scholarships": [
+        {
+          "name": "Government/UGC Scholarships",
+          "type": "Merit and Need-based",
+          "eligibility": "Marginalized, meritorious, and economically disadvantaged students.",
+          "benefits": "Partial or full tuition fee waiver",
+          "application_process": "Apply through campus administration with necessary documentation.",
+          "deadline": null,
+          "status": "active",
+          "source_urls": []
+        }
+      ],
+      "facilities": [
+        "Classrooms",
+        "Library",
+        "Administration Block",
+        "Sports Ground"
+      ],
+      "infrastructure": [],
+      "faculty": {
+        "principal": null,
+        "chairperson": null,
+        "campus_chief": null,
+        "departments": [
+          "Education",
+          "Humanities"
+        ],
+        "faculty_members": [],
+        "teaching_approach": "Standard interactive classroom teaching."
+      },
+      "leadership_messages": {
+        "principal_message": null,
+        "chairperson_message": null,
+        "founder_message": null
+      },
+      "institutional_profile": {
+        "mission": "To impart quality higher education to the rural youth of Gulmi district.",
+        "vision": "To be a leading center of academic excellence in the region.",
+        "core_values": [
+          "Accessibility",
+          "Quality",
+          "Community Engagement"
+        ],
+        "highlights": [
+          "Affiliated with Nepal's largest university, Tribhuvan University",
+          "Serves students from remote areas of Gulmi"
+        ],
+        "features": [],
+        "why_choose_this_college": [
+          "Affordable education locally available",
+          "Conducive learning environment"
+        ],
+        "achievements": [],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": [
+          "Sports tournaments",
+          "Cultural programs"
+        ],
+        "clubs": [],
+        "sports": [
+          "Football",
+          "Volleyball",
+          "Cricket"
+        ],
+        "student_organizations": [],
+        "campus_experience": "Engaging community campus environment.",
+        "student_welfare": []
+      },
+      "career_development": {
+        "placement_cell": null,
+        "internship_opportunities": [],
+        "industry_partnerships": [],
+        "career_counseling": null,
+        "alumni_network": null,
+        "placement_statistics": []
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "admission_contacts": [],
+        "website": null,
+        "office_hours": "10:00 AM - 4:00 PM (Sunday to Friday)",
+        "contact_person": null
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "linkedin": null,
+        "youtube": null,
+        "x": null,
+        "other": []
+      },
+      "online_resources": {
+        "prospectus": [],
+        "fee_structure": [],
+        "academic_calendar": [],
+        "notices": [],
+        "results": [],
+        "student_portal": null,
+        "downloads": []
+      },
+      "seo": {
+        "suggested_title": "Bir Campus, Musikot, Gulmi - Affiliated with Tribhuvan University",
+        "meta_description": "Discover Bir Campus in Wami Taksar, Gulmi. Affiliated with Tribhuvan University, offering B.Ed, BA and other undergraduate programs.",
+        "keywords": [
+          "Bir Campus Gulmi",
+          "Bir Multiple Campus Wami Taksar",
+          "Colleges in Gulmi",
+          "Tribhuvan University colleges Gulmi"
+        ],
+        "faq": [
+          {
+            "question": "Which university is Bir Campus affiliated with?",
+            "answer": "Bir Campus is affiliated with Tribhuvan University."
+          },
+          {
+            "question": "Where is Bir Campus located?",
+            "answer": "It is located in Musikot Municipality (Wami Taksar), Gulmi District, Lumbini Province, Nepal."
+          }
+        ]
+      },
+      "verification": {
+        "verification_status": "partial",
+        "last_verified_at": "2024-05-01",
+        "official_sources": [
+          "https://www.tu.edu.np"
+        ],
+        "secondary_sources": [
+          "UGC Nepal campus lists"
+        ],
+        "field_confidence": {
+          "identity": "high",
+          "location": "medium",
+          "affiliation": "high"
+        },
+        "missing_information": [
+          "Exact geographic coordinates",
+          "Detailed phone numbers",
+          "Specific fee structure"
+        ],
+        "notes": "Basic institutional details verified via university affiliation records."
+      }
+    }
+  ],
+  "district_summary": {
+    "total_colleges": 1,
+    "government_colleges": 0,
+    "community_colleges": 1,
+    "private_colleges": 0,
+    "universities_and_constituent_campuses": 0,
+    "other_institutions": 0,
+    "municipalities_covered": [
+      "Musikot Municipality"
+    ],
+    "institutions_by_university": [
+      {
+        "university": "Tribhuvan University",
+        "count": 1
+      }
+    ],
+    "research_gaps": [
+      "Need further exploration of municipalities like Resunga, Gulmidarbar, Madane, etc., to discover additional constituent and community campuses."
+    ]
+  }
+}

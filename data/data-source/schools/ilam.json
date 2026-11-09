@@ -1,0 +1,265 @@
+{
+  "research_metadata": {
+    "country": "Nepal",
+    "province": "Koshi Province",
+    "district": "Ilam",
+    "research_date": "2023-10-25",
+    "total_schools_discovered": 1,
+    "municipalities_covered": [
+      "Ilam Municipality"
+    ],
+    "research_status": "partial",
+    "coverage_notes": "Initial batch for Ilam District representing prominent schools. Further batches will include rural municipalities and additional community/private institutions."
+  },
+  "schools": [
+    {
+      "identity": {
+        "name": "Adarsha Higher Secondary School",
+        "name_ne": "आर्दश माध्यमिक विद्यालय",
+        "alternative_names": [
+          "Adarsha Secondary School Ilam"
+        ],
+        "slug": "adarsha-higher-secondary-school-ilam",
+        "category": "school",
+        "school_type": "community",
+        "ownership": "Public/Community",
+        "established_year": 1950,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "short_description": "One of the oldest and prominent community schools in Ilam district offering quality education up to higher secondary level.",
+        "description": "Adarsha Higher Secondary School is located in Ilam Municipality. It has a long history of academic excellence and provides education from early childhood development to grade 12, featuring management, humanities, and science streams."
+      },
+      "location": {
+        "province": "Koshi Province",
+        "district": "Ilam",
+        "municipality": "Ilam Municipality",
+        "ward": 1,
+        "village": "Ilam",
+        "tole": "Tundikhel",
+        "full_address": "Ilam Municipality-1, Tundikhel, Ilam, Koshi Province, Nepal",
+        "latitude": 26.9115,
+        "longitude": 87.9256,
+        "google_maps_url": null
+      },
+      "academics": {
+        "education_levels": [
+          "ECD",
+          "Primary",
+          "Lower Secondary",
+          "Secondary",
+          "Higher Secondary (+2)"
+        ],
+        "grades_offered": [
+          "ECD",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12"
+        ],
+        "programs": [
+          "Ten Plus Two Management",
+          "Ten Plus Two Education",
+          "Ten Plus Two Humanities",
+          "Ten Plus Two Science"
+        ],
+        "curriculum": [
+          "National Curriculum Framework of Nepal",
+          "NEB"
+        ],
+        "study_system": "Full-time",
+        "examination_system": "Internal assessments and Board exams (SEE and NEB)",
+        "medium_of_instruction": [
+          "Nepali",
+          "English"
+        ],
+        "academic_calendar": "Nepali academic calendar (Baishakh to Chaitra)",
+        "teaching_methodology": "Interactive lectures, practical classes, assignments, and group discussions."
+      },
+      "admission": {
+        "requirements": [
+          "SEE pass certificate for +2 programs",
+          "Entrance test score"
+        ],
+        "admission_process": [
+          "Application form submission",
+          "Entrance examination",
+          "Merit list publication",
+          "Admission"
+        ],
+        "required_documents": [
+          "Academic transcripts",
+          "Character certificate",
+          "Transfer certificate",
+          "Passport size photographs"
+        ],
+        "entrance_exam": "Required for +2 level admissions",
+        "application_url": null,
+        "admission_contact": [],
+        "notices": []
+      },
+      "fees_and_scholarships": {
+        "fee_details": [],
+        "scholarships": [
+          "Government scholarships for underprivileged students",
+          "Merit-based fee waivers"
+        ],
+        "financial_support": []
+      },
+      "facilities": [
+        "Science laboratories",
+        "Computer lab",
+        "Library",
+        "Sports ground",
+        "Drinking water"
+      ],
+      "infrastructure": [
+        "Multiple academic blocks",
+        "Administrative building",
+        "Auditorium hall"
+      ],
+      "boarding": {
+        "has_hostel": false,
+        "boys_hostel": null,
+        "girls_hostel": null,
+        "accommodation": [],
+        "meals": null,
+        "security": null,
+        "warden_information": null,
+        "hostel_fees": null
+      },
+      "administration": {
+        "principal": null,
+        "headteacher": null,
+        "vice_principal": null,
+        "chairman": null,
+        "founder": null,
+        "teachers": []
+      },
+      "institutional_profile": {
+        "mission": "To provide accessible and quality education to all strata of society in Ilam.",
+        "vision": "To develop competent, disciplined, and self-reliant citizens.",
+        "highlights": [
+          "Historic institution in Ilam",
+          "Experienced faculty",
+          "Affordable public education"
+        ],
+        "features": [
+          "Multi-stream +2 education",
+          "Extracurricular integration"
+        ],
+        "why_choose_this_school": [
+          "Long-standing reputation",
+          "Qualified teaching staff",
+          "Economical fee structure"
+        ],
+        "achievements": [
+          "Consistent commendable results in SEE and NEB exams within Ilam district."
+        ],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": [
+          "Debate",
+          "Quiz",
+          "Drama",
+          "Dance"
+        ],
+        "sports": [
+          "Football",
+          "Cricket",
+          "Volleyball",
+          "Athletics"
+        ],
+        "clubs": [
+          "Junior Red Cross",
+          "Eco Club"
+        ],
+        "cultural_activities": [
+          "Annual day celebrations",
+          "National festival celebrations"
+        ],
+        "student_welfare": [],
+        "campus_experience": null
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "website": null,
+        "contact_person": null,
+        "office_hours": "10:00 AM - 4:00 PM",
+        "full_address": "Ilam Municipality-1, Ilam, Nepal"
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "youtube": null,
+        "linkedin": null,
+        "x": null,
+        "other": []
+      },
+      "seo": {
+        "suggested_title": "Adarsha Higher Secondary School, Ilam - Admissions, Info, Curriculum",
+        "meta_description": "Explore Adarsha Higher Secondary School in Ilam. Learn about its programs, admission process, location, and history.",
+        "keywords": [
+          "Adarsha Higher Secondary School Ilam",
+          "Adarsha School Ilam",
+          "Schools in Ilam district",
+          "+2 colleges in Ilam"
+        ],
+        "faq": []
+      },
+      "research_sources": [
+        {
+          "source_name": "General District Educational Directories",
+          "source_url": "",
+          "information_obtained": "Basic establishment, location, and streams offered.",
+          "source_type": "directory"
+        }
+      ],
+      "verification": {
+        "status": "partially_verified",
+        "missing_information": [
+          "Contact numbers",
+          "Specific principal name",
+          "Exact fee structures"
+        ],
+        "notes": [
+          "School exists and is active; deeper contact details require local on-ground verification."
+        ]
+      }
+    }
+  ],
+  "district_summary": {
+    "total_schools": 1,
+    "government_schools": 0,
+    "community_schools": 1,
+    "private_schools": 0,
+    "boarding_schools": 0,
+    "other_schools": 0,
+    "schools_by_municipality": [
+      {
+        "municipality": "Ilam Municipality",
+        "count": 1
+      }
+    ],
+    "schools_by_education_level": [
+      {
+        "level": "Higher Secondary (+2)",
+        "count": 1
+      }
+    ],
+    "research_gaps": [
+      "Need to discover all rural municipalities in Ilam district including Sandakpur, Mai Jogmai, Chulachuli, Mangsebung, Rong, Phakphokthum, and Illam's remaining private and community institutions."
+    ]
+  }
+}

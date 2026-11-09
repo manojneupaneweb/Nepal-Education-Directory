@@ -1,0 +1,231 @@
+{
+  "research_metadata": {
+    "country": "Nepal",
+    "province": "Sudurpashchim Province",
+    "district": "Bajhang",
+    "research_date": "2023-10-25",
+    "total_schools_discovered": 1,
+    "municipalities_covered": [
+      "Jaya Prithvi Municipality"
+    ],
+    "research_status": "partial",
+    "coverage_notes": "Initial deep research retrieval focused on prominent educational institutions within Bajhang district, specifically highlighting secondary and higher secondary establishments."
+  },
+  "schools": [
+    {
+      "identity": {
+        "name": "Jaya Prithvi Multiple Campus / Higher Secondary School",
+        "name_ne": "जयपृथ्वी बहुमुखी क्याम्पस",
+        "alternative_names": [
+          "Jaya Prithvi Secondary School"
+        ],
+        "slug": "jaya-prithvi-secondary-school-bajhang",
+        "category": "school",
+        "school_type": "community",
+        "ownership": "Public/Community",
+        "established_year": null,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "short_description": "A prominent community-based educational institution providing primary to higher secondary (+2) education in Bajhang district.",
+        "description": "Jaya Prithvi Secondary School (often associated with Jaya Prithvi Multiple Campus premises) serves as a key educational pillar in the district headquarters area of Chainpur, Bajhang, offering general and professional streams under community ownership."
+      },
+      "location": {
+        "province": "Sudurpashchim Province",
+        "district": "Bajhang",
+        "municipality": "Jaya Prithvi Municipality",
+        "ward": 10,
+        "village": "Chainpur",
+        "tole": "",
+        "full_address": "Chainpur, Jaya Prithvi Municipality-10, Bajhang, Sudurpashchim Province, Nepal",
+        "latitude": null,
+        "longitude": null,
+        "google_maps_url": null
+      },
+      "academics": {
+        "education_levels": [
+          "Secondary",
+          "Higher Secondary (+2)"
+        ],
+        "grades_offered": [
+          "9",
+          "10",
+          "11",
+          "12"
+        ],
+        "programs": [
+          "Ten Plus Two (+2) Humanities",
+          "Ten Plus Two (+2) Management",
+          "Ten Plus Two (+2) Education"
+        ],
+        "curriculum": [
+          "National Curriculum Framework of Nepal (NEB)"
+        ],
+        "study_system": "Annual",
+        "examination_system": "Board examinations (SEE and NEB)",
+        "medium_of_instruction": [
+          "Nepali",
+          "English"
+        ],
+        "academic_calendar": "Nepali academic calendar (Baishakh to Chaitra)",
+        "teaching_methodology": "Standard classroom instruction with practical sessions where applicable."
+      },
+      "admission": {
+        "requirements": [
+          "SEE pass certificate for Grade 11 admission",
+          "Character certificate",
+          "Transfer certificate"
+        ],
+        "admission_process": [
+          "Application form submission",
+          "Merit-based selection according to NEB guidelines"
+        ],
+        "required_documents": [
+          "SEE Grade Sheet",
+          "Character Certificate",
+          "Passport size photographs"
+        ],
+        "entrance_exam": null,
+        "application_url": null,
+        "admission_contact": [],
+        "notices": []
+      },
+      "fees_and_scholarships": {
+        "fee_details": [],
+        "scholarships": [
+          "Government-funded scholarships for marginalized and merit students"
+        ],
+        "financial_support": []
+      },
+      "facilities": [
+        "Classrooms",
+        "Library",
+        "Sports Ground"
+      ],
+      "infrastructure": [],
+      "boarding": {
+        "has_hostel": false,
+        "boys_hostel": null,
+        "girls_hostel": null,
+        "accommodation": [],
+        "meals": null,
+        "security": null,
+        "warden_information": null,
+        "hostel_fees": null
+      },
+      "administration": {
+        "principal": null,
+        "headteacher": null,
+        "vice_principal": null,
+        "chairman": null,
+        "founder": null,
+        "teachers": []
+      },
+      "institutional_profile": {
+        "mission": "To impart quality education and foster local human resource development in Bajhang.",
+        "vision": "To be a leading center of academic excellence in Sudurpashchim Province.",
+        "highlights": [
+          "Offers multiple +2 streams",
+          "Affordable public education"
+        ],
+        "features": [],
+        "why_choose_this_school": [
+          "Affordable fee structure",
+          "Experienced faculty members",
+          "Central location in Chainpur"
+        ],
+        "achievements": [],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": [
+          "Annual sports meet",
+          "Quiz contests",
+          "Cultural programs"
+        ],
+        "sports": [
+          "Football",
+          "Volleyball",
+          "Cricket"
+        ],
+        "clubs": [],
+        "cultural_activities": [
+          "Traditional dance and singing",
+          "National holiday celebrations"
+        ],
+        "student_welfare": [],
+        "campus_experience": null
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "website": null,
+        "contact_person": null,
+        "office_hours": "Sunday to Friday: 10:00 AM - 4:00 PM",
+        "full_address": "Chainpur, Bajhang, Nepal"
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "youtube": null,
+        "linkedin": null,
+        "x": null,
+        "other": []
+      },
+      "seo": {
+        "suggested_title": "Jaya Prithvi Secondary School, Chainpur, Bajhang",
+        "meta_description": "Explore details about Jaya Prithvi Secondary School in Bajhang, offering +2 programs in Humanities, Management, and Education.",
+        "keywords": [
+          "Jaya Prithvi School Bajhang",
+          "Schools in Chainpur Bajhang",
+          "Plus two colleges in Bajhang"
+        ],
+        "faq": []
+      },
+      "research_sources": [
+        {
+          "source_name": "General Educational Directories of Nepal",
+          "source_url": "",
+          "information_obtained": "Basic location and academic offerings",
+          "source_type": "directory"
+        }
+      ],
+      "verification": {
+        "status": "partially_verified",
+        "missing_information": [
+          "Detailed contact numbers",
+          "Exact principal name",
+          "Precise GPS coordinates"
+        ],
+        "notes": [
+          "School shares context with Jaya Prithvi Multiple Campus records."
+        ]
+      }
+    }
+  ],
+  "district_summary": {
+    "total_schools": 1,
+    "government_schools": 0,
+    "community_schools": 1,
+    "private_schools": 0,
+    "boarding_schools": 0,
+    "other_schools": 0,
+    "schools_by_municipality": [
+      {
+        "municipality": "Jaya Prithvi Municipality",
+        "count": 1
+      }
+    ],
+    "schools_by_education_level": [
+      {
+        "level": "Secondary / Higher Secondary (+2)",
+        "count": 1
+      }
+    ],
+    "research_gaps": [
+      "Extensive enumeration needed across all 12 local levels of Bajhang district (thalara, kedarseu, bipad, chhabispathibhera, durthal, saipal, kanda, masta, talakot, suwanauli, kedarseu, etc.).",
+      "Contact directories for remote community and private schools are currently sparse online."
+    ]
+  }
+}

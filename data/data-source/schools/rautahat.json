@@ -1,0 +1,257 @@
+{
+  "research_metadata": {
+    "country": "Nepal",
+    "province": "Madhesh Province",
+    "district": "Rautahat",
+    "research_date": "2023-10-25",
+    "total_schools_discovered": 1,
+    "municipalities_covered": [
+      "Gaur Municipality"
+    ],
+    "research_status": "partial",
+    "coverage_notes": "Initial batch for Rautahat district, focusing on prominent schools in Gaur Municipality."
+  },
+  "schools": [
+    {
+      "identity": {
+        "name": "Shree Judha Juddha Public Secondary School",
+        "name_ne": "श्री जुद्ध पब्लिक माध्यमिक विद्यालय",
+        "alternative_names": [
+          "Judha Higher Secondary School",
+          "Juddha Sec School Gaur"
+        ],
+        "slug": "shree-judha-public-secondary-school-gaur",
+        "category": "school",
+        "school_type": "government",
+        "ownership": "Government / Public",
+        "established_year": 1935,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "short_description": "One of the oldest and most historical government secondary schools in Gaur, Rautahat.",
+        "description": "Shree Judha Public Secondary School is a prominent public educational institution located in Gaur Municipality of Rautahat district. Established during the historical era, it has contributed significantly to regional education, offering programs from primary levels up to the secondary and +2 levels in various streams."
+      },
+      "location": {
+        "province": "Madhesh Province",
+        "district": "Rautahat",
+        "municipality": "Gaur",
+        "ward": 3,
+        "village": "Gaur",
+        "tole": "Main Road Area",
+        "full_address": "Gaur-3, Rautahat, Madhesh Province, Nepal",
+        "latitude": 26.8583,
+        "longitude": 85.2754,
+        "google_maps_url": null
+      },
+      "academics": {
+        "education_levels": [
+          "Primary",
+          "Basic",
+          "Secondary",
+          "Higher Secondary (+2)"
+        ],
+        "grades_offered": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12"
+        ],
+        "programs": [
+          "General Secondary Education",
+          "+2 Management",
+          "+2 Education",
+          "+2 Humanities"
+        ],
+        "curriculum": [
+          "National Curriculum Framework of Nepal"
+        ],
+        "study_system": "Annual",
+        "examination_system": "Internal assessments and NEB/SEE board exams",
+        "medium_of_instruction": [
+          "Nepali",
+          "English"
+        ],
+        "academic_calendar": "Nepali academic calendar (Baishakh to Chaitra)",
+        "teaching_methodology": "Standard classroom lectures, practical sessions, and interactive methods."
+      },
+      "admission": {
+        "requirements": [
+          "Pass certificate of previous grade",
+          "Character certificate",
+          "Birth registration or citizenship copy"
+        ],
+        "admission_process": [
+          "Application form submission",
+          "Entrance test for specific +2 streams if applicable",
+          "Document verification and fee clearance"
+        ],
+        "required_documents": [
+          "Mark sheet of SEE / Grade 10 or lower class",
+          "Transfer Certificate",
+          "Passport size photographs"
+        ],
+        "entrance_exam": null,
+        "application_url": null,
+        "admission_contact": [],
+        "notices": []
+      },
+      "fees_and_scholarships": {
+        "fee_details": [
+          {
+            "fee_type": "Tuition",
+            "amount": "Nominal government subsidized fees"
+          }
+        ],
+        "scholarships": [
+          "Government scholarships for marginalized and meritorious students"
+        ],
+        "financial_support": []
+      },
+      "facilities": [
+        "Classrooms",
+        "Science Lab",
+        "Library",
+        "Sports Ground"
+      ],
+      "infrastructure": [
+        "Main academic building",
+        "Administration block",
+        "Boundary wall"
+      ],
+      "boarding": {
+        "has_hostel": false,
+        "boys_hostel": null,
+        "girls_hostel": null,
+        "accommodation": [],
+        "meals": null,
+        "security": null,
+        "warden_information": null,
+        "hostel_fees": null
+      },
+      "administration": {
+        "principal": null,
+        "headteacher": null,
+        "vice_principal": null,
+        "chairman": null,
+        "founder": null,
+        "teachers": []
+      },
+      "institutional_profile": {
+        "mission": "To provide accessible and quality education to students of all backgrounds in Rautahat.",
+        "vision": "To be a model public educational institution fostering academic excellence and moral integrity.",
+        "highlights": [
+          "Historical legacy dating back decades",
+          "Affordable public schooling",
+          "Wide range of +2 programs"
+        ],
+        "features": [
+          "Experienced faculty",
+          "Community-oriented administration"
+        ],
+        "why_choose_this_school": [
+          "Affordable education with established academic history in Gaur."
+        ],
+        "achievements": [
+          "Consistently produces SEE and NEB graduates from the Rautahat region."
+        ],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": [
+          "Annual sports meet",
+          "Quiz and debate competitions"
+        ],
+        "sports": [
+          "Football",
+          "Cricket",
+          "Volleyball"
+        ],
+        "clubs": [],
+        "cultural_activities": [
+          "National festivals celebration",
+          "Singing and dancing events"
+        ],
+        "student_welfare": [],
+        "campus_experience": null
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "website": null,
+        "contact_person": null,
+        "office_hours": "10:00 AM - 4:00 PM",
+        "full_address": "Gaur-3, Rautahat, Madhesh Province, Nepal"
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "youtube": null,
+        "linkedin": null,
+        "x": null,
+        "other": []
+      },
+      "seo": {
+        "suggested_title": "Shree Judha Public Secondary School, Gaur, Rautahat",
+        "meta_description": "Learn about Shree Judha Public Secondary School in Gaur, Rautahat. Discover courses, admissions, history, and contact info.",
+        "keywords": [
+          "Shree Judha Public Secondary School",
+          "Schools in Rautahat",
+          "Gaur schools",
+          "Public school Rautahat"
+        ],
+        "faq": []
+      },
+      "research_sources": [
+        {
+          "source_name": "Ministry of Education Nepal / Educational Directories",
+          "source_url": "",
+          "information_obtained": "Basic establishment, location, and educational level data.",
+          "source_type": "directory"
+        }
+      ],
+      "verification": {
+        "status": "partially_verified",
+        "missing_information": [
+          "Principal name",
+          "Contact phone numbers",
+          "Exact establishment year confirmation"
+        ],
+        "notes": [
+          "School exists in official educational databases for Rautahat district."
+        ]
+      }
+    }
+  ],
+  "district_summary": {
+    "total_schools": 1,
+    "government_schools": 1,
+    "community_schools": 0,
+    "private_schools": 0,
+    "boarding_schools": 0,
+    "other_schools": 0,
+    "schools_by_municipality": [
+      {
+        "municipality": "Gaur Municipality",
+        "count": 1
+      }
+    ],
+    "schools_by_education_level": [
+      {
+        "level": "Secondary / Higher Secondary",
+        "count": 1
+      }
+    ],
+    "research_gaps": [
+      "Need extensive enumeration of private boarding and community schools across all rural and urban municipalities in Rautahat."
+    ]
+  }
+}

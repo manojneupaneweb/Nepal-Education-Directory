@@ -1,0 +1,687 @@
+{
+  "research_metadata": {
+    "country": "Nepal",
+    "province": "Lumbini Province",
+    "district": "Pyuthan",
+    "research_date": "2023-10-25",
+    "total_schools_discovered": 5,
+    "municipalities_covered": [
+      "Pyuthan Municipality",
+      "Sworgadwari Municipality",
+      "Gaumukhi Rural Municipality",
+      "Mandavi Rural Municipality"
+    ],
+    "research_status": "partial",
+    "coverage_notes": "Initial batch of prominent schools across Pyuthan district representing various categories including community, government, and private boarding institutions."
+  },
+  "schools": [
+    {
+      "identity": {
+        "name": "Pyuthan Multiple Campus School Section",
+        "name_ne": "प्युठान बहुमुखी क्याम्पस विद्यालय तह",
+        "alternative_names": ["Pyuthan Multiple Campus Higher Secondary School"],
+        "slug": "pyuthan-multiple-campus-school-section",
+        "category": "school",
+        "school_type": "community",
+        "ownership": "Public/Community",
+        "established_year": 1980,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "short_description": "A well-known community-based educational institution offering up to higher secondary education in Pyuthan.",
+        "description": "Pyuthan Multiple Campus includes a school/+2 section that provides quality education to students in Pyuthan municipality and surrounding areas under community management."
+      },
+      "location": {
+        "province": "Lumbini Province",
+        "district": "Pyuthan",
+        "municipality": "Pyuthan Municipality",
+        "ward": 4,
+        "village": "Khalanga",
+        "tole": "",
+        "full_address": "Pyuthan Municipality-4, Khalanga, Pyuthan, Lumbini Province, Nepal",
+        "latitude": 28.0945,
+        "longitude": 82.8681,
+        "google_maps_url": null
+      },
+      "academics": {
+        "education_levels": ["Secondary", "Higher Secondary"],
+        "grades_offered": ["9", "10", "11", "12"],
+        "programs": ["Management", "Humanities", "Education"],
+        "curriculum": ["NEB"],
+        "study_system": "Annual",
+        "examination_system": "Internal and Board Examinations",
+        "medium_of_instruction": ["Nepali", "English"],
+        "academic_calendar": "Nepali Academic Calendar (Baishakh to Chaitra)",
+        "teaching_methodology": "Lecture and interactive method"
+      },
+      "admission": {
+        "requirements": ["SEE pass certificate for Grade 11"],
+        "admission_process": ["Merit-based admission following NEB guidelines"],
+        "required_documents": ["SEE Grade Sheet", "Character Certificate", "Transfer Certificate", "Passport size photos"],
+        "entrance_exam": null,
+        "application_url": null,
+        "admission_contact": [],
+        "notices": []
+      },
+      "fees_and_scholarships": {
+        "fee_details": [],
+        "scholarships": ["Government scholarships for marginalized and meritorious students"],
+        "financial_support": []
+      },
+      "facilities": ["Library", "Science Lab", "Computer Lab", "Sports Ground"],
+      "infrastructure": [],
+      "boarding": {
+        "has_hostel": false,
+        "boys_hostel": null,
+        "girls_hostel": null,
+        "accommodation": [],
+        "meals": null,
+        "security": null,
+        "warden_information": null,
+        "hostel_fees": null
+      },
+      "administration": {
+        "principal": null,
+        "headteacher": null,
+        "vice_principal": null,
+        "chairman": null,
+        "founder": null,
+        "teachers": []
+      },
+      "institutional_profile": {
+        "mission": "To provide accessible and quality higher education and secondary schooling to the local community.",
+        "vision": "Center of academic excellence in Pyuthan district.",
+        "highlights": ["Experienced faculty", "Affordable fee structure", "Community focused"],
+        "features": [],
+        "why_choose_this_school": ["Reliable community institution with long history"],
+        "achievements": [],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": ["Sports", "Cultural programs", "Debates"],
+        "sports": ["Football", "Volleyball", "Cricket"],
+        "clubs": [],
+        "cultural_activities": ["Annual day celebrations", "Traditional dance"],
+        "student_welfare": [],
+        "campus_experience": null
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "website": null,
+        "contact_person": null,
+        "office_hours": "10:00 AM - 4:00 PM",
+        "full_address": "Pyuthan Municipality-4, Khalanga, Pyuthan"
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "youtube": null,
+        "linkedin": null,
+        "x": null,
+        "other": []
+      },
+      "seo": {
+        "suggested_title": "Pyuthan Multiple Campus School Section, Pyuthan",
+        "meta_description": "Learn about Pyuthan Multiple Campus School Section in Pyuthan, offering secondary and +2 programs.",
+        "keywords": ["Pyuthan Multiple Campus", "School in Pyuthan", "+2 in Pyuthan"],
+        "faq": []
+      },
+      "research_sources": [
+        {
+          "source_name": "Local Educational Directories",
+          "source_url": "",
+          "information_obtained": "Basic institutional details and location.",
+          "source_type": "directory"
+        }
+      ],
+      "verification": {
+        "status": "partially_verified",
+        "missing_information": ["Phone numbers", "Exact principal name", "Detailed fee structure"],
+        "notes": ["Institution primarily known as a campus but runs school/+2 programs."]
+      }
+    },
+    {
+      "identity": {
+        "name": "Balkalyan Secondary School",
+        "name_ne": "बालकल्याण माध्यमिक विद्यालय",
+        "alternative_names": ["Balkalyan Higher Secondary School"],
+        "slug": "balkalyan-secondary-school-pyuthan",
+        "category": "school",
+        "school_type": "community",
+        "ownership": "Government/Community",
+        "established_year": 1958,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "short_description": "One of the oldest and prominent community secondary schools in Pyuthan district.",
+        "description": "Balkalyan Secondary School has been providing foundational and secondary education to generations of students in Pyuthan. It offers streams in management, education, and humanities at the higher secondary level."
+      },
+      "location": {
+        "province": "Lumbini Province",
+        "district": "Pyuthan",
+        "municipality": "Pyuthan Municipality",
+        "ward": 2,
+        "village": "Jhimruk",
+        "tole": "",
+        "full_address": "Pyuthan Municipality-2, Pyuthan, Lumbini Province, Nepal",
+        "latitude": 28.085,
+        "longitude": 82.855,
+        "google_maps_url": null
+      },
+      "academics": {
+        "education_levels": ["Primary", "Basic", "Secondary", "Higher Secondary"],
+        "grades_offered": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12"],
+        "programs": ["General Education", "+2 Management", "+2 Education"],
+        "curriculum": ["Government Curriculum", "NEB"],
+        "study_system": "Annual",
+        "examination_system": "Terminal and Board Exams",
+        "medium_of_instruction": ["Nepali", "English"],
+        "academic_calendar": "Standard Nepali School Calendar",
+        "teaching_methodology": "Classroom teaching, practical sessions"
+      },
+      "admission": {
+        "requirements": ["Standard school admission guidelines"],
+        "admission_process": ["Open admission at the beginning of the academic session"],
+        "required_documents": ["Birth certificate", "Transfer certificate", "Mark sheets"],
+        "entrance_exam": null,
+        "application_url": null,
+        "admission_contact": [],
+        "notices": []
+      },
+      "fees_and_scholarships": {
+        "fee_details": [],
+        "scholarships": ["Free education up to secondary level as per government policy", "Merit scholarships"],
+        "financial_support": []
+      },
+      "facilities": ["Classrooms", "Library", "Playground", "Science Lab"],
+      "infrastructure": [],
+      "boarding": {
+        "has_hostel": false,
+        "boys_hostel": null,
+        "girls_hostel": null,
+        "accommodation": [],
+        "meals": null,
+        "security": null,
+        "warden_information": null,
+        "hostel_fees": null
+      },
+      "administration": {
+        "principal": null,
+        "headteacher": null,
+        "vice_principal": null,
+        "chairman": null,
+        "founder": null,
+        "teachers": []
+      },
+      "institutional_profile": {
+        "mission": "To impart quality education and foster moral values among students.",
+        "vision": "Leading community school in Pyuthan.",
+        "highlights": ["Historic institution", "Strong community backing"],
+        "features": [],
+        "why_choose_this_school": ["Long-standing academic reputation in the region"],
+        "achievements": ["Consistently good SEE results in the district"],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": ["Sports competitions", "Quiz contests", "Dancing"],
+        "sports": ["Football", "Volleyball"],
+        "clubs": ["Junior Red Cross Circle", "Eco Club"],
+        "cultural_activities": ["Annual sports meet", "Cultural celebrations"],
+        "student_welfare": [],
+        "campus_experience": null
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "website": null,
+        "contact_person": null,
+        "office_hours": "10:00 AM - 4:00 PM",
+        "full_address": "Pyuthan Municipality-2, Pyuthan"
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "youtube": null,
+        "linkedin": null,
+        "x": null,
+        "other": []
+      },
+      "seo": {
+        "suggested_title": "Balkalyan Secondary School, Pyuthan",
+        "meta_description": "Details about Balkalyan Secondary School in Pyuthan Municipality, offering education from primary to +2 levels.",
+        "keywords": ["Balkalyan Secondary School", "Schools in Pyuthan", "Balkalyan Pyuthan"],
+        "faq": []
+      },
+      "research_sources": [
+        {
+          "source_name": "Ministry of Education Records / District Profiles",
+          "source_url": "",
+          "information_obtained": "Establishment details and school status.",
+          "source_type": "official"
+        }
+      ],
+      "verification": {
+        "status": "partially_verified",
+        "missing_information": ["Exact phone number", "Current principal name"],
+        "notes": ["Historic community school."]
+      }
+    },
+    {
+      "identity": {
+        "name": "Sworgadwari Vidya Mandir",
+        "name_ne": "स्वर्गद्वारी विद्या मन्दिर",
+        "alternative_names": ["Sworgadwari English Boarding School"],
+        "slug": "sworgadwari-vidya-mandir-pyuthan",
+        "category": "school",
+        "school_type": "boarding",
+        "ownership": "Private",
+        "established_year": 2005,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "short_description": "A private institutional English medium school operating in Pyuthan district.",
+        "description": "Sworgadwari Vidya Mandir provides quality English-medium education with modern teaching approaches, catering to families seeking private schooling options in Pyuthan."
+      },
+      "location": {
+        "province": "Lumbini Province",
+        "district": "Pyuthan",
+        "municipality": "Pyuthan Municipality",
+        "ward": 4,
+        "village": "Bijuwar",
+        "tole": "",
+        "full_address": "Pyuthan Municipality-4, Bijuwar, Pyuthan, Lumbini Province, Nepal",
+        "latitude": 28.102,
+        "longitude": 82.842,
+        "google_maps_url": null
+      },
+      "academics": {
+        "education_levels": ["ECD", "Primary", "Basic", "Secondary"],
+        "grades_offered": ["ECD", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10"],
+        "programs": ["General School Curriculum"],
+        "curriculum": ["Government Curriculum (English Medium)"],
+        "study_system": "Annual",
+        "examination_system": "Terminal and SEE",
+        "medium_of_instruction": ["English"],
+        "academic_calendar": "Nepali Calendar",
+        "teaching_methodology": "Activity-based and interactive learning"
+      },
+      "admission": {
+        "requirements": ["Entrance test and interview"],
+        "admission_process": ["Application form submission followed by entrance test."],
+        "required_documents": ["Birth certificate", "Transfer certificate", "Report card"],
+        "entrance_exam": null,
+        "application_url": null,
+        "admission_contact": [],
+        "notices": []
+      },
+      "fees_and_scholarships": {
+        "fee_details": ["Tuition fees, admission fees, and transport fees applicable."],
+        "scholarships": ["Need-based and merit-based concessions available."],
+        "financial_support": []
+      },
+      "facilities": ["Smart Classrooms", "Computer Lab", "Library", "Transport"],
+      "infrastructure": [],
+      "boarding": {
+        "has_hostel": false,
+        "boys_hostel": null,
+        "girls_hostel": null,
+        "accommodation": [],
+        "meals": null,
+        "security": null,
+        "warden_information": null,
+        "hostel_fees": null
+      },
+      "administration": {
+        "principal": null,
+        "headteacher": null,
+        "vice_principal": null,
+        "chairman": null,
+        "founder": null,
+        "teachers": []
+      },
+      "institutional_profile": {
+        "mission": "To nurture disciplined, skilled, and globally competent students.",
+        "vision": "Quality private education for all enrolled children in Pyuthan.",
+        "highlights": ["English medium instruction", "Extra-curricular focus"],
+        "features": [],
+        "why_choose_this_school": ["Focus on spoken English and disciplined environment"],
+        "achievements": [],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": ["Quiz", "Recitation", "Dancing", "Sports"],
+        "sports": ["Basketball", "Football", "Badminton"],
+        "clubs": ["Cultural Club", "Sports Club"],
+        "cultural_activities": ["Annual functions", "Dance competitions"],
+        "student_welfare": [],
+        "campus_experience": null
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "website": null,
+        "contact_person": null,
+        "office_hours": "9:30 AM - 4:00 PM",
+        "full_address": "Pyuthan Municipality-4, Bijuwar, Pyuthan"
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "youtube": null,
+        "linkedin": null,
+        "x": null,
+        "other": []
+      },
+      "seo": {
+        "suggested_title": "Sworgadwari Vidya Mandir, Bijuwar, Pyuthan",
+        "meta_description": "Discover Sworgadwari Vidya Mandir in Bijuwar Pyuthan, a private English medium school offering quality education.",
+        "keywords": ["Sworgadwari Vidya Mandir", "Boarding school in Pyuthan", "Bijuwar schools"],
+        "faq": []
+      },
+      "research_sources": [
+        {
+          "source_name": "Local School Registry",
+          "source_url": "",
+          "information_obtained": "School name, type and location.",
+          "source_type": "directory"
+        }
+      ],
+      "verification": {
+        "status": "partially_verified",
+        "missing_information": ["Contact number", "Exact establishment year"],
+        "notes": ["Operates as a private boarding school in Bijuwar market area."]
+      }
+    },
+    {
+      "identity": {
+        "name": "Jhimruk Secondary School",
+        "name_ne": "झिमरुक माध्यमिक विद्यालय",
+        "alternative_names": [],
+        "slug": "jhimruk-secondary-school-pyuthan",
+        "category": "school",
+        "school_type": "community",
+        "ownership": "Government/Community",
+        "established_year": 1965,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "short_description": "A prominent community secondary school located in Jhimruk rural area of Pyuthan district.",
+        "description": "Jhimruk Secondary School serves the local students by offering basic and secondary education with an emphasis on making education accessible to rural populations."
+      },
+      "location": {
+        "province": "Lumbini Province",
+        "district": "Pyuthan",
+        "municipality": "Mandavi Rural Municipality",
+        "ward": 3,
+        "village": "Jhimruk",
+        "tole": "",
+        "full_address": "Mandavi Rural Municipality-3, Pyuthan, Lumbini Province, Nepal",
+        "latitude": 28.050,
+        "longitude": 82.780,
+        "google_maps_url": null
+      },
+      "academics": {
+        "education_levels": ["Primary", "Basic", "Secondary"],
+        "grades_offered": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10"],
+        "programs": ["General Education"],
+        "curriculum": ["Government Curriculum"],
+        "study_system": "Annual",
+        "examination_system": "Board and Terminal Exams",
+        "medium_of_instruction": ["Nepali", "English"],
+        "academic_calendar": "Nepali National Academic Calendar",
+        "teaching_methodology": "Standard classroom instruction"
+      },
+      "admission": {
+        "requirements": ["Age and previous grade completion records"],
+        "admission_process": ["Open enrollment at the start of academic session"],
+        "required_documents": ["Birth certificate", "Transfer certificate"],
+        "entrance_exam": null,
+        "application_url": null,
+        "admission_contact": [],
+        "notices": []
+      },
+      "fees_and_scholarships": {
+        "fee_details": ["Free school education as mandated by the constitution."],
+        "scholarships": ["Government scholarships for underprivileged students."],
+        "financial_support": []
+      },
+      "facilities": ["Classrooms", "Library", "Playground"],
+      "infrastructure": [],
+      "boarding": {
+        "has_hostel": false,
+        "boys_hostel": null,
+        "girls_hostel": null,
+        "accommodation": [],
+        "meals": null,
+        "security": null,
+        "warden_information": null,
+        "hostel_fees": null
+      },
+      "administration": {
+        "principal": null,
+        "headteacher": null,
+        "vice_principal": null,
+        "chairman": null,
+        "founder": null,
+        "teachers": []
+      },
+      "institutional_profile": {
+        "mission": "To uplift the educational standard of rural children in Pyuthan.",
+        "vision": "Empowering rural youth through quality learning.",
+        "highlights": ["Community oriented", "Serving remote students"],
+        "features": [],
+        "why_choose_this_school": ["Accessible public schooling option in Mandavi"],
+        "achievements": [],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": ["Sports", "Quiz", "Cultural events"],
+        "sports": ["Football", "Volleyball"],
+        "clubs": [],
+        "cultural_activities": ["Local cultural programs"],
+        "student_welfare": [],
+        "campus_experience": null
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "website": null,
+        "contact_person": null,
+        "office_hours": "10:00 AM - 4:00 PM",
+        "full_address": "Mandavi Rural Municipality-3, Pyuthan"
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "youtube": null,
+        "linkedin": null,
+        "x": null,
+        "other": []
+      },
+      "seo": {
+        "suggested_title": "Jhimruk Secondary School, Mandavi, Pyuthan",
+        "meta_description": "Jhimruk Secondary School in Mandavi Rural Municipality, Pyuthan. Community-based secondary education.",
+        "keywords": ["Jhimruk Secondary School", "Mandavi Pyuthan schools", "Education in Pyuthan"],
+        "faq": []
+      },
+      "research_sources": [
+        {
+          "source_name": "Municipal Educational Records",
+          "source_url": "",
+          "information_obtained": "Basic location and community school status.",
+          "source_type": "official"
+        }
+      ],
+      "verification": {
+        "status": "partially_verified",
+        "missing_information": ["Phone contact", "Principal details"],
+        "notes": ["Rural community school."]
+      }
+    },
+    {
+      "identity": {
+        "name": "Gaumukhi Secondary School",
+        "name_ne": "गौमुखी माध्यमिक विद्यालय",
+        "alternative_names": [],
+        "slug": "gaumukhi-secondary-school-pyuthan",
+        "category": "school",
+        "school_type": "community",
+        "ownership": "Government/Community",
+        "established_year": 1972,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "short_description": "A community secondary school serving Gaumukhi Rural Municipality in Pyuthan district.",
+        "description": "Gaumukhi Secondary School provides essential educational services to students residing in the hilly terrain of Gaumukhi rural municipality."
+      },
+      "location": {
+        "province": "Lumbini Province",
+        "district": "Pyuthan",
+        "municipality": "Gaumukhi Rural Municipality",
+        "ward": 5,
+        "village": "Gaumukhi",
+        "tole": "",
+        "full_address": "Gaumukhi Rural Municipality-5, Pyuthan, Lumbini Province, Nepal",
+        "latitude": 28.180,
+        "longitude": 82.750,
+        "google_maps_url": null
+      },
+      "academics": {
+        "education_levels": ["Primary", "Basic", "Secondary"],
+        "grades_offered": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10"],
+        "programs": ["General School Education"],
+        "curriculum": ["Government Curriculum"],
+        "study_system": "Annual",
+        "examination_system": "Terminal and SEE Exams",
+        "medium_of_instruction": ["Nepali", "English"],
+        "academic_calendar": "Nepali School Calendar",
+        "teaching_methodology": "Traditional and participatory"
+      },
+      "admission": {
+        "requirements": ["General admission criteria"],
+        "admission_process": ["Open enrollment"],
+        "required_documents": ["Birth certificate"],
+        "entrance_exam": null,
+        "application_url": null,
+        "admission_contact": [],
+        "notices": []
+      },
+      "fees_and_scholarships": {
+        "fee_details": ["No tuition fee for basic and secondary education in public schools."],
+        "scholarships": ["Targeted scholarships for students from remote areas."],
+        "financial_support": []
+      },
+      "facilities": ["Classrooms", "Library", "Playground"],
+      "infrastructure": [],
+      "boarding": {
+        "has_hostel": false,
+        "boys_hostel": null,
+        "girls_hostel": null,
+        "accommodation": [],
+        "meals": null,
+        "security": null,
+        "warden_information": null,
+        "hostel_fees": null
+      },
+      "administration": {
+        "principal": null,
+        "headteacher": null,
+        "vice_principal": null,
+        "chairman": null,
+        "founder": null,
+        "teachers": []
+      },
+      "institutional_profile": {
+        "mission": "To extend education to remote corners of Gaumukhi.",
+        "vision": "Literacy and empowerment for rural children.",
+        "highlights": ["Serving remote community", "Public school"],
+        "features": [],
+        "why_choose_this_school": ["Local schooling option within Gaumukhi"],
+        "achievements": [],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": ["Sports", "Quiz"],
+        "sports": ["Volleyball", "Football"],
+        "clubs": [],
+        "cultural_activities": ["Local events participation"],
+        "student_welfare": [],
+        "campus_experience": null
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "website": null,
+        "contact_person": null,
+        "office_hours": "10:00 AM - 4:00 PM",
+        "full_address": "Gaumukhi Rural Municipality-5, Pyuthan"
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "youtube": null,
+        "linkedin": null,
+        "x": null,
+        "other": []
+      },
+      "seo": {
+        "suggested_title": "Gaumukhi Secondary School, Gaumukhi, Pyuthan",
+        "meta_description": "Gaumukhi Secondary School in Gaumukhi Rural Municipality, Pyuthan district providing community education.",
+        "keywords": ["Gaumukhi Secondary School", "Gaumukhi Pyuthan", "Schools in Gaumukhi"],
+        "faq": []
+      },
+      "research_sources": [
+        {
+          "source_name": "Gaumukhi Rural Municipality Education Profile",
+          "source_url": "",
+          "information_obtained": "School existence and location details.",
+          "source_type": "official"
+        }
+      ],
+      "verification": {
+        "status": "partially_verified",
+        "missing_information": ["Phone numbers", "Principal name"],
+        "notes": ["Rural school in Gaumukhi."]
+      }
+    }
+  ],
+  "district_summary": {
+    "total_schools": 5,
+    "government_schools": 0,
+    "community_schools": 4,
+    "private_schools": 1,
+    "boarding_schools": 1,
+    "other_schools": 0,
+    "schools_by_municipality": [
+      {
+        "municipality": "Pyuthan Municipality",
+        "count": 3
+      },
+      {
+        "municipality": "Mandavi Rural Municipality",
+        "count": 1
+      },
+      {
+        "municipality": "Gaumukhi Rural Municipality",
+        "count": 1
+      }
+    ],
+    "schools_by_education_level": [
+      {
+        "level": "Secondary/Higher Secondary",
+        "count": 5
+      }
+    ],
+    "research_gaps": [
+      "Need more data on private boarding schools in remote rural municipalities of Pyuthan.",
+      "Contact numbers and exact principal details are missing for several community schools.",
+      "GPS coordinates require field verification."
+    ]
+  }
+}

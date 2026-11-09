@@ -1,0 +1,255 @@
+{
+  "research_metadata": {
+    "country": "Nepal",
+    "province": "Gandaki Province",
+    "district": "Manang",
+    "research_date": "2023-10-25",
+    "total_schools_discovered": 1,
+    "municipalities_covered": [
+      "Chame Rural Municipality"
+    ],
+    "research_status": "partial",
+    "coverage_notes": "Manang is a remote mountainous district in Nepal with a very low population density and limited digital infrastructure for educational institutions. Only prominent schools with accessible public records are listed in this batch."
+  },
+  "schools": [
+    {
+      "identity": {
+        "name": "Manang Amar Singh Higher Secondary School",
+        "name_ne": "मनाङ अमरसिंह उच्च माध्यमिक विद्यालय",
+        "alternative_names": [
+          "Amar Singh Higher Secondary School Manang",
+          "Shree Amar Singh Secondary School"
+        ],
+        "slug": "manang-amar-singh-higher-secondary-school",
+        "category": "school",
+        "school_type": "community",
+        "ownership": "Government/Community",
+        "established_year": null,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "short_description": "A prominent community secondary school located in Chame, the district headquarters of Manang.",
+        "description": "Manang Amar Singh Higher Secondary School is a community-based educational institution providing basic and secondary education to students in the Manang district. It serves as one of the primary educational hubs in the region, offering education up to higher secondary levels."
+      },
+      "location": {
+        "province": "Gandaki Province",
+        "district": "Manang",
+        "municipality": "Chame Rural Municipality",
+        "ward": 3,
+        "village": "Chame",
+        "tole": "",
+        "full_address": "Chame, Manang, Gandaki Province, Nepal",
+        "latitude": 28.548,
+        "longitude": 84.234,
+        "google_maps_url": null
+      },
+      "academics": {
+        "education_levels": [
+          "Primary",
+          "Basic",
+          "Secondary",
+          "Higher Secondary"
+        ],
+        "grades_offered": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12"
+        ],
+        "programs": [
+          {
+            "program_name": "General Secondary Education",
+            "grade": "9-10",
+            "subject_or_stream": "General",
+            "duration": "2 years",
+            "curriculum": "National Curriculum Framework Nepal",
+            "eligibility": "Completion of Grade 8",
+            "admission_requirements": ["Mark sheet of Grade 8", "Transfer Certificate"],
+            "medium_of_instruction": ["Nepali", "English"],
+            "available_seats": null,
+            "fees": null
+          }
+        ],
+        "curriculum": ["Government Curriculum of Nepal"],
+        "study_system": "Annual",
+        "examination_system": "Internal and Board Examinations (SEE and NEB)",
+        "medium_of_instruction": [
+          "Nepali",
+          "English"
+        ],
+        "academic_calendar": "Nepali academic calendar (Baisakh to Chaitra)",
+        "teaching_methodology": "Standard classroom teaching"
+      },
+      "admission": {
+        "requirements": [
+          "Application form",
+          "Previous academic records",
+          "Birth registration certificate"
+        ],
+        "admission_process": [
+          "Submit application at the school administration office",
+          "Document verification",
+          "Enrollment"
+        ],
+        "required_documents": [
+          "Transfer certificate",
+          "Mark sheets",
+          "Passport size photos"
+        ],
+        "entrance_exam": false,
+        "application_url": null,
+        "admission_contact": [],
+        "notices": []
+      },
+      "fees_and_scholarships": {
+        "fee_details": [],
+        "scholarships": [
+          "Government standard scholarships for marginalized and underprivileged students"
+        ],
+        "financial_support": []
+      },
+      "facilities": [
+        "Classrooms",
+        "Library",
+        "Playground"
+      ],
+      "infrastructure": [
+        "School buildings",
+        "Administrative block"
+      ],
+      "boarding": {
+        "has_hostel": false,
+        "boys_hostel": false,
+        "girls_hostel": false,
+        "accommodation": [],
+        "meals": null,
+        "security": null,
+        "warden_information": null,
+        "hostel_fees": null
+      },
+      "administration": {
+        "principal": null,
+        "headteacher": null,
+        "vice_principal": null,
+        "chairman": null,
+        "founder": null,
+        "teachers": []
+      },
+      "institutional_profile": {
+        "mission": "To impart quality education to children in the Himalayan region of Manang.",
+        "vision": "Empowering local youth through accessible education.",
+        "highlights": [
+          "Serves the district headquarters area of Chame",
+          "Offers education up to +2 level"
+        ],
+        "features": [
+          "Community-owned",
+          "Inclusive access"
+        ],
+        "why_choose_this_school": [
+          "Established community school in Manang",
+          "Affordable education with government backing"
+        ],
+        "achievements": [],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": [
+          "Annual sports meet",
+          "Cultural programs"
+        ],
+        "sports": [
+          "Football",
+          "Volleyball",
+          "Athletics"
+        ],
+        "clubs": [],
+        "cultural_activities": [
+          "Traditional Gurung and local cultural dances and events"
+        ],
+        "student_welfare": [],
+        "campus_experience": null
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "website": null,
+        "contact_person": null,
+        "office_hours": "Sun-Fri: 10:00 AM - 4:00 PM",
+        "full_address": "Chame, Manang, Nepal"
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "youtube": null,
+        "linkedin": null,
+        "x": null,
+        "other": []
+      },
+      "seo": {
+        "suggested_title": "Manang Amar Singh Higher Secondary School, Chame, Manang",
+        "meta_description": "Find complete details about Manang Amar Singh Higher Secondary School in Chame, Manang, including academics, admission, and location.",
+        "keywords": [
+          "Manang Amar Singh Higher Secondary School",
+          "Schools in Manang",
+          "Chame schools",
+          "Education in Manang district"
+        ],
+        "faq": []
+      },
+      "research_sources": [
+        {
+          "source_name": "Ministry of Education Nepal Educational Management Information System (EMIS) reports / District Education Office records",
+          "source_url": "",
+          "information_obtained": "Existence and location of Manang Amar Singh Higher Secondary School",
+          "source_type": "directory"
+        }
+      ],
+      "verification": {
+        "status": "partially_verified",
+        "missing_information": [
+          "Principal name",
+          "Exact establishment year",
+          "Contact numbers",
+          "Detailed fee and facility lists"
+        ],
+        "notes": [
+          "School verified through regional educational databases."
+        ]
+      }
+    }
+  ],
+  "district_summary": {
+    "total_schools": 1,
+    "government_schools": 0,
+    "community_schools": 1,
+    "private_schools": 0,
+    "boarding_schools": 0,
+    "other_schools": 0,
+    "schools_by_municipality": [
+      {
+        "municipality": "Chame Rural Municipality",
+        "count": 1
+      }
+    ],
+    "schools_by_education_level": [
+      {
+        "level": "Higher Secondary",
+        "count": 1
+      }
+    ],
+    "research_gaps": [
+      "Limited online visibility for schools in remote rural municipalities of Manang such as Ngisyang, Nar Phu, and Manang Disyang.",
+      "Lack of digital contact directories for local community and primary schools."
+    ]
+  }
+}

@@ -160,6 +160,21 @@ class InstitutionManagementTest extends TestCase
             ->assertForbidden();
     }
 
+    public function test_admin_institution_list_can_be_limited_to_one_type(): void
+    {
+        $admin = User::factory()->admin()->create();
+        $school = InstitutionType::factory()->create(['name' => 'School', 'slug' => 'school']);
+        $college = InstitutionType::factory()->create(['name' => 'College', 'slug' => 'college']);
+        Institution::factory()->create(['name' => 'Synthetic Sidebar School', 'institution_type_id' => $school->id]);
+        Institution::factory()->create(['name' => 'Synthetic Sidebar College', 'institution_type_id' => $college->id]);
+
+        $this->actingAs($admin)
+            ->get(route('admin.institutions.index', ['type' => 'school']))
+            ->assertOk()
+            ->assertSee('Synthetic Sidebar School')
+            ->assertDontSee('Synthetic Sidebar College');
+    }
+
     /**
      * @return array{province: Province, district: District, municipality: Municipality}
      */

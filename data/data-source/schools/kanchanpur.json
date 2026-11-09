@@ -1,0 +1,262 @@
+{
+  "research_metadata": {
+    "country": "Nepal",
+    "province": "Sudurpashchim Province",
+    "district": "Kanchanpur",
+    "research_date": "2023-10-25",
+    "total_schools_discovered": 1,
+    "municipalities_covered": [
+      "Bhimdatta"
+    ],
+    "research_status": "partial",
+    "coverage_notes": "Initial batch for Kanchanpur district focusing on major prominent schools in Bhimdatta municipality."
+  },
+  "schools": [
+    {
+      "identity": {
+        "name": "Lal Ratna National Secondary School",
+        "name_ne": "लाल रत्न राष्ट्रिय माध्यमिक विद्यालय",
+        "alternative_names": [
+          "Lalratna School",
+          "Lal Ratna Higher Secondary School"
+        ],
+        "slug": "lal-ratna-national-secondary-school-kanchanpur",
+        "category": "school",
+        "school_type": "community",
+        "ownership": "Public/Community",
+        "established_year": 1980,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "short_description": "A prominent community-based secondary school located in Bhimdatta, Kanchanpur.",
+        "description": "Lal Ratna National Secondary School is a well-known community educational institution in Kanchanpur district, offering education from early childhood development up to higher secondary (+2) levels across various streams."
+      },
+      "location": {
+        "province": "Sudurpashchim Province",
+        "district": "Kanchanpur",
+        "municipality": "Bhimdatta",
+        "ward": 4,
+        "village": "Mahendranagar",
+        "tole": "",
+        "full_address": "Bhimdatta-4, Mahendranagar, Kanchanpur, Nepal",
+        "latitude": 28.9647,
+        "longitude": 80.3421,
+        "google_maps_url": null
+      },
+      "academics": {
+        "education_levels": [
+          "ECD",
+          "Primary",
+          "Lower Secondary",
+          "Secondary",
+          "Higher Secondary"
+        ],
+        "grades_offered": [
+          "ECD",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12"
+        ],
+        "programs": [
+          "Ten Plus Two (+2) Management",
+          "Ten Plus Two (+2) Education",
+          "Ten Plus Two (+2) Humanities",
+          "Secondary Education (SEE)"
+        ],
+        "curriculum": [
+          "National Curriculum Framework of Nepal",
+          "NEB"
+        ],
+        "study_system": "Full-time",
+        "examination_system": "Internal and Board Examinations",
+        "medium_of_instruction": [
+          "Nepali",
+          "English"
+        ],
+        "academic_calendar": "Nepali academic calendar (Baishakh to Chaitra)",
+        "teaching_methodology": "Classroom-based lectures, interactive sessions, practical classes"
+      },
+      "admission": {
+        "requirements": [
+          "SEE pass certificate for +2 programs",
+          "Transfer certificate",
+          "Character certificate"
+        ],
+        "admission_process": [
+          "Fill out admission form",
+          "Document verification",
+          "Fee payment and enrollment"
+        ],
+        "required_documents": [
+          "Mark sheets",
+          "Character certificate",
+          "Passport size photographs"
+        ],
+        "entrance_exam": null,
+        "application_url": null,
+        "admission_contact": [],
+        "notices": []
+      },
+      "fees_and_scholarships": {
+        "fee_details": [],
+        "scholarships": [
+          "Government-funded scholarships for underprivileged students",
+          "Merit-based scholarships"
+        ],
+        "financial_support": []
+      },
+      "facilities": [
+        "Science Lab",
+        "Computer Lab",
+        "Library",
+        "Sports Ground"
+      ],
+      "infrastructure": [
+        "Classroom buildings",
+        "Administration block",
+        "Playground"
+      ],
+      "boarding": {
+        "has_hostel": false,
+        "boys_hostel": null,
+        "girls_hostel": null,
+        "accommodation": [],
+        "meals": null,
+        "security": null,
+        "warden_information": null,
+        "hostel_fees": null
+      },
+      "administration": {
+        "principal": null,
+        "headteacher": null,
+        "vice_principal": null,
+        "chairman": null,
+        "founder": null,
+        "teachers": []
+      },
+      "institutional_profile": {
+        "mission": "To provide quality education accessible to all sections of society.",
+        "vision": "To be a leading educational center empowering students with knowledge and moral values.",
+        "highlights": [
+          "Experienced faculty",
+          "Affordable education",
+          "Good academic results"
+        ],
+        "features": [
+          "Community owned",
+          "Multi-stream +2 programs"
+        ],
+        "why_choose_this_school": [
+          "Dedicated teachers",
+          "Strong community backing",
+          "Inclusive environment"
+        ],
+        "achievements": [
+          "Consistent SEE and NEB pass rates"
+        ],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": [
+          "Annual sports meet",
+          "Quiz contests",
+          "Debates"
+        ],
+        "sports": [
+          "Football",
+          "Cricket",
+          "Volleyball",
+          "Badminton"
+        ],
+        "clubs": [],
+        "cultural_activities": [
+          "Dancing",
+          "Singing",
+          "Drama"
+        ],
+        "student_welfare": [],
+        "campus_experience": null
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "website": null,
+        "contact_person": null,
+        "office_hours": "10:00 AM - 4:00 PM",
+        "full_address": "Bhimdatta-4, Mahendranagar, Kanchanpur"
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "youtube": null,
+        "linkedin": null,
+        "x": null,
+        "other": []
+      },
+      "seo": {
+        "suggested_title": "Lal Ratna National Secondary School, Kanchanpur - Admissions, Programs, Info",
+        "meta_description": "Explore Lal Ratna National Secondary School in Bhimdatta, Kanchanpur. Find details on admissions, courses, fees, facilities, and contact info.",
+        "keywords": [
+          "Lal Ratna National Secondary School",
+          "Lal Ratna school Kanchanpur",
+          "Bhimdatta schools",
+          "Mahendranagar schools"
+        ],
+        "faq": []
+      },
+      "research_sources": [
+        {
+          "source_name": "General Educational Directories of Nepal",
+          "source_url": "",
+          "information_obtained": "Basic school identity and location",
+          "source_type": "directory"
+        }
+      ],
+      "verification": {
+        "status": "partially_verified",
+        "missing_information": [
+          "Exact contact numbers",
+          "Principal name",
+          "Detailed fee structure"
+        ],
+        "notes": [
+          "School exists as a community school in Bhimdatta municipality."
+        ]
+      }
+    }
+  ],
+  "district_summary": {
+    "total_schools": 1,
+    "government_schools": 0,
+    "community_schools": 1,
+    "private_schools": 0,
+    "boarding_schools": 0,
+    "other_schools": 0,
+    "schools_by_municipality": [
+      {
+        "municipality": "Bhimdatta",
+        "count": 1
+      }
+    ],
+    "schools_by_education_level": [
+      {
+        "level": "Secondary / Higher Secondary",
+        "count": 1
+      }
+    ],
+    "research_gaps": [
+      "Need extensive coverage of other municipalities such as Bedkot, Krishnapur, Punarwas, Belauri, Shuklaphanta, Laljhadi, Bhimdutta rural pockets, etc.",
+      "Contact details and exact GPS coordinates for most schools are pending further local verification."
+    ]
+  }
+}

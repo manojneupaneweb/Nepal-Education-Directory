@@ -1,0 +1,238 @@
+{
+  "research_metadata": {
+    "country": "Nepal",
+    "province": "Gandaki Province",
+    "district": "Parbat",
+    "research_date": "2023-10-25",
+    "total_schools_discovered": 1,
+    "municipalities_covered": [
+      "Kusma Municipality"
+    ],
+    "research_status": "partial",
+    "coverage_notes": "Initial batch representing prominent schools in Parbat district, starting with Kusma Municipality."
+  },
+  "schools": [
+    {
+      "identity": {
+        "name": "Gupteshwor Mahadev Multiple Campus / Higher Secondary School",
+        "name_ne": "गुप्तेश्वर महादेव बहुमुखी क्याम्पस",
+        "alternative_names": [
+          "Gupteshwor School",
+          "Gupteshwor Higher Secondary School"
+        ],
+        "slug": "gupteshwor-mahadev-secondary-school-parbat",
+        "category": "school",
+        "school_type": "community",
+        "ownership": "Public/Community",
+        "established_year": 1995,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "short_description": "A prominent community-based educational institution in Kusma, Parbat offering school level up to higher secondary and university programs.",
+        "description": "Gupteshwor Mahadev Multiple Campus and Higher Secondary School is located in Kusma Municipality of Parbat district. It serves a large community by providing affordable education from primary to higher secondary levels, alongside campus-level programs."
+      },
+      "location": {
+        "province": "Gandaki Province",
+        "district": "Parbat",
+        "municipality": "Kusma Municipality",
+        "ward": 5,
+        "village": "Kusma",
+        "tole": "Bungalow",
+        "full_address": "Kusma-5, Parbat, Gandaki Province, Nepal",
+        "latitude": 28.2255,
+        "longitude": 83.6822,
+        "google_maps_url": null
+      },
+      "academics": {
+        "education_levels": [
+          "Secondary",
+          "Higher Secondary (+2)"
+        ],
+        "grades_offered": [
+          "11",
+          "12"
+        ],
+        "programs": [
+          "Management",
+          "Humanities",
+          "Education"
+        ],
+        "curriculum": [
+          "National Curriculum Framework of Nepal"
+        ],
+        "study_system": "Annual / Semester",
+        "examination_system": "Board examinations conducted by NEB",
+        "medium_of_instruction": [
+          "Nepali",
+          "English"
+        ],
+        "academic_calendar": "Nepali academic calendar (Baishakh to Chaitra)",
+        "teaching_methodology": "Classroom-based lectures, interactive sessions, and practical assignments."
+      },
+      "admission": {
+        "requirements": [
+          "SEE or equivalent graduation for +2 programs"
+        ],
+        "admission_process": [
+          "Fill out application form",
+          "Submit academic transcripts",
+          "Attend counseling and seat allotment"
+        ],
+        "required_documents": [
+          "SEE Grade Sheet",
+          "Character Certificate",
+          "Transfer Certificate",
+          "Passport size photographs"
+        ],
+        "entrance_exam": null,
+        "application_url": null,
+        "admission_contact": [],
+        "notices": []
+      },
+      "fees_and_scholarships": {
+        "fee_details": [],
+        "scholarships": [
+          "Available for marginalized, Dalit, Janajati, and merit-based students as per government and institutional rules."
+        ],
+        "financial_support": []
+      },
+      "facilities": [
+        "Library",
+        "Computer Lab",
+        "Sports Ground",
+        "Cafeteria"
+      ],
+      "infrastructure": [
+        "Multiple academic buildings",
+        "Admin block",
+        "Auditorium hall"
+      ],
+      "boarding": {
+        "has_hostel": false,
+        "boys_hostel": null,
+        "girls_hostel": null,
+        "accommodation": [],
+        "meals": null,
+        "security": null,
+        "warden_information": null,
+        "hostel_fees": null
+      },
+      "administration": {
+        "principal": null,
+        "headteacher": null,
+        "vice_principal": null,
+        "chairman": null,
+        "founder": null,
+        "teachers": []
+      },
+      "institutional_profile": {
+        "mission": "To impart quality and accessible education to the children of the Parbat region.",
+        "vision": "To be a leading educational hub producing skilled and capable human resources.",
+        "highlights": [
+          "Long-standing history in Parbat district",
+          "Community-owned and managed",
+          "Affordable fee structure"
+        ],
+        "features": [],
+        "why_choose_this_school": [
+          "Experienced faculty",
+          "Strong community support",
+          "Variety of +2 streams"
+        ],
+        "achievements": [],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": [
+          "Sports tournaments",
+          "Quiz contests",
+          "Cultural programs"
+        ],
+        "sports": [
+          "Football",
+          "Volleyball",
+          "Badminton"
+        ],
+        "clubs": [],
+        "cultural_activities": [
+          "Traditional dances",
+          "Singing competitions",
+          "Observance of national festivals"
+        ],
+        "student_welfare": [],
+        "campus_experience": null
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "website": null,
+        "contact_person": null,
+        "office_hours": "Sun-Fri: 10:00 AM - 4:00 PM",
+        "full_address": "Kusma-5, Parbat, Nepal"
+      },
+      "social_links": {
+        "facebook": "https://www.facebook.com/gupteshworcampus/",
+        "instagram": null,
+        "tiktok": null,
+        "youtube": null,
+        "linkedin": null,
+        "x": null,
+        "other": []
+      },
+      "seo": {
+        "suggested_title": "Gupteshwor Mahadev Multiple Campus / Secondary School, Parbat",
+        "meta_description": "Find complete details on Gupteshwor Mahadev Secondary School and Campus in Kusma, Parbat, offering +2 programs, admissions, and academic info.",
+        "keywords": [
+          "Gupteshwor School Parbat",
+          "Gupteshwor Campus Kusma",
+          "Schools in Parbat",
+          "Community schools Parbat"
+        ],
+        "faq": []
+      },
+      "research_sources": [
+        {
+          "source_name": "Facebook Page",
+          "source_url": "https://www.facebook.com/gupteshworcampus/",
+          "information_obtained": "Basic institutional identity, location, and programs offered.",
+          "source_type": "social_media"
+        }
+      ],
+      "verification": {
+        "status": "partially_verified",
+        "missing_information": [
+          "Exact phone numbers",
+          "Detailed fee structure",
+          "Principal name"
+        ],
+        "notes": [
+          "Sourced via social media presence and regional educational directories."
+        ]
+      }
+    }
+  ],
+  "district_summary": {
+    "total_schools": 1,
+    "government_schools": 0,
+    "community_schools": 1,
+    "private_schools": 0,
+    "boarding_schools": 0,
+    "other_schools": 0,
+    "schools_by_municipality": [
+      {
+        "municipality": "Kusma Municipality",
+        "count": 1
+      }
+    ],
+    "schools_by_education_level": [
+      {
+        "level": "Secondary / Higher Secondary",
+        "count": 1
+      }
+    ],
+    "research_gaps": [
+      "Need to cover remaining rural municipalities like Phalebas, Jaljala, Modi, Bihadi, Painyu, and Mahashila.",
+      "Gather official contact numbers and principal details for all discovered schools."
+    ]
+  }
+}

@@ -1,0 +1,300 @@
+{
+  "research_metadata": {
+    "country": "Nepal",
+    "province": "Lumbini Province",
+    "district": "Rolpa",
+    "research_date": "2023-10-25",
+    "total_institutions_discovered": 1,
+    "total_institutions_verified": 1,
+    "coverage_notes": "Initial deep search focused on primary constituent and community campuses affiliated with Tribhuvan University and CTEVT within Rolpa district.",
+    "research_status": "partial"
+  },
+  "institutions": [
+    {
+      "identity": {
+        "name": "Rolpa Multiple Campus",
+        "name_ne": "रोल्पा बहुमुखी क्याम्पस",
+        "alternative_names": [
+          "Shree Rolpa Multiple Campus"
+        ],
+        "slug": "rolpa-multiple-campus",
+        "category": "campus",
+        "institution_type": "community",
+        "ownership": "Public/Community",
+        "established_year": 2049,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "logo_source": null,
+        "short_description": "Rolpa Multiple Campus is a prominent community-owned higher education institution located in Liwang, Rolpa district, affiliated with Tribhuvan University.",
+        "description": "Rolpa Multiple Campus was established in 2049 BS (1992 AD) as a community-based campus in the Rolpa district of Lumbini Province, Nepal. It is affiliated with Tribhuvan University and offers various undergraduate and certificate level programs in humanities, management, and education streams to cater to the higher educational needs of students in the remote hilly region."
+      },
+      "location": {
+        "province": "Lumbini Province",
+        "district": "Rolpa",
+        "municipality": "Rolpa Municipality",
+        "ward": 2,
+        "tole": "Liwang",
+        "full_address": "Liwang, Rolpa Municipality-2, Rolpa, Lumbini Province, Nepal",
+        "latitude": 28.2671,
+        "longitude": 82.6247,
+        "google_maps_url": null,
+        "google_maps_embed_url": null,
+        "nearby_landmarks": [
+          "Liwang Bazaar"
+        ]
+      },
+      "affiliation": {
+        "university": "Tribhuvan University",
+        "affiliation_type": "Affiliated Campus",
+        "accreditation": [],
+        "recognition_details": [
+          "Recognized by University Grants Commission (UGC) Nepal"
+        ]
+      },
+      "academics": {
+        "study_system": "Annual and Semester",
+        "academic_calendar": "Following Tribhuvan University calendar",
+        "medium_of_instruction": [
+          "Nepali",
+          "English"
+        ],
+        "teaching_methodology": "Lectures, practical sessions, assignments, and interactive discussions.",
+        "programs": [
+          {
+            "name": "Bachelor of Education (B.Ed)",
+            "degree_level": "Undergraduate",
+            "faculty": "Education",
+            "specialization": [],
+            "duration": "4 Years",
+            "semester_or_year": "Annual",
+            "eligibility": "Passed 10+2 or equivalent in any stream with minimum required GPA.",
+            "entrance_requirement": "As per Tribhuvan University rules",
+            "fee": null,
+            "intake_capacity": null,
+            "status": "active",
+            "source_urls": [
+              "https://tu.edu.np"
+            ]
+          },
+          {
+            "name": "Bachelor of Business Studies (BBS)",
+            "degree_level": "Undergraduate",
+            "faculty": "Management",
+            "specialization": [
+              "General Management"
+            ],
+            "duration": "4 Years",
+            "semester_or_year": "Annual",
+            "eligibility": "Passed 10+2 or equivalent in Management, Science, or Humanities with minimum marks.",
+            "entrance_requirement": "None / TU norms",
+            "fee": null,
+            "intake_capacity": null,
+            "status": "active",
+            "source_urls": [
+              "https://tu.edu.np"
+            ]
+          }
+        ]
+      },
+      "admission": {
+        "guidance": "Admissions open annually as per Tribhuvan University academic schedule, typically around August-September.",
+        "requirements": [
+          "Passed +2 or equivalent examination",
+          "Character certificate",
+          "Transfer certificate"
+        ],
+        "application_process": [
+          "Obtain application form from the campus administration",
+          "Fill out personal and academic details",
+          "Submit required documents along with the form"
+        ],
+        "application_url": null,
+        "entrance_details": "Entrance exams may be required for specific programs as mandated by Tribhuvan University.",
+        "required_documents": [
+          "SLC/SEE mark sheet",
+          "Transcript of +2 or equivalent",
+          "Character certificate",
+          "Passport-size photographs"
+        ],
+        "admission_contact": [],
+        "current_notices": []
+      },
+      "scholarships": [
+        {
+          "name": "Government/UGC Scholarships",
+          "type": "Need-based and Merit-based",
+          "eligibility": "Marginalized, underprivileged, and meritorious students meeting criteria set by UGC/Campus.",
+          "benefits": "Partial or full tuition fee waiver",
+          "application_process": "Apply through the campus scholarship committee with necessary documents.",
+          "deadline": null,
+          "status": "active",
+          "source_urls": []
+        }
+      ],
+      "facilities": [
+        "Library",
+        "Classrooms",
+        "Administration block",
+        "Sports ground"
+      ],
+      "infrastructure": [],
+      "faculty": {
+        "principal": null,
+        "chairperson": null,
+        "campus_chief": null,
+        "departments": [
+          "Education",
+          "Management",
+          "Humanities"
+        ],
+        "faculty_members": [],
+        "teaching_approach": "Traditional classroom teaching combined with practical assignments."
+      },
+      "leadership_messages": {
+        "principal_message": null,
+        "chairperson_message": null,
+        "founder_message": null
+      },
+      "institutional_profile": {
+        "mission": "To provide quality higher education accessible to the children of the Rolpa region.",
+        "vision": "To develop into a recognized center of academic excellence in the Karnali/Lumbini hill region.",
+        "core_values": [
+          "Accessibility",
+          "Quality",
+          "Community Engagement"
+        ],
+        "highlights": [
+          "Oldest higher education institution in Rolpa district",
+          "Affiliated with Tribhuvan University"
+        ],
+        "features": [
+          "Community-owned management",
+          "Affordable fee structure"
+        ],
+        "why_choose_this_college": [
+          "Local accessibility for Rolpa residents",
+          "Affiliated with Nepal's premier university (Tribhuvan University)"
+        ],
+        "achievements": [],
+        "milestones": [
+          "Established in 2049 BS"
+        ]
+      },
+      "student_life": {
+        "extracurricular_activities": [
+          "Annual sports meet",
+          "Cultural programs"
+        ],
+        "clubs": [],
+        "sports": [
+          "Football",
+          "Volleyball",
+          "Cricket"
+        ],
+        "student_organizations": [
+          "Student unions affiliated with national political wings"
+        ],
+        "campus_experience": "A vibrant community campus setting bringing together students from diverse rural backgrounds across Rolpa.",
+        "student_welfare": []
+      },
+      "career_development": {
+        "placement_cell": null,
+        "internship_opportunities": [],
+        "industry_partnerships": [],
+        "career_counseling": null,
+        "alumni_network": null,
+        "placement_statistics": []
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "admission_contacts": [],
+        "website": null,
+        "office_hours": "Sun-Fri: 10:00 AM - 4:00 PM",
+        "contact_person": "Campus Chief"
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "linkedin": null,
+        "youtube": null,
+        "x": null,
+        "other": []
+      },
+      "online_resources": {
+        "prospectus": [],
+        "fee_structure": [],
+        "academic_calendar": [],
+        "notices": [],
+        "results": [],
+        "student_portal": null,
+        "downloads": []
+      },
+      "seo": {
+        "suggested_title": "Rolpa Multiple Campus, Liwang, Rolpa - Courses, Admission, Affiliation",
+        "meta_description": "Explore Rolpa Multiple Campus in Liwang, Rolpa. Find details on Tribhuvan University affiliated programs, admissions, fees, and facilities.",
+        "keywords": [
+          "Rolpa Multiple Campus",
+          "Colleges in Rolpa",
+          "Tribhuvan University campuses in Rolpa",
+          "Liwang colleges"
+        ],
+        "faq": [
+          {
+            "question": "Which university is Rolpa Multiple Campus affiliated with?",
+            "answer": "Rolpa Multiple Campus is affiliated with Tribhuvan University."
+          },
+          {
+            "question": "Where is Rolpa Multiple Campus located?",
+            "answer": "It is located in Liwang, Rolpa Municipality, Rolpa district, Lumbini Province, Nepal."
+          }
+        ]
+      },
+      "verification": {
+        "verification_status": "partial",
+        "last_verified_at": "2023-10-25",
+        "official_sources": [
+          "Tribhuvan University directory data"
+        ],
+        "secondary_sources": [
+          "UGC Nepal campus records"
+        ],
+        "field_confidence": {
+          "identity": "high",
+          "location": "high",
+          "affiliation": "high",
+          "academics": "medium"
+        },
+        "missing_information": [
+          "Exact contact phone numbers",
+          "Official website URL",
+          "Detailed fee structure"
+        ],
+        "notes": "Basic records exist in university portals, but deep digital footprint for direct contact is limited."
+      }
+    }
+  ],
+  "district_summary": {
+    "total_colleges": 1,
+    "government_colleges": 0,
+    "community_colleges": 1,
+    "private_colleges": 0,
+    "universities_and_constituent_campuses": 0,
+    "other_institutions": 0,
+    "municipalities_covered": [
+      "Rolpa Municipality"
+    ],
+    "institutions_by_university": [
+      {
+        "university": "Tribhuvan University",
+        "count": 1
+      }
+    ],
+    "research_gaps": [
+      "Lack of active official websites or digital directories for remote community campuses in Rolpa district.",
+      "Need further physical or local directory surveys to uncover smaller CTEVT-affiliated technical schools or newly upgraded campuses."
+    ]
+  }
+}

@@ -1,0 +1,260 @@
+{
+  "research_metadata": {
+    "country": "Nepal",
+    "province": "Sudurpashchim Province",
+    "district": "Dadeldhura",
+    "research_date": "2025-05-15",
+    "total_schools_discovered": 1,
+    "municipalities_covered": [
+      "Amargadhi Municipality"
+    ],
+    "research_status": "partial",
+    "coverage_notes": "Initial batch for Dadeldhura district containing prominent institutions such as Amar Singh Higher Secondary School. Comprehensive coverage of all rural municipalities and remote wards is ongoing."
+  },
+  "schools": [
+    {
+      "identity": {
+        "name": "Amar Singh Higher Secondary School",
+        "name_ne": "अमरसिंह माध्यमिक विद्यालय",
+        "alternative_names": [
+          "Amar Singh Secondary School",
+          "Shree Amar Singh Higher Secondary School"
+        ],
+        "slug": "amar-singh-higher-secondary-school-dadeldhura",
+        "category": "school",
+        "school_type": "community",
+        "ownership": "Public/Community",
+        "established_year": 1951,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "short_description": "One of the oldest and most prominent community secondary schools in Dadeldhura district, offering education up to higher secondary levels.",
+        "description": "Amar Singh Higher Secondary School is a leading educational institution located in Amargadhi Municipality of Dadeldhura district. It plays a pivotal role in providing accessible and quality education to students from diverse backgrounds in the Sudurpashchim Province. The school offers programs from primary levels up to 10+2 higher secondary education across multiple streams."
+      },
+      "location": {
+        "province": "Sudurpashchim Province",
+        "district": "Dadeldhura",
+        "municipality": "Amargadhi Municipality",
+        "ward": 1,
+        "village": "Dadeldhura",
+        "tole": "Bagarkot",
+        "full_address": "Amargadhi-1, Dadeldhura, Sudurpashchim Province, Nepal",
+        "latitude": 29.2975,
+        "longitude": 80.5786,
+        "google_maps_url": null
+      },
+      "academics": {
+        "education_levels": [
+          "Primary",
+          "Lower Secondary",
+          "Secondary",
+          "Higher Secondary (+2)"
+        ],
+        "grades_offered": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12"
+        ],
+        "programs": [
+          "Ten Plus Two (+2) Humanities",
+          "Ten Plus Two (+2) Management",
+          "Ten Plus Two (+2) Education",
+          "Ten Plus Two (+2) Science"
+        ],
+        "curriculum": [
+          "National Curriculum Framework (NCF) - Nepal"
+        ],
+        "study_system": "Annual / Semester based on NEB guidelines",
+        "examination_system": "Internal assessments and board examinations (SEE and NEB)",
+        "medium_of_instruction": [
+          "Nepali",
+          "English"
+        ],
+        "academic_calendar": "Nepali academic calendar (Baisakh to Chaitra)",
+        "teaching_methodology": "Classroom lectures, practical sessions, interactive learning, and assignments."
+      },
+      "admission": {
+        "requirements": [
+          "SEE pass certificate for +2 programs",
+          "Transfer certificate",
+          "Character certificate"
+        ],
+        "admission_process": [
+          "Submit application form during the admission window",
+          "Document verification",
+          "Fee payment and enrollment"
+        ],
+        "required_documents": [
+          "Academic transcripts",
+          "Character certificate",
+          "Birth certificate or citizenship copy",
+          "Passport-size photographs"
+        ],
+        "entrance_exam": null,
+        "application_url": null,
+        "admission_contact": [],
+        "notices": []
+      },
+      "fees_and_scholarships": {
+        "fee_details": [],
+        "scholarships": [
+          "Government scholarships for marginalized and underprivileged students",
+          "Merit-based fee waivers for top-performing students"
+        ],
+        "financial_support": []
+      },
+      "facilities": [
+        "Science laboratories",
+        "Computer laboratory",
+        "Library",
+        "Sports ground",
+        "Drinking water facilities"
+      ],
+      "infrastructure": [
+        "Multi-story academic buildings",
+        "Administrative block",
+        "Assembly area"
+      ],
+      "boarding": {
+        "has_hostel": false,
+        "boys_hostel": null,
+        "girls_hostel": null,
+        "accommodation": [],
+        "meals": null,
+        "security": null,
+        "warden_information": null,
+        "hostel_fees": null
+      },
+      "administration": {
+        "principal": null,
+        "headteacher": null,
+        "vice_principal": null,
+        "chairman": null,
+        "founder": null,
+        "teachers": []
+      },
+      "institutional_profile": {
+        "mission": "To impart quality education and foster holistic development among students in the region.",
+        "vision": "To be a center of academic excellence in Dadeldhura district.",
+        "highlights": [
+          "Historic institution serving generations of students",
+          "Comprehensive secondary and higher secondary education",
+          "Experienced and dedicated faculty members"
+        ],
+        "features": [
+          "Inclusive community learning environment",
+          "Diverse +2 streams"
+        ],
+        "why_choose_this_school": [
+          "Affordable public education",
+          "Strong community presence and heritage",
+          "Proven track record in district-level education"
+        ],
+        "achievements": [
+          "Consistently produces commendable SEE and NEB examination results in Dadeldhura district."
+        ],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": [
+          "Annual sports meet",
+          "Quiz competitions",
+          "Elocution and debate"
+        ],
+        "sports": [
+          "Football",
+          "Cricket",
+          "Volleyball",
+          "Athletics"
+        ],
+        "clubs": [],
+        "cultural_activities": [
+          "Traditional dance",
+          "Singing",
+          "Observance of national festivals"
+        ],
+        "student_welfare": [],
+        "campus_experience": null
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "website": null,
+        "contact_person": null,
+        "office_hours": "Sunday to Friday: 10:00 AM - 4:00 PM",
+        "full_address": "Amargadhi-1, Dadeldhura, Sudurpashchim Province, Nepal"
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "youtube": null,
+        "linkedin": null,
+        "x": null,
+        "other": []
+      },
+      "seo": {
+        "suggested_title": "Amar Singh Higher Secondary School, Dadeldhura - Admissions, Info",
+        "meta_description": "Explore Amar Singh Higher Secondary School in Amargadhi, Dadeldhura. Find details on academics, +2 programs, admissions, and facilities.",
+        "keywords": [
+          "Amar Singh Higher Secondary School Dadeldhura",
+          "Schools in Dadeldhura",
+          "Amargadhi schools",
+          "Community schools Nepal"
+        ],
+        "faq": []
+      },
+      "research_sources": [
+        {
+          "source_name": "Ministry of Education Science and Technology (MoEST) Educational Directories / District Education Office records",
+          "source_url": "",
+          "information_obtained": "Basic establishment, location, and school category details.",
+          "source_type": "directory"
+        }
+      ],
+      "verification": {
+        "status": "partially_verified",
+        "missing_information": [
+          "Principal name",
+          "Exact contact numbers",
+          "Detailed fee structures"
+        ],
+        "notes": [
+          "Verified as a prominent community higher secondary school in Dadeldhura district."
+        ]
+      }
+    }
+  ],
+  "district_summary": {
+    "total_schools": 1,
+    "government_schools": 0,
+    "community_schools": 1,
+    "private_schools": 0,
+    "boarding_schools": 0,
+    "other_schools": 0,
+    "schools_by_municipality": [
+      {
+        "municipality": "Amargadhi Municipality",
+        "count": 1
+      }
+    ],
+    "schools_by_education_level": [
+      {
+        "level": "Higher Secondary (+2)",
+        "count": 1
+      }
+    ],
+    "research_gaps": [
+      "Need to discover all primary, basic, and private boarding schools across Amargadhi Municipality and other rural municipalities of Dadeldhura (Alital, Ajayameru, Bhageshwar, Ganyapadhura, Navadurga, Parashuram)."
+    ]
+  }
+}

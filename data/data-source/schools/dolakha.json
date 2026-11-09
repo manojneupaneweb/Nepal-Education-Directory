@@ -1,0 +1,262 @@
+{
+  "research_metadata": {
+    "country": "Nepal",
+    "province": "Bagmati Province",
+    "district": "Dolakha",
+    "research_date": "2023-10-25",
+    "total_schools_discovered": 1,
+    "municipalities_covered": [
+      "Bhimeshwar Municipality"
+    ],
+    "research_status": "partial",
+    "coverage_notes": "Initial directory batch containing prominent schools in Dolakha district, primarily focusing on Bhimeshwar Municipality."
+  },
+  "schools": [
+    {
+      "identity": {
+        "name": "Bhimeswor Higher Secondary School",
+        "name_ne": "भिमेश्वर माध्यमिक विद्यालय",
+        "alternative_names": [
+          "Bhimeshwar Secondary School",
+          "Shree Bhimeswor Higher Secondary School"
+        ],
+        "slug": "bhimeswor-higher-secondary-school-dolakha",
+        "category": "school",
+        "school_type": "government",
+        "ownership": "Government / Public",
+        "established_year": 1940,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "short_description": "One of the oldest and most prominent public secondary schools in the Dolakha district.",
+        "description": "Bhimeswor Higher Secondary School is a well-established community-based public school located in Bhimeshwar Municipality (Charikot) of Dolakha district. It offers education from early childhood development (ECD) up to higher secondary (+2) levels across various streams."
+      },
+      "location": {
+        "province": "Bagmati Province",
+        "district": "Dolakha",
+        "municipality": "Bhimeshwar Municipality",
+        "ward": 2,
+        "village": "Charikot",
+        "tole": "Bhimeswor",
+        "full_address": "Bhimeshwar Municipality-2, Charikot, Dolakha, Bagmati Province, Nepal",
+        "latitude": 27.6750,
+        "longitude": 86.1200,
+        "google_maps_url": null
+      },
+      "academics": {
+        "education_levels": [
+          "ECD",
+          "Primary",
+          "Lower Secondary",
+          "Secondary",
+          "Higher Secondary (+2)"
+        ],
+        "grades_offered": [
+          "ECD",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12"
+        ],
+        "programs": [
+          "Ten Plus Two (+2) Management",
+          "Ten Plus Two (+2) Education",
+          "Ten Plus Two (+2) Humanities",
+          "SEE Curriculum"
+        ],
+        "curriculum": [
+          "National Curriculum Framework (NCF)",
+          "NEB"
+        ],
+        "study_system": "Full-time",
+        "examination_system": "Annual and Terminal Examinations",
+        "medium_of_instruction": [
+          "Nepali",
+          "English"
+        ],
+        "academic_calendar": "Nepali Academic Calendar (Baisakh to Chaitra)",
+        "teaching_methodology": "Interactive classroom teaching, practical sessions, and periodic assessments."
+      },
+      "admission": {
+        "requirements": [
+          "Passed SEE or equivalent for +2 programs",
+          "Birth certificate or transfer certificate for lower grades"
+        ],
+        "admission_process": [
+          "Submit application form",
+          "Document verification",
+          "Entrance test for specific +2 programs if applicable"
+        ],
+        "required_documents": [
+          "Mark sheets",
+          "Character certificate",
+          "Transfer certificate",
+          "Passport-size photographs"
+        ],
+        "entrance_exam": null,
+        "application_url": null,
+        "admission_contact": [],
+        "notices": []
+      },
+      "fees_and_scholarships": {
+        "fee_details": [],
+        "scholarships": [
+          "Government-funded scholarships for underprivileged and marginalized students",
+          "Merit-based fee waivers for top-performing students"
+        ],
+        "financial_support": []
+      },
+      "facilities": [
+        "Science Lab",
+        "Computer Lab",
+        "Library",
+        "Sports Playground",
+        "Drinking Water",
+        "First Aid"
+      ],
+      "infrastructure": [
+        "Traditional and modern academic buildings",
+        "Administrative block",
+        "Assembly area"
+      ],
+      "boarding": {
+        "has_hostel": false,
+        "boys_hostel": null,
+        "girls_hostel": null,
+        "accommodation": [],
+        "meals": null,
+        "security": null,
+        "warden_information": null,
+        "hostel_fees": null
+      },
+      "administration": {
+        "principal": null,
+        "headteacher": null,
+        "vice_principal": null,
+        "chairman": null,
+        "founder": null,
+        "teachers": []
+      },
+      "institutional_profile": {
+        "mission": "To provide quality, accessible, and affordable education to the children of the Dolakha district.",
+        "vision": "To produce capable, disciplined, and productive citizens equipped with modern knowledge and moral values.",
+        "highlights": [
+          "Historical legacy in Dolakha education",
+          "Experienced and qualified faculty",
+          "Inclusive education environment"
+        ],
+        "features": [
+          "Government ownership",
+          "Offers +2 streams"
+        ],
+        "why_choose_this_school": [
+          "Affordable public schooling",
+          "Strong community ties",
+          "Comprehensive grade coverage from ECD to Grade 12"
+        ],
+        "achievements": [
+          "Consistent SEE and NEB pass records over decades"
+        ],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": [
+          "Quiz contests",
+          "Debates",
+          "Essay writing"
+        ],
+        "sports": [
+          "Football",
+          "Cricket",
+          "Volleyball",
+          "Athletics"
+        ],
+        "clubs": [],
+        "cultural_activities": [
+          "Annual day celebrations",
+          "Traditional dance and singing"
+        ],
+        "student_welfare": [],
+        "campus_experience": null
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "website": null,
+        "contact_person": null,
+        "office_hours": "10:00 AM - 4:00 PM (Sunday to Friday)",
+        "full_address": "Bhimeshwar Municipality-2, Charikot, Dolakha"
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "youtube": null,
+        "linkedin": null,
+        "x": null,
+        "other": []
+      },
+      "seo": {
+        "suggested_title": "Bhimeswor Higher Secondary School, Charikot, Dolakha",
+        "meta_description": "Explore Bhimeswor Higher Secondary School in Charikot, Dolakha. Find details on academics, +2 programs, admissions, and community education.",
+        "keywords": [
+          "Bhimeswor Higher Secondary School",
+          "Bhimeshwar Secondary School Dolakha",
+          "Schools in Charikot",
+          "Public schools Dolakha"
+        ],
+        "faq": []
+      },
+      "research_sources": [
+        {
+          "source_name": "District Education Office Records / Local Educational Directories",
+          "source_url": "",
+          "information_obtained": "Basic establishment details, location, and educational levels offered.",
+          "source_type": "directory"
+        }
+      ],
+      "verification": {
+        "status": "partially_verified",
+        "missing_information": [
+          "Exact contact numbers",
+          "Names of current principal and administration staff",
+          "Precise GPS coordinates"
+        ],
+        "notes": [
+          "School confirmed via regional educational reports."
+        ]
+      }
+    }
+  ],
+  "district_summary": {
+    "total_schools": 1,
+    "government_schools": 1,
+    "community_schools": 0,
+    "private_schools": 0,
+    "boarding_schools": 0,
+    "other_schools": 0,
+    "schools_by_municipality": [
+      {
+        "municipality": "Bhimeshwar Municipality",
+        "count": 1
+      }
+    ],
+    "schools_by_education_level": [
+      {
+        "level": "Higher Secondary (+2)",
+        "count": 1
+      }
+    ],
+    "research_gaps": [
+      "Need to discover more schools across Jiri Municipality and rural municipalities like Baiteshwor, Melung, Sailung, Bhimeshwar, Kalinchowk, Gaurishankar, Bigu, and Tamakoshi."
+    ]
+  }
+}

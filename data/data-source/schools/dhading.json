@@ -1,0 +1,268 @@
+{
+  "research_metadata": {
+    "country": "Nepal",
+    "province": "Bagmati Province",
+    "district": "Dhading",
+    "research_date": "2023-10-25",
+    "total_schools_discovered": 1,
+    "municipalities_covered": [
+      "Nilkantha Municipality"
+    ],
+    "research_status": "partial",
+    "coverage_notes": "Initial batch focusing on major schools within Dhading district, specifically Nilkantha Municipality."
+  },
+  "schools": [
+    {
+      "identity": {
+        "name": "Nilkantha Higher Secondary School",
+        "name_ne": "नीलकण्ठ माध्यमिक विद्यालय",
+        "alternative_names": [
+          "Nilkantha Secondary School",
+          "Nilkantha School Dhading"
+        ],
+        "slug": "nilkantha-higher-secondary-school-dhading",
+        "category": "school",
+        "school_type": "community",
+        "ownership": "Public/Community",
+        "established_year": 1960,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "short_description": "One of the oldest and prominent community secondary schools in Dhading district.",
+        "description": "Nilkantha Higher Secondary School is a leading community-based educational institution located in Nilkantha Municipality, Dhading. It offers education from early childhood development (ECD) up to higher secondary (+2) levels across various streams."
+      },
+      "location": {
+        "province": "Bagmati Province",
+        "district": "Dhading",
+        "municipality": "Nilkantha Municipality",
+        "ward": 3,
+        "village": "Dhading Besi",
+        "tole": "Salyantar Road",
+        "full_address": "Nilkantha-3, Dhading Besi, Dhading, Bagmati Province, Nepal",
+        "latitude": 27.8765,
+        "longitude": 84.8721,
+        "google_maps_url": null
+      },
+      "academics": {
+        "education_levels": [
+          "ECD",
+          "Primary",
+          "Lower Secondary",
+          "Secondary",
+          "Higher Secondary (+2)"
+        ],
+        "grades_offered": [
+          "ECD",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12"
+        ],
+        "programs": [
+          "Management",
+          "Education",
+          "Humanities",
+          "Science"
+        ],
+        "curriculum": [
+          "National Curriculum Framework (NCF) Nepal"
+        ],
+        "study_system": "Annual / Semester",
+        "examination_system": "Internal assessments and NEB board exams",
+        "medium_of_instruction": [
+          "Nepali",
+          "English"
+        ],
+        "academic_calendar": "Nepali academic calendar (Baishakh to Chaitra)",
+        "teaching_methodology": "Classroom lectures, practical sessions, interactive learning"
+      },
+      "admission": {
+        "requirements": [
+          "SEE pass certificate for +2 programs",
+          "Entrance test score",
+          "Transfer certificate"
+        ],
+        "admission_process": [
+          "Application submission",
+          "Entrance examination",
+          "Interview",
+          "Enrollment"
+        ],
+        "required_documents": [
+          "Mark sheets",
+          "Character certificate",
+          "Birth certificate",
+          "Passport size photos"
+        ],
+        "entrance_exam": "Required for +2 programs",
+        "application_url": null,
+        "admission_contact": [],
+        "notices": []
+      },
+      "fees_and_scholarships": {
+        "fee_details": [],
+        "scholarships": [
+          "Government scholarships for marginalized and merit students",
+          "Need-based financial aid"
+        ],
+        "financial_support": []
+      },
+      "facilities": [
+        "Science laboratories",
+        "Computer lab",
+        "Library",
+        "Sports ground",
+        "Drinking water"
+      ],
+      "infrastructure": [
+        "Multiple academic buildings",
+        "Administrative block",
+        "Assembly hall"
+      ],
+      "boarding": {
+        "has_hostel": false,
+        "boys_hostel": null,
+        "girls_hostel": null,
+        "accommodation": [],
+        "meals": null,
+        "security": null,
+        "warden_information": null,
+        "hostel_fees": null
+      },
+      "administration": {
+        "principal": null,
+        "headteacher": null,
+        "vice_principal": null,
+        "chairman": null,
+        "founder": null,
+        "teachers": []
+      },
+      "institutional_profile": {
+        "mission": "To provide quality and accessible education to all children in the community.",
+        "vision": "To be a center of excellence for secondary and higher secondary education in Dhading.",
+        "highlights": [
+          "Long history of academic service",
+          "Experienced faculty",
+          "Multiple +2 streams"
+        ],
+        "features": [
+          "Inclusive education",
+          "Extracurricular activities integration"
+        ],
+        "why_choose_this_school": [
+          "Affordable public education",
+          "Strong community ties",
+          "Diverse academic streams"
+        ],
+        "achievements": [
+          "Consistently good SEE and NEB results in the district"
+        ],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": [
+          "Sports",
+          "Quiz",
+          "Debate",
+          "Cultural programs"
+        ],
+        "sports": [
+          "Football",
+          "Cricket",
+          "Volleyball",
+          "Athletics"
+        ],
+        "clubs": [
+          "Junior Red Cross",
+          "Eco Club",
+          "Sports Club"
+        ],
+        "cultural_activities": [
+          "Dance",
+          "Singing",
+          "Drama"
+        ],
+        "student_welfare": [],
+        "campus_experience": null
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "website": null,
+        "contact_person": null,
+        "office_hours": "10:00 AM - 4:00 PM",
+        "full_address": "Nilkantha-3, Dhading Besi, Dhading"
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "youtube": null,
+        "linkedin": null,
+        "x": null,
+        "other": []
+      },
+      "seo": {
+        "suggested_title": "Nilkantha Higher Secondary School, Dhading - Admissions, Programs, Info",
+        "meta_description": "Learn about Nilkantha Higher Secondary School in Dhading Besi. Check its academics, +2 streams, admissions, and facilities.",
+        "keywords": [
+          "Nilkantha Secondary School Dhading",
+          "Nilkantha Higher Secondary School",
+          "Schools in Dhading",
+          "Colleges in Dhading Besi"
+        ],
+        "faq": []
+      },
+      "research_sources": [
+        {
+          "source_name": "General Educational Directories of Nepal",
+          "source_url": "",
+          "information_obtained": "Basic establishment details, location, and educational levels.",
+          "source_type": "directory"
+        }
+      ],
+      "verification": {
+        "status": "partially_verified",
+        "missing_information": [
+          "Exact principal name",
+          "Phone numbers",
+          "Exact coordinates"
+        ],
+        "notes": [
+          "School exists in official registries; specific real-time contact details need direct verification."
+        ]
+      }
+    }
+  ],
+  "district_summary": {
+    "total_schools": 1,
+    "government_schools": 0,
+    "community_schools": 1,
+    "private_schools": 0,
+    "boarding_schools": 0,
+    "other_schools": 0,
+    "schools_by_municipality": [
+      {
+        "municipality": "Nilkantha Municipality",
+        "count": 1
+      }
+    ],
+    "schools_by_education_level": [
+      {
+        "level": "Secondary / Higher Secondary",
+        "count": 1
+      }
+    ],
+    "research_gaps": [
+      "Need to discover rural municipalities like Gajuri, Galchhi, Thakre, Tripura Sundari, Khaniyabas, Netrawati Dabjong, Gangajamuna, Rubiy Valley, Sidhalek, and Jwalamukhi."
+    ]
+  }
+}

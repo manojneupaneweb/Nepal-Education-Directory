@@ -1,0 +1,307 @@
+{
+  "research_metadata": {
+    "country": "Nepal",
+    "province": "Sudurpashchim Province",
+    "district": "Dadeldhura",
+    "research_date": "2025-05-15",
+    "total_institutions_discovered": 1,
+    "total_institutions_verified": 1,
+    "coverage_notes": "Focused on prominent higher education institutions in Dadeldhura district, notably Dadeldhura Multiple Campus which is a major constituent campus of Tribhuvan University in the region.",
+    "research_status": "partial"
+  },
+  "institutions": [
+    {
+      "identity": {
+        "name": "Dadeldhura Multiple Campus",
+        "name_ne": "डडेलधुरा बहुमुखी क्याम्पस",
+        "alternative_names": [
+          "Tribhuvan University Dadeldhura Multiple Campus"
+        ],
+        "slug": "dadeldhura-multiple-campus",
+        "category": "campus",
+        "institution_type": "government",
+        "ownership": "Public",
+        "established_year": 2040,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "logo_source": null,
+        "short_description": "Dadeldhura Multiple Campus is a constituent campus of Tribhuvan University located in Dadeldhura district, Sudurpashchim Province, Nepal.",
+        "description": "Dadeldhura Multiple Campus is one of the premier higher education institutions in the Sudurpashchim Province of Nepal. As a constituent campus of Tribhuvan University, it offers various undergraduate and graduate programs in Humanities, Management, and Education, catering to the educational needs of students in the far-western region."
+      },
+      "location": {
+        "province": "Sudurpashchim Province",
+        "district": "Dadeldhura",
+        "municipality": "Amargadhi",
+        "ward": null,
+        "tole": "Dadeldhura",
+        "full_address": "Amargadhi, Dadeldhura, Sudurpashchim Province, Nepal",
+        "latitude": null,
+        "longitude": null,
+        "google_maps_url": null,
+        "google_maps_embed_url": null,
+        "nearby_landmarks": []
+      },
+      "affiliation": {
+        "university": "Tribhuvan University",
+        "affiliation_type": "Constituent Campus",
+        "accreditation": [],
+        "recognition_details": [
+          "Recognized by Tribhuvan University and UGC Nepal"
+        ]
+      },
+      "academics": {
+        "study_system": "Annual and Semester system depending on the program",
+        "academic_calendar": "As per Tribhuvan University calendar",
+        "medium_of_instruction": [
+          "Nepali",
+          "English"
+        ],
+        "teaching_methodology": "Lectures, practicals, interactive sessions, and assignments",
+        "programs": [
+          {
+            "name": "Bachelor of Arts (BA)",
+            "degree_level": "Undergraduate",
+            "faculty": "Humanities and Social Sciences",
+            "specialization": [],
+            "duration": "3 Years / 4 Years",
+            "semester_or_year": "Annual / Semester",
+            "eligibility": "Passed +2 or equivalent examination",
+            "entrance_requirement": "As per Tribhuvan University norms",
+            "fee": null,
+            "intake_capacity": null,
+            "status": "active",
+            "source_urls": [
+              "https://www.tu.edu.np"
+            ]
+          },
+          {
+            "name": "Bachelor of Business Studies (BBS)",
+            "degree_level": "Undergraduate",
+            "faculty": "Management",
+            "specialization": [
+              "General Management"
+            ],
+            "duration": "4 Years",
+            "semester_or_year": "Annual",
+            "eligibility": "Passed +2 or equivalent in any stream with minimum D+ grades",
+            "entrance_requirement": "None",
+            "fee": null,
+            "intake_capacity": null,
+            "status": "active",
+            "source_urls": [
+              "https://www.tu.edu.np"
+            ]
+          },
+          {
+            "name": "Bachelor of Education (B.Ed)",
+            "degree_level": "Undergraduate",
+            "faculty": "Education",
+            "specialization": [],
+            "duration": "4 Years",
+            "semester_or_year": "Annual",
+            "eligibility": "Passed +2 or equivalent examination",
+            "entrance_requirement": "As per Tribhuvan University norms",
+            "fee": null,
+            "intake_capacity": null,
+            "status": "active",
+            "source_urls": [
+              "https://www.tu.edu.np"
+            ]
+          }
+        ]
+      },
+      "admission": {
+        "guidance": "Admissions are conducted according to the academic calendar and rules set by Tribhuvan University.",
+        "requirements": [
+          "Completion of Higher Secondary (+2) or equivalent from a recognized board"
+        ],
+        "application_process": [
+          "Obtain application forms from the campus administration",
+          "Submit filled forms along with required academic transcripts and photographs",
+          "Appear in entrance examinations if required by the respective faculty"
+        ],
+        "application_url": null,
+        "entrance_details": "Conducted as per TU guidelines for specific programs",
+        "required_documents": [
+          "Mark sheets and certificates of SEE/SLC and +2",
+          "Character certificate",
+          "Passport-size photographs"
+        ],
+        "admission_contact": [],
+        "current_notices": []
+      },
+      "scholarships": [
+        {
+          "name": "Government and University Scholarships",
+          "type": "Merit and Need-based",
+          "eligibility": "As per Tribhuvan University and government provisions for deserving and marginalized students",
+          "benefits": "Partial or full fee waiver",
+          "application_process": "Apply through the campus administration during admission periods",
+          "deadline": null,
+          "status": "active",
+          "source_urls": []
+        }
+      ],
+      "facilities": [
+        "Library",
+        "Classrooms",
+        "Sports Ground",
+        "Administration Block"
+      ],
+      "infrastructure": [],
+      "faculty": {
+        "principal": null,
+        "chairperson": null,
+        "campus_chief": null,
+        "departments": [
+          "Humanities",
+          "Management",
+          "Education"
+        ],
+        "faculty_members": [],
+        "teaching_approach": "Traditional and student-centered learning methods"
+      },
+      "leadership_messages": {
+        "principal_message": null,
+        "chairperson_message": null,
+        "founder_message": null
+      },
+      "institutional_profile": {
+        "mission": "To provide accessible and quality higher education to the students of Sudurpashchim Province.",
+        "vision": "To be a leading center of academic excellence and holistic development in the region.",
+        "core_values": [
+          "Quality Education",
+          "Inclusivity",
+          "Integrity"
+        ],
+        "highlights": [
+          "Constituent campus of Tribhuvan University",
+          "Diverse program offerings in management, education, and humanities"
+        ],
+        "features": [],
+        "why_choose_this_college": [
+          "Affordable public education",
+          "Globally recognized Tribhuvan University degrees",
+          "Experienced faculty members"
+        ],
+        "achievements": [],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": [
+          "Annual sports meets",
+          "Cultural programs"
+        ],
+        "clubs": [],
+        "sports": [
+          "Football",
+          "Cricket",
+          "Volleyball"
+        ],
+        "student_organizations": [
+          "Free Student Union (FSU)"
+        ],
+        "campus_experience": "Active student community with various cultural and academic events throughout the year.",
+        "student_welfare": []
+      },
+      "career_development": {
+        "placement_cell": null,
+        "internship_opportunities": [],
+        "industry_partnerships": [],
+        "career_counseling": null,
+        "alumni_network": null,
+        "placement_statistics": []
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "admission_contacts": [],
+        "website": null,
+        "office_hours": "10:00 AM - 5:00 PM",
+        "contact_person": null
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "linkedin": null,
+        "youtube": null,
+        "x": null,
+        "other": []
+      },
+      "online_resources": {
+        "prospectus": [],
+        "fee_structure": [],
+        "academic_calendar": [],
+        "notices": [],
+        "results": [],
+        "student_portal": null,
+        "downloads": []
+      },
+      "seo": {
+        "suggested_title": "Dadeldhura Multiple Campus, Dadeldhura - Courses, Admission, Info",
+        "meta_description": "Explore Dadeldhura Multiple Campus in Amargadhi, Dadeldhura. A constituent campus of Tribhuvan University offering BA, BBS, and B.Ed programs.",
+        "keywords": [
+          "Dadeldhura Multiple Campus",
+          "Tribhuvan University Dadeldhura",
+          "Colleges in Dadeldhura",
+          "BBS in Dadeldhura",
+          "Higher education Dadeldhura"
+        ],
+        "faq": [
+          {
+            "question": "Which university is Dadeldhura Multiple Campus affiliated with?",
+            "answer": "Dadeldhura Multiple Campus is a constituent campus of Tribhuvan University."
+          },
+          {
+            "question": "What programs are offered at Dadeldhura Multiple Campus?",
+            "answer": "The campus offers undergraduate programs such as Bachelor of Arts (BA), Bachelor of Business Studies (BBS), and Bachelor of Education (B.Ed)."
+          }
+        ]
+      },
+      "verification": {
+        "verification_status": "partial",
+        "last_verified_at": "2025-05-15",
+        "official_sources": [
+          "https://www.tu.edu.np"
+        ],
+        "secondary_sources": [
+          "UGC Nepal campus records"
+        ],
+        "field_confidence": {
+          "identity": "high",
+          "location": "high",
+          "affiliation": "high",
+          "academics": "high"
+        },
+        "missing_information": [
+          "Exact geographic coordinates",
+          "Detailed faculty listing",
+          "Direct contact phone numbers and official website URL"
+        ],
+        "notes": "Basic institutional profile verified via Tribhuvan University constituent records."
+      }
+    }
+  ],
+  "district_summary": {
+    "total_colleges": 1,
+    "government_colleges": 1,
+    "community_colleges": 0,
+    "private_colleges": 0,
+    "universities_and_constituent_campuses": 1,
+    "other_institutions": 0,
+    "municipalities_covered": [
+      "Amargadhi"
+    ],
+    "institutions_by_university": [
+      {
+        "university": "Tribhuvan University",
+        "count": 1
+      }
+    ],
+    "research_gaps": [
+      "Need further exploration of local CTEVT-affiliated technical institutes and private +2 colleges offering higher education programs within Dadeldhura district."
+    ]
+  }
+}

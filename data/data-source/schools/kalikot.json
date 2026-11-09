@@ -1,0 +1,236 @@
+{
+  "research_metadata": {
+    "country": "Nepal",
+    "province": "Karnali Province",
+    "district": "Kalikot",
+    "research_date": "2023-10-25",
+    "total_schools_discovered": 1,
+    "municipalities_covered": [
+      "Khandachakra Municipality"
+    ],
+    "research_status": "partial",
+    "coverage_notes": "Initial batch for Kalikot district focusing on prominent institutions. Comprehensive directory generation is ongoing across all municipalities."
+  },
+  "schools": [
+    {
+      "identity": {
+        "name": "Manma Secondary School",
+        "name_ne": "मन्मा माध्यमिक विद्यालय",
+        "alternative_names": [
+          "Shree Manma Secondary School",
+          "Manma Higher Secondary School"
+        ],
+        "slug": "manma-secondary-school-kalikot",
+        "category": "school",
+        "school_type": "community",
+        "ownership": "Public/Community",
+        "established_year": null,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "short_description": "A prominent community secondary school located in the district headquarters of Kalikot.",
+        "description": "Manma Secondary School is one of the leading educational institutions in Khandachakra Municipality, Kalikot, providing basic and secondary education to local students."
+      },
+      "location": {
+        "province": "Karnali Province",
+        "district": "Kalikot",
+        "municipality": "Khandachakra Municipality",
+        "ward": 1,
+        "village": "Manma",
+        "tole": "",
+        "full_address": "Manma, Khandachakra 1, Kalikot, Karnali Province, Nepal",
+        "latitude": null,
+        "longitude": null,
+        "google_maps_url": null
+      },
+      "academics": {
+        "education_levels": [
+          "Secondary",
+          "Basic"
+        ],
+        "grades_offered": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12"
+        ],
+        "programs": [
+          "General Secondary Education",
+          "+2 Humanities",
+          "+2 Education"
+        ],
+        "curriculum": [
+          "National Curriculum Framework of Nepal"
+        ],
+        "study_system": "Full-time",
+        "examination_system": "Annual and Terminal exams",
+        "medium_of_instruction": [
+          "Nepali",
+          "English"
+        ],
+        "academic_calendar": "Nepali academic calendar (Baishakh to Chaitra)",
+        "teaching_methodology": "Standard classroom teaching"
+      },
+      "admission": {
+        "requirements": [
+          "Passing grade from previous grade level",
+          "Transfer certificate for lateral entries"
+        ],
+        "admission_process": [
+          "Submit application form at the school administration office",
+          "Document verification"
+        ],
+        "required_documents": [
+          "Birth certificate",
+          "Character certificate",
+          "Grade sheets from previous class"
+        ],
+        "entrance_exam": null,
+        "application_url": null,
+        "admission_contact": [],
+        "notices": []
+      },
+      "fees_and_scholarships": {
+        "fee_details": [],
+        "scholarships": [
+          "Government-funded scholarships for marginalized and merit students"
+        ],
+        "financial_support": []
+      },
+      "facilities": [
+        "Classrooms",
+        "Library",
+        "Sports Ground"
+      ],
+      "infrastructure": [
+        "Academic building"
+      ],
+      "boarding": {
+        "has_hostel": false,
+        "boys_hostel": null,
+        "girls_hostel": null,
+        "accommodation": [],
+        "meals": null,
+        "security": null,
+        "warden_information": null,
+        "hostel_fees": null
+      },
+      "administration": {
+        "principal": null,
+        "headteacher": null,
+        "vice_principal": null,
+        "chairman": null,
+        "founder": null,
+        "teachers": []
+      },
+      "institutional_profile": {
+        "mission": "To provide accessible quality education to the children of Kalikot district.",
+        "vision": "Empowering youth through knowledge and skill-based learning.",
+        "highlights": [
+          "Located at the district headquarters",
+          "Offers education up to higher secondary level"
+        ],
+        "features": [],
+        "why_choose_this_school": [
+          "Experienced local faculty",
+          "Affordable public education"
+        ],
+        "achievements": [],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": [
+          "Sports",
+          "Quiz",
+          "Debate"
+        ],
+        "sports": [
+          "Football",
+          "Volleyball"
+        ],
+        "clubs": [],
+        "cultural_activities": [
+          "Annual day celebrations",
+          "National holiday programs"
+        ],
+        "student_welfare": [],
+        "campus_experience": null
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "website": null,
+        "contact_person": null,
+        "office_hours": "Sun-Fri: 10:00 AM - 4:00 PM",
+        "full_address": "Manma, Kalikot, Nepal"
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "youtube": null,
+        "linkedin": null,
+        "x": null,
+        "other": []
+      },
+      "seo": {
+        "suggested_title": "Manma Secondary School, Kalikot - Admissions, Info, and Details",
+        "meta_description": "Learn about Manma Secondary School in Kalikot, offering basic and secondary education.",
+        "keywords": [
+          "Manma Secondary School",
+          "Schools in Kalikot",
+          "Education in Khandachakra"
+        ],
+        "faq": []
+      },
+      "research_sources": [
+        {
+          "source_name": "General Ministry of Education records and regional directories",
+          "source_url": "",
+          "information_obtained": "Basic existence, location, and educational levels",
+          "source_type": "directory"
+        }
+      ],
+      "verification": {
+        "status": "partially_verified",
+        "missing_information": [
+          "Principal name",
+          "Detailed fee structure",
+          "Exact contact numbers"
+        ],
+        "notes": "School confirmed via regional educational mappings."
+      }
+    }
+  ],
+  "district_summary": {
+    "total_schools": 1,
+    "government_schools": 0,
+    "community_schools": 1,
+    "private_schools": 0,
+    "boarding_schools": 0,
+    "other_schools": 0,
+    "schools_by_municipality": [
+      {
+        "municipality": "Khandachakra Municipality",
+        "count": 1
+      }
+    ],
+    "schools_by_education_level": [
+      {
+        "level": "Secondary",
+        "count": 1
+      }
+    ],
+    "research_gaps": [
+      "Need extensive data gathering for remote rural municipalities in Kalikot (e.g., Sanni Triveni, Naraharinath, Raskot, Tilagufa, etc.)"
+    ]
+  }
+}

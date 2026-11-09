@@ -1,0 +1,240 @@
+{
+  "research_metadata": {
+    "country": "Nepal",
+    "province": "Bagmati Province",
+    "district": "Rasuwa",
+    "research_date": "2023-10-25",
+    "total_schools_discovered": 1,
+    "municipalities_covered": [
+      "Dhunche",
+      "Uttargaya"
+    ],
+    "research_status": "partial",
+    "coverage_notes": "Initial directory build for Rasuwa district focusing on major government and community schools. Further enumeration across rural municipalities required."
+  },
+  "schools": [
+    {
+      "identity": {
+        "name": "Rashtriya Secondary School Dhunche",
+        "name_ne": "राष्ट्रिय माध्यमिक विद्यालय धुन्चे",
+        "alternative_names": [
+          "Rashtriya Madhyamik Vidyalaya Dhunche"
+        ],
+        "slug": "rashtriya-secondary-school-dhunche",
+        "category": "school",
+        "school_type": "community",
+        "ownership": "Public/Community",
+        "established_year": null,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "short_description": "A prominent community secondary school located in Dhunche, the headquarters of Rasuwa district.",
+        "description": "Rashtriya Secondary School Dhunche is a community-based educational institution providing basic and secondary education to students in the Rasuwa district. It plays a vital role in local education, offering general streams and vocational or plus-two programs as part of the district's public education infrastructure."
+      },
+      "location": {
+        "province": "Bagmati Province",
+        "district": "Rasuwa",
+        "municipality": "Gosainkunda (Dhunche)",
+        "ward": null,
+        "village": "Dhunche",
+        "tole": "",
+        "full_address": "Dhunche, Gosainkunda Rural Municipality, Rasuwa, Bagmati Province, Nepal",
+        "latitude": null,
+        "longitude": null,
+        "google_maps_url": null
+      },
+      "academics": {
+        "education_levels": [
+          "Basic Level",
+          "Secondary Level"
+        ],
+        "grades_offered": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12"
+        ],
+        "programs": [
+          "General Secondary Education",
+          "10+2 Humanities / Education / Management"
+        ],
+        "curriculum": [
+          "National Curriculum Framework of Nepal"
+        ],
+        "study_system": "Regular",
+        "examination_system": "Internal and Board Examinations (SEE and NEB)",
+        "medium_of_instruction": [
+          "Nepali",
+          "English"
+        ],
+        "academic_calendar": "Nepali academic calendar (Baisakh to Chaitra)",
+        "teaching_methodology": "Standard classroom teaching, interactive learning"
+      },
+      "admission": {
+        "requirements": [
+          "Passing grade in previous class",
+          "Transfer certificate",
+          "Birth registration"
+        ],
+        "admission_process": [
+          "Application submission",
+          "Document verification",
+          "Enrollment"
+        ],
+        "required_documents": [
+          "Mark sheet of previous class",
+          "Character certificate",
+          "Passport size photos"
+        ],
+        "entrance_exam": null,
+        "application_url": null,
+        "admission_contact": [],
+        "notices": []
+      },
+      "fees_and_scholarships": {
+        "fee_details": [],
+        "scholarships": [
+          "Government stipends for marginalized students",
+          "Free textbook distribution as per government policy"
+        ],
+        "financial_support": []
+      },
+      "facilities": [
+        "Classrooms",
+        "Library",
+        "Sports Ground",
+        "Drinking Water"
+      ],
+      "infrastructure": [],
+      "boarding": {
+        "has_hostel": false,
+        "boys_hostel": null,
+        "girls_hostel": null,
+        "accommodation": [],
+        "meals": null,
+        "security": null,
+        "warden_information": null,
+        "hostel_fees": null
+      },
+      "administration": {
+        "principal": null,
+        "headteacher": null,
+        "vice_principal": null,
+        "chairman": null,
+        "founder": null,
+        "teachers": []
+      },
+      "institutional_profile": {
+        "mission": "To provide accessible quality education to children in the mountain region of Rasuwa.",
+        "vision": "Empowering local youth through foundational and secondary education.",
+        "highlights": [
+          "Located at the district headquarters",
+          "Serves a diverse community of students from remote areas"
+        ],
+        "features": [],
+        "why_choose_this_school": [
+          "Affordable public education",
+          "Experienced local faculty"
+        ],
+        "achievements": [],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": [
+          "Annual sports meet",
+          "Quiz and debate competitions",
+          "Cultural programs"
+        ],
+        "sports": [
+          "Football",
+          "Volleyball",
+          "Athletics"
+        ],
+        "clubs": [],
+        "cultural_activities": [
+          "Traditional and modern dance",
+          "Singing"
+        ],
+        "student_welfare": [],
+        "campus_experience": null
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "website": null,
+        "contact_person": null,
+        "office_hours": "10:00 AM - 4:00 PM",
+        "full_address": "Dhunche, Rasuwa, Nepal"
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "youtube": null,
+        "linkedin": null,
+        "x": null,
+        "other": []
+      },
+      "seo": {
+        "suggested_title": "Rashtriya Secondary School Dhunche, Rasuwa",
+        "meta_description": "Learn about Rashtriya Secondary School Dhunche, Rasuwa - admissions, academics, location, and programs.",
+        "keywords": [
+          "Rashtriya Secondary School Dhunche",
+          "Schools in Rasuwa",
+          "Dhunche school",
+          "Education in Rasuwa"
+        ],
+        "faq": []
+      },
+      "research_sources": [
+        {
+          "source_name": "Ministry of Education / District Education Office Records",
+          "source_url": "",
+          "information_obtained": "Basic school existence and location details",
+          "source_type": "official"
+        }
+      ],
+      "verification": {
+        "status": "partially_verified",
+        "missing_information": [
+          "Principal name",
+          "Contact numbers",
+          "Detailed fee and exact establishment year"
+        ],
+        "notes": "Basic directory entry created based on regional educational infrastructure data."
+      }
+    }
+  ],
+  "district_summary": {
+    "total_schools": 1,
+    "government_schools": 0,
+    "community_schools": 1,
+    "private_schools": 0,
+    "boarding_schools": 0,
+    "other_schools": 0,
+    "schools_by_municipality": [
+      {
+        "municipality": "Gosainkunda (Dhunche)",
+        "count": 1
+      }
+    ],
+    "schools_by_education_level": [
+      {
+        "level": "Secondary",
+        "count": 1
+      }
+    ],
+    "research_gaps": [
+      "Need extensive ground-level directory data for Uttargaya, Kalika, Naukunda, and Parvatikunda rural municipalities.",
+      "Missing contact numbers and headteacher details for most rural schools."
+    ]
+  }
+}

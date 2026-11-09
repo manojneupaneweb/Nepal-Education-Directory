@@ -3,6 +3,7 @@
 namespace Tests\Feature;
 
 use App\Enums\InstitutionStatus;
+use App\Models\CollegeStream;
 use App\Models\Institution;
 use App\Models\InstitutionType;
 use App\Models\Province;
@@ -15,7 +16,16 @@ class PublicDirectoryTest extends TestCase
 
     public function test_public_directory_pages_render(): void
     {
-        $this->get(route('home'))->assertOk()->assertSee('Find schools, colleges, and training centers.');
+        CollegeStream::factory()->create([
+            'name' => 'Synthetic Arts Stream',
+            'colleges_count' => 424,
+        ]);
+
+        $this->get(route('home'))->assertOk()
+            ->assertSee('Discover Education Opportunities Across Nepal')
+            ->assertSee('All Colleges in Nepal')
+            ->assertSee('Synthetic Arts Stream')
+            ->assertSee('0 Colleges');
         $this->get(route('types.index'))->assertOk()->assertSee('Institution types');
         $this->get(route('provinces.index'))->assertOk()->assertSee('Provinces');
         $this->get(route('about'))->assertOk();
@@ -41,6 +51,23 @@ class PublicDirectoryTest extends TestCase
             ->assertOk()
             ->assertSee('Synthetic Published College')
             ->assertDontSee('Synthetic Draft College');
+
+        CollegeStream::factory()->create([
+            'name' => 'Travel and Tourism',
+            'keywords' => ['Tourism'],
+        ]);
+        $collegeType = InstitutionType::factory()->create(['name' => 'College', 'slug' => 'college']);
+        Institution::factory()->create([
+            'name' => 'Synthetic Tourism College',
+            'slug' => 'synthetic-tourism-college',
+            'institution_type_id' => $collegeType->id,
+            'status' => InstitutionStatus::Published,
+            'description' => 'Tourism and travel studies.',
+        ]);
+
+        $this->get(route('search', ['q' => 'Travel and Tourism']))
+            ->assertOk()
+            ->assertSee('Synthetic Tourism College');
 
         $this->get(route('institutions.show', $published))->assertOk();
         $this->get('/institutions/synthetic-draft-college')->assertNotFound();

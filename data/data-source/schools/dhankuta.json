@@ -1,0 +1,416 @@
+{
+  "research_metadata": {
+    "country": "Nepal",
+    "province": "Koshi Province",
+    "district": "Dhankuta",
+    "research_date": "2023-10-25",
+    "total_schools_discovered": 2,
+    "municipalities_covered": [
+      "Dhankuta Municipality",
+      "Pakhribas Municipality"
+    ],
+    "research_status": "partial",
+    "coverage_notes": "Initial directory batch containing prominent schools in Dhankuta district. Further research needed for remote rural municipalities."
+  },
+  "schools": [
+    {
+      "identity": {
+        "name": "Dhankuta Multiple Campus Secondary School Level",
+        "name_ne": "धनकुटा बहुमुखी क्याम्पस विद्यालय तह",
+        "alternative_names": [
+          "Dhankuta Multiple Campus +2"
+        ],
+        "slug": "dhankuta-multiple-campus-school",
+        "category": "school",
+        "school_type": "community",
+        "ownership": "Public/Community",
+        "established_year": 1955,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "short_description": "A well-established public educational institution offering school-level and higher education in Dhankuta.",
+        "description": "Dhankuta Multiple Campus is a prominent educational hub in the hilly region of Koshi Province. Along with higher education, it conducts secondary and +2 programs."
+      },
+      "location": {
+        "province": "Koshi Province",
+        "district": "Dhankuta",
+        "municipality": "Dhankuta Municipality",
+        "ward": 7,
+        "village": "Dhankuta",
+        "tole": "Hulak Tole",
+        "full_address": "Dhankuta Municipality-7, Dhankuta, Koshi Province, Nepal",
+        "latitude": 26.9850,
+        "longitude": 87.3450,
+        "google_maps_url": null
+      },
+      "academics": {
+        "education_levels": [
+          "Secondary (+2)"
+        ],
+        "grades_offered": [
+          "Grade 11",
+          "Grade 12"
+        ],
+        "programs": [
+          "Ten Plus Two (+2) Humanities",
+          "Ten Plus Two (+2) Management",
+          "Ten Plus Two (+2) Science"
+        ],
+        "curriculum": [
+          "NEB"
+        ],
+        "study_system": "Annual",
+        "examination_system": "Board Examinations",
+        "medium_of_instruction": [
+          "Nepali",
+          "English"
+        ],
+        "academic_calendar": "Nepali Academic Calendar (Baishakh to Chaitra)",
+        "teaching_methodology": "Classroom lectures, practical sessions, assignments"
+      },
+      "admission": {
+        "requirements": [
+          "SEE or equivalent GPA requirement as per NEB guidelines"
+        ],
+        "admission_process": [
+          "Application form submission",
+          "Merit-based selection"
+        ],
+        "required_documents": [
+          "SEE Grade Sheet",
+          "Character Certificate",
+          "Transfer Certificate",
+          "Passport size photos"
+        ],
+        "entrance_exam": null,
+        "application_url": null,
+        "admission_contact": [],
+        "notices": []
+      },
+      "fees_and_scholarships": {
+        "fee_details": [],
+        "scholarships": [
+          "Government targeted scholarships",
+          "Merit-based fee waivers"
+        ],
+        "financial_support": []
+      },
+      "facilities": [
+        "Library",
+        "Science Lab",
+        "Computer Lab",
+        "Sports Ground"
+      ],
+      "infrastructure": [],
+      "boarding": {
+        "has_hostel": false,
+        "boys_hostel": null,
+        "girls_hostel": null,
+        "accommodation": [],
+        "meals": null,
+        "security": null,
+        "warden_information": null,
+        "hostel_fees": null
+      },
+      "administration": {
+        "principal": null,
+        "headteacher": null,
+        "vice_principal": null,
+        "chairman": null,
+        "founder": null,
+        "teachers": []
+      },
+      "institutional_profile": {
+        "mission": "To provide quality education accessible to the students of the eastern hilly region.",
+        "vision": "Center of excellence in school and higher education.",
+        "highlights": [
+          "Historic institution in Dhankuta",
+          "Experienced faculty members"
+        ],
+        "features": [],
+        "why_choose_this_school": [
+          "Affordable public education",
+          "Diverse +2 streams"
+        ],
+        "achievements": [],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": [
+          "Sports",
+          "Quiz",
+          "Debate"
+        ],
+        "sports": [
+          "Football",
+          "Cricket",
+          "Volleyball"
+        ],
+        "clubs": [],
+        "cultural_activities": [
+          "Annual day celebrations",
+          "Traditional dance and music"
+        ],
+        "student_welfare": [],
+        "campus_experience": null
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "website": null,
+        "contact_person": null,
+        "office_hours": "10:00 AM - 4:00 PM",
+        "full_address": "Dhankuta-7, Dhankuta"
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "youtube": null,
+        "linkedin": null,
+        "x": null,
+        "other": []
+      },
+      "seo": {
+        "suggested_title": "Dhankuta Multiple Campus (+2 Programs)",
+        "meta_description": "Discover Dhankuta Multiple Campus school level and +2 programs in Dhankuta, Koshi Province.",
+        "keywords": [
+          "Dhankuta Multiple Campus",
+          "+2 schools in Dhankuta",
+          "Education in Dhankuta"
+        ],
+        "faq": []
+      },
+      "research_sources": [
+        {
+          "source_name": "Ministry of Education Nepal / NEB records",
+          "source_url": "",
+          "information_obtained": "Existence of +2 programs and general location.",
+          "source_type": "directory"
+        }
+      ],
+      "verification": {
+        "status": "partially_verified",
+        "missing_information": [
+          "Exact phone numbers",
+          "Principal name"
+        ],
+        "notes": [
+          "Primary focus is higher education, but hosts school/plus-two programs."
+        ]
+      }
+    },
+    {
+      "identity": {
+        "name": "Gogane Secondary School",
+        "name_ne": "गोगने माध्यमिक विद्यालय",
+        "alternative_names": [
+          "Shree Gogane Secondary School"
+        ],
+        "slug": "gogane-secondary-school-dhankuta",
+        "category": "school",
+        "school_type": "community",
+        "ownership": "Government/Community",
+        "established_year": null,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "short_description": "A community-based secondary school located in Dhankuta district.",
+        "description": "Gogane Secondary School provides basic and secondary education to local children in Dhankuta district under community ownership."
+      },
+      "location": {
+        "province": "Koshi Province",
+        "district": "Dhankuta",
+        "municipality": "Pakhribas Municipality",
+        "ward": null,
+        "village": "Gogane",
+        "tole": "",
+        "full_address": "Pakhribas Municipality, Gogane, Dhankuta, Koshi Province, Nepal",
+        "latitude": null,
+        "longitude": null,
+        "google_maps_url": null
+      },
+      "academics": {
+        "education_levels": [
+          "Primary",
+          "Basic",
+          "Secondary"
+        ],
+        "grades_offered": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10"
+        ],
+        "programs": [
+          "School Leaving Education (SEE)"
+        ],
+        "curriculum": [
+          "National Curriculum Framework Nepal"
+        ],
+        "study_system": "Annual",
+        "examination_system": "Terminal and Board Examinations",
+        "medium_of_instruction": [
+          "Nepali",
+          "English"
+        ],
+        "academic_calendar": "Government Academic Calendar",
+        "teaching_methodology": "Standard classroom teaching"
+      },
+      "admission": {
+        "requirements": [
+          "Age and grade-level prerequisites"
+        ],
+        "admission_process": [
+          "Open admission at the beginning of the academic session"
+        ],
+        "required_documents": [
+          "Birth certificate",
+          "Transfer certificate (if applicable)"
+        ],
+        "entrance_exam": null,
+        "application_url": null,
+        "admission_contact": [],
+        "notices": []
+      },
+      "fees_and_scholarships": {
+        "fee_details": [
+          "Free education up to secondary level as per government policy"
+        ],
+        "scholarships": [
+          "Government scholarships for marginalized and underprivileged students"
+        ],
+        "financial_support": []
+      },
+      "facilities": [
+        "Classrooms",
+        "Playground"
+      ],
+      "infrastructure": [],
+      "boarding": {
+        "has_hostel": false,
+        "boys_hostel": null,
+        "girls_hostel": null,
+        "accommodation": [],
+        "meals": null,
+        "security": null,
+        "warden_information": null,
+        "hostel_fees": null
+      },
+      "administration": {
+        "principal": null,
+        "headteacher": null,
+        "vice_principal": null,
+        "chairman": null,
+        "founder": null,
+        "teachers": []
+      },
+      "institutional_profile": {
+        "mission": "To impart foundational and secondary education to rural children.",
+        "vision": "Empowering rural youth through accessible public schooling.",
+        "highlights": [
+          "Serves the local community of Gogane, Pakhribas"
+        ],
+        "features": [],
+        "why_choose_this_school": [
+          "Accessible local community school"
+        ],
+        "achievements": [],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": [
+          "Sports",
+          "Local cultural events"
+        ],
+        "sports": [
+          "Volleyball",
+          "Football"
+        ],
+        "clubs": [],
+        "cultural_activities": [],
+        "student_welfare": [],
+        "campus_experience": null
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "website": null,
+        "contact_person": null,
+        "office_hours": "10:00 AM - 4:00 PM",
+        "full_address": "Pakhribas Municipality, Dhankuta"
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "youtube": null,
+        "linkedin": null,
+        "x": null,
+        "other": []
+      },
+      "seo": {
+        "suggested_title": "Gogane Secondary School, Dhankuta",
+        "meta_description": "Information about Gogane Secondary School located in Pakhribas Municipality, Dhankuta.",
+        "keywords": [
+          "Gogane Secondary School",
+          "Schools in Pakhribas Dhankuta",
+          "Community school Dhankuta"
+        ],
+        "faq": []
+      },
+      "research_sources": [
+        {
+          "source_name": "Local Educational Directories of Nepal",
+          "source_url": "",
+          "information_obtained": "School name, level, and municipality location.",
+          "source_type": "directory"
+        }
+      ],
+      "verification": {
+        "status": "unverified",
+        "missing_information": [
+          "Contact numbers",
+          "Headteacher name",
+          "Established year"
+        ],
+        "notes": [
+          "Basic registry entry found in public school lists."
+        ]
+      }
+    }
+  ],
+  "district_summary": {
+    "total_schools": 2,
+    "government_schools": 1,
+    "community_schools": 1,
+    "private_schools": 0,
+    "boarding_schools": 0,
+    "other_schools": 0,
+    "schools_by_municipality": [
+      {
+        "municipality": "Dhankuta Municipality",
+        "count": 1
+      },
+      {
+        "municipality": "Pakhribas Municipality",
+        "count": 1
+      }
+    ],
+    "schools_by_education_level": [
+      {
+        "level": "Secondary / +2",
+        "count": 2
+      }
+    ],
+    "research_gaps": [
+      "Need extensive coverage for Bhojpur, Mahalaxmi, Sangurigadhi, Chhathar Jorpati, Sahidbhumi, and Chaubise municipalities/rural municipalities within Dhankuta district."
+    ]
+  }
+}

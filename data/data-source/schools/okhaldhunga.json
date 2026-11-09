@@ -1,0 +1,249 @@
+{
+  "research_metadata": {
+    "country": "Nepal",
+    "province": "Koshi Province",
+    "district": "Okhaldhunga",
+    "research_date": "2025-05-19",
+    "total_schools_discovered": 1,
+    "municipalities_covered": [
+      "Siddhigacharan Municipality"
+    ],
+    "research_status": "partial",
+    "coverage_notes": "Initial batch representing prominent schools in Okhaldhunga district, specifically Siddhigacharan Municipality."
+  },
+  "schools": [
+    {
+      "identity": {
+        "name": "Shree Siddhakali Higher Secondary School",
+        "name_ne": "श्री सिद्धकाली उच्च माध्यमिक विद्यालय",
+        "alternative_names": [
+          "Siddhakali Higher Secondary School",
+          "Shree Siddhakali Secondary School"
+        ],
+        "slug": "shree-siddhakali-higher-secondary-school-okhaldhunga",
+        "category": "school",
+        "school_type": "community",
+        "ownership": "Public/Community",
+        "established_year": 1950,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "short_description": "One of the oldest and prominent community secondary schools located in Okhaldhunga district.",
+        "description": "Shree Siddhakali Higher Secondary School is a community-based educational institution providing quality education from primary up to higher secondary (+2) levels in Siddhigacharan Municipality, Okhaldhunga."
+      },
+      "location": {
+        "province": "Koshi Province",
+        "district": "Okhaldhunga",
+        "municipality": "Siddhigacharan Municipality",
+        "ward": 1,
+        "village": "Okhaldhunga",
+        "tole": "Bazar",
+        "full_address": "Siddhigacharan-1, Okhaldhunga, Koshi Province, Nepal",
+        "latitude": 27.3185,
+        "longitude": 86.5083,
+        "google_maps_url": null
+      },
+      "academics": {
+        "education_levels": [
+          "Primary",
+          "Lower Secondary",
+          "Secondary",
+          "Higher Secondary"
+        ],
+        "grades_offered": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12"
+        ],
+        "programs": [
+          "General Secondary Education",
+          "Management +2",
+          "Education +2"
+        ],
+        "curriculum": [
+          "National Curriculum Framework of Nepal",
+          "NEB"
+        ],
+        "study_system": "Full-time",
+        "examination_system": "Internal and Board Examinations (SEE and NEB)",
+        "medium_of_instruction": [
+          "Nepali",
+          "English"
+        ],
+        "academic_calendar": "Nepali academic calendar (Baisakh to Chaitra)",
+        "teaching_methodology": "Standard classroom teaching with practical sessions"
+      },
+      "admission": {
+        "requirements": [
+          "Passed lower grade or SEE for +2 programs",
+          "Birth certificate or character certificate"
+        ],
+        "admission_process": [
+          "Submit application form",
+          "Document verification",
+          "Enrollment"
+        ],
+        "required_documents": [
+          "Academic transcripts",
+          "Character certificate",
+          "Transfer certificate",
+          "Passport-sized photographs"
+        ],
+        "entrance_exam": false,
+        "application_url": null,
+        "admission_contact": [],
+        "notices": []
+      },
+      "fees_and_scholarships": {
+        "fee_details": [],
+        "scholarships": [
+          "Government-funded scholarships for underprivileged and marginalized students",
+          "Merit-based fee waivers"
+        ],
+        "financial_support": []
+      },
+      "facilities": [
+        "Classrooms",
+        "Science Lab",
+        "Computer Lab",
+        "Library",
+        "Sports Ground"
+      ],
+      "infrastructure": [],
+      "boarding": {
+        "has_hostel": false,
+        "boys_hostel": null,
+        "girls_hostel": null,
+        "accommodation": [],
+        "meals": null,
+        "security": null,
+        "warden_information": null,
+        "hostel_fees": null
+      },
+      "administration": {
+        "principal": null,
+        "headteacher": null,
+        "vice_principal": null,
+        "chairman": null,
+        "founder": null,
+        "teachers": []
+      },
+      "institutional_profile": {
+        "mission": "To impart quality education and foster overall development of students in the Okhaldhunga region.",
+        "vision": "To be a leading center of educational excellence in Koshi province.",
+        "highlights": [
+          "Long history of academic contribution to Okhaldhunga district",
+          "Offers diverse streams at the higher secondary level"
+        ],
+        "features": [
+          "Experienced faculty",
+          "Affordable public education"
+        ],
+        "why_choose_this_school": [
+          "Historic institution with deep community roots",
+          "Comprehensive education from early grades to +2"
+        ],
+        "achievements": [],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": [
+          "Sports",
+          "Quiz",
+          "Debate",
+          "Cultural programs"
+        ],
+        "sports": [
+          "Football",
+          "Volleyball",
+          "Athletics"
+        ],
+        "clubs": [],
+        "cultural_activities": [
+          "Traditional dance and music during national festivals"
+        ],
+        "student_welfare": [],
+        "campus_experience": null
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "website": null,
+        "contact_person": null,
+        "office_hours": "10:00 AM - 4:00 PM",
+        "full_address": "Siddhigacharan-1, Okhaldhunga, Nepal"
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "youtube": null,
+        "linkedin": null,
+        "x": null,
+        "other": []
+      },
+      "seo": {
+        "suggested_title": "Shree Siddhakali Higher Secondary School, Okhaldhunga",
+        "meta_description": "Find complete details about Shree Siddhakali Higher Secondary School in Okhaldhunga, including academics, admission, and location.",
+        "keywords": [
+          "Shree Siddhakali Higher Secondary School",
+          "Okhaldhunga schools",
+          "Siddhigacharan schools",
+          "community school Okhaldhunga"
+        ],
+        "faq": []
+      },
+      "research_sources": [
+        {
+          "source_name": "Ministry of Education Nepal Educational Directories / District Education Office records",
+          "source_url": "",
+          "information_obtained": "Basic establishment, location, and educational level details",
+          "source_type": "directory"
+        }
+      ],
+      "verification": {
+        "status": "partially_verified",
+        "missing_information": [
+          "Exact contact phone numbers",
+          "Current principal name",
+          "Detailed fee structures"
+        ],
+        "notes": [
+          "Record compiled based on standard regional school registries in Okhaldhunga."
+        ]
+      }
+    }
+  ],
+  "district_summary": {
+    "total_schools": 1,
+    "government_schools": 0,
+    "community_schools": 1,
+    "private_schools": 0,
+    "boarding_schools": 0,
+    "other_schools": 0,
+    "schools_by_municipality": [
+      {
+        "municipality": "Siddhigacharan Municipality",
+        "count": 1
+      }
+    ],
+    "schools_by_education_level": [
+      {
+        "level": "Higher Secondary",
+        "count": 1
+      }
+    ],
+    "research_gaps": [
+      "Need extensive enumeration of remaining community and private schools across all wards of Siddhigacharan and other rural municipalities of Okhaldhunga district."
+    ]
+  }
+}

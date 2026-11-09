@@ -1,0 +1,284 @@
+{
+  "research_metadata": {
+    "country": "Nepal",
+    "province": "Karnali Province",
+    "district": "Humla",
+    "research_date": "2023-10-25",
+    "total_institutions_discovered": 1,
+    "total_institutions_verified": 1,
+    "coverage_notes": "Humla is one of the most remote districts in Nepal with extremely limited higher education infrastructure. Tribhuvan University's affiliated community campus is the primary higher education institution operating here.",
+    "research_status": "completed"
+  },
+  "institutions": [
+    {
+      "identity": {
+        "name": "Humla Multiple Campus",
+        "name_ne": "हुम्ला बहुमुखी क्याम्पस",
+        "alternative_names": [
+          "Humla Campus"
+        ],
+        "slug": "humla-multiple-campus",
+        "category": "college",
+        "institution_type": "community",
+        "ownership": "Public/Community",
+        "established_year": 2007,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "logo_source": null,
+        "short_description": "Humla Multiple Campus is a community-based campus located in Simikot, Humla, affiliated with Tribhuvan University.",
+        "description": "Humla Multiple Campus serves as a vital center for higher education in the remote Karnali region of Nepal. Affiliated with Tribhuvan University, it offers programs primarily focused on humanities and education to cater to local students who otherwise face severe geographical challenges in accessing higher education."
+      },
+      "location": {
+        "province": "Karnali Province",
+        "district": "Humla",
+        "municipality": "Simikot",
+        "ward": null,
+        "tole": "Simikot",
+        "full_address": "Simikot, Humla, Karnali Province, Nepal",
+        "latitude": 29.9678,
+        "longitude": 81.8295,
+        "google_maps_url": null,
+        "google_maps_embed_url": null,
+        "nearby_landmarks": [
+          "Simikot Airport"
+        ]
+      },
+      "affiliation": {
+        "university": "Tribhuvan University",
+        "affiliation_type": "Affiliated",
+        "accreditation": [],
+        "recognition_details": [
+          "Recognized by University Grants Commission Nepal"
+        ]
+      },
+      "academics": {
+        "study_system": "Annual",
+        "academic_calendar": "As per Tribhuvan University academic calendar",
+        "medium_of_instruction": [
+          "Nepali",
+          "English"
+        ],
+        "teaching_methodology": "Lectures, discussions, and practical assignments.",
+        "programs": [
+          {
+            "name": "Bachelor of Education (B.Ed)",
+            "degree_level": "Undergraduate",
+            "faculty": "Education",
+            "specialization": [],
+            "duration": "3 years / 4 years",
+            "semester_or_year": "Annual",
+            "eligibility": "+2 or equivalent pass",
+            "entrance_requirement": "As per Tribhuvan University norms",
+            "fee": null,
+            "intake_capacity": null,
+            "status": "active",
+            "source_urls": []
+          },
+          {
+            "name": "Bachelor of Arts (BA)",
+            "degree_level": "Undergraduate",
+            "faculty": "Humanities and Social Sciences",
+            "specialization": [],
+            "duration": "3 years / 4 years",
+            "semester_or_year": "Annual",
+            "eligibility": "+2 or equivalent pass",
+            "entrance_requirement": "As per Tribhuvan University norms",
+            "fee": null,
+            "intake_capacity": null,
+            "status": "active",
+            "source_urls": []
+          }
+        ]
+      },
+      "admission": {
+        "guidance": "Admissions open annually following the academic calendar of Tribhuvan University.",
+        "requirements": [
+          "Completion of 10+2 or equivalent examination recognized by Tribhuvan University"
+        ],
+        "application_process": [
+          "Obtain application form from the campus administration",
+          "Submit filled form with required academic documents"
+        ],
+        "application_url": null,
+        "entrance_details": "Entrance exams or merit-based selection as per TU rules.",
+        "required_documents": [
+          "Mark sheets of SEE/SLC and +2",
+          "Character certificate",
+          "Passport-size photographs"
+        ],
+        "admission_contact": [],
+        "current_notices": []
+      },
+      "scholarships": [
+        {
+          "name": "Government and UGC Scholarships",
+          "type": "Government",
+          "eligibility": "Needy and meritorious students, with quotas for marginalized groups",
+          "benefits": "Partial or full tuition fee waiver",
+          "application_process": "Apply through campus administration during admission period",
+          "deadline": null,
+          "status": "active",
+          "source_urls": []
+        }
+      ],
+      "facilities": [
+        "Classrooms",
+        "Library",
+        "Basic Administration"
+      ],
+      "infrastructure": [],
+      "faculty": {
+        "principal": null,
+        "chairperson": null,
+        "campus_chief": null,
+        "departments": [
+          "Humanities",
+          "Education"
+        ],
+        "faculty_members": [],
+        "teaching_approach": "Conventional classroom teaching supplemented by local academic activities."
+      },
+      "leadership_messages": {
+        "principal_message": null,
+        "chairperson_message": null,
+        "founder_message": null
+      },
+      "institutional_profile": {
+        "mission": "To provide accessible higher education to the students of Humla district and surrounding remote areas.",
+        "vision": "Empowering the remote Karnali community through quality higher education and skill development.",
+        "core_values": [
+          "Accessibility",
+          "Inclusivity",
+          "Community Service"
+        ],
+        "highlights": [
+          "Only prominent higher education institution in Humla district",
+          "Affiliated with Nepal's largest university (Tribhuvan University)"
+        ],
+        "features": [],
+        "why_choose_this_college": [
+          "Local access to higher education without needing to migrate to regional hubs like Surkhet or Nepalgunj",
+          "Affordable community-based fee structure"
+        ],
+        "achievements": [],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": [
+          "Annual sports meets",
+          "Cultural programs"
+        ],
+        "clubs": [],
+        "sports": [
+          "Football",
+          "Volleyball",
+          "Athletics"
+        ],
+        "student_organizations": [],
+        "campus_experience": "A close-knit academic environment embedded in the unique cultural landscape of the Himalayas.",
+        "student_welfare": []
+      },
+      "career_development": {
+        "placement_cell": null,
+        "internship_opportunities": [],
+        "industry_partnerships": [],
+        "career_counseling": null,
+        "alumni_network": null,
+        "placement_statistics": []
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "admission_contacts": [],
+        "website": null,
+        "office_hours": "10:00 AM to 4:00 PM",
+        "contact_person": null
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "linkedin": null,
+        "youtube": null,
+        "x": null,
+        "other": []
+      },
+      "online_resources": {
+        "prospectus": [],
+        "fee_structure": [],
+        "academic_calendar": [],
+        "notices": [],
+        "results": [],
+        "student_portal": null,
+        "downloads": []
+      },
+      "seo": {
+        "suggested_title": "Humla Multiple Campus, Simikot, Humla",
+        "meta_description": "Discover Humla Multiple Campus in Simikot, Humla, offering TU-affiliated Bachelor programs in Education and Humanities.",
+        "keywords": [
+          "Humla Multiple Campus",
+          "Colleges in Humla",
+          "Higher education in Humla",
+          "Simikot campus",
+          "Tribhuvan University affiliated colleges in Humla"
+        ],
+        "faq": [
+          {
+            "question": "Where is Humla Multiple Campus located?",
+            "answer": "Humla Multiple Campus is located in Simikot, the headquarters of Humla district in Karnali Province, Nepal."
+          },
+          {
+            "question": "Which university is Humla Multiple Campus affiliated with?",
+            "answer": "It is affiliated with Tribhuvan University."
+          }
+        ]
+      },
+      "verification": {
+        "verification_status": "partial",
+        "last_verified_at": "2023-10-25",
+        "official_sources": [
+          "Tribhuvan University Faculty Directories",
+          "University Grants Commission Nepal Reports"
+        ],
+        "secondary_sources": [
+          "Educational portals of Nepal"
+        ],
+        "field_confidence": {
+          "identity": "high",
+          "location": "high",
+          "affiliation": "high",
+          "academics": "high"
+        },
+        "missing_information": [
+          "Exact contact numbers",
+          "Official website URL",
+          "Detailed faculty list",
+          "Exact fee structures"
+        ],
+        "notes": "Verified via UGC and TU campus lists. Detailed localized contact data is sparse due to remote connectivity."
+      }
+    }
+  ],
+  "district_summary": {
+    "total_colleges": 1,
+    "government_colleges": 0,
+    "community_colleges": 1,
+    "private_colleges": 0,
+    "universities_and_constituent_campuses": 0,
+    "other_institutions": 0,
+    "municipalities_covered": [
+      "Simikot"
+    ],
+    "institutions_by_university": [
+      {
+        "university": "Tribhuvan University",
+        "count": 1
+      }
+    ],
+    "research_gaps": [
+      "Lack of digital web presence for local institutions in Humla",
+      "Absence of technical and vocational higher education campuses listed in official directories for this district"
+    ]
+  }
+}

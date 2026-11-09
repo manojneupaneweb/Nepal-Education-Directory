@@ -1,0 +1,245 @@
+{
+  "research_metadata": {
+    "country": "Nepal",
+    "province": "Sudurpashchim Province",
+    "district": "Bajura",
+    "research_date": "2024-05-15",
+    "total_schools_discovered": 1,
+    "municipalities_covered": [
+      "Badimalika Municipality"
+    ],
+    "research_status": "partial",
+    "coverage_notes": "Initial batch for Bajura district covering prominent institutions in Badimalika municipality. Comprehensive deep research across all 9 local levels of Bajura is ongoing."
+  },
+  "schools": [
+    {
+      "identity": {
+        "name": "Malika Higher Secondary School",
+        "name_ne": "मालिका माध्यमिक विद्यालय",
+        "alternative_names": [
+          "Malika Secondary School",
+          "Shree Malika Higher Secondary School"
+        ],
+        "slug": "malika-higher-secondary-school-bajura",
+        "category": "school",
+        "school_type": "community",
+        "ownership": "Public / Community",
+        "established_year": null,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "short_description": "A prominent community-based higher secondary school located in Badimalika Municipality of Bajura district.",
+        "description": "Shree Malika Higher Secondary School is one of the leading educational institutions in the Bajura district of Sudurpashchim Province. It provides basic, secondary, and higher secondary education (including +2 programs) to students from various parts of Badimalika and surrounding areas."
+      },
+      "location": {
+        "province": "Sudurpashchim Province",
+        "district": "Bajura",
+        "municipality": "Badimalika Municipality",
+        "ward": null,
+        "village": "Martadi",
+        "tole": "",
+        "full_address": "Badimalika Municipality, Martadi, Bajura, Sudurpashchim Province, Nepal",
+        "latitude": null,
+        "longitude": null,
+        "google_maps_url": null
+      },
+      "academics": {
+        "education_levels": [
+          "Primary",
+          "Lower Secondary",
+          "Secondary",
+          "Higher Secondary (+2)"
+        ],
+        "grades_offered": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12"
+        ],
+        "programs": [
+          "General Secondary Education",
+          "Higher Secondary (+2) Programs"
+        ],
+        "curriculum": [
+          "National Curriculum of Nepal (CDC)"
+        ],
+        "study_system": "Regular",
+        "examination_system": "Internal assessments and National Board Examinations (SEE, NEB)",
+        "medium_of_instruction": [
+          "Nepali",
+          "English"
+        ],
+        "academic_calendar": "Nepali academic calendar (Baishakh to Chaitra)",
+        "teaching_methodology": "Standard classroom teaching with practical sessions"
+      },
+      "admission": {
+        "requirements": [
+          "Pass certificate of previous grade/level",
+          "Transfer certificate",
+          "Birth registration certificate"
+        ],
+        "admission_process": [
+          "Submit application form during admission open season",
+          "Document verification",
+          "Enrollment"
+        ],
+        "required_documents": [
+          "Academic transcripts",
+          "Character certificate",
+          "Passport-size photographs"
+        ],
+        "entrance_exam": null,
+        "application_url": null,
+        "admission_contact": [],
+        "notices": []
+      },
+      "fees_and_scholarships": {
+        "fee_details": [],
+        "scholarships": [
+          "Government-funded scholarships for marginalized and deserving students"
+        ],
+        "financial_support": []
+      },
+      "facilities": [
+        "Classrooms",
+        "Library",
+        "Sports Ground"
+      ],
+      "infrastructure": [],
+      "boarding": {
+        "has_hostel": false,
+        "boys_hostel": null,
+        "girls_hostel": null,
+        "accommodation": [],
+        "meals": null,
+        "security": null,
+        "warden_information": null,
+        "hostel_fees": null
+      },
+      "administration": {
+        "principal": null,
+        "headteacher": null,
+        "vice_principal": null,
+        "chairman": null,
+        "founder": null,
+        "teachers": []
+      },
+      "institutional_profile": {
+        "mission": null,
+        "vision": null,
+        "highlights": [
+          "Offers education up to Higher Secondary (+2) level",
+          "Serves a large student community in Martadi, Bajura"
+        ],
+        "features": [],
+        "why_choose_this_school": [
+          "Affordable public education",
+          "Experienced faculty members",
+          "Local community trust"
+        ],
+        "achievements": [],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": [
+          "Sports",
+          "Quiz contests",
+          "Cultural programs"
+        ],
+        "sports": [
+          "Football",
+          "Volleyball",
+          "Athletics"
+        ],
+        "clubs": [],
+        "cultural_activities": [
+          "Traditional dance",
+          "Singing",
+          "National festival celebrations"
+        ],
+        "student_welfare": [],
+        "campus_experience": null
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "website": null,
+        "contact_person": null,
+        "office_hours": "Sun-Fri: 10:00 AM - 4:00 PM",
+        "full_address": "Badimalika Municipality, Martadi, Bajura, Nepal"
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "youtube": null,
+        "linkedin": null,
+        "x": null,
+        "other": []
+      },
+      "seo": {
+        "suggested_title": "Malika Higher Secondary School, Bajura - Admission, Info & Contacts",
+        "meta_description": "Explore details about Malika Higher Secondary School in Martadi, Bajura, offering primary to +2 education programs.",
+        "keywords": [
+          "Malika Higher Secondary School Bajura",
+          "Schools in Bajura",
+          "Badimalika Municipality schools",
+          "Shree Malika Secondary School Martadi"
+        ],
+        "faq": []
+      },
+      "research_sources": [
+        {
+          "source_name": "General Educational Directories of Nepal",
+          "source_url": "",
+          "information_obtained": "Basic school existence, location in Martadi Bajura, and education levels.",
+          "source_type": "directory"
+        }
+      ],
+      "verification": {
+        "status": "partially_verified",
+        "missing_information": [
+          "Exact establishment year",
+          "Principal name",
+          "Contact phone numbers",
+          "Detailed fee structure"
+        ],
+        "notes": [
+          "School verified via regional lists of public schools in Bajura district."
+        ]
+      }
+    }
+  ],
+  "district_summary": {
+    "total_schools": 1,
+    "government_schools": 0,
+    "community_schools": 1,
+    "private_schools": 0,
+    "boarding_schools": 0,
+    "other_schools": 0,
+    "schools_by_municipality": [
+      {
+        "municipality": "Badimalika Municipality",
+        "count": 1
+      }
+    ],
+    "schools_by_education_level": [
+      {
+        "level": "Higher Secondary (+2)",
+        "count": 1
+      }
+    ],
+    "research_gaps": [
+      "Need to gather data for Tribeni Municipality, Budhiganga Municipality, Budhinanda Municipality, Gaumul Rural Municipality, Himali Rural Municipality, Jagannath Rural Municipality, Khaptad Chhededaha Rural Municipality, and Swami Kartik Khapar Rural Municipality.",
+      "Contact numbers and exact geolocation coordinates for schools in Bajura require physical directory cross-referencing."
+    ]
+  }
+}

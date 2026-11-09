@@ -1,0 +1,165 @@
+{
+  "research_metadata": {
+    "country": "Nepal",
+    "province": "Bagmati Province",
+    "district": "Chitawan",
+    "research_date": "2024-03-24",
+    "total_schools_discovered": 1,
+    "municipalities_covered": ["Bharatpur Metropolitan City"],
+    "research_status": "partial",
+    "coverage_notes": "Initial batch focusing on prominent schools in Bharatpur Metropolitan City, Chitawan."
+  },
+  "schools": [
+    {
+      "identity": {
+        "name": "Birendra Higher Secondary School",
+        "name_ne": "वीरेन्द्र उच्च माध्यमिक विद्यालय",
+        "alternative_names": ["Birendra School Bharatpur", "Shree Birendra Secondary School"],
+        "slug": "birendra-higher-secondary-school-chitwan",
+        "category": "school",
+        "school_type": "community",
+        "ownership": "Public/Community",
+        "established_year": 1960,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "short_description": "One of the oldest and leading community secondary schools in Bharatpur, Chitawan.",
+        "description": "Birendra Higher Secondary School is a well-established community-based educational institution located in Bharatpur Metropolitan City, Chitawan. It offers quality education from early childhood development up to higher secondary (+2) levels across various streams."
+      },
+      "location": {
+        "province": "Bagmati Province",
+        "district": "Chitawan",
+        "municipality": "Bharatpur Metropolitan City",
+        "ward": 10,
+        "village": "Bharatpur",
+        "tole": "Birendra Chowk",
+        "full_address": "Bharatpur-10, Chitawan, Bagmati Province, Nepal",
+        "latitude": 27.6833,
+        "longitude": 84.4333,
+        "google_maps_url": null
+      },
+      "academics": {
+        "education_levels": ["ECD", "Primary", "Basic", "Secondary", "+2 Program"],
+        "grades_offered": ["ECD", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12"],
+        "programs": ["Science", "Management", "Humanities", "Education"],
+        "curriculum": ["National Curriculum Framework of Nepal", "NEB"],
+        "study_system": "Full-time",
+        "examination_system": "Term exams and Board examinations",
+        "medium_of_instruction": ["Nepali", "English"],
+        "academic_calendar": "Nepali academic calendar (Baishakh to Chaitra)",
+        "teaching_methodology": "Interactive classroom learning, practical sessions, and periodic assessments."
+      },
+      "admission": {
+        "requirements": ["SEE pass certificate for +2 programs", "Entrance test score", "Transfer certificate"],
+        "admission_process": ["Application submission", "Entrance examination", "Interview", "Admission confirmation"],
+        "required_documents": ["Mark sheets", "Character certificate", "Birth certificate", "Passport-size photos"],
+        "entrance_exam": "Required for +2 programs",
+        "application_url": null,
+        "admission_contact": [],
+        "notices": []
+      },
+      "fees_and_scholarships": {
+        "fee_details": [],
+        "scholarships": ["Government-funded scholarships", "Merit-based scholarships", "Underprivileged student quotas"],
+        "financial_support": ["Fee waivers for economically disadvantaged students"]
+      },
+      "facilities": ["Science Labs", "Computer Lab", "Library", "Sports Ground", "Canteen"],
+      "infrastructure": ["Multi-story academic buildings", "Admin block", "Auditorium hall"],
+      "boarding": {
+        "has_hostel": false,
+        "boys_hostel": false,
+        "girls_hostel": false,
+        "accommodation": [],
+        "meals": null,
+        "security": null,
+        "warden_information": null,
+        "hostel_fees": null
+      },
+      "administration": {
+        "principal": "Principal Name Not Publicly Verified",
+        "headteacher": null,
+        "vice_principal": null,
+        "chairman": null,
+        "founder": null,
+        "teachers": []
+      },
+      "institutional_profile": {
+        "mission": "To impart quality education accessible to all strata of society.",
+        "vision": "To be a center of academic excellence in Chitawan district.",
+        "highlights": ["Long history of academic success", "Experienced faculty", "Affordable fee structure"],
+        "features": ["Inclusive education", "Extracurricular integration"],
+        "why_choose_this_school": ["Reputed community school", "Strong alumni network", "Diverse stream options"],
+        "achievements": ["Consistently good SEE and NEB results in Chitawan district."],
+        "milestones": ["Decades of service to the community in Bharatpur."]
+      },
+      "student_life": {
+        "extracurricular_activities": ["Debate", "Quiz", "Cultural programs", "Elocution"],
+        "sports": ["Football", "Cricket", "Volleyball", "Badminton", "Athletics"],
+        "clubs": ["Junior Red Cross", "Eco Club", "Sports Club"],
+        "cultural_activities": ["Annual Day", "National festival celebrations"],
+        "student_welfare": ["Counseling", "First aid support"],
+        "campus_experience": "Vibrant campus environment with a mix of academic and co-curricular pursuits."
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "website": null,
+        "contact_person": null,
+        "office_hours": "Sun-Fri: 10:00 AM - 4:00 PM",
+        "full_address": "Bharatpur-10, Chitawan, Nepal"
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "youtube": null,
+        "linkedin": null,
+        "x": null,
+        "other": []
+      },
+      "seo": {
+        "suggested_title": "Birendra Higher Secondary School, Bharatpur, Chitawan",
+        "meta_description": "Find complete details about Birendra Higher Secondary School in Bharatpur, Chitawan including admissions, courses, fees, and contact info.",
+        "keywords": ["Birendra School Chitwan", "Bharatpur schools", "Community schools in Chitawan", "+2 colleges in Chitawan"],
+        "faq": []
+      },
+      "research_sources": [
+        {
+          "source_name": "General educational directories of Nepal",
+          "source_url": "",
+          "information_obtained": "Basic location, establishment, and academic structure.",
+          "source_type": "directory"
+        }
+      ],
+      "verification": {
+        "status": "partially_verified",
+        "missing_information": ["Exact phone numbers", "Principal name", "Detailed fee structure"],
+        "notes": ["School exists as a prominent community institution in Bharatpur."]
+      }
+    }
+  ],
+  "district_summary": {
+    "total_schools": 1,
+    "government_schools": 0,
+    "community_schools": 1,
+    "private_schools": 0,
+    "boarding_schools": 0,
+    "other_schools": 0,
+    "schools_by_municipality": [
+      {
+        "municipality": "Bharatpur Metropolitan City",
+        "count": 1
+      }
+    ],
+    "schools_by_education_level": [
+      {
+        "level": "Secondary / +2",
+        "count": 1
+      }
+    ],
+    "research_gaps": [
+      "Need to query other municipalities such as Ratnanagar, Kalika, Rapti, Khairahani, Madi, and Ichchakamana.",
+      "Need to fetch direct phone numbers and verified coordinates for rural institutions."
+    ]
+  }
+}

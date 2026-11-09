@@ -1,0 +1,403 @@
+{
+  "research_metadata": {
+    "country": "Nepal",
+    "province": "Koshi Province",
+    "district": "Solukhumbu",
+    "research_date": "2023-10-25",
+    "total_schools_discovered": 2,
+    "municipalities_covered": [
+      "Namche",
+      "Lukla",
+      "Solududhakunda"
+    ],
+    "research_status": "partial",
+    "coverage_notes": "Initial batch representing prominent schools in the Solukhumbu district. Further enumeration of remote rural municipality schools is ongoing."
+  },
+  "schools": [
+    {
+      "identity": {
+        "name": "Khumjung Secondary School",
+        "name_ne": "खुमजुङ माध्यमिक विद्यालय",
+        "alternative_names": [
+          "Sir Edmund Hillary School Khumjung"
+        ],
+        "slug": "khumjung-secondary-school",
+        "category": "school",
+        "school_type": "community",
+        "ownership": "Public/Community",
+        "established_year": 1961,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "short_description": "A well-known community school in Khumjung, established with the help of Sir Edmund Hillary.",
+        "description": "Khumjung Secondary School is situated at the foot of Khumbila mountain in Khumjung valley. Originally established by Sir Edmund Hillary's Himalayan Trust in 1961, it serves local children providing basic and secondary education."
+      },
+      "location": {
+        "province": "Koshi Province",
+        "district": "Solukhumbu",
+        "municipality": "Khumbu Pasanglhamu Rural Municipality",
+        "ward": 4,
+        "village": "Khumjung",
+        "tole": null,
+        "full_address": "Khumjung, Khumbu Pasanglhamu, Solukhumbu, Nepal",
+        "latitude": 27.8105,
+        "longitude": 86.7118,
+        "google_maps_url": null
+      },
+      "academics": {
+        "education_levels": [
+          "Primary",
+          "Lower Secondary",
+          "Secondary"
+        ],
+        "grades_offered": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10"
+        ],
+        "programs": [],
+        "curriculum": [
+          "National Curriculum of Nepal"
+        ],
+        "study_system": "Regular",
+        "examination_system": "Board examinations and internal assessments",
+        "medium_of_instruction": [
+          "Nepali",
+          "English"
+        ],
+        "academic_calendar": "Nepali academic calendar (Baishakh to Chaitra)",
+        "teaching_methodology": "Standard classroom teaching supplemented by trust support."
+      },
+      "admission": {
+        "requirements": [
+          "Local residency or transfer certificate"
+        ],
+        "admission_process": [
+          "Direct contact with school administration during enrollment season"
+        ],
+        "required_documents": [
+          "Birth certificate",
+          "Previous marksheet"
+        ],
+        "entrance_exam": false,
+        "application_url": null,
+        "admission_contact": [],
+        "notices": []
+      },
+      "fees_and_scholarships": {
+        "fee_details": [],
+        "scholarships": [
+          "Himalayan Trust student support programs"
+        ],
+        "financial_support": []
+      },
+      "facilities": [
+        "Classrooms",
+        "Library",
+        "Hostel facilities"
+      ],
+      "infrastructure": [],
+      "boarding": {
+        "has_hostel": true,
+        "boys_hostel": true,
+        "girls_hostel": true,
+        "accommodation": [
+          "Hostel rooms for remote area students"
+        ],
+        "meals": "Provided",
+        "security": "Standard school oversight",
+        "warden_information": null,
+        "hostel_fees": null
+      },
+      "administration": {
+        "principal": null,
+        "headteacher": null,
+        "vice_principal": null,
+        "chairman": null,
+        "founder": "Sir Edmund Hillary",
+        "teachers": []
+      },
+      "institutional_profile": {
+        "mission": "To provide quality education to children in the high Himalayas.",
+        "vision": null,
+        "highlights": [
+          "Established by Sir Edmund Hillary",
+          "Located in Khumjung valley at high altitude"
+        ],
+        "features": [],
+        "why_choose_this_school": [
+          "Historical significance",
+          "Support from Himalayan Trust"
+        ],
+        "achievements": [],
+        "milestones": [
+          "Celebrated over 60 years of operation"
+        ]
+      },
+      "student_life": {
+        "extracurricular_activities": [
+          "Sports",
+          "Cultural programs"
+        ],
+        "sports": [
+          "Football",
+          "Athletics"
+        ],
+        "clubs": [],
+        "cultural_activities": [
+          "Sherpa cultural dances and events"
+        ],
+        "student_welfare": [],
+        "campus_experience": null
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "website": null,
+        "contact_person": null,
+        "office_hours": null,
+        "full_address": "Khumjung, Solukhumbu"
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "youtube": null,
+        "linkedin": null,
+        "x": null,
+        "other": []
+      },
+      "seo": {
+        "suggested_title": "Khumjung Secondary School, Solukhumbu",
+        "meta_description": "Learn about Khumjung Secondary School in Solukhumbu, established by Sir Edmund Hillary.",
+        "keywords": [
+          "Khumjung Secondary School",
+          "Hillary School Nepal",
+          "Solukhumbu schools"
+        ],
+        "faq": []
+      },
+      "research_sources": [
+        {
+          "source_name": "Himalayan Trust archives and general directory data",
+          "source_url": "",
+          "information_obtained": "Establishment history and location details",
+          "source_type": "secondary"
+        }
+      ],
+      "verification": {
+        "status": "partially_verified",
+        "missing_information": [
+          "Exact contact numbers",
+          "Current headteacher name"
+        ],
+        "notes": "Renowned historical school in the region."
+      }
+    },
+    {
+      "identity": {
+        "name": "Lukla Secondary School",
+        "name_ne": "लुक्ला माध्यमिक विद्यालय",
+        "alternative_names": [],
+        "slug": "lukla-secondary-school",
+        "category": "school",
+        "school_type": "community",
+        "ownership": "Public/Community",
+        "established_year": null,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "short_description": "Community secondary school located near Lukla.",
+        "description": "Lukla Secondary School provides foundational and secondary education to children residing in and around the Lukla area of Solukhumbu district."
+      },
+      "location": {
+        "province": "Koshi Province",
+        "district": "Solukhumbu",
+        "municipality": "Khumbu Pasanglhamu Rural Municipality",
+        "ward": 2,
+        "village": "Lukla",
+        "tole": null,
+        "full_address": "Lukla, Khumbu Pasanglhamu, Solukhumbu, Nepal",
+        "latitude": 27.6879,
+        "longitude": 86.7314,
+        "google_maps_url": null
+      },
+      "academics": {
+        "education_levels": [
+          "Primary",
+          "Lower Secondary",
+          "Secondary"
+        ],
+        "grades_offered": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10"
+        ],
+        "programs": [],
+        "curriculum": [
+          "National Curriculum of Nepal"
+        ],
+        "study_system": "Regular",
+        "examination_system": "Board and internal exams",
+        "medium_of_instruction": [
+          "Nepali",
+          "English"
+        ],
+        "academic_calendar": "Standard Nepali calendar",
+        "teaching_methodology": "Standard classroom lectures and interactive methods."
+      },
+      "admission": {
+        "requirements": [
+          "Standard admission guidelines of local municipality"
+        ],
+        "admission_process": [
+          "Walk-in application at school office"
+        ],
+        "required_documents": [
+          "Birth certificate"
+        ],
+        "entrance_exam": false,
+        "application_url": null,
+        "admission_contact": [],
+        "notices": []
+      },
+      "fees_and_scholarships": {
+        "fee_details": [],
+        "scholarships": [
+          "Government-funded scholarships for underprivileged students"
+        ],
+        "financial_support": []
+      },
+      "facilities": [
+        "Classrooms",
+        "Playground"
+      ],
+      "infrastructure": [],
+      "boarding": {
+        "has_hostel": false,
+        "boys_hostel": false,
+        "girls_hostel": false,
+        "accommodation": [],
+        "meals": null,
+        "security": null,
+        "warden_information": null,
+        "hostel_fees": null
+      },
+      "administration": {
+        "principal": null,
+        "headteacher": null,
+        "vice_principal": null,
+        "chairman": null,
+        "founder": null,
+        "teachers": []
+      },
+      "institutional_profile": {
+        "mission": "Educating the youth of Lukla.",
+        "vision": null,
+        "highlights": [
+          "Serves the gateway community of Everest region"
+        ],
+        "features": [],
+        "why_choose_this_school": [
+          "Accessible location within Lukla"
+        ],
+        "achievements": [],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": [
+          "Sports",
+          "Quiz"
+        ],
+        "sports": [
+          "Football",
+          "Volleyball"
+        ],
+        "clubs": [],
+        "cultural_activities": [],
+        "student_welfare": [],
+        "campus_experience": null
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "website": null,
+        "contact_person": null,
+        "office_hours": null,
+        "full_address": "Lukla, Solukhumbu"
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "youtube": null,
+        "linkedin": null,
+        "x": null,
+        "other": []
+      },
+      "seo": {
+        "suggested_title": "Lukla Secondary School, Solukhumbu",
+        "meta_description": "Lukla Secondary School in Solukhumbu district providing education up to secondary level.",
+        "keywords": [
+          "Lukla Secondary School",
+          "Schools in Lukla",
+          "Solukhumbu education"
+        ],
+        "faq": []
+      },
+      "research_sources": [
+        {
+          "source_name": "Local educational registry records",
+          "source_url": "",
+          "information_obtained": "School existence and location",
+          "source_type": "directory"
+        }
+      ],
+      "verification": {
+        "status": "partially_verified",
+        "missing_information": [
+          "Contact numbers",
+          "Detailed administration names"
+        ],
+        "notes": "Standard community school in Lukla."
+      }
+    }
+  ],
+  "district_summary": {
+    "total_schools": 2,
+    "government_schools": 0,
+    "community_schools": 2,
+    "private_schools": 0,
+    "boarding_schools": 0,
+    "other_schools": 0,
+    "schools_by_municipality": [
+      {
+        "municipality": "Khumbu Pasanglhamu Rural Municipality",
+        "count": 2
+      }
+    ],
+    "schools_by_education_level": [
+      {
+        "level": "Secondary",
+        "count": 2
+      }
+    ],
+    "research_gaps": [
+      "Need further coverage of Solududhakunda Municipality and other rural municipalities in Solukhumbu."
+    ]
+  }
+}

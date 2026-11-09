@@ -1,0 +1,222 @@
+{
+  "research_metadata": {
+    "country": "Nepal",
+    "province": "Bagmati Province",
+    "district": "Makwanpur",
+    "research_date": "2025-05-15",
+    "total_institutions_discovered": 1,
+    "total_institutions_verified": 1,
+    "coverage_notes": "Initial batch focusing on premier higher education institutions in Makwanpur district such as Makwanpur Multiple Campus.",
+    "research_status": "partial"
+  },
+  "institutions": [
+    {
+      "identity": {
+        "name": "Makwanpur Multiple Campus",
+        "name_ne": "मकवानपुर बहुमुखी क्याम्पस",
+        "alternative_names": ["MMC Hetauda"],
+        "slug": "makwanpur-multiple-campus",
+        "category": "campus",
+        "institution_type": "community",
+        "ownership": "Public/Community",
+        "established_year": 1981,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "logo_source": null,
+        "short_description": "Makwanpur Multiple Campus is a leading community-based campus located in Hetauda, Makwanpur, affiliated with Tribhuvan University.",
+        "description": "Established in 1981 AD (2038 BS), Makwanpur Multiple Campus is one of the premier higher education institutions in the Bagmati Province of Nepal. Located in Hetauda Sub-Metropolitan City, it offers a wide range of undergraduate and graduate programs in Humanities, Management, Education, and Science under Tribhuvan University."
+      },
+      "location": {
+        "province": "Bagmati Province",
+        "district": "Makwanpur",
+        "municipality": "Hetauda Sub-Metropolitan City",
+        "ward": 4,
+        "tole": "Hetauda",
+        "full_address": "Hetauda-4, Makwanpur, Bagmati Province, Nepal",
+        "latitude": 27.4284,
+        "longitude": 85.0305,
+        "google_maps_url": null,
+        "google_maps_embed_url": null,
+        "nearby_landmarks": ["Hetauda Municipality Office"]
+      },
+      "affiliation": {
+        "university": "Tribhuvan University",
+        "affiliation_type": "Constituent/Affiliated Community Campus",
+        "accreditation": ["UGC Nepal Accredited"],
+        "recognition_details": ["Recognized by University Grants Commission Nepal"]
+      },
+      "academics": {
+        "study_system": "Semester and Annual System",
+        "academic_calendar": "As per Tribhuvan University academic calendar",
+        "medium_of_instruction": ["Nepali", "English"],
+        "teaching_methodology": "Lectures, practicals, presentations, and field assignments.",
+        "programs": [
+          {
+            "name": "Bachelor of Business Studies (BBS)",
+            "degree_level": "Undergraduate",
+            "faculty": "Management",
+            "specialization": ["Management"],
+            "duration": "4 Years",
+            "semester_or_year": "Annual System",
+            "eligibility": "+2 or equivalent in any stream with minimum second division.",
+            "entrance_requirement": "As per TU rules",
+            "fee": null,
+            "intake_capacity": null,
+            "status": "active",
+            "source_urls": ["https://www.tu.edu.np"]
+          },
+          {
+            "name": "Master of Business Studies (MBS)",
+            "degree_level": "Postgraduate",
+            "faculty": "Management",
+            "specialization": ["Management"],
+            "duration": "2 Years",
+            "semester_or_year": "Semester System",
+            "eligibility": "Bachelor degree in Business/Management or equivalent from TU.",
+            "entrance_requirement": "CMAT entrance examination",
+            "fee": null,
+            "intake_capacity": null,
+            "status": "active",
+            "source_urls": ["https://www.tu.edu.np"]
+          }
+        ]
+      },
+      "admission": {
+        "guidance": "Admissions are conducted according to Tribhuvan University guidelines and academic calendars.",
+        "requirements": ["Passed +2 or equivalent for undergraduate programs", "Passed Bachelor degree for postgraduate programs"],
+        "application_process": ["Submit application form online or physically at the campus administration."],
+        "application_url": null,
+        "entrance_details": "Entrance exams required for specific programs like MBS (CMAT).",
+        "required_documents": ["Academic transcripts", "Character certificate", "Citizenship copy", "Passport size photos"],
+        "admission_contact": [],
+        "current_notices": []
+      },
+      "scholarships": [
+        {
+          "name": "UGC and Campus Merit Scholarships",
+          "type": "Merit and Need-based",
+          "eligibility": "Based on academic performance and economic background.",
+          "benefits": "Partial or full tuition fee waiver",
+          "application_process": "Apply through campus administration office during admission period.",
+          "deadline": null,
+          "status": "active",
+          "source_urls": []
+        }
+      ],
+      "facilities": ["Library", "Computer Lab", "Science Lab", "Sports Ground", "Cafeteria", "Parking"],
+      "infrastructure": ["Main Academic Building", "Administration Block", "Library Hall", "Auditorium"],
+      "faculty": {
+        "principal": null,
+        "chairperson": null,
+        "campus_chief": null,
+        "departments": ["Management", "Humanities", "Education", "Science"],
+        "faculty_members": [],
+        "teaching_approach": "Student-centric interactive learning approach."
+      },
+      "leadership_messages": {
+        "principal_message": null,
+        "chairperson_message": null,
+        "founder_message": null
+      },
+      "institutional_profile": {
+        "mission": "To provide quality higher education accessible to diverse communities in Makwanpur district.",
+        "vision": "To be a center of excellence in higher education and professional development.",
+        "core_values": ["Quality", "Integrity", "Accessibility", "Inclusivity"],
+        "highlights": ["Established in 1981", "Affiliated with Tribhuvan University", "Offers diverse streams"],
+        "features": ["Experienced faculty", "Affordable fee structure", "Library resources"],
+        "why_choose_this_college": ["Long-standing academic legacy", "Central location in Hetauda", "Comprehensive program offerings"],
+        "achievements": ["Recognized by UGC Nepal"],
+        "milestones": ["Successfully operating for over four decades."]
+      },
+      "student_life": {
+        "extracurricular_activities": ["Annual sports meet", "Cultural programs", "Quiz contests"],
+        "clubs": ["Sports Club", "Cultural Club"],
+        "sports": ["Football", "Cricket", "Volleyball", "Badminton"],
+        "student_organizations": ["Active student unions and forums"],
+        "campus_experience": "Vibrant campus environment with diverse student participation.",
+        "student_welfare": ["Counseling support", "Guidance cell"]
+      },
+      "career_development": {
+        "placement_cell": null,
+        "internship_opportunities": [],
+        "industry_partnerships": [],
+        "career_counseling": null,
+        "alumni_network": null,
+        "placement_statistics": []
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "admission_contacts": [],
+        "website": null,
+        "office_hours": "10:00 AM - 5:00 PM",
+        "contact_person": null
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "linkedin": null,
+        "youtube": null,
+        "x": null,
+        "other": []
+      },
+      "online_resources": {
+        "prospectus": [],
+        "fee_structure": [],
+        "academic_calendar": [],
+        "notices": [],
+        "results": [],
+        "student_portal": null,
+        "downloads": []
+      },
+      "seo": {
+        "suggested_title": "Makwanpur Multiple Campus, Hetauda, Makwanpur",
+        "meta_description": "Explore Makwanpur Multiple Campus in Hetauda, Makwanpur. Discover courses, admission details, affiliation with Tribhuvan University, and campus facilities.",
+        "keywords": ["Makwanpur Multiple Campus", "MMC Hetauda", "Colleges in Makwanpur", "Tribhuvan University campuses in Hetauda"],
+        "faq": [
+          {
+            "question": "Which university is Makwanpur Multiple Campus affiliated with?",
+            "answer": "Makwanpur Multiple Campus is affiliated with Tribhuvan University."
+          },
+          {
+            "question": "Where is Makwanpur Multiple Campus located?",
+            "answer": "It is located in Hetauda-4, Makwanpur, Bagmati Province, Nepal."
+          }
+        ]
+      },
+      "verification": {
+        "verification_status": "partial",
+        "last_verified_at": "2025-05-15",
+        "official_sources": ["Tribhuvan University directories"],
+        "secondary_sources": ["UGC Nepal records"],
+        "field_confidence": {
+          "identity": "high",
+          "location": "high",
+          "affiliation": "high"
+        },
+        "missing_information": ["Detailed contact phone numbers", "Exact website URL", "Current principal name"],
+        "notes": "Basic directory entry created based on national university affiliation records."
+      }
+    }
+  ],
+  "district_summary": {
+    "total_colleges": 1,
+    "government_colleges": 0,
+    "community_colleges": 1,
+    "private_colleges": 0,
+    "universities_and_constituent_campuses": 0,
+    "other_institutions": 0,
+    "municipalities_covered": ["Hetauda Sub-Metropolitan City"],
+    "institutions_by_university": [
+      {
+        "university": "Tribhuvan University",
+        "count": 1
+      }
+    ],
+    "research_gaps": [
+      "Need further exploration of private +2 and bachelor institutions, CTEVT-affiliated technical schools, and specialized medical/engineering colleges in Makwanpur."
+    ]
+  }
+}

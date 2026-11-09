@@ -1,0 +1,593 @@
+{
+    "research_metadata": {
+        "country": "Nepal",
+        "province": "Koshi Province",
+        "district": "Solukhumbu",
+        "research_date": "2026-11-07",
+        "total_institutions_discovered": 8,
+        "research_status": "completed",
+        "collection_mode": "responses"
+    },
+    "institutions": [
+        {
+            "overview": {
+                "name": "Solukhumbu Multiple Campus",
+                "name_ne": "सोलुखुम्बु बहुमुखी क्याम्पस",
+                "slug": "solukhumbu-multiple-campus",
+                "ownership": "community",
+                "established_year": 1993,
+                "university": "Tribhuvan University",
+                "municipality": "Solududhkunda Municipality",
+                "address": "Salleri, Solududhkunda Municipality Ward No. 5, Solukhumbu",
+                "description": "Community, non-profit campus at the district headquarters, established in 1993 AD (2050 BS) with financial support from the Himalayan Trust associated with Sir Edmund Hillary and Ang Rita Sherpa. It is TU-affiliated and also runs NEB +2. Bachelor affiliation timeline published by the campus: B.Ed. 1996, one-year B.Ed. 2000, B.A. 2009, BBS 2013. Master's in Education began in 2005 in Nepali, Health, and Educational Planning and Management, with English education affiliation in 2017. It serves students from Solukhumbu, Okhaldhunga, and Khotang. Nepal Public Campus Association lists QAA status as in process. Campus chief published as Uddab Kumar Sharma. A Himalayan Trust project note dates establishment support to 1991.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://solucampus.edu.np/about",
+                    "https://solucampus.edu.np/",
+                    "https://www.collegenp.com/college/solukhumbu-multiple-campus",
+                    "https://edusanjal.com/college/solukhumbu-multiple-campus/",
+                    "https://npca.edu.np/campus_details/195",
+                    "https://www.educatenepal.com/institutions/detail/solukhumbu-multiple-campus",
+                    "https://himalayantrust.org.np/completed_project/solukhumbu-multiple-campus/"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Arts (BA)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Humanities and Social Sciences",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/solukhumbu-multiple-campus-bachelor-of-arts-ba"
+                },
+                {
+                    "name": "Bachelor of Education (B.Ed.)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/solukhumbu-multiple-campus-bachelor-of-education-bed"
+                },
+                {
+                    "name": "One-Year Bachelor of Education (B.Ed.)",
+                    "level": "Bachelor",
+                    "duration": "1 year",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://solucampus.edu.np/about"
+                },
+                {
+                    "name": "Bachelor of Business Studies (BBS)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/solukhumbu-multiple-campus-bachelor-of-business-studies-bbs"
+                },
+                {
+                    "name": "Master of Education (M.Ed.)",
+                    "level": "Master",
+                    "duration": null,
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://solucampus.edu.np/about"
+                }
+            ],
+            "facilities": [
+                "Library with open-access and e-lab facility",
+                "Computer lab",
+                "Internet",
+                "Multimedia",
+                "Classrooms",
+                "Playground",
+                "Covered hall",
+                "Conference hall",
+                "Cafeteria",
+                "Science lab",
+                "Drinking water",
+                "Toilet",
+                "Counselling",
+                "Scholarships",
+                "Skill development training",
+                "Sports",
+                "Educational tour",
+                "Journal",
+                "ECA",
+                "Alumni",
+                "Club"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [
+                {
+                    "title": "Notice regarding filling up the exam form for M.Ed./MSSEd 4th Semester 2083",
+                    "date": "2026-09-11",
+                    "summary": "Campus notice on exam-form filling for M.Ed./MSSEd fourth semester.",
+                    "source_url": "https://solucampus.edu.np/news_detail/notice-regarding-filling-up-the-exam-form-for-medmssed-4th-semester-2083-84"
+                },
+                {
+                    "title": "Exam Form Open: 4 Yrs B.B.S., B.Ed., B.Sc., B.A. First Year Partial-2082",
+                    "date": "2026-09-06",
+                    "summary": "Campus notice that the first-year partial exam form is open.",
+                    "source_url": "https://solucampus.edu.np/news_detail/exam-form-open-4-yrs-bbs-bed-bsc-ba-first-year-partial-2082-83"
+                },
+                {
+                    "title": "Exam Form Open: 4-Year B.Ed., BBS, BA, B.S., BFA Third Year Regular and Partial-2083",
+                    "date": "2026-08-25",
+                    "summary": "Campus notice that the third-year regular and partial exam form is open.",
+                    "source_url": "https://solucampus.edu.np/news_detail/exam-form-open-4-year-bed-bbs-ba-bs-bfathird-year-regular-and-partial-2083-82"
+                },
+                {
+                    "title": "Exam Schedule: 4 Yrs B.A., BBS, B.Sc., B.Ed., BFA Second Year Regular-2083",
+                    "date": "2026-08-18",
+                    "summary": "Campus notice that the second-year regular exam schedule has been published.",
+                    "source_url": "https://solucampus.edu.np/news_detail/exam-schedule-4-yrs-ba-bbs-bsc-bed-bfa-second-year-regular-2083-published-81"
+                },
+                {
+                    "title": "Community Outreach Program: Free Eye Checkup, Treatment, and Counselling Service",
+                    "date": "2026-03-22",
+                    "summary": "Extracurricular and Community Development Committee outreach event.",
+                    "source_url": "https://solucampus.edu.np/news_detail/community-outreach-program-free-eye-checkup-treatment-and-counselling-service-69"
+                },
+                {
+                    "title": "Administrative building construction started",
+                    "date": "2025-12-18",
+                    "summary": "Construction of an administrative building at Solududhkunda-5 began with a published budget of NPR 41,982,150 including VAT, stated as a full grant from Solududhkunda Municipality, with a published completion target of 2083 Poush 30.",
+                    "source_url": "https://radionepalonline.com/2025/12/18/665986.html"
+                }
+            ],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-38-520456",
+                    "+977-38-520225",
+                    "+977-9851010556",
+                    "+977-9841635337",
+                    "+977-9842848775",
+                    "9741063550"
+                ],
+                "emails": [
+                    "solucampustu@gmail.com",
+                    "info@solucampus.edu.np"
+                ],
+                "website": "https://solucampus.edu.np",
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Himal Darshan Campus",
+                "name_ne": null,
+                "slug": "himal-darshan-campus",
+                "ownership": "community",
+                "established_year": null,
+                "university": "Tribhuvan University",
+                "municipality": "Nechasalyan Rural Municipality",
+                "address": "Nechasalyan Rural Municipality-3, Necha, Solukhumbu",
+                "description": "Community campus affiliated with Tribhuvan University and described as recognized by the University Grants Commission. It runs B.Ed. and is linked with Himal Darshan Secondary School for classes 1 to 12. Edusanjal lists the location as Necha Batase, Nechasalyan, and reports 60 students studying B.Ed. It appears on UGC community-campus grant lists as Himal Darsan Campus, Nechabatase.",
+                "mission": "To prepare competent, caring, and reflective teachers who can serve local schools and contribute to community development.",
+                "vision": "To be a trusted center for teacher education in Solukhumbu—reliable in guidance, consistent in learning outcomes, and supportive of every student’s growth.",
+                "source_urls": [
+                    "https://www.collegenp.com/college/himal-darshan-campus-solukhumbu",
+                    "https://edusanjal.com/college/district/solukhumbu/",
+                    "https://www.educatenepal.com/institutions/detail/himal-darshan-campus",
+                    "https://www.collegenp.com/course/himal-darshan-campus-solukhumbu-bachelor-of-education-bed-bed"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Education (B.Ed.)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/himal-darshan-campus-solukhumbu-bachelor-of-education-bed-bed"
+                }
+            ],
+            "facilities": [
+                "Cafeteria",
+                "Library",
+                "Electronic library",
+                "Sports",
+                "Internet",
+                "Science lab",
+                "Computer lab",
+                "Conference",
+                "Multimedia",
+                "Smart TV or interactive panel board",
+                "Journal",
+                "Counselling",
+                "Scholarships",
+                "Educational tour",
+                "Classrooms",
+                "ECA"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-38-690324"
+                ],
+                "emails": [],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Dudhakoshi Multiple Campus",
+                "name_ne": null,
+                "slug": "dudhakoshi-multiple-campus",
+                "ownership": "community",
+                "established_year": null,
+                "university": "Tribhuvan University",
+                "municipality": "Nechasalyan Rural Municipality",
+                "address": "Salyan, Nechasalyan, Solukhumbu",
+                "description": "Community campus affiliated with Tribhuvan University and described as recognized by the University Grants Commission. It offers BA and B.Ed. Edusanjal reports 51 students, 26 in BA and 25 in B.Ed. It is listed on TU affiliation renewal lists and UGC community-campus records as Dudhkoshi Multiple Campus, Salyan, Solukhumbu. No published phone or email was found.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://edusanjal.com/college/dudhakoshi-multiple-campus/",
+                    "https://www.collegenp.com/college/dudhakoshi-multiple-campus-solukhumbu",
+                    "https://www.educatenepal.com/institutions/detail/dudhakoshi-multiple-campus",
+                    "https://www.collegenp.com/course/dudhakoshi-multiple-campus-solukhumbu-bachelor-of-arts-ba-ba"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Arts (BA)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Humanities and Social Sciences",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/dudhakoshi-multiple-campus-solukhumbu-bachelor-of-arts-ba-ba"
+                },
+                {
+                    "name": "Bachelor of Education (B.Ed.)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/dudhakoshi-multiple-campus-solukhumbu-bachelor-of-education-bed-bed"
+                }
+            ],
+            "facilities": [
+                "Library",
+                "Sports",
+                "Science lab",
+                "Conference",
+                "Counselling",
+                "Scholarships",
+                "Tour",
+                "Classrooms",
+                "ECA"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [],
+                "emails": [],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Sotang Public Campus",
+                "name_ne": null,
+                "slug": "sotang-public-campus",
+                "ownership": "community",
+                "established_year": 2012,
+                "university": "Tribhuvan University",
+                "municipality": "Sotang Rural Municipality",
+                "address": "Sotang, Solukhumbu",
+                "description": "Community campus established in 2069 BS (2012 AD), affiliated with Tribhuvan University and described as recognized by the University Grants Commission. It offers B.Ed. in English, Nepali, and Health. Edusanjal reports 88 students in B.Ed. Contact pages list Sotang-4; a 2081 campus-chief vacancy notice lists the office at Sotang-5. The campus publishes the yearly peer-reviewed journal Sotang.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://www.collegenp.com/college/sotang-public-campus-solukhumbu",
+                    "https://edusanjal.com/college/sotang-public-campus/",
+                    "https://www.collegenp.com/course/sotang-public-campus-solukhumbu-bachelor-of-education-bed-bed",
+                    "https://www.nepjol.info/index.php/sotang",
+                    "https://www.collegenp.com/vacancy/campus-chief-vacancy-at-sotang-public-campus-2081"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Education (B.Ed.)",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/sotang-public-campus-solukhumbu-bachelor-of-education-bed-bed"
+                }
+            ],
+            "facilities": [
+                "Building",
+                "Library",
+                "Computer lab",
+                "Playground",
+                "Smartboard"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [
+                {
+                    "title": "Sotang journal Vol. 7 No. 01 (2025) published",
+                    "date": "2026-01-19",
+                    "summary": "Yearly peer-reviewed multidisciplinary journal published by Sotang Public Campus.",
+                    "source_url": "https://www.nepjol.info/index.php/sotang"
+                },
+                {
+                    "title": "Campus Chief vacancy notice 2081",
+                    "date": "2025-03-18",
+                    "summary": "Management committee advertisement to fill the campus chief post, with first publication date given as 2081/12/01.",
+                    "source_url": "https://www.collegenp.com/vacancy/campus-chief-vacancy-at-sotang-public-campus-2081"
+                }
+            ],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-38-410018",
+                    "+977-9852830050",
+                    "+977-9841461388",
+                    "+977-9863783670",
+                    "9862857201"
+                ],
+                "emails": [
+                    "campus.sotang@gmail.com"
+                ],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Bishweshwar Prasad Koirala Sanskrit Vidyapeeth",
+                "name_ne": "विश्वेश्वरप्रसाद कोइराला संस्कृत विद्यापीठ",
+                "slug": "bishweshwar-prasad-koirala-sanskrit-vidyapeeth",
+                "ownership": "constituent",
+                "established_year": null,
+                "university": "Nepal Sanskrit University",
+                "municipality": "Nechasalyan Rural Municipality",
+                "address": "Salyan, Nechasalyan Rural Municipality-2, Solukhumbu",
+                "description": "Constituent vidyapeeth of Nepal Sanskrit University. NSU records establishment in 2055 BS, Uttara Madhyama classes from the 2055/56 session, and education through Shastri. Prak-Shastri includes compulsory Grammar and Sanskrit Language, with optional Veda, Grammar, Nyaya, and Jyotisha. Shastri has compulsory Sanskrit, English, and Nepali, with optional Grammar, Literature, Niti Shastra, Nepali, political science, and English. Edusanjal lists the campus at Salleri and only Uttar Madhyama; NSU and a campus Facebook post place it at Salyan, Nechasalyan-2. Also listed as B.P. Koirala Sanskrit Vidyapeeth.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://www.collegenp.com/university/nepal-sanskrit-university-nsu",
+                    "https://www.collegenp.com/college/bp-koirala-sanskrit-vidyapeeth-solukhumbu",
+                    "https://edusanjal.com/college/bpkoirala-sanskrit-vidyapeeth/",
+                    "https://nsu.edu.np/colleges",
+                    "https://www.facebook.com/Bpksvidhyapeetha"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Shastri",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Sanskrit",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/university/nepal-sanskrit-university-nsu"
+                },
+                {
+                    "name": "Prak-Shastri",
+                    "level": "Prak-Shastri",
+                    "duration": null,
+                    "faculty": "Sanskrit",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/university/nepal-sanskrit-university-nsu"
+                },
+                {
+                    "name": "Uttar Madhyama",
+                    "level": "Uttar Madhyama",
+                    "duration": null,
+                    "faculty": "Sanskrit",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/college/bpkoirala-sanskrit-vidyapeeth/"
+                }
+            ],
+            "facilities": [
+                "Library",
+                "Sports",
+                "Conference",
+                "Counselling",
+                "Scholarships"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "038-690149",
+                    "+977-38-690169"
+                ],
+                "emails": [
+                    "infobpkoirala@nsu.edu.np",
+                    "bpsoluv@nsu.edu.np"
+                ],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Solukhumbu Law Campus",
+                "name_ne": "सोलुखुम्बु ल क्याम्पस",
+                "slug": "solukhumbu-law-campus",
+                "ownership": "community",
+                "established_year": 2025,
+                "university": "Purbanchal University",
+                "municipality": "Solududhkunda Municipality",
+                "address": "Salleri, Solukhumbu",
+                "description": "Law campus established in 2025 AD (2082 BS). CollegeNP documents a three-year LLB under Purbanchal University with permission to enroll 60 students, eligibility as graduation in any subject, campus head Gita Ghimire, director Uddhav Kumar Sharma, and board leadership Ang Rita Sherpa. Initial classes use the buildings of Solukhumbu Multiple Campus. Fees, entrance dates, and separate facilities are not published. Edusanjal lists the campus as a public institution offering BALLB; that program name is not confirmed on the more detailed CollegeNP pages.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://www.collegenp.com/college/solukhumbu-law-campus",
+                    "https://www.collegenp.com/course/solukhumbu-law-campus-bachelor-of-laws-llb",
+                    "https://edusanjal.com/college/solukhumbu-law-campus/"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Laws (LLB)",
+                    "level": "Bachelor",
+                    "duration": "3 years",
+                    "faculty": "Law",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/solukhumbu-law-campus-bachelor-of-laws-llb"
+                }
+            ],
+            "facilities": [],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-9851010556",
+                    "+977-9841284545",
+                    "+977-9842848775"
+                ],
+                "emails": [],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Thulung Dudhkoshi Technical College",
+                "name_ne": "श्री थुलु दुधकोशी प्राविधिक शिक्षालय",
+                "slug": "thulung-dudhkoshi-technical-college",
+                "ownership": "public",
+                "established_year": null,
+                "university": "CTEVT",
+                "municipality": "Thulung Dudhkoshi Rural Municipality",
+                "address": "Thulung Dudhkoshi Rural Municipality-6, Mukli, Solukhumbu",
+                "description": "Public CTEVT technical school offering Diploma in Civil Engineering. Edusanjal describes it as a technical school in the Solukhumbu region and says the program is intended to expand to other technical courses later. A business directory lists the website tdtc.edu.np. It is named as an institution in CTEVT diploma and certificate exam-center arrangements for Solukhumbu.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://edusanjal.com/school/thulung-dudhkoshi-technical-college/",
+                    "https://www.collegenp.com/course/thulung-dudhkoshi-technical-college-diploma-in-civil-engineering-diploma-in-engineering",
+                    "https://kaha6.com/company/thulung-dudhkoshi-multi-technical-college-solukhumbu/",
+                    "https://www.collegenp.com/exam/ctevt-diploma-certificate-exam-centers-2083"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Diploma in Civil Engineering",
+                    "level": "Diploma",
+                    "duration": "3 years",
+                    "faculty": "Engineering",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/thulung-dudhkoshi-technical-college-diploma-in-civil-engineering-diploma-in-engineering"
+                }
+            ],
+            "facilities": [],
+            "gallery": [],
+            "videos": [
+                {
+                    "title": "Admission notice || Thulung Dudhkoshi Technical College || Solukhumbu || Diploma Civil Engineering",
+                    "url": "https://www.youtube.com/watch?v=dnV-dwgwokg",
+                    "platform": "YouTube"
+                }
+            ],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-9841696320",
+                    "9852820682"
+                ],
+                "emails": [
+                    "tdtc2076@gmail.com"
+                ],
+                "website": "https://tdtc.edu.np",
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Janata Secondary School, Lokhim",
+                "name_ne": "जनता माध्यमिक विद्यालय, सोलुखुम्बु",
+                "slug": "janata-secondary-school-lokhim",
+                "ownership": "community",
+                "established_year": 1958,
+                "university": "CTEVT",
+                "municipality": "Thulung Dudhkoshi Rural Municipality",
+                "address": "Thulung Dudhkoshi Rural Municipality-9, Lokhim, Solukhumbu",
+                "description": "Community public school established in 1958 AD (2015 BS) at Lokhim. It runs school grades and NEB +2 Education, and also a CTEVT Diploma in Agriculture (Plant Science) with 40 seats listed by Edusanjal. Included because of the diploma program, not as a +2-only school. It is named in CTEVT diploma and certificate exam-center arrangements for Solukhumbu.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://edusanjal.com/school/shree-janata-secondary-school/",
+                    "https://www.collegenp.com/college/janata-secondary-school-solukhumbu",
+                    "https://www.collegenp.com/exam/ctevt-diploma-certificate-exam-centers-2083"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Diploma in Agriculture (Plant Science)",
+                    "level": "Diploma",
+                    "duration": "3 years",
+                    "faculty": "Agriculture",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/janata-secondary-school-solukhumbu"
+                }
+            ],
+            "facilities": [
+                "Library",
+                "Sports",
+                "Science lab",
+                "Multimedia",
+                "Counselling",
+                "Scholarships",
+                "Classrooms",
+                "Conference hall",
+                "Dance",
+                "Music",
+                "Tour",
+                "ECA"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-9844660444"
+                ],
+                "emails": [
+                    "info@janatasecondaryschool.edu.np"
+                ],
+                "website": "https://janatasecondaryschool.edu.np",
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        }
+    ]
+}

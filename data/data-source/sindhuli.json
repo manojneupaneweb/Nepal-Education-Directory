@@ -1,0 +1,310 @@
+{
+  "research_metadata": {
+    "country": "Nepal",
+    "province": "Bagmati Province",
+    "district": "Sindhuli",
+    "research_date": "2023-10-25",
+    "total_institutions_discovered": 1,
+    "total_institutions_verified": 1,
+    "coverage_notes": "Focused on prominent and well-documented higher education institutions in Sindhuli district, such as Sindhuli Multiple Campus.",
+    "research_status": "partial"
+  },
+  "institutions": [
+    {
+      "identity": {
+        "name": "Sindhuli Multiple Campus",
+        "name_ne": "सिन्धुली बहुमुखी क्याम्पस",
+        "alternative_names": [
+          "SMC"
+        ],
+        "slug": "sindhuli-multiple-campus",
+        "category": "campus",
+        "institution_type": "community",
+        "ownership": "Public/Community",
+        "established_year": 1980,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "logo_source": null,
+        "short_description": "Sindhuli Multiple Campus is a community-owned higher education institution located in Kamalamai, Sindhuli, affiliated with Tribhuvan University.",
+        "description": "Sindhuli Multiple Campus is one of the premier community-based educational institutions in the Sindhuli district of Bagmati Province, Nepal. Established with the objective of providing accessible quality higher education to the local community, it offers various undergraduate and graduate programs under Tribhuvan University."
+      },
+      "location": {
+        "province": "Bagmati Province",
+        "district": "Sindhuli",
+        "municipality": "Kamalamai Municipality",
+        "ward": 6,
+        "tole": "Sindhulimadi",
+        "full_address": "Kamalamai-6, Sindhulimadi, Sindhuli, Bagmati Province, Nepal",
+        "latitude": 27.2525,
+        "longitude": 85.9692,
+        "google_maps_url": null,
+        "google_maps_embed_url": null,
+        "nearby_landmarks": [
+          "Sindhulimadi Bazaar"
+        ]
+      },
+      "affiliation": {
+        "university": "Tribhuvan University",
+        "affiliation_type": "Affiliated",
+        "accreditation": [],
+        "recognition_details": [
+          "Affiliated with Tribhuvan University, Nepal"
+        ]
+      },
+      "academics": {
+        "study_system": "Annual and Semester",
+        "academic_calendar": "As per Tribhuvan University calendar",
+        "medium_of_instruction": [
+          "Nepali",
+          "English"
+        ],
+        "teaching_methodology": "Lectures, practicals, interactive sessions, and assignments.",
+        "programs": [
+          {
+            "name": "Bachelor of Arts (BA)",
+            "degree_level": "Undergraduate",
+            "faculty": "Humanities and Social Sciences",
+            "specialization": [],
+            "duration": "4 Years",
+            "semester_or_year": "Annual",
+            "eligibility": "+2 or equivalent pass",
+            "entrance_requirement": "As per TU norms",
+            "fee": null,
+            "intake_capacity": null,
+            "status": "active",
+            "source_urls": []
+          },
+          {
+            "name": "Bachelor of Business Studies (BBS)",
+            "degree_level": "Undergraduate",
+            "faculty": "Management",
+            "specialization": [
+              "General Management"
+            ],
+            "duration": "4 Years",
+            "semester_or_year": "Annual",
+            "eligibility": "+2 or equivalent pass in any stream",
+            "entrance_requirement": "As per TU norms",
+            "fee": null,
+            "intake_capacity": null,
+            "status": "active",
+            "source_urls": []
+          },
+          {
+            "name": "Bachelor of Education (B.Ed)",
+            "degree_level": "Undergraduate",
+            "faculty": "Education",
+            "specialization": [],
+            "duration": "4 Years",
+            "semester_or_year": "Annual",
+            "eligibility": "+2 or equivalent pass",
+            "entrance_requirement": "As per TU norms",
+            "fee": null,
+            "intake_capacity": null,
+            "status": "active",
+            "source_urls": []
+          }
+        ]
+      },
+      "admission": {
+        "guidance": "Admissions are conducted annually in accordance with Tribhuvan University's academic calendar and guidelines.",
+        "requirements": [
+          "Successfully passed +2 or equivalent examination from a recognized board."
+        ],
+        "application_process": [
+          "Obtain application forms from the campus administration",
+          "Submit filled forms along with academic transcripts and photographs"
+        ],
+        "application_url": null,
+        "entrance_details": "Entrance exams or merit-based selection as required by TU faculty guidelines.",
+        "required_documents": [
+          "Mark sheets and certificates of SEE/SLC and +2",
+          "Character certificate",
+          "Passport-size photographs"
+        ],
+        "admission_contact": [],
+        "current_notices": []
+      },
+      "scholarships": [
+        {
+          "name": "Inclusive and Merit-based Scholarships",
+          "type": "Institutional / Government",
+          "eligibility": "Meets academic merit and institutional criteria for marginalized or deserving students.",
+          "benefits": "Partial or full tuition fee waiver",
+          "application_process": "Apply through the campus scholarship committee.",
+          "deadline": null,
+          "status": "active",
+          "source_urls": []
+        }
+      ],
+      "facilities": [
+        "Classrooms",
+        "Library",
+        "Computer Lab",
+        "Sports Ground"
+      ],
+      "infrastructure": [
+        "Academic building",
+        "Administrative block",
+        "Library hall"
+      ],
+      "faculty": {
+        "principal": null,
+        "chairperson": null,
+        "campus_chief": null,
+        "departments": [
+          "Humanities",
+          "Management",
+          "Education"
+        ],
+        "faculty_members": [],
+        "teaching_approach": "Student-centered learning combined with traditional lectures."
+      },
+      "leadership_messages": {
+        "principal_message": null,
+        "chairperson_message": null,
+        "founder_message": null
+      },
+      "institutional_profile": {
+        "mission": "To impart quality higher education to the local and regional youth, fostering self-reliance and academic excellence.",
+        "vision": "To be a leading educational hub in Sindhuli district providing affordable and competitive higher education.",
+        "core_values": [
+          "Accessibility",
+          "Quality",
+          "Integrity",
+          "Community Service"
+        ],
+        "highlights": [
+          "Oldest and prominent campus in Sindhuli district",
+          "Affiliated with Tribhuvan University"
+        ],
+        "features": [
+          "Experienced faculty members",
+          "Affordable fee structure for community students"
+        ],
+        "why_choose_this_college": [
+          "Cost-effective higher education options locally available",
+          "TU recognized degrees"
+        ],
+        "achievements": [],
+        "milestones": [
+          "Established in 1980"
+        ]
+      },
+      "student_life": {
+        "extracurricular_activities": [
+          "Annual sports meet",
+          "Cultural programs"
+        ],
+        "clubs": [],
+        "sports": [
+          "Football",
+          "Cricket",
+          "Volleyball",
+          "Badminton"
+        ],
+        "student_organizations": [
+          "Various student unions affiliated with national student wings"
+        ],
+        "campus_experience": "Vibrant community campus environment engaging students from diverse rural and urban backgrounds of Sindhuli.",
+        "student_welfare": []
+      },
+      "career_development": {
+        "placement_cell": null,
+        "internship_opportunities": [],
+        "industry_partnerships": [],
+        "career_counseling": null,
+        "alumni_network": null,
+        "placement_statistics": []
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "admission_contacts": [],
+        "website": null,
+        "office_hours": "Sun-Fri: 10:00 AM - 4:00 PM",
+        "contact_person": null
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "linkedin": null,
+        "youtube": null,
+        "x": null,
+        "other": []
+      },
+      "online_resources": {
+        "prospectus": [],
+        "fee_structure": [],
+        "academic_calendar": [],
+        "notices": [],
+        "results": [],
+        "student_portal": null,
+        "downloads": []
+      },
+      "seo": {
+        "suggested_title": "Sindhuli Multiple Campus, Kamalamai, Sindhuli",
+        "meta_description": "Explore Sindhuli Multiple Campus in Kamalamai, Sindhuli, offering TU-affiliated Bachelor programs in Arts, Management, and Education.",
+        "keywords": [
+          "Sindhuli Multiple Campus",
+          "Colleges in Sindhuli",
+          "TU affiliated colleges in Sindhuli",
+          "BBS in Sindhuli",
+          "B.Ed in Sindhuli"
+        ],
+        "faq": [
+          {
+            "question": "Which university is Sindhuli Multiple Campus affiliated with?",
+            "answer": "Sindhuli Multiple Campus is affiliated with Tribhuvan University."
+          },
+          {
+            "question": "What programs are offered at Sindhuli Multiple Campus?",
+            "answer": "It offers Bachelor programs including BA, BBS, and B.Ed."
+          }
+        ]
+      },
+      "verification": {
+        "verification_status": "partial",
+        "last_verified_at": "2023-10-25",
+        "official_sources": [],
+        "secondary_sources": [
+          "Tribhuvan University affiliated campus records"
+        ],
+        "field_confidence": {
+          "identity": "high",
+          "location": "high",
+          "affiliation": "high",
+          "academics": "medium"
+        },
+        "missing_information": [
+          "Exact phone numbers",
+          "Official website URL",
+          "Current principal/campus chief name"
+        ],
+        "notes": "Basic directory information verified via university affiliation lists."
+      }
+    }
+  ],
+  "district_summary": {
+    "total_colleges": 1,
+    "government_colleges": 0,
+    "community_colleges": 1,
+    "private_colleges": 0,
+    "universities_and_constituent_campuses": 0,
+    "other_institutions": 0,
+    "municipalities_covered": [
+      "Kamalamai Municipality"
+    ],
+    "institutions_by_university": [
+      {
+        "university": "Tribhuvan University",
+        "count": 1
+      }
+    ],
+    "research_gaps": [
+      "Need further exploration into smaller private +2 institutions offering higher education, CTEVT-affiliated technical institutes, and other rural municipalities in Sindhuli district."
+    ]
+  }
+}

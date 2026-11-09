@@ -36,61 +36,67 @@
 @endpush
 
 @section('content')
-<section class="bg-gradient-to-br from-brand-900 via-brand-800 to-brand-700 py-10 text-white">
+<section class="border-b border-slate-200 bg-[#f7f5f2] py-10">
     <div class="mx-auto max-w-6xl px-4">
-        <nav class="text-sm text-brand-100" aria-label="Breadcrumb">
-            <a class="hover:text-white" href="{{ route('home') }}">Home</a>
+        <nav class="text-sm text-slate-500" aria-label="Breadcrumb">
+            <a class="hover:text-brand-800" href="{{ route('home') }}">Home</a>
             <span aria-hidden="true"> / </span>
-            <a class="hover:text-white" href="{{ route('universities.index') }}">Universities</a>
+            <a class="hover:text-brand-800" href="{{ route('universities.index') }}">Universities</a>
             <span aria-hidden="true"> / </span>
-            <span class="text-white">{{ $university->name }}</span>
+            <span class="text-slate-800">{{ $university->name }}</span>
         </nav>
 
-        <div class="mt-6 flex flex-col gap-5 sm:flex-row sm:items-center">
-            @if ($university->logo_path)
-                <img src="{{ asset($university->logo_path) }}" alt="{{ $university->name }} logo" class="h-24 w-24 shrink-0 rounded-2xl border border-white bg-white object-contain p-2 shadow-md">
-            @else
-                <div class="flex h-24 w-24 shrink-0 items-center justify-center rounded-2xl bg-white text-3xl font-black text-brand-800" aria-hidden="true">{{ strtoupper(substr($university->name, 0, 1)) }}</div>
-            @endif
-            <div>
-                <p class="text-xs font-bold uppercase tracking-widest text-brand-100">{{ $university->abbreviation ?: $university->university_type }}</p>
-                <h1 class="mt-1 text-3xl font-extrabold tracking-tight text-white sm:text-4xl">{{ $university->name }}</h1>
-                @if ($university->name_ne)
-                    <p class="mt-1 text-lg text-brand-100">{{ $university->name_ne }}</p>
+        <div class="mt-6 rounded-2xl border border-slate-200 bg-white p-6 shadow-sm">
+            <div class="flex flex-col gap-5 sm:flex-row sm:items-start">
+                @if ($university->logo_path)
+                    <img src="{{ asset($university->logo_path) }}" alt="" class="h-20 w-20 shrink-0 rounded-xl border border-slate-200 bg-white object-contain p-2">
+                @else
+                    <div class="flex h-20 w-20 shrink-0 items-center justify-center rounded-xl bg-brand-800 text-2xl font-bold text-white" aria-hidden="true">{{ mb_strtoupper(mb_substr($university->name, 0, 1)) }}</div>
                 @endif
-            </div>
-        </div>
-
-        @if ($university->description)
-            <p class="mt-5 max-w-3xl text-base leading-relaxed text-brand-100">{{ $university->description }}</p>
-        @endif
-
-        <div class="mt-6 flex flex-wrap gap-3">
-            @if ($university->official_website)
-                <a href="{{ $university->official_website }}" target="_blank" rel="noopener noreferrer" class="inline-flex items-center gap-2 rounded-lg bg-white px-4 py-2 text-sm font-semibold text-brand-800 shadow-sm hover:bg-brand-50">
-                    <svg class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke-width="1.8" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M12 21a9 9 0 1 0 0-18 9 9 0 0 0 0 18Zm0 0c2.5-2.5 3.5-5.5 3.5-9S14.5 5.5 12 3m0 18c-2.5-2.5-3.5-5.5-3.5-9S9.5 5.5 12 3m-9 9h18"/></svg>
-                    Visit Official Website
-                </a>
-            @endif
-            <a href="{{ route('university-programs.university', $programPath) }}" class="inline-flex items-center gap-2 rounded-lg border border-white px-4 py-2 text-sm font-semibold text-white hover:bg-brand-800">
-                <svg class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke-width="1.8" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M12 6.75v10.5m5.25-5.25H6.75"/></svg>
-                View Academic Programs
-            </a>
-        </div>
-
-        <section class="mt-8 grid grid-cols-2 gap-3 lg:grid-cols-4">
-            @foreach ([
-                ['Faculties', $university->faculties->count()],
-                ['Programs', $university->programs->count()],
-                ['Colleges', $university->institutions->count()],
-                ['Established', $established ?: 'Not recorded'],
-            ] as [$label, $value])
-                <div class="rounded-2xl bg-white p-4 shadow-md">
-                    <p class="text-xs font-semibold uppercase tracking-wide text-slate-500">{{ $label }}</p>
-                    <p class="mt-1 text-2xl font-extrabold text-brand-800">{{ $value }}</p>
+                <div class="min-w-0">
+                    <div class="flex flex-wrap gap-2">
+                        @if ($university->university_type)
+                            <span class="rounded-full bg-brand-50 px-2.5 py-1 text-xs font-semibold text-brand-800">{{ $university->university_type }}</span>
+                        @endif
+                        @if ($university->ownership)
+                            <span class="rounded-full bg-slate-100 px-2.5 py-1 text-xs font-semibold text-slate-700">{{ ucfirst($university->ownership) }}</span>
+                        @endif
+                        @if ($established)
+                            <span class="rounded-full bg-emerald-50 px-2.5 py-1 text-xs font-semibold text-emerald-800">Established {{ $established }}</span>
+                        @endif
+                    </div>
+                    <h1 class="mt-3 text-3xl font-bold tracking-tight text-slate-900 sm:text-4xl">{{ $university->name }}</h1>
+                    @if ($university->name_ne)
+                        <p class="mt-1 text-lg text-slate-600">{{ $university->name_ne }}</p>
+                    @endif
+                    @if ($place)
+                        <p class="mt-2 flex items-start gap-2 text-sm text-slate-600"><x-icon name="pin" class="mt-0.5" /> <span>{{ $place }}</span></p>
+                    @endif
                 </div>
-            @endforeach
-        </section>
+            </div>
+            @if ($university->description)
+                <p class="mt-5 max-w-3xl text-base leading-relaxed text-slate-700">{{ $university->description }}</p>
+            @endif
+            <div class="mt-6 flex flex-wrap gap-3">
+                @if ($university->official_website)
+                    <a href="{{ $university->official_website }}" target="_blank" rel="noopener noreferrer" class="inline-flex items-center gap-2 rounded-lg bg-brand-800 px-4 py-2.5 text-sm font-semibold text-white hover:bg-brand-900">Visit official website</a>
+                @endif
+                <a href="{{ route('university-programs.university', $programPath) }}" class="inline-flex items-center gap-2 rounded-lg border border-slate-300 bg-white px-4 py-2.5 text-sm font-semibold text-slate-800 hover:border-brand-300">View academic programs</a>
+            </div>
+            <dl class="mt-6 grid grid-cols-2 gap-3 border-t border-slate-100 pt-5 lg:grid-cols-4">
+                @foreach ([
+                    ['Faculties', $university->faculties->count()],
+                    ['Programs', $university->programs->count()],
+                    ['Colleges', $university->institutions->count()],
+                    ['Established', $established ?: 'Not recorded'],
+                ] as [$label, $value])
+                    <div>
+                        <dt class="text-xs font-semibold text-slate-500">{{ $label }}</dt>
+                        <dd class="mt-1 text-xl font-bold text-brand-900">{{ $value }}</dd>
+                    </div>
+                @endforeach
+            </dl>
+        </div>
     </div>
 </section>
 
@@ -150,7 +156,7 @@
         @else
             <div class="mt-3 grid gap-3 sm:grid-cols-2">
                 @foreach ($university->programs->take(12) as $program)
-                    <a class="rounded-2xl border border-slate-200 bg-white p-4 shadow-sm hover:border-brand-300" href="{{ route('university-programs.show', $program) }}">
+                    <a class="rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:-translate-y-0.5 hover:border-brand-300 hover:shadow-md" href="{{ route('university-programs.show', $program) }}">
                         <span class="font-semibold text-slate-900">{{ $program->name }}</span>
                         <span class="mt-1 block text-sm text-slate-500">{{ $program->faculty?->name ?: 'Faculty not recorded' }}@if ($program->duration) · {{ $program->duration }}@endif</span>
                         @if ($program->program_status === 'not_offered')
@@ -207,7 +213,7 @@
     @endif
     </div>
     <aside class="h-fit rounded-2xl border border-slate-200 bg-white p-5 shadow-sm lg:sticky lg:top-24">
-        <h2 class="text-sm font-bold uppercase tracking-wide text-slate-500">At a glance</h2>
+        <h2 class="text-sm font-semibold text-slate-800">At a glance</h2>
         <dl class="mt-4 space-y-4 text-sm">
             @if ($place)
                 <div>

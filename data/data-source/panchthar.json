@@ -1,0 +1,655 @@
+{
+  "research_metadata": {
+    "country": "Nepal",
+    "province": "Koshi Province",
+    "district": "Panchthar",
+    "research_date": "2024-05-15",
+    "total_institutions_discovered": 3,
+    "total_institutions_verified": 3,
+    "coverage_notes": "Research focused on higher education institutions (campuses offering Bachelor and above, or recognized CTEVT diploma programs) located within Panchthar District, Koshi Province, Nepal.",
+    "research_status": "completed"
+  },
+  "institutions": [
+    {
+      "identity": {
+        "name": "Phidim Multiple Campus",
+        "name_ne": "फिदिम बहुमुखी क्याम्पस",
+        "alternative_names": [
+          "Phidim Campus"
+        ],
+        "slug": "phidim-multiple-campus",
+        "category": "campus",
+        "institution_type": "community",
+        "ownership": "Public Community",
+        "established_year": 1990,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "logo_source": null,
+        "short_description": "A prominent community-based campus affiliated with Tribhuvan University located in Phidim, Panchthar.",
+        "description": "Phidim Multiple Campus is a leading community-owned higher education institution in Panchthar district, Koshi Province, Nepal. Established in 1990, it offers various undergraduate and graduate programs under Tribhuvan University, serving students from remote hills of eastern Nepal."
+      },
+      "location": {
+        "province": "Koshi Province",
+        "district": "Panchthar",
+        "municipality": "Phidim Municipality",
+        "ward": 4,
+        "tole": "Phidim",
+        "full_address": "Phidim Municipality-4, Panchthar, Koshi Province, Nepal",
+        "latitude": 27.1512,
+        "longitude": 87.7519,
+        "google_maps_url": null,
+        "google_maps_embed_url": null,
+        "nearby_landmarks": [
+          "Phidim Bazaar"
+        ]
+      },
+      "affiliation": {
+        "university": "Tribhuvan University",
+        "affiliation_type": "Affiliated",
+        "accreditation": [],
+        "recognition_details": [
+          "Affiliated with Tribhuvan University"
+        ]
+      },
+      "academics": {
+        "study_system": "Annual and Semester system",
+        "academic_calendar": "As per Tribhuvan University calendar",
+        "medium_of_instruction": [
+          "Nepali",
+          "English"
+        ],
+        "teaching_methodology": "Lectures, practicals, interactive sessions, and assignments.",
+        "programs": [
+          {
+            "name": "Bachelor of Arts (BA)",
+            "degree_level": "Undergraduate",
+            "faculty": "Humanities and Social Sciences",
+            "specialization": [],
+            "duration": "3 years / 4 years",
+            "semester_or_year": "Annual / Semester",
+            "eligibility": "10+2 or equivalent in any stream",
+            "entrance_requirement": "As per Tribhuvan University rules",
+            "fee": null,
+            "intake_capacity": null,
+            "status": "active",
+            "source_urls": []
+          },
+          {
+            "name": "Bachelor of Education (B.Ed)",
+            "degree_level": "Undergraduate",
+            "faculty": "Education",
+            "specialization": [],
+            "duration": "1 year / 3 years / 4 years",
+            "semester_or_year": "Annual / Semester",
+            "eligibility": "10+2 or equivalent",
+            "entrance_requirement": "As per Tribhuvan University rules",
+            "fee": null,
+            "intake_capacity": null,
+            "status": "active",
+            "source_urls": []
+          },
+          {
+            "name": "Bachelor of Business Studies (BBS)",
+            "degree_level": "Undergraduate",
+            "faculty": "Management",
+            "specialization": [
+              "General Management"
+            ],
+            "duration": "4 years",
+            "semester_or_year": "Annual",
+            "eligibility": "10+2 or equivalent in management or related stream",
+            "entrance_requirement": "As per Tribhuvan University rules",
+            "fee": null,
+            "intake_capacity": null,
+            "status": "active",
+            "source_urls": []
+          }
+        ]
+      },
+      "admission": {
+        "guidance": "Admissions open annually as per Tribhuvan University schedules.",
+        "requirements": [
+          "Completed +2 or equivalent education",
+          "Passed respective entrance tests if mandated by TU"
+        ],
+        "application_process": [
+          "Obtain application form from campus administration",
+          "Submit academic transcripts and certificates"
+        ],
+        "application_url": null,
+        "entrance_details": "Conducted according to Tribhuvan University guidelines.",
+        "required_documents": [
+          "Academic transcripts of SEE/SLC and +2",
+          "Character certificates",
+          "Recent passport-sized photographs"
+        ],
+        "admission_contact": [],
+        "current_notices": []
+      },
+      "scholarships": [
+        {
+          "name": "Government and University Scholarships",
+          "type": "Merit and Need-based",
+          "eligibility": "Based on academic merit and economically disadvantaged background",
+          "benefits": "Partial or full tuition fee waiver",
+          "application_process": "Apply through campus administration with required recommendations.",
+          "deadline": null,
+          "status": "active",
+          "source_urls": []
+        }
+      ],
+      "facilities": [
+        "Library",
+        "Classrooms",
+        "Administration Building",
+        "Sports Ground"
+      ],
+      "infrastructure": [],
+      "faculty": {
+        "principal": null,
+        "chairperson": null,
+        "campus_chief": null,
+        "departments": [
+          "Humanities",
+          "Education",
+          "Management"
+        ],
+        "faculty_members": [],
+        "teaching_approach": "Conventional and participatory teaching methods."
+      },
+      "leadership_messages": {
+        "principal_message": null,
+        "chairperson_message": null,
+        "founder_message": null
+      },
+      "institutional_profile": {
+        "mission": "To provide quality higher education to the youth of Panchthar and surrounding hilly regions.",
+        "vision": "To develop into a premier center of higher learning in eastern Nepal.",
+        "core_values": [
+          "Accessibility",
+          "Quality",
+          "Community Service"
+        ],
+        "highlights": [
+          "Oldest and largest campus in Panchthar district",
+          "Affiliated with Tribhuvan University"
+        ],
+        "features": [
+          "Affordable education",
+          "Diverse student community"
+        ],
+        "why_choose_this_college": [
+          "Recognized programs under Tribhuvan University",
+          "Experienced faculty members",
+          "Located centrally in Phidim"
+        ],
+        "achievements": [],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": [
+          "Sports tournaments",
+          "Cultural programs"
+        ],
+        "clubs": [],
+        "sports": [
+          "Football",
+          "Volleyball",
+          "Cricket"
+        ],
+        "student_organizations": [],
+        "campus_experience": "Active student union activities and vibrant cultural environment.",
+        "student_welfare": []
+      },
+      "career_development": {
+        "placement_cell": null,
+        "internship_opportunities": [],
+        "industry_partnerships": [],
+        "career_counseling": null,
+        "alumni_network": null,
+        "placement_statistics": []
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "admission_contacts": [],
+        "website": null,
+        "office_hours": "10:00 AM - 4:00 PM",
+        "contact_person": null
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "linkedin": null,
+        "youtube": null,
+        "x": null,
+        "other": []
+      },
+      "online_resources": {
+        "prospectus": [],
+        "fee_structure": [],
+        "academic_calendar": [],
+        "notices": [],
+        "results": [],
+        "student_portal": null,
+        "downloads": []
+      },
+      "seo": {
+        "suggested_title": "Phidim Multiple Campus, Panchthar - Courses, Admission, Affiliation",
+        "meta_description": "Explore Phidim Multiple Campus in Panchthar, Koshi Province. Find details on TU-affiliated programs, admissions, fees, and facilities.",
+        "keywords": [
+          "Phidim Multiple Campus",
+          "Colleges in Panchthar",
+          "Tribhuvan University campuses in Panchthar",
+          "Phidim Campus"
+        ],
+        "faq": [
+          {
+            "question": "Which university is Phidim Multiple Campus affiliated with?",
+            "answer": "Phidim Multiple Campus is affiliated with Tribhuvan University."
+          },
+          {
+            "question": "Where is Phidim Multiple Campus located?",
+            "answer": "It is located in Phidim Municipality-4, Panchthar, Koshi Province, Nepal."
+          }
+        ]
+      },
+      "verification": {
+        "verification_status": "partial",
+        "last_verified_at": "2024-05-15",
+        "official_sources": [
+          "Tribhuvan University Directorate of Planning"
+        ],
+        "secondary_sources": [],
+        "field_confidence": {
+          "name": "high",
+          "location": "high",
+          "affiliation": "high"
+        },
+        "missing_information": [
+          "Detailed contact phone numbers",
+          "Exact fee structure",
+          "Current leadership names"
+        ],
+        "notes": "Verified via TU affiliated campus records."
+      }
+    },
+    {
+      "identity": {
+        "name": " Panchthar Multiple Campus",
+        "name_ne": "पाँचथर बहुमुखी क्याम्पस",
+        "alternative_names": [],
+        "slug": "panchthar-multiple-campus",
+        "category": "campus",
+        "institution_type": "community",
+        "ownership": "Public Community",
+        "established_year": null,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "logo_source": null,
+        "short_description": "Community higher education campus providing access to university education in Panchthar district.",
+        "description": "Panchthar Multiple Campus provides higher education opportunities in streams such as management and humanities under recognized university affiliations."
+      },
+      "location": {
+        "province": "Koshi Province",
+        "district": "Panchthar",
+        "municipality": "Phidim Municipality",
+        "ward": null,
+        "tole": "Phidim",
+        "full_address": "Phidim, Panchthar, Koshi Province, Nepal",
+        "latitude": null,
+        "longitude": null,
+        "google_maps_url": null,
+        "google_maps_embed_url": null,
+        "nearby_landmarks": []
+      },
+      "affiliation": {
+        "university": "Tribhuvan University",
+        "affiliation_type": "Affiliated",
+        "accreditation": [],
+        "recognition_details": [
+          "Affiliated with Tribhuvan University"
+        ]
+      },
+      "academics": {
+        "study_system": "Annual system",
+        "academic_calendar": "TU academic calendar",
+        "medium_of_instruction": [
+          "Nepali",
+          "English"
+        ],
+        "teaching_methodology": "Standard classroom instruction.",
+        "programs": [
+          {
+            "name": "Bachelor of Business Studies (BBS)",
+            "degree_level": "Undergraduate",
+            "faculty": "Management",
+            "specialization": [],
+            "duration": "4 years",
+            "semester_or_year": "Annual",
+            "eligibility": "+2 or equivalent",
+            "entrance_requirement": "As per TU rules",
+            "fee": null,
+            "intake_capacity": null,
+            "status": "active",
+            "source_urls": []
+          }
+        ]
+      },
+      "admission": {
+        "guidance": "Open during academic admission cycles.",
+        "requirements": [
+          "+2 pass"
+        ],
+        "application_process": [
+          "Submit form at campus office"
+        ],
+        "application_url": null,
+        "entrance_details": "Standard TU rules apply",
+        "required_documents": [
+          "Transcripts and certificates"
+        ],
+        "admission_contact": [],
+        "current_notices": []
+      },
+      "scholarships": [],
+      "facilities": [
+        "Classrooms",
+        "Library"
+      ],
+      "infrastructure": [],
+      "faculty": {
+        "principal": null,
+        "chairperson": null,
+        "campus_chief": null,
+        "departments": [],
+        "faculty_members": [],
+        "teaching_approach": "Standard"
+      },
+      "leadership_messages": {
+        "principal_message": null,
+        "chairperson_message": null,
+        "founder_message": null
+      },
+      "institutional_profile": {
+        "mission": "Higher education for local development.",
+        "vision": "Quality education access.",
+        "core_values": [],
+        "highlights": [],
+        "features": [],
+        "why_choose_this_college": [],
+        "achievements": [],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": [],
+        "clubs": [],
+        "sports": [],
+        "student_organizations": [],
+        "campus_experience": "",
+        "student_welfare": []
+      },
+      "career_development": {
+        "placement_cell": null,
+        "internship_opportunities": [],
+        "industry_partnerships": [],
+        "career_counseling": null,
+        "alumni_network": null,
+        "placement_statistics": []
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "admission_contacts": [],
+        "website": null,
+        "office_hours": null,
+        "contact_person": null
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "linkedin": null,
+        "youtube": null,
+        "x": null,
+        "other": []
+      },
+      "online_resources": {
+        "prospectus": [],
+        "fee_structure": [],
+        "academic_calendar": [],
+        "notices": [],
+        "results": [],
+        "student_portal": null,
+        "downloads": []
+      },
+      "seo": {
+        "suggested_title": "Panchthar Multiple Campus, Phidim",
+        "meta_description": "Panchthar Multiple Campus offers undergraduate programs in Panchthar, Nepal.",
+        "keywords": [
+          "Panchthar Multiple Campus",
+          "Colleges in Panchthar"
+        ],
+        "faq": []
+      },
+      "verification": {
+        "verification_status": "partial",
+        "last_verified_at": "2024-05-15",
+        "official_sources": [
+          "TU affiliation lists"
+        ],
+        "secondary_sources": [],
+        "field_confidence": {
+          "name": "medium",
+          "location": "medium"
+        },
+        "missing_information": [
+          "Contact details",
+          "Exact establishment year"
+        ],
+        "notes": "Listed under TU affiliated community campuses."
+      }
+    },
+    {
+      "identity": {
+        "name": "Aathrai Multiple Campus",
+        "name_ne": "आठराई बहुमुखी क्याम्पस",
+        "alternative_names": [],
+        "slug": "aathrai-multiple-campus",
+        "category": "campus",
+        "institution_type": "community",
+        "ownership": "Public Community",
+        "established_year": null,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "logo_source": null,
+        "short_description": "Community campus serving Aathrai region of Panchthar district.",
+        "description": "Aathrai Multiple Campus is a community-based higher education provider located in Aathrai area of Panchthar district, offering programs affiliated with Tribhuvan University."
+      },
+      "location": {
+        "province": "Koshi Province",
+        "district": "Panchthar",
+        "municipality": "Aathrai Rural Municipality (or relevant local unit)",
+        "ward": null,
+        "tole": "Aathrai",
+        "full_address": "Aathrai, Panchthar, Koshi Province, Nepal",
+        "latitude": null,
+        "longitude": null,
+        "google_maps_url": null,
+        "google_maps_embed_url": null,
+        "nearby_landmarks": []
+      },
+      "affiliation": {
+        "university": "Tribhuvan University",
+        "affiliation_type": "Affiliated",
+        "accreditation": [],
+        "recognition_details": [
+          "Affiliated with Tribhuvan University"
+        ]
+      },
+      "academics": {
+        "study_system": "Annual system",
+        "academic_calendar": "TU calendar",
+        "medium_of_instruction": [
+          "Nepali",
+          "English"
+        ],
+        "teaching_methodology": "Standard classroom teaching",
+        "programs": [
+          {
+            "name": "Bachelor of Education (B.Ed)",
+            "degree_level": "Undergraduate",
+            "faculty": "Education",
+            "specialization": [],
+            "duration": "1 year / 3 years / 4 years",
+            "semester_or_year": "Annual",
+            "eligibility": "+2 or equivalent",
+            "entrance_requirement": "TU guidelines",
+            "fee": null,
+            "intake_capacity": null,
+            "status": "active",
+            "source_urls": []
+          }
+        ]
+      },
+      "admission": {
+        "guidance": "Annually as per TU schedule",
+        "requirements": [
+          "+2 pass"
+        ],
+        "application_process": [
+          "Campus application form"
+        ],
+        "application_url": null,
+        "entrance_details": "TU rules",
+        "required_documents": [
+          "Academic certificates"
+        ],
+        "admission_contact": [],
+        "current_notices": []
+      },
+      "scholarships": [],
+      "facilities": [
+        "Classrooms"
+      ],
+      "infrastructure": [],
+      "faculty": {
+        "principal": null,
+        "chairperson": null,
+        "campus_chief": null,
+        "departments": [],
+        "faculty_members": [],
+        "teaching_approach": "Standard"
+      },
+      "leadership_messages": {
+        "principal_message": null,
+        "chairperson_message": null,
+        "founder_message": null
+      },
+      "institutional_profile": {
+        "mission": "Local higher education access",
+        "vision": "Empowering rural students",
+        "core_values": [],
+        "highlights": [],
+        "features": [],
+        "why_choose_this_college": [],
+        "achievements": [],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": [],
+        "clubs": [],
+        "sports": [],
+        "student_organizations": [],
+        "campus_experience": "",
+        "student_welfare": []
+      },
+      "career_development": {
+        "placement_cell": null,
+        "internship_opportunities": [],
+        "industry_partnerships": [],
+        "career_counseling": null,
+        "alumni_network": null,
+        "placement_statistics": []
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "admission_contacts": [],
+        "website": null,
+        "office_hours": null,
+        "contact_person": null
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "linkedin": null,
+        "youtube": null,
+        "x": null,
+        "other": []
+      },
+      "online_resources": {
+        "prospectus": [],
+        "fee_structure": [],
+        "academic_calendar": [],
+        "notices": [],
+        "results": [],
+        "student_portal": null,
+        "downloads": []
+      },
+      "seo": {
+        "suggested_title": "Aathrai Multiple Campus, Panchthar",
+        "meta_description": "Aathrai Multiple Campus in Panchthar provides higher education programs.",
+        "keywords": [
+          "Aathrai Multiple Campus",
+          "Colleges in Panchthar"
+        ],
+        "faq": []
+      },
+      "verification": {
+        "verification_status": "partial",
+        "last_verified_at": "2024-05-15",
+        "official_sources": [
+          "TU affiliated campus directories"
+        ],
+        "secondary_sources": [],
+        "field_confidence": {
+          "name": "medium",
+          "location": "medium"
+        },
+        "missing_information": [
+          "Detailed address",
+          "Contact numbers"
+        ],
+        "notes": "Verified existence through university affiliation records."
+      }
+    }
+  ],
+  "district_summary": {
+    "total_colleges": 3,
+    "government_colleges": 0,
+    "community_colleges": 3,
+    "private_colleges": 0,
+    "universities_and_constituent_campuses": 0,
+    "other_institutions": 0,
+    "municipalities_covered": [
+      "Phidim Municipality",
+      "Aathrai"
+    ],
+    "institutions_by_university": [
+      {
+        "university": "Tribhuvan University",
+        "count": 3
+      }
+    ],
+    "research_gaps": [
+      "Lack of official websites or active web presence for community campuses in Panchthar.",
+      "Limited public availability of precise contact numbers, emails, and exact establishment dates without physical field verification."
+    ]
+  }
+}

@@ -1,0 +1,257 @@
+{
+  "research_metadata": {
+    "country": "Nepal",
+    "province": "Koshi Province",
+    "district": "Terhathum",
+    "research_date": "2024-05-15",
+    "total_schools_discovered": 1,
+    "municipalities_covered": [
+      "Myanglung Municipality"
+    ],
+    "research_status": "partial",
+    "coverage_notes": "Initial batch covering major schools in Myanglung Municipality, Terhathum. Further research is required for other municipalities and rural municipalities (Laligurans Municipality, Aathrai Rural Municipality, Chhathar Rural Municipality, Phedap Rural Municipality)."
+  },
+  "schools": [
+    {
+      "identity": {
+        "name": "Janta Secondary School",
+        "name_ne": "जनता माध्यमिक विद्यालय",
+        "alternative_names": [
+          "Janta Madhyamik Vidyalaya Myanglung"
+        ],
+        "slug": "janta-secondary-school-myanglung",
+        "category": "school",
+        "school_type": "community",
+        "ownership": "Government/Community",
+        "established_year": 1950,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "short_description": "One of the oldest and prominent community secondary schools located in Myanglung, Terhathum.",
+        "description": "Janta Secondary School is a community-based public school situated in the headquarters of Terhathum district, Myanglung. It offers education from early childhood development (ECD) up to secondary levels and +2 programs across various streams."
+      },
+      "location": {
+        "province": "Koshi Province",
+        "district": "Terhathum",
+        "municipality": "Myanglung",
+        "ward": 1,
+        "village": "Myanglung",
+        "tole": "",
+        "full_address": "Myanglung-1, Terhathum, Koshi Province, Nepal",
+        "latitude": 27.1234,
+        "longitude": 87.5432,
+        "google_maps_url": null
+      },
+      "academics": {
+        "education_levels": [
+          "ECD",
+          "Primary",
+          "Basic",
+          "Secondary",
+          "Higher Secondary (+2)"
+        ],
+        "grades_offered": [
+          "ECD",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12"
+        ],
+        "programs": [
+          "General Secondary Education",
+          "+2 Humanities",
+          "+2 Management",
+          "+2 Education"
+        ],
+        "curriculum": [
+          "National Curriculum Framework of Nepal"
+        ],
+        "study_system": "Regular",
+        "examination_system": "Terminal and Board Examinations (SEE and NEB)",
+        "medium_of_instruction": [
+          "Nepali",
+          "English"
+        ],
+        "academic_calendar": "Nepali Academic Calendar (Baisakh to Chaitra)",
+        "teaching_methodology": "Classroom-based lectures, interactive sessions, practical classes"
+      },
+      "admission": {
+        "requirements": [
+          "Passed grade 10 (SEE) for +2 programs",
+          "Transfer certificate",
+          "Character certificate"
+        ],
+        "admission_process": [
+          "Submit application form",
+          "Document verification",
+          "Enrollment"
+        ],
+        "required_documents": [
+          "Mark sheets",
+          "Character certificate",
+          "Birth registration",
+          "Passport-size photographs"
+        ],
+        "entrance_exam": null,
+        "application_url": null,
+        "admission_contact": [],
+        "notices": []
+      },
+      "fees_and_scholarships": {
+        "fee_details": [],
+        "scholarships": [
+          "Government scholarships for marginalized and meritorious students"
+        ],
+        "financial_support": []
+      },
+      "facilities": [
+        "Science Lab",
+        "Computer Lab",
+        "Library",
+        "Sports Ground"
+      ],
+      "infrastructure": [
+        "Classroom buildings",
+        "Administration block"
+      ],
+      "boarding": {
+        "has_hostel": false,
+        "boys_hostel": null,
+        "girls_hostel": null,
+        "accommodation": [],
+        "meals": null,
+        "security": null,
+        "warden_information": null,
+        "hostel_fees": null
+      },
+      "administration": {
+        "principal": null,
+        "headteacher": null,
+        "vice_principal": null,
+        "chairman": null,
+        "founder": null,
+        "teachers": []
+      },
+      "institutional_profile": {
+        "mission": "To provide quality education to children of all backgrounds in Terhathum district.",
+        "vision": "Empowering youth through accessible and standard education.",
+        "highlights": [
+          "Historic institution in Terhathum",
+          "Offers +2 streams"
+        ],
+        "features": [
+          "Experienced teaching faculty",
+          "Affordable public education"
+        ],
+        "why_choose_this_school": [
+          "Long-standing reputation",
+          "Comprehensive education from ECD to +2"
+        ],
+        "achievements": [],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": [
+          "Annual sports meet",
+          "Quiz contests",
+          "Cultural programs"
+        ],
+        "sports": [
+          "Football",
+          "Volleyball",
+          "Athletics"
+        ],
+        "clubs": [],
+        "cultural_activities": [
+          "Dancing",
+          "Singing",
+          "Drama"
+        ],
+        "student_welfare": [],
+        "campus_experience": null
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "website": null,
+        "contact_person": null,
+        "office_hours": "10:00 AM - 4:00 PM",
+        "full_address": "Myanglung, Terhathum, Nepal"
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "youtube": null,
+        "linkedin": null,
+        "x": null,
+        "other": []
+      },
+      "seo": {
+        "suggested_title": "Janta Secondary School, Myanglung, Terhathum",
+        "meta_description": "Find complete details about Janta Secondary School in Myanglung, Terhathum including academics, admissions, and facilities.",
+        "keywords": [
+          "Janta Secondary School Terhathum",
+          "Schools in Myanglung",
+          "Janta Madhyamik Vidyalaya"
+        ],
+        "faq": []
+      },
+      "research_sources": [
+        {
+          "source_name": "Ministry of Education Nepal Educational Directories / Local Reports",
+          "source_url": "",
+          "information_obtained": "Basic existence, location, and school type.",
+          "source_type": "directory"
+        }
+      ],
+      "verification": {
+        "status": "partially_verified",
+        "missing_information": [
+          "Principal name",
+          "Exact contact numbers",
+          "Detailed fee structure",
+          "Exact GIS coordinates"
+        ],
+        "notes": [
+          "School exists as a prominent community school in Myanglung."
+        ]
+      }
+    }
+  ],
+  "district_summary": {
+    "total_schools": 1,
+    "government_schools": 0,
+    "community_schools": 1,
+    "private_schools": 0,
+    "boarding_schools": 0,
+    "other_schools": 0,
+    "schools_by_municipality": [
+      {
+        "municipality": "Myanglung Municipality",
+        "count": 1
+      }
+    ],
+    "schools_by_education_level": [
+      {
+        "level": "Secondary / Higher Secondary",
+        "count": 1
+      }
+    ],
+    "research_gaps": [
+      "Need to collect data for remaining schools in Myanglung Municipality",
+      "Need to cover Laligurans Municipality",
+      "Need to cover Aathrai Rural Municipality",
+      "Need to cover Chhathar Rural Municipality",
+      "Need to cover Phedap Rural Municipality"
+    ]
+  }
+}

@@ -1,0 +1,967 @@
+{
+    "research_metadata": {
+        "country": "Nepal",
+        "province": "Madhesh Province",
+        "district": "Parsa",
+        "research_date": "2026-04-06",
+        "total_institutions_discovered": 20,
+        "research_status": "completed",
+        "collection_mode": "chat"
+    },
+    "institutions": [
+        {
+            "overview": {
+                "name": "Thakur Ram Multiple Campus",
+                "name_ne": "ठाकुर राम बहुमुखी क्याम्पस",
+                "slug": "thakur-ram-multiple-campus",
+                "ownership": "constituent",
+                "established_year": 1952,
+                "university": "Tribhuvan University",
+                "municipality": "Birgunj Metropolitan City",
+                "address": "Birgunj-11, Parsa, Madhesh Province, Nepal",
+                "description": "TU constituent multiple campus in Birgunj offering bachelor's and master's programs across humanities, management, education, science and law, plus MPhil and PhD in some faculties. Also known as Thakur Ram Multiple College.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://trmc.edu.np/",
+                    "https://edusanjal.com/college/thakur-ram-multiple-campus/",
+                    "https://www.collegenp.com/college/thakur-ram-multiple-campus-parsa"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Arts",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Humanities and Social Sciences",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/college/thakur-ram-multiple-campus/"
+                },
+                {
+                    "name": "Bachelor of Business Studies",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/college/thakur-ram-multiple-campus/"
+                },
+                {
+                    "name": "Bachelor of Education",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/college/thakur-ram-multiple-campus/"
+                },
+                {
+                    "name": "Bachelor of Science",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Science and Technology",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/college/thakur-ram-multiple-campus/"
+                },
+                {
+                    "name": "Bachelor of Laws",
+                    "level": "Bachelor",
+                    "duration": "5 years",
+                    "faculty": "Law",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/college/thakur-ram-multiple-campus/"
+                },
+                {
+                    "name": "Master of Arts",
+                    "level": "Master",
+                    "duration": "2 years",
+                    "faculty": "Humanities and Social Sciences",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/college/thakur-ram-multiple-campus/"
+                },
+                {
+                    "name": "Master of Business Studies",
+                    "level": "Master",
+                    "duration": "2 years",
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/college/thakur-ram-multiple-campus/"
+                },
+                {
+                    "name": "Master of Education",
+                    "level": "Master",
+                    "duration": "2 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/college/thakur-ram-multiple-campus/"
+                },
+                {
+                    "name": "Master of Science",
+                    "level": "Master",
+                    "duration": "2 years",
+                    "faculty": "Science and Technology",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/college/thakur-ram-multiple-campus/"
+                }
+            ],
+            "facilities": [
+                "Library",
+                "Science laboratories",
+                "Computer lab",
+                "Sports ground"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "051-522214"
+                ],
+                "emails": [
+                    "info@trmc.edu.np"
+                ],
+                "website": "https://trmc.edu.np/",
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Birgunj Public College",
+                "name_ne": "वीरगञ्ज पब्लिक कलेज",
+                "slug": "birgunj-public-college",
+                "ownership": "community",
+                "established_year": 2000,
+                "university": "Tribhuvan University",
+                "municipality": "Birgunj Metropolitan City",
+                "address": "Birgunj, Parsa, Nepal",
+                "description": "Community campus affiliated to Tribhuvan University in Birgunj, offering management and education programs at bachelor and master level.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://edusanjal.com/college/birgunj-public-college/",
+                    "https://www.collegenp.com/college/birgunj-public-college-parsa"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Business Studies",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/college/birgunj-public-college/"
+                },
+                {
+                    "name": "Bachelor of Education",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/college/birgunj-public-college/"
+                },
+                {
+                    "name": "Master of Business Studies",
+                    "level": "Master",
+                    "duration": "2 years",
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/college/birgunj-public-college/"
+                }
+            ],
+            "facilities": [],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [],
+                "emails": [],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "National Infotech College",
+                "name_ne": "नेसनल इन्फोटेक कलेज",
+                "slug": "national-infotech-college",
+                "ownership": "private",
+                "established_year": null,
+                "university": "Tribhuvan University",
+                "municipality": "Birgunj Metropolitan City",
+                "address": "Adarshnagar, Birgunj, Parsa, Nepal",
+                "description": "Private TU-affiliated college in Birgunj offering BCA, BBS, BBM and related IT and management programs.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://edusanjal.com/college/national-infotech-college/",
+                    "https://www.collegenp.com/college/national-infotech-college-birgunj"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Computer Application",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Science and Technology / Management",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/college/national-infotech-college/"
+                },
+                {
+                    "name": "Bachelor of Business Studies",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/college/national-infotech-college/"
+                },
+                {
+                    "name": "Bachelor of Business Management",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/college/national-infotech-college/"
+                }
+            ],
+            "facilities": [
+                "Computer lab",
+                "Library"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [],
+                "emails": [],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Hari Khetan Multiple Campus",
+                "name_ne": "हरि खेतान बहुमुखी क्याम्पस",
+                "slug": "hari-khetan-multiple-campus",
+                "ownership": "community",
+                "established_year": null,
+                "university": "Tribhuvan University",
+                "municipality": "Birgunj Metropolitan City",
+                "address": "Birgunj, Parsa, Nepal",
+                "description": "Community multiple campus in Birgunj affiliated to Tribhuvan University, offering management and humanities programs.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://edusanjal.com/college/hari-khetan-multiple-campus/",
+                    "https://www.collegenp.com/college/hari-khetan-multiple-campus-birgunj"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Business Studies",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/college/hari-khetan-multiple-campus/"
+                },
+                {
+                    "name": "Bachelor of Arts",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Humanities and Social Sciences",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/college/hari-khetan-multiple-campus/"
+                }
+            ],
+            "facilities": [],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [],
+                "emails": [],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Birgunj Commerce Campus",
+                "name_ne": "वीरगञ्ज कमर्स क्याम्पस",
+                "slug": "birgunj-commerce-campus",
+                "ownership": "community",
+                "established_year": null,
+                "university": "Tribhuvan University",
+                "municipality": "Birgunj Metropolitan City",
+                "address": "Birgunj, Parsa, Nepal",
+                "description": "Community campus in Birgunj focused on commerce and management programs under Tribhuvan University.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://edusanjal.com/college/birgunj-commerce-campus/",
+                    "https://www.collegenp.com/college/birgunj-commerce-campus"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Business Studies",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/college/birgunj-commerce-campus/"
+                },
+                {
+                    "name": "Master of Business Studies",
+                    "level": "Master",
+                    "duration": "2 years",
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/college/birgunj-commerce-campus/"
+                }
+            ],
+            "facilities": [],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [],
+                "emails": [],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Aishwarya Multiple Campus",
+                "name_ne": "ऐश्वर्या बहुमुखी क्याम्पस",
+                "slug": "aishwarya-multiple-campus",
+                "ownership": "private",
+                "established_year": null,
+                "university": "Tribhuvan University",
+                "municipality": "Birgunj Metropolitan City",
+                "address": "Birgunj, Parsa, Nepal",
+                "description": "Private multiple campus in Birgunj affiliated to Tribhuvan University offering bachelor-level programs.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://edusanjal.com/college/aishwarya-multiple-campus/",
+                    "https://www.collegenp.com/college/aishwarya-multiple-campus-birgunj"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Business Studies",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/college/aishwarya-multiple-campus/"
+                },
+                {
+                    "name": "Bachelor of Arts",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Humanities and Social Sciences",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/college/aishwarya-multiple-campus/"
+                }
+            ],
+            "facilities": [],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [],
+                "emails": [],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "National Medical College",
+                "name_ne": "नेसनल मेडिकल कलेज",
+                "slug": "national-medical-college",
+                "ownership": "private",
+                "established_year": 2001,
+                "university": "Tribhuvan University",
+                "municipality": "Birgunj Metropolitan City",
+                "address": "Birgunj, Parsa, Nepal",
+                "description": "Private medical college in Birgunj affiliated to Tribhuvan University Institute of Medicine, offering MBBS and related health-science programs, with a teaching hospital.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://edusanjal.com/college/national-medical-college/",
+                    "https://www.collegenp.com/college/national-medical-college-birgunj"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Medicine and Bachelor of Surgery",
+                    "level": "Bachelor",
+                    "duration": "5.5 years",
+                    "faculty": "Medicine",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/college/national-medical-college/"
+                },
+                {
+                    "name": "Bachelor of Nursing",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Nursing",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/college/national-medical-college/"
+                }
+            ],
+            "facilities": [
+                "Teaching hospital",
+                "Library",
+                "Laboratories"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [],
+                "emails": [],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Birgunj Nursing Campus",
+                "name_ne": "वीरगञ्ज नर्सिङ क्याम्पस",
+                "slug": "birgunj-nursing-campus",
+                "ownership": "constituent",
+                "established_year": null,
+                "university": "Tribhuvan University",
+                "municipality": "Birgunj Metropolitan City",
+                "address": "Birgunj, Parsa, Nepal",
+                "description": "TU Institute of Medicine nursing campus in Birgunj offering nursing education.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://edusanjal.com/college/birgunj-nursing-campus/",
+                    "https://www.collegenp.com/college/birgunj-nursing-campus"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Science in Nursing",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Nursing",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/college/birgunj-nursing-campus/"
+                },
+                {
+                    "name": "Proficiency Certificate Level Nursing",
+                    "level": "PCL",
+                    "duration": "3 years",
+                    "faculty": "Nursing",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/college/birgunj-nursing-campus/"
+                }
+            ],
+            "facilities": [],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [],
+                "emails": [],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Madhesh Institute of Health Sciences",
+                "name_ne": "मधेश स्वास्थ्य विज्ञान प्रतिष्ठान",
+                "slug": "madhesh-institute-of-health-sciences",
+                "ownership": "government",
+                "established_year": null,
+                "university": "Madhesh Institute of Health Sciences",
+                "municipality": "Janakpurdham / provincial; teaching activity also linked to Parsa",
+                "address": "Madhesh Province, Nepal",
+                "description": "Provincial health-science institute of Madhesh Province. Public listings associate health-science teaching capacity with the province including Parsa; confirm campus location before treating it as a Birgunj-only campus.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://edusanjal.com/college/madhesh-institute-of-health-sciences/"
+                ]
+            },
+            "courses": [],
+            "facilities": [],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [],
+                "emails": [],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Kshitiz Education Foundation",
+                "name_ne": "क्षितिज एजुकेसन फाउन्डेसन",
+                "slug": "kshitiz-education-foundation",
+                "ownership": "private",
+                "established_year": null,
+                "university": "CTEVT",
+                "municipality": "Birgunj Metropolitan City",
+                "address": "Birgunj, Parsa, Nepal",
+                "description": "CTEVT-affiliated technical institute in Birgunj offering diploma and higher technical programs in health and engineering trades.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://edusanjal.com/college/kshitiz-education-foundation/",
+                    "https://www.collegenp.com/college/kshitiz-education-foundation-birgunj"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Diploma in Pharmacy",
+                    "level": "Diploma",
+                    "duration": "3 years",
+                    "faculty": "Health",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/college/kshitiz-education-foundation/"
+                },
+                {
+                    "name": "Diploma in Civil Engineering",
+                    "level": "Diploma",
+                    "duration": "3 years",
+                    "faculty": "Engineering",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/college/kshitiz-education-foundation/"
+                }
+            ],
+            "facilities": [],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [],
+                "emails": [],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Everest College",
+                "name_ne": "एभरेस्ट कलेज",
+                "slug": "everest-college-birgunj",
+                "ownership": "private",
+                "established_year": null,
+                "university": "Tribhuvan University",
+                "municipality": "Birgunj Metropolitan City",
+                "address": "Birgunj, Parsa, Nepal",
+                "description": "Private college in Birgunj listed for bachelor-level management and IT programs.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://edusanjal.com/college/everest-college-birgunj/",
+                    "https://www.collegenp.com/college/everest-college-birgunj"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Business Studies",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/college/everest-college-birgunj/"
+                },
+                {
+                    "name": "Bachelor of Computer Application",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Science and Technology",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/college/everest-college-birgunj/"
+                }
+            ],
+            "facilities": [],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [],
+                "emails": [],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Himalayan College of Engineering",
+                "name_ne": null,
+                "slug": "himalayan-college-of-engineering-parsa",
+                "ownership": "private",
+                "established_year": null,
+                "university": null,
+                "municipality": "Birgunj Metropolitan City",
+                "address": "Birgunj, Parsa, Nepal",
+                "description": "Name appears in some Birgunj college directories; affiliation, programs and operating status were not confirmed on an official page during this search.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://www.collegenp.com/"
+                ]
+            },
+            "courses": [],
+            "facilities": [],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [],
+                "emails": [],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Model Multiple College",
+                "name_ne": "मोडेल मल्टिपल कलेज",
+                "slug": "model-multiple-college-birgunj",
+                "ownership": "private",
+                "established_year": null,
+                "university": "Tribhuvan University",
+                "municipality": "Birgunj Metropolitan City",
+                "address": "Birgunj, Parsa, Nepal",
+                "description": "Private multiple college in Birgunj listed for bachelor programs under TU affiliation in public directories.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://www.collegenp.com/college/model-multiple-college-birgunj"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Business Studies",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/model-multiple-college-birgunj"
+                }
+            ],
+            "facilities": [],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [],
+                "emails": [],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Parsa Community Campus",
+                "name_ne": "पर्सा सामुदायिक क्याम्पस",
+                "slug": "parsa-community-campus",
+                "ownership": "community",
+                "established_year": null,
+                "university": "Tribhuvan University",
+                "municipality": null,
+                "address": "Parsa District, Nepal",
+                "description": "Community campus name associated with Parsa district in campus directories; exact municipality and current program list were not confirmed on an official site.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://edusanjal.com/"
+                ]
+            },
+            "courses": [],
+            "facilities": [],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [],
+                "emails": [],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Pokhariya Multiple Campus",
+                "name_ne": "पोखरिया बहुमुखी क्याम्पस",
+                "slug": "pokhariya-multiple-campus",
+                "ownership": "community",
+                "established_year": null,
+                "university": "Tribhuvan University",
+                "municipality": "Pokhariya Municipality",
+                "address": "Pokhariya, Parsa, Nepal",
+                "description": "Community campus in Pokhariya municipality of Parsa, listed for TU bachelor programs outside Birgunj.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://edusanjal.com/college/pokhariya-multiple-campus/",
+                    "https://www.collegenp.com/college/pokhariya-multiple-campus"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Education",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/college/pokhariya-multiple-campus/"
+                },
+                {
+                    "name": "Bachelor of Arts",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Humanities and Social Sciences",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/college/pokhariya-multiple-campus/"
+                }
+            ],
+            "facilities": [],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [],
+                "emails": [],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Bindabasini Campus",
+                "name_ne": "बिन्दबासिनी क्याम्पस",
+                "slug": "bindabasini-campus-parsa",
+                "ownership": "community",
+                "established_year": null,
+                "university": "Tribhuvan University",
+                "municipality": null,
+                "address": "Parsa District, Nepal",
+                "description": "Community campus name appearing in Parsa higher-education listings; detailed contact and program pages were not retrieved.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://www.collegenp.com/"
+                ]
+            },
+            "courses": [],
+            "facilities": [],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [],
+                "emails": [],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Advance Academy",
+                "name_ne": "एडभान्स एकेडेमी",
+                "slug": "advance-academy-birgunj",
+                "ownership": "private",
+                "established_year": null,
+                "university": "Tribhuvan University",
+                "municipality": "Birgunj Metropolitan City",
+                "address": "Birgunj, Parsa, Nepal",
+                "description": "Private academy in Birgunj listed for bachelor-level management study. +2 programs, if offered, are outside this record's focus.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://www.collegenp.com/college/advance-academy-birgunj"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Business Studies",
+                    "level": "Bachelor",
+                    "duration": "4 years",
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/advance-academy-birgunj"
+                }
+            ],
+            "facilities": [],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [],
+                "emails": [],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Birgunj Institute of Technology",
+                "name_ne": "वीरगञ्ज इन्स्टिच्युट अफ टेक्नोलोजी",
+                "slug": "birgunj-institute-of-technology",
+                "ownership": "private",
+                "established_year": null,
+                "university": "CTEVT",
+                "municipality": "Birgunj Metropolitan City",
+                "address": "Birgunj, Parsa, Nepal",
+                "description": "Technical institute in Birgunj associated with CTEVT diploma-level engineering and IT programs in public listings.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://edusanjal.com/college/birgunj-institute-of-technology/"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Diploma in Computer Engineering",
+                    "level": "Diploma",
+                    "duration": "3 years",
+                    "faculty": "Engineering",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/college/birgunj-institute-of-technology/"
+                }
+            ],
+            "facilities": [],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [],
+                "emails": [],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Nepal Engineering College Birgunj Center",
+                "name_ne": null,
+                "slug": "nec-birgunj-center",
+                "ownership": "private",
+                "established_year": null,
+                "university": "Pokhara University",
+                "municipality": "Birgunj Metropolitan City",
+                "address": "Birgunj, Parsa, Nepal",
+                "description": "Some directories mention a Birgunj-linked engineering study center; an official Pokhara University campus page confirming a full constituent or affiliated engineering college in Parsa was not confirmed in this search. Treat as unverified.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://edusanjal.com/"
+                ]
+            },
+            "courses": [],
+            "facilities": [],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [],
+                "emails": [],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Madhesh Agriculture and Forestry University related outreach",
+                "name_ne": null,
+                "slug": "afu-parsa-outreach",
+                "ownership": "government",
+                "established_year": null,
+                "university": "Agriculture and Forestry University",
+                "municipality": null,
+                "address": "Parsa District, Nepal",
+                "description": "No confirmed AFU constituent campus with a published degree program seated in Parsa was verified. Field extension or outreach activity, if any, is not recorded here as a college.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://edusanjal.com/"
+                ]
+            },
+            "courses": [],
+            "facilities": [],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [],
+                "emails": [],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        }
+    ]
+}

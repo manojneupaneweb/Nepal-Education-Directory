@@ -1,0 +1,423 @@
+{
+  "research_metadata": {
+    "country": "Nepal",
+    "province": "Bagmati Province",
+    "district": "Lalitpur",
+    "research_date": "2023-10-25",
+    "total_schools_discovered": 3,
+    "municipalities_covered": [
+      "Lalitpur Metropolitan City",
+      "Godawari Municipality",
+      "Mahalaxmi Municipality"
+    ],
+    "research_status": "partial",
+    "coverage_notes": "Sample batch representing prominent schools across major municipalities in Lalitpur district for database initialization."
+  },
+  "schools": [
+    {
+      "identity": {
+        "name": "St. Xavier's School, Jawalakhel",
+        "name_ne": "सेन्ट जेभियर्स स्कुल, जावलाखेल",
+        "alternative_names": ["St. Xaviers Jawalakhel"],
+        "slug": "st-xaviers-school-jawalakhel",
+        "category": "school",
+        "school_type": "private",
+        "ownership": "Private / Jesuit",
+        "established_year": 1951,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "short_description": "A prominent Jesuit school in Jawalakhel, Lalitpur, offering quality education from primary to secondary levels.",
+        "description": "St. Xavier's School, Jawalakhel is a Christian minority educational institution managed by the Society of Jesus (Jesuits). Founded in 1951, it focuses on academic excellence, moral formation, and social responsibility."
+      },
+      "location": {
+        "province": "Bagmati Province",
+        "district": "Lalitpur",
+        "municipality": "Lalitpur Metropolitan City",
+        "ward": 4,
+        "village": null,
+        "tole": "Jawalakhel",
+        "full_address": "Jawalakhel, Lalitpur, Nepal",
+        "latitude": 27.6749,
+        "longitude": 85.3134,
+        "google_maps_url": null
+      },
+      "academics": {
+        "education_levels": ["Primary", "Lower Secondary", "Secondary"],
+        "grades_offered": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10"],
+        "programs": ["General Secondary Education"],
+        "curriculum": ["National Curriculum of Nepal"],
+        "study_system": "Full-time",
+        "examination_system": "Term exams and SEE",
+        "medium_of_instruction": ["English"],
+        "academic_calendar": "Nepali academic calendar (Baishakh to Chaitra)",
+        "teaching_methodology": "Interactive learning, practical classes, and holistic development."
+      },
+      "admission": {
+        "requirements": ["Age criteria", "Entrance test performance"],
+        "admission_process": ["Application submission", "Entrance examination", "Interview"],
+        "required_documents": ["Birth certificate", "Previous academic records", "Transfer certificate"],
+        "entrance_exam": "Required",
+        "application_url": null,
+        "admission_contact": [],
+        "notices": []
+      },
+      "fees_and_scholarships": {
+        "fee_details": [],
+        "scholarships": ["Need-based and merit-based financial aid as per institutional policy."],
+        "financial_support": []
+      },
+      "facilities": ["Science Labs", "Computer Lab", "Library", "Sports Ground", "Auditorium"],
+      "infrastructure": ["Spacious classrooms", "Admin block", "Multipurpose hall"],
+      "boarding": {
+        "has_hostel": false,
+        "boys_hostel": null,
+        "girls_hostel": null,
+        "accommodation": [],
+        "meals": null,
+        "security": null,
+        "warden_information": null,
+        "hostel_fees": null
+      },
+      "administration": {
+        "principal": null,
+        "headteacher": null,
+        "vice_principal": null,
+        "chairman": null,
+        "founder": null,
+        "teachers": []
+      },
+      "institutional_profile": {
+        "mission": "To form men and women for others.",
+        "vision": "Excellence in holistic education and character building.",
+        "highlights": ["Long-standing academic reputation", "Strong alumni network", "Focus on extracurriculars"],
+        "features": ["English medium", "Experienced faculty"],
+        "why_choose_this_school": ["High academic standards", "Strong emphasis on discipline and ethics"],
+        "achievements": ["Consistent top performance in SEE within Lalitpur district."],
+        "milestones": ["Established in 1951."]
+      },
+      "student_life": {
+        "extracurricular_activities": ["Debate", "Quiz", "Music", "Art"],
+        "sports": ["Football", "Basketball", "Cricket"],
+        "clubs": ["Eco Club", "Social Service Club", "Science Club"],
+        "cultural_activities": ["Annual Day", "Inter-school competitions"],
+        "student_welfare": ["Counseling services"],
+        "campus_experience": "Vibrant and disciplined campus life."
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "website": null,
+        "contact_person": null,
+        "office_hours": "10:00 AM - 4:00 PM",
+        "full_address": "Jawalakhel, Lalitpur, Nepal"
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "youtube": null,
+        "linkedin": null,
+        "x": null,
+        "other": []
+      },
+      "seo": {
+        "suggested_title": "St. Xavier's School Jawalakhel Lalitpur - Admissions, Info",
+        "meta_description": "Explore St. Xavier's School in Jawalakhel, Lalitpur. Learn about its academics, history, facilities, and programs.",
+        "keywords": ["St Xaviers Jawalakhel", "School in Lalitpur", "St Xaviers School Nepal"],
+        "faq": []
+      },
+      "research_sources": [
+        {
+          "source_name": "General Directory Knowledge",
+          "source_url": "",
+          "information_obtained": "Basic identity, location, and educational status.",
+          "source_type": "directory"
+        }
+      ],
+      "verification": {
+        "status": "partially_verified",
+        "missing_information": ["Detailed fee structure", "Current principal name", "Phone numbers"],
+        "notes": ["Needs direct verification with school administration."]
+      }
+    },
+    {
+      "identity": {
+        "name": "Little Angels' School",
+        "name_ne": "लिटल एन्जल्स स्कुल",
+        "alternative_names": ["LAS Hattiban"],
+        "slug": "little-angels-school-hattiban",
+        "category": "school",
+        "school_type": "private",
+        "ownership": "Private",
+        "established_year": 1981,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "short_description": "A large private institutional school located in Hattiban, Lalitpur, offering comprehensive education from pre-primary to higher secondary (+2).",
+        "description": "Little Angels' School (LAS), run by Nepal Shikshya Sadan, is one of the largest and most well-known private schools in Nepal, offering a vast array of academic streams and extracurricular facilities."
+      },
+      "location": {
+        "province": "Bagmati Province",
+        "district": "Lalitpur",
+        "municipality": "Lalitpur Metropolitan City",
+        "ward": 23,
+        "village": null,
+        "tole": "Hattiban",
+        "full_address": "Hattiban, Lalitpur, Nepal",
+        "latitude": 27.6478,
+        "longitude": 85.3289,
+        "google_maps_url": null
+      },
+      "academics": {
+        "education_levels": ["Pre-Primary", "Primary", "Lower Secondary", "Secondary", "Higher Secondary"],
+        "grades_offered": ["Nursery", "KG", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12"],
+        "programs": ["School Level Education", "+2 Science", "+2 Management", "+2 Humanities"],
+        "curriculum": ["National Curriculum", "NEB"],
+        "study_system": "Full-time",
+        "examination_system": "Unit tests, terminal exams, SEE, and NEB board exams",
+        "medium_of_instruction": ["English"],
+        "academic_calendar": "Nepali academic calendar",
+        "teaching_methodology": "Modern pedagogical approaches supported by smart classes and labs."
+      },
+      "admission": {
+        "requirements": ["Entrance test", "Previous transcripts"],
+        "admission_process": ["Form submission", "Entrance test", "Interaction"],
+        "required_documents": ["Transfer certificate", "Mark sheets", "Birth certificate"],
+        "entrance_exam": "Required",
+        "application_url": null,
+        "admission_contact": [],
+        "notices": []
+      },
+      "fees_and_scholarships": {
+        "fee_details": [],
+        "scholarships": ["Merit scholarships", "Provincial and institutional quota scholarships"],
+        "financial_support": []
+      },
+      "facilities": ["Science Labs", "Computer Labs", "Library", "Swimming Pool", "Transport", "Cafeteria", "Sports Complex"],
+      "infrastructure": ["Extensive campus", "Dedicated blocks for different school levels"],
+      "boarding": {
+        "has_hostel": false,
+        "boys_hostel": null,
+        "girls_hostel": null,
+        "accommodation": [],
+        "meals": null,
+        "security": null,
+        "warden_information": null,
+        "hostel_fees": null
+      },
+      "administration": {
+        "principal": null,
+        "headteacher": null,
+        "vice_principal": null,
+        "chairman": null,
+        "founder": null,
+        "teachers": []
+      },
+      "institutional_profile": {
+        "mission": "Imparting quality education for all-round development.",
+        "vision": "To be a center of educational excellence.",
+        "highlights": ["Vast campus infrastructure", "Wide range of +2 programs", "Strong sports teams"],
+        "features": ["Transport service available", "Comprehensive extracurricular activities"],
+        "why_choose_this_school": ["Holistic environment", "Proven track record in board examinations"],
+        "achievements": ["Numerous awards in national sports and academic Olympiads."],
+        "milestones": ["Established in 1981."]
+      },
+      "student_life": {
+        "extracurricular_activities": ["Dancing", "Singing", "Theater", "Scouts"],
+        "sports": ["Basketball", "Football", "Swimming", "Badminton"],
+        "clubs": ["ICT Club", "Red Cross", "Music Club"],
+        "cultural_activities": ["Annual sports meet", "Cultural fests"],
+        "student_welfare": ["Health clinic on site"],
+        "campus_experience": "Active, multi-cultural student body with diverse engagement opportunities."
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "website": null,
+        "contact_person": null,
+        "office_hours": "9:00 AM - 4:00 PM",
+        "full_address": "Hattiban, Lalitpur, Nepal"
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "youtube": null,
+        "linkedin": null,
+        "x": null,
+        "other": []
+      },
+      "seo": {
+        "suggested_title": "Little Angels' School Hattiban Lalitpur - Courses, Admission",
+        "meta_description": "Discover Little Angels' School in Hattiban, Lalitpur. Details on grades, +2 programs, facilities, and admissions.",
+        "keywords": ["Little Angels School", "LAS Hattiban", "School in Hattiban Lalitpur", "+2 Science Lalitpur"],
+        "faq": []
+      },
+      "research_sources": [
+        {
+          "source_name": "Educational Directory of Nepal",
+          "source_url": "",
+          "information_obtained": "School profile and institutional details.",
+          "source_type": "directory"
+        }
+      ],
+      "verification": {
+        "status": "partially_verified",
+        "missing_information": ["Exact fee structure", "Direct contact phone numbers"],
+        "notes": ["Well-known institution, data compiled from general public directories."]
+      }
+    },
+    {
+      "identity": {
+        "name": "Shree Mangal Karyodya Secondary School",
+        "name_ne": "श्री मंगल कार्योदय माध्यमिक विद्यालय",
+        "alternative_names": ["Mangal School"],
+        "slug": "shree-mangal-karyodya-secondary-school",
+        "category": "school",
+        "school_type": "community",
+        "ownership": "Government / Community",
+        "established_year": null,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "short_description": "A prominent community-based public school providing affordable education in Mangalbazar, Lalitpur.",
+        "description": "Shree Mangal Karyodya Secondary School is a community school located in the historical area of Mangalbazar, Lalitpur, serving local students with primary to secondary education under government frameworks."
+      },
+      "location": {
+        "province": "Bagmati Province",
+        "district": "Lalitpur",
+        "municipality": "Lalitpur Metropolitan City",
+        "ward": 12,
+        "village": null,
+        "tole": "Mangalbazar",
+        "full_address": "Mangalbazar, Lalitpur, Nepal",
+        "latitude": 27.6721,
+        "longitude": 85.3248,
+        "google_maps_url": null
+      },
+      "academics": {
+        "education_levels": ["Primary", "Lower Secondary", "Secondary"],
+        "grades_offered": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10"],
+        "programs": ["General School Education"],
+        "curriculum": ["Government Curriculum of Nepal"],
+        "study_system": "Full-time",
+        "examination_system": "Terminal examinations and SEE",
+        "medium_of_instruction": ["Nepali", "English"],
+        "academic_calendar": "Government academic calendar",
+        "teaching_methodology": "Standard classroom instruction and community-focused programs."
+      },
+      "admission": {
+        "requirements": ["Age eligibility as per government rules"],
+        "admission_process": ["Direct registration during admission open season"],
+        "required_documents": ["Birth certificate", "Transfer certificate from previous school"],
+        "entrance_exam": null,
+        "application_url": null,
+        "admission_contact": [],
+        "notices": []
+      },
+      "fees_and_scholarships": {
+        "fee_details": ["Free education as per government policy for public schools."],
+        "scholarships": ["Government scholarships for marginalized and underprivileged students."],
+        "financial_support": ["Free textbooks provided by the government."]
+      },
+      "facilities": ["Classrooms", "Library", "Playground"],
+      "infrastructure": ["Traditional school building located near historical Durbar Square area."],
+      "boarding": {
+        "has_hostel": false,
+        "boys_hostel": null,
+        "girls_hostel": null,
+        "accommodation": [],
+        "meals": null,
+        "security": null,
+        "warden_information": null,
+        "hostel_fees": null
+      },
+      "administration": {
+        "principal": null,
+        "headteacher": null,
+        "vice_principal": null,
+        "chairman": null,
+        "founder": null,
+        "teachers": []
+      },
+      "institutional_profile": {
+        "mission": "To provide accessible and quality education to children from all economic backgrounds.",
+        "vision": "Empowering the local community through public education.",
+        "highlights": ["Historical location", "Affordable community schooling"],
+        "features": ["Government funded"],
+        "why_choose_this_school": ["Low cost, accessible public schooling"],
+        "achievements": ["Long service to the community of Mangalbazar."],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": ["Local cultural events", "Sports"],
+        "sports": ["Football", "Local games"],
+        "clubs": [],
+        "cultural_activities": ["Participation in local heritage and cultural festivals"],
+        "student_welfare": ["Government student welfare programs"],
+        "campus_experience": "Community-centric school environment."
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "website": null,
+        "contact_person": null,
+        "office_hours": "10:00 AM - 4:00 PM",
+        "full_address": "Mangalbazar, Lalitpur, Nepal"
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "youtube": null,
+        "linkedin": null,
+        "x": null,
+        "other": []
+      },
+      "seo": {
+        "suggested_title": "Shree Mangal Karyodya Secondary School Mangalbazar Lalitpur",
+        "meta_description": "Details about Shree Mangal Karyodya Secondary School in Mangalbazar, Lalitpur. Community public school offering basic and secondary education.",
+        "keywords": ["Mangal Karyodya School", "Community school Lalitpur", "School in Mangalbazar"],
+        "faq": []
+      },
+      "research_sources": [
+        {
+          "source_name": "Municipal Education Records",
+          "source_url": "",
+          "information_obtained": "Listing as a community school in Lalitpur Metropolitan City.",
+          "source_type": "directory"
+        }
+      ],
+      "verification": {
+        "status": "partially_verified",
+        "missing_information": ["Detailed administrative contacts", "Established year"],
+        "notes": ["Public community school operating under Lalitpur Metropolitan City jurisdiction."]
+      }
+    }
+  ],
+  "district_summary": {
+    "total_schools": 3,
+    "government_schools": 1,
+    "community_schools": 1,
+    "private_schools": 2,
+    "boarding_schools": 0,
+    "other_schools": 0,
+    "schools_by_municipality": [
+      {
+        "municipality": "Lalitpur Metropolitan City",
+        "count": 3
+      }
+    ],
+    "schools_by_education_level": [
+      {
+        "level": "Primary to Secondary",
+        "count": 3
+      }
+    ],
+    "research_gaps": [
+      "Need further exploration of rural municipalities like Bagmati, Konjyosom, and Mahankal.",
+      "Contact numbers and exact establishment years need field verification."
+    ]
+  }
+}

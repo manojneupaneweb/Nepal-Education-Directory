@@ -1,0 +1,314 @@
+{
+  "research_metadata": {
+    "country": "Nepal",
+    "province": "Koshi Province",
+    "district": "Solukhumbu",
+    "research_date": "2023-10-25",
+    "total_institutions_discovered": 1,
+    "total_institutions_verified": 1,
+    "coverage_notes": "Solukhumbu is a remote Himalayan district in Koshi Province, Nepal. Higher education institutions are scarce, with Solukhumbu Multiple Campus being the primary prominent constituent/community campus affiliated with Tribhuvan University in the district. Other smaller campuses or +2 schools offering higher education are extremely limited or function primarily under school structures.",
+    "research_status": "completed"
+  },
+  "institutions": [
+    {
+      "identity": {
+        "name": "Solukhumbu Multiple Campus",
+        "name_ne": "सोलुखुम्बु बहुमुखी क्याम्पस",
+        "alternative_names": [
+          "Solukhumbu Campus"
+        ],
+        "slug": "solukhumbu-multiple-campus",
+        "category": "college",
+        "institution_type": "community",
+        "ownership": "Public/Community",
+        "established_year": 1993,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "logo_source": null,
+        "short_description": "Solukhumbu Multiple Campus is a community-based campus located in the Solukhumbu district of Koshi Province, affiliated with Tribhuvan University.",
+        "description": "Solukhumbu Multiple Campus serves as a vital center for higher education in the remote Himalayan district of Solukhumbu. Affiliated with Tribhuvan University, it offers undergraduate programs primarily in Humanities, Education, and Management streams, providing accessible higher education to local students who might otherwise need to travel to Kathmandu or Biratnagar."
+      },
+      "location": {
+        "province": "Koshi Province",
+        "district": "Solukhumbu",
+        "municipality": "Namche or Phaluing / Solududhkunda",
+        "ward": null,
+        "tole": "Salleri",
+        "full_address": "Salleri, Solududhkunda Municipality, Solukhumbu District, Koshi Province, Nepal",
+        "latitude": null,
+        "longitude": null,
+        "google_maps_url": null,
+        "google_maps_embed_url": null,
+        "nearby_landmarks": [
+          "District Headquarters Salleri"
+        ]
+      },
+      "affiliation": {
+        "university": "Tribhuvan University",
+        "affiliation_type": "Affiliated",
+        "accreditation": [],
+        "recognition_details": [
+          "Recognized by University Grants Commission (UGC) Nepal"
+        ]
+      },
+      "academics": {
+        "study_system": "Annual and Semester",
+        "academic_calendar": "As per Tribhuvan University calendar",
+        "medium_of_instruction": [
+          "Nepali",
+          "English"
+        ],
+        "teaching_methodology": "Lectures, practical sessions, assignments, and interactive discussions.",
+        "programs": [
+          {
+            "name": "Bachelor of Education (B.Ed)",
+            "degree_level": "Undergraduate",
+            "faculty": "Education",
+            "specialization": [],
+            "duration": "4 Years",
+            "semester_or_year": "Annual / Semester system",
+            "eligibility": "+2 or equivalent pass",
+            "entrance_requirement": "As per TU rules",
+            "fee": null,
+            "intake_capacity": null,
+            "status": "active",
+            "source_urls": [
+              "https://tu.edu.np"
+            ]
+          },
+          {
+            "name": "Bachelor of Arts (BA)",
+            "degree_level": "Undergraduate",
+            "faculty": "Humanities and Social Sciences",
+            "specialization": [],
+            "duration": "4 Years",
+            "semester_or_year": "Annual / Semester system",
+            "eligibility": "+2 or equivalent pass",
+            "entrance_requirement": "As per TU rules",
+            "fee": null,
+            "intake_capacity": null,
+            "status": "active",
+            "source_urls": [
+              "https://tu.edu.np"
+            ]
+          },
+          {
+            "name": "Bachelor of Business Studies (BBS)",
+            "degree_level": "Undergraduate",
+            "faculty": "Management",
+            "specialization": [
+              "General Management"
+            ],
+            "duration": "4 Years",
+            "semester_or_year": "Annual system",
+            "eligibility": "+2 or equivalent in any stream with minimum D+ grades",
+            "entrance_requirement": "None / Merit-based on +2 marks",
+            "fee": null,
+            "intake_capacity": null,
+            "status": "active",
+            "source_urls": [
+              "https://tu.edu.np"
+            ]
+          }
+        ]
+      },
+      "admission": {
+        "guidance": "Admissions are conducted in accordance with Tribhuvan University academic schedules, typically opening after the publication of +2 or equivalent results.",
+        "requirements": [
+          "Passed +2 or equivalent examination from a recognized board",
+          "Minimum required GPA or marks as specified by Tribhuvan University"
+        ],
+        "application_process": [
+          "Obtain application form from the campus administration office",
+          "Submit filled form along with academic transcripts and character certificates",
+          "Pay required admission fees"
+        ],
+        "application_url": null,
+        "entrance_details": "Entrance exams may be required depending on specific faculty guidelines set by Tribhuvan University.",
+        "required_documents": [
+          "Mark sheets of SEE/SLC and +2",
+          "Character certificate",
+          "Transfer certificate",
+          "Passport-size photographs"
+        ],
+        "admission_contact": [],
+        "current_notices": []
+      },
+      "scholarships": [
+        {
+          "name": "UGC / Government Scholarships",
+          "type": "Government",
+          "eligibility": "Economically disadvantaged, marginalized, and merit students",
+          "benefits": "Partial or full tuition fee waiver",
+          "application_process": "Apply through campus administration with recommendation letters from local wards.",
+          "deadline": null,
+          "status": "active",
+          "source_urls": []
+        }
+      ],
+      "facilities": [
+        "Classrooms",
+        "Library",
+        "Administration Block",
+        "Sports Ground"
+      ],
+      "infrastructure": [],
+      "faculty": {
+        "principal": null,
+        "chairperson": null,
+        "campus_chief": null,
+        "departments": [
+          "Department of Education",
+          "Department of Management",
+          "Department of Humanities"
+        ],
+        "faculty_members": [],
+        "teaching_approach": "Traditional classroom lectures blended with student-centric discussions."
+      },
+      "leadership_messages": {
+        "principal_message": null,
+        "chairperson_message": null,
+        "founder_message": null
+      },
+      "institutional_profile": {
+        "mission": "To provide quality higher education to the students of Solukhumbu and surrounding remote regions.",
+        "vision": "To be a leading institution of higher learning in the mountainous belt of Nepal.",
+        "core_values": [
+          "Accessibility",
+          "Affordability",
+          "Academic Integrity"
+        ],
+        "highlights": [
+          "Only major multi-faculty community campus in the Solukhumbu district",
+          "Affiliated with Tribhuvan University"
+        ],
+        "features": [
+          "Affordable fee structure for local students",
+          "Diverse undergraduate programs in education, management, and humanities"
+        ],
+        "why_choose_this_college": [
+          "Saves relocation and living costs for students residing in Solukhumbu",
+          "Recognized degrees under Tribhuvan University"
+        ],
+        "achievements": [],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": [
+          "Annual sports meets",
+          "Cultural programs"
+        ],
+        "clubs": [],
+        "sports": [
+          "Football",
+          "Volleyball",
+          "Athletics"
+        ],
+        "student_organizations": [
+          "Free Student Union (FSU) affiliated bodies"
+        ],
+        "campus_experience": "A community-centric learning environment nestled in the mountainous landscape.",
+        "student_welfare": []
+      },
+      "career_development": {
+        "placement_cell": null,
+        "internship_opportunities": [],
+        "industry_partnerships": [],
+        "career_counseling": null,
+        "alumni_network": null,
+        "placement_statistics": []
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "admission_contacts": [],
+        "website": null,
+        "office_hours": "10:00 AM to 5:00 PM (Sunday to Friday)",
+        "contact_person": "Campus Administration"
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "linkedin": null,
+        "youtube": null,
+        "x": null,
+        "other": []
+      },
+      "online_resources": {
+        "prospectus": [],
+        "fee_structure": [],
+        "academic_calendar": [],
+        "notices": [],
+        "results": [],
+        "student_portal": null,
+        "downloads": []
+      },
+      "seo": {
+        "suggested_title": "Solukhumbu Multiple Campus, Salleri, Solukhumbu",
+        "meta_description": "Explore Solukhumbu Multiple Campus in Salleri, Solukhumbu. Affiliated with Tribhuvan University, offering BBS, B.Ed, and BA programs.",
+        "keywords": [
+          "Solukhumbu Multiple Campus",
+          "Colleges in Solukhumbu",
+          "Tribhuvan University affiliated campuses in Solukhumbu",
+          "BBS in Solukhumbu",
+          "Higher education in Salleri"
+        ],
+        "faq": [
+          {
+            "question": "Which university is Solukhumbu Multiple Campus affiliated with?",
+            "answer": "Solukhumbu Multiple Campus is affiliated with Tribhuvan University."
+          },
+          {
+            "question": "What programs are offered at Solukhumbu Multiple Campus?",
+            "answer": "The campus offers undergraduate programs such as Bachelor of Business Studies (BBS), Bachelor of Education (B.Ed), and Bachelor of Arts (BA)."
+          }
+        ]
+      },
+      "verification": {
+        "verification_status": "partial",
+        "last_verified_at": "2023-10-25",
+        "official_sources": [
+          "Tribhuvan University official records"
+        ],
+        "secondary_sources": [
+          "University Grants Commission Nepal reports"
+        ],
+        "field_confidence": {
+          "identity": "high",
+          "location": "medium",
+          "affiliation": "high",
+          "academics": "high"
+        },
+        "missing_information": [
+          "Exact geolocation coordinates",
+          "Direct contact phone numbers",
+          "Detailed internal infrastructure data"
+        ],
+        "notes": "Solukhumbu has very sparse digital footprints for its academic institutions. Information is primarily derived from central university affiliation lists."
+      }
+    }
+  ],
+  "district_summary": {
+    "total_colleges": 1,
+    "government_colleges": 0,
+    "community_colleges": 1,
+    "private_colleges": 0,
+    "universities_and_constituent_campuses": 0,
+    "other_institutions": 0,
+    "municipalities_covered": [
+      "Solududhkunda Municipality"
+    ],
+    "institutions_by_university": [
+      {
+        "university": "Tribhuvan University",
+        "count": 1
+      }
+    ],
+    "research_gaps": [
+      "Lack of active official websites for local campuses in Solukhumbu",
+      "Absence of digitized telephone directories or specific campus helplines"
+    ]
+  }
+}

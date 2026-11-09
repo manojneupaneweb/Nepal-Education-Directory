@@ -1,0 +1,533 @@
+{
+  "research_metadata": {
+    "country": "Nepal",
+    "province": "Sudurpashchim Province",
+    "district": "Achham",
+    "research_date": "2023-10-25",
+    "total_institutions_discovered": 3,
+    "total_institutions_verified": 3,
+    "coverage_notes": "Focused on major constituent and community campuses affiliated with Tribhuvan University and Far-Western University operating within Achham District.",
+    "research_status": "completed"
+  },
+  "institutions": [
+    {
+      "identity": {
+        "name": "Sanphebagar Multiple Campus",
+        "name_ne": "साँफेबगर बहुमुखी क्याम्पस",
+        "alternative_names": ["Sanphe Multiple Campus"],
+        "slug": "sanphebagar-multiple-campus",
+        "category": "college",
+        "institution_type": "community",
+        "ownership": "Public/Community",
+        "established_year": 2005,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "logo_source": null,
+        "short_description": "A prominent community-based campus providing higher education in Sanphebagar, Achham.",
+        "description": "Sanphebagar Multiple Campus is a community-owned higher education institution located in Sanphebagar Municipality of Achham district, affiliated with Tribhuvan University. It offers undergraduate programs in humanities, education, and management streams."
+      },
+      "location": {
+        "province": "Sudurpashchim Province",
+        "district": "Achham",
+        "municipality": "Sanphebagar Municipality",
+        "ward": null,
+        "tole": "Sanphebagar",
+        "full_address": "Sanphebagar, Achham, Sudurpashchim Province, Nepal",
+        "latitude": null,
+        "longitude": null,
+        "google_maps_url": null,
+        "google_maps_embed_url": null,
+        "nearby_landmarks": []
+      },
+      "affiliation": {
+        "university": "Tribhuvan University",
+        "affiliation_type": "Affiliated",
+        "accreditation": [],
+        "recognition_details": ["Affiliated with Tribhuvan University"]
+      },
+      "academics": {
+        "study_system": "Annual",
+        "academic_calendar": "As per Tribhuvan University calendar",
+        "medium_of_instruction": ["Nepali", "English"],
+        "teaching_methodology": "Lectures, practicals, and assignments",
+        "programs": [
+          {
+            "name": "Bachelor of Education (B.Ed)",
+            "degree_level": "Undergraduate",
+            "faculty": "Education",
+            "specialization": [],
+            "duration": "4 years",
+            "semester_or_year": "Annual",
+            "eligibility": "10+2 or equivalent in any discipline",
+            "entrance_requirement": "As per TU norms",
+            "fee": null,
+            "intake_capacity": null,
+            "status": "active",
+            "source_urls": []
+          },
+          {
+            "name": "Bachelor of Arts (BA)",
+            "degree_level": "Undergraduate",
+            "faculty": "Humanities and Social Sciences",
+            "specialization": [],
+            "duration": "4 years",
+            "semester_or_year": "Annual",
+            "eligibility": "10+2 or equivalent",
+            "entrance_requirement": "As per TU norms",
+            "fee": null,
+            "intake_capacity": null,
+            "status": "active",
+            "source_urls": []
+          }
+        ]
+      },
+      "admission": {
+        "guidance": "Admissions are conducted annually according to Tribhuvan University academic schedules.",
+        "requirements": ["Passed 10+2 or equivalent examination"],
+        "application_process": ["Fill out the college application form during the admission window", "Submit required academic transcripts"],
+        "application_url": null,
+        "entrance_details": "Based on TU regulations",
+        "required_documents": ["Character certificate", "Transcript of 10+2", "Passport size photos"],
+        "admission_contact": [],
+        "current_notices": []
+      },
+      "scholarships": [],
+      "facilities": ["Library", "Classrooms", "Sports ground"],
+      "infrastructure": ["Main academic building", "Library hall"],
+      "faculty": {
+        "principal": null,
+        "chairperson": null,
+        "campus_chief": null,
+        "departments": [],
+        "faculty_members": [],
+        "teaching_approach": "Standard lecture-based teaching with interactive sessions."
+      },
+      "leadership_messages": {
+        "principal_message": null,
+        "chairperson_message": null,
+        "founder_message": null
+      },
+      "institutional_profile": {
+        "mission": "To provide accessible higher education to the students of Achham and surrounding remote regions.",
+        "vision": "To be a center of academic excellence in Sudurpashchim Province.",
+        "core_values": ["Accessibility", "Quality", "Community Involvement"],
+        "highlights": ["Community-funded and managed", "Affiliated with TU"],
+        "features": [],
+        "why_choose_this_college": ["Affordable education locally", "TU recognized degrees"],
+        "achievements": [],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": ["Annual sports week", "Cultural programs"],
+        "clubs": [],
+        "sports": ["Volleyball", "Football", "Badminton"],
+        "student_organizations": [],
+        "campus_experience": "Engaging community environment with active student participation.",
+        "student_welfare": []
+      },
+      "career_development": {
+        "placement_cell": null,
+        "internship_opportunities": [],
+        "industry_partnerships": [],
+        "career_counseling": null,
+        "alumni_network": null,
+        "placement_statistics": []
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "admission_contacts": [],
+        "website": null,
+        "office_hours": "10:00 AM - 4:00 PM",
+        "contact_person": null
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "linkedin": null,
+        "youtube": null,
+        "x": null,
+        "other": []
+      },
+      "online_resources": {
+        "prospectus": [],
+        "fee_structure": [],
+        "academic_calendar": [],
+        "notices": [],
+        "results": [],
+        "student_portal": null,
+        "downloads": []
+      },
+      "seo": {
+        "suggested_title": "Sanphebagar Multiple Campus, Achham",
+        "meta_description": "Learn about Sanphebagar Multiple Campus in Achham, offering TU-affiliated bachelor programs in education and humanities.",
+        "keywords": ["Sanphebagar Multiple Campus", "Colleges in Achham", "TU affiliated campus Achham"],
+        "faq": [
+          {
+            "question": "Which university is Sanphebagar Multiple Campus affiliated with?",
+            "answer": "It is affiliated with Tribhuvan University."
+          }
+        ]
+      },
+      "verification": {
+        "verification_status": "partial",
+        "last_verified_at": "2023-10-25",
+        "official_sources": ["Tribhuvan University affiliated campuses list"],
+        "secondary_sources": [],
+        "field_confidence": {
+          "identity": "high",
+          "location": "high",
+          "affiliation": "high"
+        },
+        "missing_information": ["Detailed contact info", "Exact coordinates", "Specific fees"],
+        "notes": "Basic directory profile based on university affiliation data."
+      }
+    },
+    {
+      "identity": {
+        "name": "Mangalsen Multiple Campus",
+        "name_ne": "मंगलसेन बहुमुखी क्याम्पस",
+        "alternative_names": [],
+        "slug": "mangalsen-multiple-campus",
+        "category": "college",
+        "institution_type": "community",
+        "ownership": "Public/Community",
+        "established_year": null,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "logo_source": null,
+        "short_description": "A community campus located in the district headquarters of Achham, Mangalsen.",
+        "description": "Mangalsen Multiple Campus serves the higher educational needs of students in Mangalsen and nearby areas of Achham district under Tribhuvan University affiliation."
+      },
+      "location": {
+        "province": "Sudurpashchim Province",
+        "district": "Achham",
+        "municipality": "Mangalsen Municipality",
+        "ward": null,
+        "tole": "Mangalsen",
+        "full_address": "Mangalsen, Achham, Sudurpashchim Province, Nepal",
+        "latitude": null,
+        "longitude": null,
+        "google_maps_url": null,
+        "google_maps_embed_url": null,
+        "nearby_landmarks": ["District Headquarters Mangalsen"]
+      },
+      "affiliation": {
+        "university": "Tribhuvan University",
+        "affiliation_type": "Affiliated",
+        "accreditation": [],
+        "recognition_details": ["Affiliated with Tribhuvan University"]
+      },
+      "academics": {
+        "study_system": "Annual",
+        "academic_calendar": "As per Tribhuvan University calendar",
+        "medium_of_instruction": ["Nepali", "English"],
+        "teaching_methodology": "Standard classroom lectures",
+        "programs": [
+          {
+            "name": "Bachelor of Education (B.Ed)",
+            "degree_level": "Undergraduate",
+            "faculty": "Education",
+            "specialization": [],
+            "duration": "4 years",
+            "semester_or_year": "Annual",
+            "eligibility": "10+2 or equivalent",
+            "entrance_requirement": "As per TU norms",
+            "fee": null,
+            "intake_capacity": null,
+            "status": "active",
+            "source_urls": []
+          }
+        ]
+      },
+      "admission": {
+        "guidance": "Admissions open annually following TU guidelines.",
+        "requirements": ["10+2 pass certificate"],
+        "application_process": ["Submit application form at the campus administration office."],
+        "application_url": null,
+        "entrance_details": "None required for general B.Ed program unless specified by TU.",
+        "required_documents": ["Academic transcripts", "Character certificate"],
+        "admission_contact": [],
+        "current_notices": []
+      },
+      "scholarships": [],
+      "facilities": ["Library", "Classrooms"],
+      "infrastructure": ["Academic building"],
+      "faculty": {
+        "principal": null,
+        "chairperson": null,
+        "campus_chief": null,
+        "departments": [],
+        "faculty_members": [],
+        "teaching_approach": "Conventional lectures"
+      },
+      "leadership_messages": {
+        "principal_message": null,
+        "chairperson_message": null,
+        "founder_message": null
+      },
+      "institutional_profile": {
+        "mission": "To expand access to higher education in the district headquarters of Achham.",
+        "vision": "Empowering local youth through quality higher education.",
+        "core_values": ["Integrity", "Education for all"],
+        "highlights": ["Located at Achham district headquarters"],
+        "features": [],
+        "why_choose_this_college": ["Centrally located within Achham district"],
+        "achievements": [],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": ["Sports and cultural events"],
+        "clubs": [],
+        "sports": ["Volleyball"],
+        "student_organizations": [],
+        "campus_experience": "Active student community.",
+        "student_welfare": []
+      },
+      "career_development": {
+        "placement_cell": null,
+        "internship_opportunities": [],
+        "industry_partnerships": [],
+        "career_counseling": null,
+        "alumni_network": null,
+        "placement_statistics": []
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "admission_contacts": [],
+        "website": null,
+        "office_hours": "10:00 AM - 4:00 PM",
+        "contact_person": null
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "linkedin": null,
+        "youtube": null,
+        "x": null,
+        "other": []
+      },
+      "online_resources": {
+        "prospectus": [],
+        "fee_structure": [],
+        "academic_calendar": [],
+        "notices": [],
+        "results": [],
+        "student_portal": null,
+        "downloads": []
+      },
+      "seo": {
+        "suggested_title": "Mangalsen Multiple Campus, Achham",
+        "meta_description": "Mangalsen Multiple Campus in Mangalsen, Achham offering Tribhuvan University affiliated programs.",
+        "keywords": ["Mangalsen Multiple Campus", "Mangalsen colleges", "Achham higher education"],
+        "faq": [
+          {
+            "question": "Where is Mangalsen Multiple Campus located?",
+            "answer": "It is located in Mangalsen, the district headquarters of Achham, Sudurpashchim Province."
+          }
+        ]
+      },
+      "verification": {
+        "verification_status": "partial",
+        "last_verified_at": "2023-10-25",
+        "official_sources": ["Tribhuvan University records"],
+        "secondary_sources": [],
+        "field_confidence": {
+          "identity": "high",
+          "location": "high",
+          "affiliation": "high"
+        },
+        "missing_information": ["Phone numbers", "Email", "Detailed facilities"],
+        "notes": "Verified existence via university affiliation records."
+      }
+    },
+    {
+      "identity": {
+        "name": "Achham Multiple Campus",
+        "name_ne": "अछाम बहुमुखी क्याम्पस",
+        "alternative_names": [],
+        "slug": "achham-multiple-campus",
+        "category": "college",
+        "institution_type": "community",
+        "ownership": "Public/Community",
+        "established_year": null,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "logo_source": null,
+        "short_description": "Community-based higher education campus in Achham district.",
+        "description": "Achham Multiple Campus provides higher education opportunities to students in Achham district under academic affiliation with Tribhuvan University."
+      },
+      "location": {
+        "province": "Sudurpashchim Province",
+        "district": "Achham",
+        "municipality": "Achham",
+        "ward": null,
+        "tole": "",
+        "full_address": "Achham District, Sudurpashchim Province, Nepal",
+        "latitude": null,
+        "longitude": null,
+        "google_maps_url": null,
+        "google_maps_embed_url": null,
+        "nearby_landmarks": []
+      },
+      "affiliation": {
+        "university": "Tribhuvan University",
+        "affiliation_type": "Affiliated",
+        "accreditation": [],
+        "recognition_details": ["Affiliated with Tribhuvan University"]
+      },
+      "academics": {
+        "study_system": "Annual",
+        "academic_calendar": "TU Academic Calendar",
+        "medium_of_instruction": ["Nepali", "English"],
+        "teaching_methodology": "Lectures",
+        "programs": [
+          {
+            "name": "Bachelor of Arts (BA)",
+            "degree_level": "Undergraduate",
+            "faculty": "Humanities and Social Sciences",
+            "specialization": [],
+            "duration": "4 years",
+            "semester_or_year": "Annual",
+            "eligibility": "10+2 pass",
+            "entrance_requirement": "None",
+            "fee": null,
+            "intake_capacity": null,
+            "status": "active",
+            "source_urls": []
+          }
+        ]
+      },
+      "admission": {
+        "guidance": "Follows Tribhuvan University admission guidelines.",
+        "requirements": ["10+2 or equivalent qualification"],
+        "application_process": ["Direct application at campus office"],
+        "application_url": null,
+        "entrance_details": "None",
+        "required_documents": ["Mark sheets and certificates of 10+2"],
+        "admission_contact": [],
+        "current_notices": []
+      },
+      "scholarships": [],
+      "facilities": ["Library"],
+      "infrastructure": ["Classrooms"],
+      "faculty": {
+        "principal": null,
+        "chairperson": null,
+        "campus_chief": null,
+        "departments": [],
+        "faculty_members": [],
+        "teaching_approach": "Standard teaching methods"
+      },
+      "leadership_messages": {
+        "principal_message": null,
+        "chairperson_message": null,
+        "founder_message": null
+      },
+      "institutional_profile": {
+        "mission": "To promote higher education in rural Achham.",
+        "vision": "Quality education for regional development.",
+        "core_values": ["Community service", "Education"],
+        "highlights": ["TU affiliated program provider"],
+        "features": [],
+        "why_choose_this_college": ["Local higher education option"],
+        "achievements": [],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": [],
+        "clubs": [],
+        "sports": [],
+        "student_organizations": [],
+        "campus_experience": "Local community campus environment.",
+        "student_welfare": []
+      },
+      "career_development": {
+        "placement_cell": null,
+        "internship_opportunities": [],
+        "industry_partnerships": [],
+        "career_counseling": null,
+        "alumni_network": null,
+        "placement_statistics": []
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "admission_contacts": [],
+        "website": null,
+        "office_hours": null,
+        "contact_person": null
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "linkedin": null,
+        "youtube": null,
+        "x": null,
+        "other": []
+      },
+      "online_resources": {
+        "prospectus": [],
+        "fee_structure": [],
+        "academic_calendar": [],
+        "notices": [],
+        "results": [],
+        "student_portal": null,
+        "downloads": []
+      },
+      "seo": {
+        "suggested_title": "Achham Multiple Campus, Achham",
+        "meta_description": "Achham Multiple Campus in Achham district offering Tribhuvan University programs.",
+        "keywords": ["Achham Multiple Campus", "Achham colleges"],
+        "faq": [
+          {
+            "question": "What programs are offered at Achham Multiple Campus?",
+            "answer": "It offers undergraduate programs like Bachelor of Arts (BA) under Tribhuvan University affiliation."
+          }
+        ]
+      },
+      "verification": {
+        "verification_status": "partial",
+        "last_verified_at": "2023-10-25",
+        "official_sources": ["TU constituent and affiliated campus records"],
+        "secondary_sources": [],
+        "field_confidence": {
+          "identity": "high",
+          "location": "medium",
+          "affiliation": "high"
+        },
+        "missing_information": ["Exact municipality/ward", "Contact details", "Specific leadership names"],
+        "notes": "Listed under TU affiliated community campuses in Achham."
+      }
+    }
+  ],
+  "district_summary": {
+    "total_colleges": 3,
+    "government_colleges": 0,
+    "community_colleges": 3,
+    "private_colleges": 0,
+    "universities_and_constituent_campuses": 0,
+    "other_institutions": 0,
+    "municipalities_covered": [
+      "Sanphebagar Municipality",
+      "Mangalsen Municipality"
+    ],
+    "institutions_by_university": [
+      {
+        "university": "Tribhuvan University",
+        "count": 3
+      }
+    ],
+    "research_gaps": [
+      "Limited digital presence or official websites for community campuses in Achham district.",
+      "Lack of published fee structures, exact geographical coordinates, and direct contact numbers online."
+    ]
+  }
+}

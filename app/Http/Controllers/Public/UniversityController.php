@@ -4,6 +4,8 @@ namespace App\Http\Controllers\Public;
 
 use App\Enums\InstitutionStatus;
 use App\Http\Controllers\Controller;
+use App\Models\PageView;
+use App\Models\Province;
 use App\Models\University;
 use Illuminate\Http\Request;
 use Illuminate\View\View;
@@ -12,7 +14,7 @@ class UniversityController extends Controller
 {
     public function index(Request $request): View
     {
-        $universities = University::query()
+        $ordered = University::query()
             ->with(['province', 'district'])
             ->withCount(['programs', 'institutions'])
             ->when($request->string('q')->toString(), function ($query, string $term) {
@@ -31,14 +33,34 @@ class UniversityController extends Controller
                     $programs->when($request->integer('level'), fn ($inner, int $level) => $inner->where('education_level_id', $level));
                     $programs->when($request->string('discipline')->toString(), fn ($inner, string $discipline) => $inner->where('discipline', $discipline));
                 });
-            })
-            ->orderBy('name')
+            });
+
+        $sort = (string) $request->string('sort');
+        if ($sort === 'programs') {
+            $ordered->orderByDesc('programs_count')->orderBy('name');
+        } elseif ($sort === 'colleges') {
+            $ordered->orderByDesc('institutions_count')->orderBy('name');
+        } elseif ($sort === 'oldest') {
+            $ordered->orderBy('established_year_bs')->orderBy('name');
+        } else {
+            $sort = 'az';
+            $ordered->orderBy('name');
+        }
+
+        $universities = $ordered
             ->paginate(12)
             ->withQueryString();
+
+        $totals = University::query()->withCount(['programs', 'institutions'])->get();
 
         return view('public.universities.index', [
             'universities' => $universities,
             'totalUniversities' => University::query()->count(),
+            'totalPrograms' => $totals->sum('programs_count'),
+            'totalColleges' => $totals->sum('institutions_count'),
+            'types' => University::query()->whereNotNull('university_type')->distinct()->orderBy('university_type')->pluck('university_type'),
+            'provinces' => Province::query()->active()->orderBy('name')->get(),
+            'sort' => $sort,
         ]);
     }
 
@@ -55,6 +77,8 @@ class UniversityController extends Controller
             'programs.faculty',
         ]);
         $university->loadCount('institutions');
+
+        PageView::record('university');
 
         return view('public.universities.show', [
             'university' => $university,

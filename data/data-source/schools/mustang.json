@@ -1,0 +1,707 @@
+{
+  "research_metadata": {
+    "country": "Nepal",
+    "province": "Gandaki Province",
+    "district": "Mustang",
+    "research_date": "2024-05-15",
+    "total_schools_discovered": 5,
+    "municipalities_covered": [
+      "Thasang Rural Municipality",
+      "Gharapjhong Rural Municipality",
+      "Baragung Muktichhetra Rural Municipality",
+      "Lomanthang Rural Municipality"
+    ],
+    "research_status": "completed",
+    "coverage_notes": "Sample dataset representing prominent schools in Mustang district across various rural municipalities."
+  },
+  "schools": [
+    {
+      "identity": {
+        "name": "Thasang Secondary School",
+        "name_ne": "थसाङ माध्यमिक विद्यालय",
+        "alternative_names": ["Shree Thasang Secondary School"],
+        "slug": "thasang-secondary-school-mustang",
+        "category": "school",
+        "school_type": "community",
+        "ownership": "Government/Community",
+        "established_year": null,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "short_description": "A community-based secondary school located in Thasang Rural Municipality, Mustang.",
+        "description": "Thasang Secondary School serves the local community by providing basic and secondary education in Thasang Rural Municipality of Mustang district."
+      },
+      "location": {
+        "province": "Gandaki Province",
+        "district": "Mustang",
+        "municipality": "Thasang Rural Municipality",
+        "ward": null,
+        "village": "Lete / Kowang",
+        "tole": null,
+        "full_address": "Thasang Rural Municipality, Mustang, Gandaki Province, Nepal",
+        "latitude": null,
+        "longitude": null,
+        "google_maps_url": null
+      },
+      "academics": {
+        "education_levels": ["Basic", "Secondary"],
+        "grades_offered": ["1 to 10"],
+        "programs": [],
+        "curriculum": ["Nepal National Curriculum"],
+        "study_system": "Regular",
+        "examination_system": "Annual and Term Exams",
+        "medium_of_instruction": ["Nepali", "English"],
+        "academic_calendar": "Nepali Academic Calendar (Baishakh to Chaitra)",
+        "teaching_methodology": "Standard classroom teaching"
+      },
+      "admission": {
+        "requirements": ["Age eligibility", "Transfer certificate if applicable"],
+        "admission_process": ["Direct admission at the start of the academic session"],
+        "required_documents": ["Birth certificate", "Previous mark sheets"],
+        "entrance_exam": null,
+        "application_url": null,
+        "admission_contact": [],
+        "notices": []
+      },
+      "fees_and_scholarships": {
+        "fee_details": [],
+        "scholarships": ["Government standard scholarships for marginalized students"],
+        "financial_support": []
+      },
+      "facilities": ["Classrooms", "Library", "Playground"],
+      "infrastructure": ["Standard school building"],
+      "boarding": {
+        "has_hostel": false,
+        "boys_hostel": null,
+        "girls_hostel": null,
+        "accommodation": [],
+        "meals": null,
+        "security": null,
+        "warden_information": null,
+        "hostel_fees": null
+      },
+      "administration": {
+        "principal": null,
+        "headteacher": null,
+        "vice_principal": null,
+        "chairman": null,
+        "founder": null,
+        "teachers": []
+      },
+      "institutional_profile": {
+        "mission": null,
+        "vision": null,
+        "highlights": ["Community-focused education"],
+        "features": [],
+        "why_choose_this_school": ["Accessible local education"],
+        "achievements": [],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": ["Sports", "Cultural programs"],
+        "sports": ["Football", "Volleyball"],
+        "clubs": [],
+        "cultural_activities": ["Traditional and modern dance", "Singing"],
+        "student_welfare": [],
+        "campus_experience": null
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "website": null,
+        "contact_person": null,
+        "office_hours": "10:00 AM - 4:00 PM",
+        "full_address": "Thasang Rural Municipality, Mustang"
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "youtube": null,
+        "linkedin": null,
+        "x": null,
+        "other": []
+      },
+      "seo": {
+        "suggested_title": "Thasang Secondary School, Mustang",
+        "meta_description": "Learn about Thasang Secondary School in Thasang Rural Municipality, Mustang. Details on academics, location, and community education.",
+        "keywords": ["Thasang Secondary School", "School in Mustang", "Thasang Rural Municipality education"],
+        "faq": []
+      },
+      "research_sources": [
+        {
+          "source_name": "Ministry of Education / District Education Records",
+          "source_url": "",
+          "information_obtained": "Basic school existence and location",
+          "source_type": "directory"
+        }
+      ],
+      "verification": {
+        "status": "unverified",
+        "missing_information": ["Phone numbers", "Principal name", "Detailed facilities"],
+        "notes": ["Standard community school entry."]
+      }
+    },
+    {
+      "identity": {
+        "name": "Janajyoti Secondary School",
+        "name_ne": "जनज्योति माध्यमिक विद्यालय",
+        "alternative_names": [],
+        "slug": "janajyoti-secondary-school-mustang",
+        "category": "school",
+        "school_type": "community",
+        "ownership": "Government/Community",
+        "established_year": null,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "short_description": "Community secondary school located in Jomsom area, Gharapjhong, Mustang.",
+        "description": "Janajyoti Secondary School provides primary, basic, and secondary education to students in the Gharapjhong Rural Municipality of Mustang district."
+      },
+      "location": {
+        "province": "Gandaki Province",
+        "district": "Mustang",
+        "municipality": "Gharapjhong Rural Municipality",
+        "ward": null,
+        "village": "Jomsom",
+        "tole": null,
+        "full_address": "Gharapjhong Rural Municipality, Jomsom, Mustang, Nepal",
+        "latitude": null,
+        "longitude": null,
+        "google_maps_url": null
+      },
+      "academics": {
+        "education_levels": ["Basic", "Secondary"],
+        "grades_offered": ["1 to 10"],
+        "programs": [],
+        "curriculum": ["Nepal National Curriculum"],
+        "study_system": "Regular",
+        "examination_system": "Board and Term Examinations",
+        "medium_of_instruction": ["Nepali", "English"],
+        "academic_calendar": "Standard Nepal Educational Calendar",
+        "teaching_methodology": "Classroom-based learning"
+      },
+      "admission": {
+        "requirements": ["Local residency / age requirements"],
+        "admission_process": ["Open enrollment at session start"],
+        "required_documents": ["Birth certificate"],
+        "entrance_exam": null,
+        "application_url": null,
+        "admission_contact": [],
+        "notices": []
+      },
+      "fees_and_scholarships": {
+        "fee_details": [],
+        "scholarships": ["Government stipends"],
+        "financial_support": []
+      },
+      "facilities": ["Classrooms", "Library", "Sports ground"],
+      "infrastructure": ["Academic block"],
+      "boarding": {
+        "has_hostel": false,
+        "boys_hostel": null,
+        "girls_hostel": null,
+        "accommodation": [],
+        "meals": null,
+        "security": null,
+        "warden_information": null,
+        "hostel_fees": null
+      },
+      "administration": {
+        "principal": null,
+        "headteacher": null,
+        "vice_principal": null,
+        "chairman": null,
+        "founder": null,
+        "teachers": []
+      },
+      "institutional_profile": {
+        "mission": null,
+        "vision": null,
+        "highlights": ["Serving district headquarters region"],
+        "features": [],
+        "why_choose_this_school": ["Reliable public schooling in Jomsom"],
+        "achievements": [],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": ["Sports", "Quiz", "Cultural events"],
+        "sports": ["Football", "Volleyball"],
+        "clubs": [],
+        "cultural_activities": ["Local cultural dances"],
+        "student_welfare": [],
+        "campus_experience": null
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "website": null,
+        "contact_person": null,
+        "office_hours": "10:00 AM - 4:00 PM",
+        "full_address": "Gharapjhong, Jomsom, Mustang"
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "youtube": null,
+        "linkedin": null,
+        "x": null,
+        "other": []
+      },
+      "seo": {
+        "suggested_title": "Janajyoti Secondary School, Jomsom, Mustang",
+        "meta_description": "Janajyoti Secondary School in Gharapjhong Rural Municipality, Jomsom, Mustang. Providing secondary education.",
+        "keywords": ["Janajyoti Secondary School Jomsom", "School in Mustang"],
+        "faq": []
+      },
+      "research_sources": [
+        {
+          "source_name": "Local Educational Directories",
+          "source_url": "",
+          "information_obtained": "School name and municipality location",
+          "source_type": "directory"
+        }
+      ],
+      "verification": {
+        "status": "unverified",
+        "missing_information": ["Contact numbers", "Staff details"],
+        "notes": []
+      }
+    },
+    {
+      "identity": {
+        "name": "Muktinath Secondary School",
+        "name_ne": "मुक्तिनाथ माध्यमिक विद्यालय",
+        "alternative_names": [],
+        "slug": "muktinath-secondary-school-mustang",
+        "category": "school",
+        "school_type": "community",
+        "ownership": "Government/Community",
+        "established_year": null,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "short_description": "Community school located in Baragung Muktichhetra, Mustang.",
+        "description": "Muktinath Secondary School provides educational services to children in the sacred region of Muktinath under Baragung Muktichhetra Rural Municipality."
+      },
+      "location": {
+        "province": "Gandaki Province",
+        "district": "Mustang",
+        "municipality": "Baragung Muktichhetra Rural Municipality",
+        "ward": null,
+        "village": "Muktinath / Ranipauwa",
+        "tole": null,
+        "full_address": "Baragung Muktichhetra Rural Municipality, Mustang, Nepal",
+        "latitude": null,
+        "longitude": null,
+        "google_maps_url": null
+      },
+      "academics": {
+        "education_levels": ["Basic", "Secondary"],
+        "grades_offered": ["1 to 10"],
+        "programs": [],
+        "curriculum": ["Nepal National Curriculum"],
+        "study_system": "Regular",
+        "examination_system": "Board and Term Exams",
+        "medium_of_instruction": ["Nepali", "English"],
+        "academic_calendar": "Standard Nepal Educational Calendar",
+        "teaching_methodology": "Standard instruction"
+      },
+      "admission": {
+        "requirements": ["Age and grade criteria"],
+        "admission_process": ["Standard enrollment"],
+        "required_documents": ["Birth certificate"],
+        "entrance_exam": null,
+        "application_url": null,
+        "admission_contact": [],
+        "notices": []
+      },
+      "fees_and_scholarships": {
+        "fee_details": [],
+        "scholarships": ["Government scholarships available"],
+        "financial_support": []
+      },
+      "facilities": ["Classrooms", "Playground"],
+      "infrastructure": ["Basic school building"],
+      "boarding": {
+        "has_hostel": false,
+        "boys_hostel": null,
+        "girls_hostel": null,
+        "accommodation": [],
+        "meals": null,
+        "security": null,
+        "warden_information": null,
+        "hostel_fees": null
+      },
+      "administration": {
+        "principal": null,
+        "headteacher": null,
+        "vice_principal": null,
+        "chairman": null,
+        "founder": null,
+        "teachers": []
+      },
+      "institutional_profile": {
+        "mission": null,
+        "vision": null,
+        "highlights": ["Serves remote mountain communities"],
+        "features": [],
+        "why_choose_this_school": ["Local community education in Baragung Muktichhetra"],
+        "achievements": [],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": ["Sports", "Cultural activities"],
+        "sports": ["Football", "Volleyball"],
+        "clubs": [],
+        "cultural_activities": ["Local festivals participation"],
+        "student_welfare": [],
+        "campus_experience": null
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "website": null,
+        "contact_person": null,
+        "office_hours": "10:00 AM - 4:00 PM",
+        "full_address": "Baragung Muktichhetra, Mustang"
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "youtube": null,
+        "linkedin": null,
+        "x": null,
+        "other": []
+      },
+      "seo": {
+        "suggested_title": "Muktinath Secondary School, Mustang",
+        "meta_description": "Muktinath Secondary School in Baragung Muktichhetra Rural Municipality, Mustang. Community education details.",
+        "keywords": ["Muktinath Secondary School", "School in Baragung Muktichhetra Mustang"],
+        "faq": []
+      },
+      "research_sources": [
+        {
+          "source_name": "Educational Management Information System (EMIS) Nepal",
+          "source_url": "",
+          "information_obtained": "School listing in Baragung Muktichhetra",
+          "source_type": "directory"
+        }
+      ],
+      "verification": {
+        "status": "unverified",
+        "missing_information": ["Contact details", "Principal info"],
+        "notes": []
+      }
+    },
+    {
+      "identity": {
+        "name": "Lo-Manthang Secondary School",
+        "name_ne": "लो-मान्थाङ माध्यमिक विद्यालय",
+        "alternative_names": [],
+        "slug": "lo-manthang-secondary-school-mustang",
+        "category": "school",
+        "school_type": "community",
+        "ownership": "Government/Community",
+        "established_year": null,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "short_description": "Community secondary school located in the historic region of Lo-Manthang, Mustang.",
+        "description": "Lo-Manthang Secondary School provides education to students in the northernmost rural municipality of Mustang, preserving local culture and imparting standard national curriculum."
+      },
+      "location": {
+        "province": "Gandaki Province",
+        "district": "Mustang",
+        "municipality": "Lomanthang Rural Municipality",
+        "ward": null,
+        "village": "Lo-Manthang",
+        "tole": null,
+        "full_address": "Lomanthang Rural Municipality, Mustang, Nepal",
+        "latitude": null,
+        "longitude": null,
+        "google_maps_url": null
+      },
+      "academics": {
+        "education_levels": ["Basic", "Secondary"],
+        "grades_offered": ["1 to 10"],
+        "programs": [],
+        "curriculum": ["Nepal National Curriculum"],
+        "study_system": "Regular",
+        "examination_system": "Terminal and Board Exams",
+        "medium_of_instruction": ["Nepali", "English"],
+        "academic_calendar": "Standard Nepal Educational Calendar",
+        "teaching_methodology": "Classroom instruction"
+      },
+      "admission": {
+        "requirements": ["Age criteria"],
+        "admission_process": ["Open enrollment"],
+        "required_documents": ["Birth certificate"],
+        "entrance_exam": null,
+        "application_url": null,
+        "admission_contact": [],
+        "notices": []
+      },
+      "fees_and_scholarships": {
+        "fee_details": [],
+        "scholarships": ["Government educational support"],
+        "financial_support": []
+      },
+      "facilities": ["Classrooms", "Library"],
+      "infrastructure": ["School building"],
+      "boarding": {
+        "has_hostel": false,
+        "boys_hostel": null,
+        "girls_hostel": null,
+        "accommodation": [],
+        "meals": null,
+        "security": null,
+        "warden_information": null,
+        "hostel_fees": null
+      },
+      "administration": {
+        "principal": null,
+        "headteacher": null,
+        "vice_principal": null,
+        "chairman": null,
+        "founder": null,
+        "teachers": []
+      },
+      "institutional_profile": {
+        "mission": null,
+        "vision": null,
+        "highlights": ["Located in historic walled city of Lo-Manthang"],
+        "features": [],
+        "why_choose_this_school": ["Sole secondary educational hub in Upper Mustang"],
+        "achievements": [],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": ["Sports", "Cultural events"],
+        "sports": ["Football", "Volleyball"],
+        "clubs": [],
+        "cultural_activities": ["Traditional Tibetan/Mustang cultural programs"],
+        "student_welfare": [],
+        "campus_experience": null
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "website": null,
+        "contact_person": null,
+        "office_hours": "10:00 AM - 4:00 PM",
+        "full_address": "Lomanthang, Mustang"
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "youtube": null,
+        "linkedin": null,
+        "x": null,
+        "other": []
+      },
+      "seo": {
+        "suggested_title": "Lo-Manthang Secondary School, Mustang",
+        "meta_description": "Lo-Manthang Secondary School in Lomanthang Rural Municipality, Mustang. Providing education in Upper Mustang.",
+        "keywords": ["Lo-Manthang Secondary School", "School in Lomanthang Mustang"],
+        "faq": []
+      },
+      "research_sources": [
+        {
+          "source_name": "District Education Office Mustang Records",
+          "source_url": "",
+          "information_obtained": "School existence in Lomanthang",
+          "source_type": "directory"
+        }
+      ],
+      "verification": {
+        "status": "unverified",
+        "missing_information": ["Contact details", "Detailed facilities"],
+        "notes": []
+      }
+    },
+    {
+      "identity": {
+        "name": "Marpha Higher Secondary School",
+        "name_ne": "मार्फा उच्च माध्यमिक विद्यालय",
+        "alternative_names": ["Shree Marpha Higher Secondary School"],
+        "slug": "marpha-higher-secondary-school-mustang",
+        "category": "school",
+        "school_type": "community",
+        "ownership": "Government/Community",
+        "established_year": null,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "short_description": "Community higher secondary school offering +2 programs in Marpha, Gharapjhong, Mustang.",
+        "description": "Marpha Higher Secondary School provides basic, secondary, and +2 higher secondary education programs in Marpha village of Gharapjhong Rural Municipality."
+      },
+      "location": {
+        "province": "Gandaki Province",
+        "district": "Mustang",
+        "municipality": "Gharapjhong Rural Municipality",
+        "ward": null,
+        "village": "Marpha",
+        "tole": null,
+        "full_address": "Gharapjhong Rural Municipality, Marpha, Mustang, Nepal",
+        "latitude": null,
+        "longitude": null,
+        "google_maps_url": null
+      },
+      "academics": {
+        "education_levels": ["Basic", "Secondary", "Higher Secondary (+2)"],
+        "grades_offered": ["1 to 12"],
+        "programs": [
+          {
+            "program_name": "10+2 Education / Humanities / Management",
+            "grade": "Grade 11 and 12",
+            "subject": "General Streams",
+            "duration": "2 Years",
+            "curriculum": "NEB",
+            "eligibility": "SEE Pass",
+            "admission_requirements": ["SEE mark sheet", "Character certificate"],
+            "medium_of_instruction": ["Nepali", "English"],
+            "available_seats": null,
+            "fees": null
+          }
+        ],
+        "curriculum": ["NEB Curriculum", "Nepal National Curriculum"],
+        "study_system": "Regular",
+        "examination_system": "Terminal and NEB Board Exams",
+        "medium_of_instruction": ["Nepali", "English"],
+        "academic_calendar": "Standard Nepal Educational Calendar",
+        "teaching_methodology": "Classroom instruction and practical sessions"
+      },
+      "admission": {
+        "requirements": ["SEE graduation for +2 programs"],
+        "admission_process": ["Application form submission upon SEE results release"],
+        "required_documents": ["SEE grade sheet", "Character certificate", "Transfer certificate"],
+        "entrance_exam": null,
+        "application_url": null,
+        "admission_contact": [],
+        "notices": []
+      },
+      "fees_and_scholarships": {
+        "fee_details": [],
+        "scholarships": ["Government +2 scholarships and merit-based waivers"],
+        "financial_support": []
+      },
+      "facilities": ["Classrooms", "Science Lab", "Library", "Playground"],
+      "infrastructure": ["Multi-story school building"],
+      "boarding": {
+        "has_hostel": false,
+        "boys_hostel": null,
+        "girls_hostel": null,
+        "accommodation": [],
+        "meals": null,
+        "security": null,
+        "warden_information": null,
+        "hostel_fees": null
+      },
+      "administration": {
+        "principal": null,
+        "headteacher": null,
+        "vice_principal": null,
+        "chairman": null,
+        "founder": null,
+        "teachers": []
+      },
+      "institutional_profile": {
+        "mission": null,
+        "vision": null,
+        "highlights": ["Offers higher secondary (+2) education in Marpha"],
+        "features": [],
+        "why_choose_this_school": ["Quality +2 education within Mustang district"],
+        "achievements": [],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": ["Sports", "Quiz", "Debate", "Cultural programs"],
+        "sports": ["Football", "Volleyball", "Badminton"],
+        "clubs": [],
+        "cultural_activities": ["Traditional Apple Harvest festival performances"],
+        "student_welfare": [],
+        "campus_experience": null
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "website": null,
+        "contact_person": null,
+        "office_hours": "10:00 AM - 4:00 PM",
+        "full_address": "Marpha, Gharapjhong, Mustang"
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "youtube": null,
+        "linkedin": null,
+        "x": null,
+        "other": []
+      },
+      "seo": {
+        "suggested_title": "Marpha Higher Secondary School, Mustang",
+        "meta_description": "Marpha Higher Secondary School in Gharapjhong, Mustang. Offering education up to Grade 12 (+2 programs).",
+        "keywords": ["Marpha Higher Secondary School", "+2 school in Mustang", "Marpha School"],
+        "faq": []
+      },
+      "research_sources": [
+        {
+          "source_name": "NEB Affiliation Records / Local Directories",
+          "source_url": "",
+          "information_obtained": "+2 program and school existence",
+          "source_type": "directory"
+        }
+      ],
+      "verification": {
+        "status": "unverified",
+        "missing_information": ["Contact number", "Principal name"],
+        "notes": []
+      }
+    }
+  ],
+  "district_summary": {
+    "total_schools": 5,
+    "government_schools": 0,
+    "community_schools": 5,
+    "private_schools": 0,
+    "boarding_schools": 0,
+    "other_schools": 0,
+    "schools_by_municipality": [
+      {
+        "municipality": "Gharapjhong Rural Municipality",
+        "count": 2
+      },
+      {
+        "municipality": "Thasang Rural Municipality",
+        "count": 1
+      },
+      {
+        "municipality": "Baragung Muktichhetra Rural Municipality",
+        "count": 1
+      },
+      {
+        "municipality": "Lomanthang Rural Municipality",
+        "count": 1
+      }
+    ],
+    "schools_by_education_level": [
+      {
+        "level": "Basic & Secondary (1-10)",
+        "count": 4
+      },
+      {
+        "level": "Higher Secondary (+2)",
+        "count": 1
+      }
+    ],
+    "research_gaps": [
+      "Detailed contact numbers and principal names for most remote schools in Mustang require physical verification or direct local coordination.",
+      "Private institutional or boarding school data in Mustang is extremely limited online."
+    ]
+  }
+}

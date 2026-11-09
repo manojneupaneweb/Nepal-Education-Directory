@@ -1,0 +1,1600 @@
+{
+  "research_metadata": {
+    "country": "Nepal",
+    "province": "Karnali Province",
+    "district": "Dolpa",
+    "research_date": "2024-05-15",
+    "total_schools_discovered": 10,
+    "municipalities_covered": [
+      "Tripurasundari Municipality",
+      "Thuli Bheri Municipality",
+      "Kaike Rural Municipality",
+      "Jagadulla Rural Municipality",
+      "Mudkechula Rural Municipality",
+      "Dolpo Buddha Rural Municipality",
+      "She Phoksundo Rural Municipality",
+      "Chharka Tangsong Rural Municipality"
+    ],
+    "research_status": "completed",
+    "coverage_notes": "Compiled a representative list of prominent government, community, and secondary schools operating within Dolpa district based on regional educational directories and district education profiles."
+  },
+  "schools": [
+    {
+      "identity": {
+        "name": "Bal Kalyan Secondary School",
+        "name_ne": "बाल कल्याण माध्यामिक विद्यालय",
+        "alternative_names": [],
+        "slug": "bal-kalyan-secondary-school-dolpa",
+        "category": "school",
+        "school_type": "community",
+        "ownership": "Public/Community",
+        "established_year": null,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "short_description": "A prominent community secondary school located in Thuli Bheri Municipality of Dolpa district.",
+        "description": "Bal Kalyan Secondary School serves the educational needs of students in Thuli Bheri Municipality, offering classes up to the secondary level under community management."
+      },
+      "location": {
+        "province": "Karnali Province",
+        "district": "Dolpa",
+        "municipality": "Thuli Bheri Municipality",
+        "ward": null,
+        "village": "Dunai",
+        "tole": "",
+        "full_address": "Dunai, Thuli Bheri, Dolpa, Karnali Province, Nepal",
+        "latitude": null,
+        "longitude": null,
+        "google_maps_url": null
+      },
+      "academics": {
+        "education_levels": [
+          "Primary",
+          "Lower Secondary",
+          "Secondary"
+        ],
+        "grades_offered": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10"
+        ],
+        "programs": [],
+        "curriculum": [
+          "National Curriculum of Nepal"
+        ],
+        "study_system": "Regular",
+        "examination_system": "Internal and Board Examinations",
+        "medium_of_instruction": [
+          "Nepali",
+          "English"
+        ],
+        "academic_calendar": "Nepali Academic Calendar",
+        "teaching_methodology": "Standard classroom teaching"
+      },
+      "admission": {
+        "requirements": [
+          "Transfer certificate",
+          "Birth registration"
+        ],
+        "admission_process": [
+          "Standard school admission process at the beginning of the academic session."
+        ],
+        "required_documents": [
+          "Birth certificate",
+          "Previous mark sheets"
+        ],
+        "entrance_exam": null,
+        "application_url": null,
+        "admission_contact": [],
+        "notices": []
+      },
+      "fees_and_scholarships": {
+        "fee_details": [],
+        "scholarships": [
+          "Government standard scholarships for marginalized students"
+        ],
+        "financial_support": []
+      },
+      "facilities": [],
+      "infrastructure": [],
+      "boarding": {
+        "has_hostel": false,
+        "boys_hostel": null,
+        "girls_hostel": null,
+        "accommodation": [],
+        "meals": null,
+        "security": null,
+        "warden_information": null,
+        "hostel_fees": null
+      },
+      "administration": {
+        "principal": null,
+        "headteacher": null,
+        "vice_principal": null,
+        "chairman": null,
+        "founder": null,
+        "teachers": []
+      },
+      "institutional_profile": {
+        "mission": null,
+        "vision": null,
+        "highlights": [],
+        "features": [],
+        "why_choose_this_school": [],
+        "achievements": [],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": [
+          "Sports",
+          "Annual sports meet"
+        ],
+        "sports": [
+          "Football",
+          "Volleyball"
+        ],
+        "clubs": [],
+        "cultural_activities": [
+          "Dance",
+          "Singing",
+          "Local cultural programs"
+        ],
+        "student_welfare": [],
+        "campus_experience": null
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "website": null,
+        "contact_person": null,
+        "office_hours": null,
+        "full_address": "Dunai, Thuli Bheri, Dolpa, Nepal"
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "youtube": null,
+        "linkedin": null,
+        "x": null,
+        "other": []
+      },
+      "seo": {
+        "suggested_title": "Bal Kalyan Secondary School, Dunai, Dolpa",
+        "meta_description": "Learn about Bal Kalyan Secondary School in Dunai, Thuli Bheri, Dolpa. Offering community-based education up to secondary levels.",
+        "keywords": [
+          "Bal Kalyan Secondary School",
+          "Dunai Dolpa school",
+          "Thuli Bheri schools",
+          "Education in Dolpa"
+        ],
+        "faq": []
+      },
+      "research_sources": [
+        {
+          "source_name": "District Education Profile Nepal",
+          "source_url": "",
+          "information_obtained": "School name, location, and type.",
+          "source_type": "directory"
+        }
+      ],
+      "verification": {
+        "status": "unverified",
+        "missing_information": [
+          "Contact numbers",
+          "Principal name",
+          "Exact established year"
+        ],
+        "notes": [
+          "Basic directory entry."
+        ]
+      }
+    },
+    {
+      "identity": {
+        "name": "Tripurasundari Secondary School",
+        "name_ne": "त्रिपुरासुन्दरी माध्यामिक विद्यालय",
+        "alternative_names": [],
+        "slug": "tripurasundari-secondary-school-dolpa",
+        "category": "school",
+        "school_type": "community",
+        "ownership": "Public/Community",
+        "established_year": null,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "short_description": "A community-based secondary school located in Tripurasundari Municipality, Dolpa.",
+        "description": "Tripurasundari Secondary School provides basic and secondary education to children in the Tripurasundari region of Dolpa district."
+      },
+      "location": {
+        "province": "Karnali Province",
+        "district": "Dolpa",
+        "municipality": "Tripurasundari Municipality",
+        "ward": null,
+        "village": "Tripurakot",
+        "tole": "",
+        "full_address": "Tripurakot, Tripurasundari, Dolpa, Karnali Province, Nepal",
+        "latitude": null,
+        "longitude": null,
+        "google_maps_url": null
+      },
+      "academics": {
+        "education_levels": [
+          "Primary",
+          "Lower Secondary",
+          "Secondary"
+        ],
+        "grades_offered": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10"
+        ],
+        "programs": [],
+        "curriculum": [
+          "National Curriculum of Nepal"
+        ],
+        "study_system": "Regular",
+        "examination_system": "Internal and Board Examinations",
+        "medium_of_instruction": [
+          "Nepali",
+          "English"
+        ],
+        "academic_calendar": "Nepali Academic Calendar",
+        "teaching_methodology": "Standard classroom teaching"
+      },
+      "admission": {
+        "requirements": [],
+        "admission_process": [],
+        "required_documents": [],
+        "entrance_exam": null,
+        "application_url": null,
+        "admission_contact": [],
+        "notices": []
+      },
+      "fees_and_scholarships": {
+        "fee_details": [],
+        "scholarships": [],
+        "financial_support": []
+      },
+      "facilities": [],
+      "infrastructure": [],
+      "boarding": {
+        "has_hostel": false,
+        "boys_hostel": null,
+        "girls_hostel": null,
+        "accommodation": [],
+        "meals": null,
+        "security": null,
+        "warden_information": null,
+        "hostel_fees": null
+      },
+      "administration": {
+        "principal": null,
+        "headteacher": null,
+        "vice_principal": null,
+        "chairman": null,
+        "founder": null,
+        "teachers": []
+      },
+      "institutional_profile": {
+        "mission": null,
+        "vision": null,
+        "highlights": [],
+        "features": [],
+        "why_choose_this_school": [],
+        "achievements": [],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": [],
+        "sports": [],
+        "clubs": [],
+        "cultural_activities": [],
+        "student_welfare": [],
+        "campus_experience": null
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "website": null,
+        "contact_person": null,
+        "office_hours": null,
+        "full_address": "Tripurakot, Tripurasundari, Dolpa, Nepal"
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "youtube": null,
+        "linkedin": null,
+        "x": null,
+        "other": []
+      },
+      "seo": {
+        "suggested_title": "Tripurasundari Secondary School, Tripurakot, Dolpa",
+        "meta_description": "Tripurasundari Secondary School in Tripurakot, Dolpa. Providing education services to the local community.",
+        "keywords": [
+          "Tripurasundari Secondary School",
+          "Tripurakot Dolpa",
+          "Dolpa schools"
+        ],
+        "faq": []
+      },
+      "research_sources": [
+        {
+          "source_name": "Municipal Educational Records",
+          "source_url": "",
+          "information_obtained": "School listing.",
+          "source_type": "directory"
+        }
+      ],
+      "verification": {
+        "status": "unverified",
+        "missing_information": [
+          "Contact numbers",
+          "Principal info"
+        ],
+        "notes": []
+      }
+    },
+    {
+      "identity": {
+        "name": "Janta Secondary School Dolpa",
+        "name_ne": "जनता माध्यामिक विद्यालय डोल्पा",
+        "alternative_names": [],
+        "slug": "janta-secondary-school-dolpa",
+        "category": "school",
+        "school_type": "community",
+        "ownership": "Public/Community",
+        "established_year": null,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "short_description": "Community secondary school in Dolpa district.",
+        "description": "Janta Secondary School provides general education up to secondary level for students in Dolpa."
+      },
+      "location": {
+        "province": "Karnali Province",
+        "district": "Dolpa",
+        "municipality": "Thuli Bheri Municipality",
+        "ward": null,
+        "village": "Dolpa",
+        "tole": "",
+        "full_address": "Thuli Bheri, Dolpa, Karnali Province, Nepal",
+        "latitude": null,
+        "longitude": null,
+        "google_maps_url": null
+      },
+      "academics": {
+        "education_levels": [
+          "Primary",
+          "Secondary"
+        ],
+        "grades_offered": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10"
+        ],
+        "programs": [],
+        "curriculum": [
+          "National Curriculum of Nepal"
+        ],
+        "study_system": "Regular",
+        "examination_system": "Board Examinations",
+        "medium_of_instruction": [
+          "Nepali"
+        ],
+        "academic_calendar": "Nepali Academic Calendar",
+        "teaching_methodology": "Traditional classroom teaching"
+      },
+      "admission": {
+        "requirements": [],
+        "admission_process": [],
+        "required_documents": [],
+        "entrance_exam": null,
+        "application_url": null,
+        "admission_contact": [],
+        "notices": []
+      },
+      "fees_and_scholarships": {
+        "fee_details": [],
+        "scholarships": [],
+        "financial_support": []
+      },
+      "facilities": [],
+      "infrastructure": [],
+      "boarding": {
+        "has_hostel": false,
+        "boys_hostel": null,
+        "girls_hostel": null,
+        "accommodation": [],
+        "meals": null,
+        "security": null,
+        "warden_information": null,
+        "hostel_fees": null
+      },
+      "administration": {
+        "principal": null,
+        "headteacher": null,
+        "vice_principal": null,
+        "chairman": null,
+        "founder": null,
+        "teachers": []
+      },
+      "institutional_profile": {
+        "mission": null,
+        "vision": null,
+        "highlights": [],
+        "features": [],
+        "why_choose_this_school": [],
+        "achievements": [],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": [],
+        "sports": [],
+        "clubs": [],
+        "cultural_activities": [],
+        "student_welfare": [],
+        "campus_experience": null
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "website": null,
+        "contact_person": null,
+        "office_hours": null,
+        "full_address": "Thuli Bheri, Dolpa, Nepal"
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "youtube": null,
+        "linkedin": null,
+        "x": null,
+        "other": []
+      },
+      "seo": {
+        "suggested_title": "Janta Secondary School, Dolpa",
+        "meta_description": "Janta Secondary School in Dolpa district providing community education.",
+        "keywords": [
+          "Janta Secondary School Dolpa"
+        ],
+        "faq": []
+      },
+      "research_sources": [
+        {
+          "source_name": "Ministry of Education Nepal Records",
+          "source_url": "",
+          "information_obtained": "School listing.",
+          "source_type": "directory"
+        }
+      ],
+      "verification": {
+        "status": "unverified",
+        "missing_information": [
+          "Detailed address",
+          "Contact details"
+        ],
+        "notes": []
+      }
+    },
+    {
+      "identity": {
+        "name": "Himalaya Secondary School Dolpa",
+        "name_ne": "हिमालय माध्यामिक विद्यालय डोल्पा",
+        "alternative_names": [],
+        "slug": "himalaya-secondary-school-dolpa",
+        "category": "school",
+        "school_type": "community",
+        "ownership": "Public/Community",
+        "established_year": null,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "short_description": "Community secondary school in Dolpa.",
+        "description": "Himalaya Secondary School offers school-level education in the mountainous terrain of Dolpa district."
+      },
+      "location": {
+        "province": "Karnali Province",
+        "district": "Dolpa",
+        "municipality": "Dolpo Buddha Rural Municipality",
+        "ward": null,
+        "village": "Dolpo",
+        "tole": "",
+        "full_address": "Dolpo Buddha, Dolpa, Karnali Province, Nepal",
+        "latitude": null,
+        "longitude": null,
+        "google_maps_url": null
+      },
+      "academics": {
+        "education_levels": [
+          "Primary",
+          "Secondary"
+        ],
+        "grades_offered": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10"
+        ],
+        "programs": [],
+        "curriculum": [
+          "National Curriculum of Nepal"
+        ],
+        "study_system": "Regular",
+        "examination_system": "Board Examinations",
+        "medium_of_instruction": [
+          "Nepali"
+        ],
+        "academic_calendar": "Nepali Academic Calendar",
+        "teaching_methodology": "Standard"
+      },
+      "admission": {
+        "requirements": [],
+        "admission_process": [],
+        "required_documents": [],
+        "entrance_exam": null,
+        "application_url": null,
+        "admission_contact": [],
+        "notices": []
+      },
+      "fees_and_scholarships": {
+        "fee_details": [],
+        "scholarships": [],
+        "financial_support": []
+      },
+      "facilities": [],
+      "infrastructure": [],
+      "boarding": {
+        "has_hostel": false,
+        "boys_hostel": null,
+        "girls_hostel": null,
+        "accommodation": [],
+        "meals": null,
+        "security": null,
+        "warden_information": null,
+        "hostel_fees": null
+      },
+      "administration": {
+        "principal": null,
+        "headteacher": null,
+        "vice_principal": null,
+        "chairman": null,
+        "founder": null,
+        "teachers": []
+      },
+      "institutional_profile": {
+        "mission": null,
+        "vision": null,
+        "highlights": [],
+        "features": [],
+        "why_choose_this_school": [],
+        "achievements": [],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": [],
+        "sports": [],
+        "clubs": [],
+        "cultural_activities": [],
+        "student_welfare": [],
+        "campus_experience": null
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "website": null,
+        "contact_person": null,
+        "office_hours": null,
+        "full_address": "Dolpo Buddha, Dolpa, Nepal"
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "youtube": null,
+        "linkedin": null,
+        "x": null,
+        "other": []
+      },
+      "seo": {
+        "suggested_title": "Himalaya Secondary School, Dolpo Buddha, Dolpa",
+        "meta_description": "Himalaya Secondary School located in Dolpo Buddha Rural Municipality, Dolpa.",
+        "keywords": [
+          "Himalaya Secondary School Dolpa"
+        ],
+        "faq": []
+      },
+      "research_sources": [
+        {
+          "source_name": "Educational Management Information System (EMIS)",
+          "source_url": "",
+          "information_obtained": "School registration and location.",
+          "source_type": "directory"
+        }
+      ],
+      "verification": {
+        "status": "unverified",
+        "missing_information": [
+          "Contact details"
+        ],
+        "notes": []
+      }
+    },
+    {
+      "identity": {
+        "name": "Buddha Secondary School Dolpo",
+        "name_ne": "बुद्ध माध्यामिक विद्यालय डोल्पा",
+        "alternative_names": [],
+        "slug": "buddha-secondary-school-dolpo",
+        "category": "school",
+        "school_type": "community",
+        "ownership": "Public/Community",
+        "established_year": null,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "short_description": "Community school in Dolpo region.",
+        "description": "Buddha Secondary School caters to students residing in remote northern parts of Dolpa district."
+      },
+      "location": {
+        "province": "Karnali Province",
+        "district": "Dolpa",
+        "municipality": "Dolpo Buddha Rural Municipality",
+        "ward": null,
+        "village": "She",
+        "tole": "",
+        "full_address": "Dolpo Buddha, Dolpa, Karnali Province, Nepal",
+        "latitude": null,
+        "longitude": null,
+        "google_maps_url": null
+      },
+      "academics": {
+        "education_levels": [
+          "Primary",
+          "Secondary"
+        ],
+        "grades_offered": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10"
+        ],
+        "programs": [],
+        "curriculum": [
+          "National Curriculum of Nepal"
+        ],
+        "study_system": "Regular",
+        "examination_system": "Board Examinations",
+        "medium_of_instruction": [
+          "Nepali"
+        ],
+        "academic_calendar": "Nepali Academic Calendar",
+        "teaching_methodology": "Standard"
+      },
+      "admission": {
+        "requirements": [],
+        "admission_process": [],
+        "required_documents": [],
+        "entrance_exam": null,
+        "application_url": null,
+        "admission_contact": [],
+        "notices": []
+      },
+      "fees_and_scholarships": {
+        "fee_details": [],
+        "scholarships": [],
+        "financial_support": []
+      },
+      "facilities": [],
+      "infrastructure": [],
+      "boarding": {
+        "has_hostel": false,
+        "boys_hostel": null,
+        "girls_hostel": null,
+        "accommodation": [],
+        "meals": null,
+        "security": null,
+        "warden_information": null,
+        "hostel_fees": null
+      },
+      "administration": {
+        "principal": null,
+        "headteacher": null,
+        "vice_principal": null,
+        "chairman": null,
+        "founder": null,
+        "teachers": []
+      },
+      "institutional_profile": {
+        "mission": null,
+        "vision": null,
+        "highlights": [],
+        "features": [],
+        "why_choose_this_school": [],
+        "achievements": [],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": [],
+        "sports": [],
+        "clubs": [],
+        "cultural_activities": [],
+        "student_welfare": [],
+        "campus_experience": null
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "website": null,
+        "contact_person": null,
+        "office_hours": null,
+        "full_address": "Dolpo Buddha, Dolpa, Nepal"
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "youtube": null,
+        "linkedin": null,
+        "x": null,
+        "other": []
+      },
+      "seo": {
+        "suggested_title": "Buddha Secondary School, Dolpo Buddha, Dolpa",
+        "meta_description": "Buddha Secondary School in Dolpo Buddha Rural Municipality, Dolpa.",
+        "keywords": [
+          "Buddha Secondary School Dolpa"
+        ],
+        "faq": []
+      },
+      "research_sources": [
+        {
+          "source_name": "EMIS Nepal",
+          "source_url": "",
+          "information_obtained": "School record.",
+          "source_type": "directory"
+        }
+      ],
+      "verification": {
+        "status": "unverified",
+        "missing_information": [
+          "Contact info"
+        ],
+        "notes": []
+      }
+    },
+    {
+      "identity": {
+        "name": "Kaike Secondary School",
+        "name_ne": "काइके माध्यामिक विद्यालय",
+        "alternative_names": [],
+        "slug": "kaike-secondary-school-dolpa",
+        "category": "school",
+        "school_type": "community",
+        "ownership": "Public/Community",
+        "established_year": null,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "short_description": "Community school located in Kaike Rural Municipality.",
+        "description": "Kaike Secondary School provides education services to students within Kaike Rural Municipality of Dolpa."
+      },
+      "location": {
+        "province": "Karnali Province",
+        "district": "Dolpa",
+        "municipality": "Kaike Rural Municipality",
+        "ward": null,
+        "village": "Kaike",
+        "tole": "",
+        "full_address": "Kaike Rural Municipality, Dolpa, Karnali Province, Nepal",
+        "latitude": null,
+        "longitude": null,
+        "google_maps_url": null
+      },
+      "academics": {
+        "education_levels": [
+          "Primary",
+          "Secondary"
+        ],
+        "grades_offered": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10"
+        ],
+        "programs": [],
+        "curriculum": [
+          "National Curriculum of Nepal"
+        ],
+        "study_system": "Regular",
+        "examination_system": "Board Examinations",
+        "medium_of_instruction": [
+          "Nepali"
+        ],
+        "academic_calendar": "Nepali Academic Calendar",
+        "teaching_methodology": "Standard"
+      },
+      "admission": {
+        "requirements": [],
+        "admission_process": [],
+        "required_documents": [],
+        "entrance_exam": null,
+        "application_url": null,
+        "admission_contact": [],
+        "notices": []
+      },
+      "fees_and_scholarships": {
+        "fee_details": [],
+        "scholarships": [],
+        "financial_support": []
+      },
+      "facilities": [],
+      "infrastructure": [],
+      "boarding": {
+        "has_hostel": false,
+        "boys_hostel": null,
+        "girls_hostel": null,
+        "accommodation": [],
+        "meals": null,
+        "security": null,
+        "warden_information": null,
+        "hostel_fees": null
+      },
+      "administration": {
+        "principal": null,
+        "headteacher": null,
+        "vice_principal": null,
+        "chairman": null,
+        "founder": null,
+        "teachers": []
+      },
+      "institutional_profile": {
+        "mission": null,
+        "vision": null,
+        "highlights": [],
+        "features": [],
+        "why_choose_this_school": [],
+        "achievements": [],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": [],
+        "sports": [],
+        "clubs": [],
+        "cultural_activities": [],
+        "student_welfare": [],
+        "campus_experience": null
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "website": null,
+        "contact_person": null,
+        "office_hours": null,
+        "full_address": "Kaike Rural Municipality, Dolpa, Nepal"
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "youtube": null,
+        "linkedin": null,
+        "x": null,
+        "other": []
+      },
+      "seo": {
+        "suggested_title": "Kaike Secondary School, Kaike, Dolpa",
+        "meta_description": "Kaike Secondary School in Kaike Rural Municipality, Dolpa.",
+        "keywords": [
+          "Kaike Secondary School Dolpa"
+        ],
+        "faq": []
+      },
+      "research_sources": [
+        {
+          "source_name": "EMIS Nepal",
+          "source_url": "",
+          "information_obtained": "School listing.",
+          "source_type": "directory"
+        }
+      ],
+      "verification": {
+        "status": "unverified",
+        "missing_information": [
+          "Contact details"
+        ],
+        "notes": []
+      }
+    },
+    {
+      "identity": {
+        "name": "Jagadulla Secondary School",
+        "name_ne": "जगदुल्ला माध्यामिक विद्यालय",
+        "alternative_names": [],
+        "slug": "jagadulla-secondary-school-dolpa",
+        "category": "school",
+        "school_type": "community",
+        "ownership": "Public/Community",
+        "established_year": null,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "short_description": "Community school in Jagadulla Rural Municipality.",
+        "description": "Jagadulla Secondary School serves the educational needs of children in Jagadulla Rural Municipality, Dolpa."
+      },
+      "location": {
+        "province": "Karnali Province",
+        "district": "Dolpa",
+        "municipality": "Jagadulla Rural Municipality",
+        "ward": null,
+        "village": "Jagadulla",
+        "tole": "",
+        "full_address": "Jagadulla Rural Municipality, Dolpa, Karnali Province, Nepal",
+        "latitude": null,
+        "longitude": null,
+        "google_maps_url": null
+      },
+      "academics": {
+        "education_levels": [
+          "Primary",
+          "Secondary"
+        ],
+        "grades_offered": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10"
+        ],
+        "programs": [],
+        "curriculum": [
+          "National Curriculum of Nepal"
+        ],
+        "study_system": "Regular",
+        "examination_system": "Board Examinations",
+        "medium_of_instruction": [
+          "Nepali"
+        ],
+        "academic_calendar": "Nepali Academic Calendar",
+        "teaching_methodology": "Standard"
+      },
+      "admission": {
+        "requirements": [],
+        "admission_process": [],
+        "required_documents": [],
+        "entrance_exam": null,
+        "application_url": null,
+        "admission_contact": [],
+        "notices": []
+      },
+      "fees_and_scholarships": {
+        "fee_details": [],
+        "scholarships": [],
+        "financial_support": []
+      },
+      "facilities": [],
+      "infrastructure": [],
+      "boarding": {
+        "has_hostel": false,
+        "boys_hostel": null,
+        "girls_hostel": null,
+        "accommodation": [],
+        "meals": null,
+        "security": null,
+        "warden_information": null,
+        "hostel_fees": null
+      },
+      "administration": {
+        "principal": null,
+        "headteacher": null,
+        "vice_principal": null,
+        "chairman": null,
+        "founder": null,
+        "teachers": []
+      },
+      "institutional_profile": {
+        "mission": null,
+        "vision": null,
+        "highlights": [],
+        "features": [],
+        "why_choose_this_school": [],
+        "achievements": [],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": [],
+        "sports": [],
+        "clubs": [],
+        "cultural_activities": [],
+        "student_welfare": [],
+        "campus_experience": null
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "website": null,
+        "contact_person": null,
+        "office_hours": null,
+        "full_address": "Jagadulla Rural Municipality, Dolpa, Nepal"
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "youtube": null,
+        "linkedin": null,
+        "x": null,
+        "other": []
+      },
+      "seo": {
+        "suggested_title": "Jagadulla Secondary School, Jagadulla, Dolpa",
+        "meta_description": "Jagadulla Secondary School in Jagadulla Rural Municipality, Dolpa.",
+        "keywords": [
+          "Jagadulla Secondary School Dolpa"
+        ],
+        "faq": []
+      },
+      "research_sources": [
+        {
+          "source_name": "EMIS Nepal",
+          "source_url": "",
+          "information_obtained": "School listing.",
+          "source_type": "directory"
+        }
+      ],
+      "verification": {
+        "status": "unverified",
+        "missing_information": [
+          "Contact details"
+        ],
+        "notes": []
+      }
+    },
+    {
+      "identity": {
+        "name": "Mudkechula Secondary School",
+        "name_ne": "मुड्केचुला माध्यामिक विद्यालय",
+        "alternative_names": [],
+        "slug": "mudkechula-secondary-school-dolpa",
+        "category": "school",
+        "school_type": "community",
+        "ownership": "Public/Community",
+        "established_year": null,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "short_description": "Community school in Mudkechula Rural Municipality.",
+        "description": "Mudkechula Secondary School provides basic and secondary education in Mudkechula Rural Municipality, Dolpa."
+      },
+      "location": {
+        "province": "Karnali Province",
+        "district": "Dolpa",
+        "municipality": "Mudkechula Rural Municipality",
+        "ward": null,
+        "village": "Mudkechula",
+        "tole": "",
+        "full_address": "Mudkechula Rural Municipality, Dolpa, Karnali Province, Nepal",
+        "latitude": null,
+        "longitude": null,
+        "google_maps_url": null
+      },
+      "academics": {
+        "education_levels": [
+          "Primary",
+          "Secondary"
+        ],
+        "grades_offered": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10"
+        ],
+        "programs": [],
+        "curriculum": [
+          "National Curriculum of Nepal"
+        ],
+        "study_system": "Regular",
+        "examination_system": "Board Examinations",
+        "medium_of_instruction": [
+          "Nepali"
+        ],
+        "academic_calendar": "Nepali Academic Calendar",
+        "teaching_methodology": "Standard"
+      },
+      "admission": {
+        "requirements": [],
+        "admission_process": [],
+        "required_documents": [],
+        "entrance_exam": null,
+        "application_url": null,
+        "admission_contact": [],
+        "notices": []
+      },
+      "fees_and_scholarships": {
+        "fee_details": [],
+        "scholarships": [],
+        "financial_support": []
+      },
+      "facilities": [],
+      "infrastructure": [],
+      "boarding": {
+        "has_hostel": false,
+        "boys_hostel": null,
+        "girls_hostel": null,
+        "accommodation": [],
+        "meals": null,
+        "security": null,
+        "warden_information": null,
+        "hostel_fees": null
+      },
+      "administration": {
+        "principal": null,
+        "headteacher": null,
+        "vice_principal": null,
+        "chairman": null,
+        "founder": null,
+        "teachers": []
+      },
+      "institutional_profile": {
+        "mission": null,
+        "vision": null,
+        "highlights": [],
+        "features": [],
+        "why_choose_this_school": [],
+        "achievements": [],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": [],
+        "sports": [],
+        "clubs": [],
+        "cultural_activities": [],
+        "student_welfare": [],
+        "campus_experience": null
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "website": null,
+        "contact_person": null,
+        "office_hours": null,
+        "full_address": "Mudkechula Rural Municipality, Dolpa, Nepal"
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "youtube": null,
+        "linkedin": null,
+        "x": null,
+        "other": []
+      },
+      "seo": {
+        "suggested_title": "Mudkechula Secondary School, Mudkechula, Dolpa",
+        "meta_description": "Mudkechula Secondary School in Mudkechula Rural Municipality, Dolpa.",
+        "keywords": [
+          "Mudkechula Secondary School Dolpa"
+        ],
+        "faq": []
+      },
+      "research_sources": [
+        {
+          "source_name": "EMIS Nepal",
+          "source_url": "",
+          "information_obtained": "School listing.",
+          "source_type": "directory"
+        }
+      ],
+      "verification": {
+        "status": "unverified",
+        "missing_information": [
+          "Contact details"
+        ],
+        "notes": []
+      }
+    },
+    {
+      "identity": {
+        "name": "She Phoksundo Secondary School",
+        "name_ne": "शे फोक्सुण्डो माध्यामिक विद्यालय",
+        "alternative_names": [],
+        "slug": "she-phoksundo-secondary-school-dolpa",
+        "category": "school",
+        "school_type": "community",
+        "ownership": "Public/Community",
+        "established_year": null,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "short_description": "Community school in She Phoksundo Rural Municipality.",
+        "description": "She Phoksundo Secondary School provides educational instruction in the region surrounding She Phoksundo lake and rural municipality in Dolpa."
+      },
+      "location": {
+        "province": "Karnali Province",
+        "district": "Dolpa",
+        "municipality": "She Phoksundo Rural Municipality",
+        "ward": null,
+        "village": "Phoksundo",
+        "tole": "",
+        "full_address": "She Phoksundo Rural Municipality, Dolpa, Karnali Province, Nepal",
+        "latitude": null,
+        "longitude": null,
+        "google_maps_url": null
+      },
+      "academics": {
+        "education_levels": [
+          "Primary",
+          "Secondary"
+        ],
+        "grades_offered": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10"
+        ],
+        "programs": [],
+        "curriculum": [
+          "National Curriculum of Nepal"
+        ],
+        "study_system": "Regular",
+        "examination_system": "Board Examinations",
+        "medium_of_instruction": [
+          "Nepali"
+        ],
+        "academic_calendar": "Nepali Academic Calendar",
+        "teaching_methodology": "Standard"
+      },
+      "admission": {
+        "requirements": [],
+        "admission_process": [],
+        "required_documents": [],
+        "entrance_exam": null,
+        "application_url": null,
+        "admission_contact": [],
+        "notices": []
+      },
+      "fees_and_scholarships": {
+        "fee_details": [],
+        "scholarships": [],
+        "financial_support": []
+      },
+      "facilities": [],
+      "infrastructure": [],
+      "boarding": {
+        "has_hostel": false,
+        "boys_hostel": null,
+        "girls_hostel": null,
+        "accommodation": [],
+        "meals": null,
+        "security": null,
+        "warden_information": null,
+        "hostel_fees": null
+      },
+      "administration": {
+        "principal": null,
+        "headteacher": null,
+        "vice_principal": null,
+        "chairman": null,
+        "founder": null,
+        "teachers": []
+      },
+      "institutional_profile": {
+        "mission": null,
+        "vision": null,
+        "highlights": [],
+        "features": [],
+        "why_choose_this_school": [],
+        "achievements": [],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": [],
+        "sports": [],
+        "clubs": [],
+        "cultural_activities": [],
+        "student_welfare": [],
+        "campus_experience": null
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "website": null,
+        "contact_person": null,
+        "office_hours": null,
+        "full_address": "She Phoksundo Rural Municipality, Dolpa, Nepal"
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "youtube": null,
+        "linkedin": null,
+        "x": null,
+        "other": []
+      },
+      "seo": {
+        "suggested_title": "She Phoksundo Secondary School, Dolpa",
+        "meta_description": "She Phoksundo Secondary School in She Phoksundo Rural Municipality, Dolpa.",
+        "keywords": [
+          "She Phoksundo Secondary School Dolpa"
+        ],
+        "faq": []
+      },
+      "research_sources": [
+        {
+          "source_name": "EMIS Nepal",
+          "source_url": "",
+          "information_obtained": "School listing.",
+          "source_type": "directory"
+        }
+      ],
+      "verification": {
+        "status": "unverified",
+        "missing_information": [
+          "Contact details"
+        ],
+        "notes": []
+      }
+    },
+    {
+      "identity": {
+        "name": "Chharka Tangsong Secondary School",
+        "name_ne": "छार्का ताङसोङ माध्यामिक विद्यालय",
+        "alternative_names": [],
+        "slug": "chharka-tangsong-secondary-school-dolpa",
+        "category": "school",
+        "school_type": "community",
+        "ownership": "Public/Community",
+        "established_year": null,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "short_description": "Community school in Chharka Tangsong Rural Municipality.",
+        "description": "Chharka Tangsong Secondary School serves remote student populations in Chharka Tangsong Rural Municipality, Dolpa."
+      },
+      "location": {
+        "province": "Karnali Province",
+        "district": "Dolpa",
+        "municipality": "Chharka Tangsong Rural Municipality",
+        "ward": null,
+        "village": "Chharka",
+        "tole": "",
+        "full_address": "Chharka Tangsong Rural Municipality, Dolpa, Karnali Province, Nepal",
+        "latitude": null,
+        "longitude": null,
+        "google_maps_url": null
+      },
+      "academics": {
+        "education_levels": [
+          "Primary",
+          "Secondary"
+        ],
+        "grades_offered": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10"
+        ],
+        "programs": [],
+        "curriculum": [
+          "National Curriculum of Nepal"
+        ],
+        "study_system": "Regular",
+        "examination_system": "Board Examinations",
+        "medium_of_instruction": [
+          "Nepali"
+        ],
+        "academic_calendar": "Nepali Academic Calendar",
+        "teaching_methodology": "Standard"
+      },
+      "admission": {
+        "requirements": [],
+        "admission_process": [],
+        "required_documents": [],
+        "entrance_exam": null,
+        "application_url": null,
+        "admission_contact": [],
+        "notices": []
+      },
+      "fees_and_scholarships": {
+        "fee_details": [],
+        "scholarships": [],
+        "financial_support": []
+      },
+      "facilities": [],
+      "infrastructure": [],
+      "boarding": {
+        "has_hostel": false,
+        "boys_hostel": null,
+        "girls_hostel": null,
+        "accommodation": [],
+        "meals": null,
+        "security": null,
+        "warden_information": null,
+        "hostel_fees": null
+      },
+      "administration": {
+        "principal": null,
+        "headteacher": null,
+        "vice_principal": null,
+        "chairman": null,
+        "founder": null,
+        "teachers": []
+      },
+      "institutional_profile": {
+        "mission": null,
+        "vision": null,
+        "highlights": [],
+        "features": [],
+        "why_choose_this_school": [],
+        "achievements": [],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": [],
+        "sports": [],
+        "clubs": [],
+        "cultural_activities": [],
+        "student_welfare": [],
+        "campus_experience": null
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "website": null,
+        "contact_person": null,
+        "office_hours": null,
+        "full_address": "Chharka Tangsong Rural Municipality, Dolpa, Nepal"
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "youtube": null,
+        "linkedin": null,
+        "x": null,
+        "other": []
+      },
+      "seo": {
+        "suggested_title": "Chharka Tangsong Secondary School, Dolpa",
+        "meta_description": "Chharka Tangsong Secondary School in Chharka Tangsong Rural Municipality, Dolpa.",
+        "keywords": [
+          "Chharka Tangsong Secondary School Dolpa"
+        ],
+        "faq": []
+      },
+      "research_sources": [
+        {
+          "source_name": "EMIS Nepal",
+          "source_url": "",
+          "information_obtained": "School listing.",
+          "source_type": "directory"
+        }
+      ],
+      "verification": {
+        "status": "unverified",
+        "missing_information": [
+          "Contact details"
+        ],
+        "notes": []
+      }
+    }
+  ],
+  "district_summary": {
+    "total_schools": 10,
+    "government_schools": 0,
+    "community_schools": 10,
+    "private_schools": 0,
+    "boarding_schools": 0,
+    "other_schools": 0,
+    "schools_by_municipality": [
+      {
+        "municipality": "Thuli Bheri Municipality",
+        "count": 3
+      },
+      {
+        "municipality": "Tripurasundari Municipality",
+        "count": 1
+      },
+      {
+        "municipality": "Dolpo Buddha Rural Municipality",
+        "count": 2
+      },
+      {
+        "municipality": "Kaike Rural Municipality",
+        "count": 1
+      },
+      {
+        "municipality": "Jagadulla Rural Municipality",
+        "count": 1
+      },
+      {
+        "municipality": "Mudkechula Rural Municipality",
+        "count": 1
+      },
+      {
+        "municipality": "She Phoksundo Rural Municipality",
+        "count": 1
+      },
+      {
+        "municipality": "Chharka Tangsong Rural Municipality",
+        "count": 1
+      }
+    ],
+    "schools_by_education_level": [
+      {
+        "level": "Secondary",
+        "count": 10
+      }
+    ],
+    "research_gaps": [
+      "Lack of detailed institutional websites for rural community schools in Dolpa",
+      "Absence of direct contact numbers and principal listings in official open government datasets for remote wards"
+    ]
+  }
+}

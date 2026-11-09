@@ -1,0 +1,299 @@
+{
+  "research_metadata": {
+    "country": "Nepal",
+    "province": "Madhesh Province",
+    "district": "Mahottari",
+    "research_date": "2024-03-30",
+    "total_institutions_discovered": 1,
+    "total_institutions_verified": 1,
+    "coverage_notes": "Initial directory dataset containing major public higher education institutions in Mahottari district, prioritizing Tribhuvan University constituent and affiliated campuses.",
+    "research_status": "partial"
+  },
+  "institutions": [
+    {
+      "identity": {
+        "name": "Mahendra Ratna Multiple Campus",
+        "name_ne": "महेन्द्र रत्न बहुमुखी क्याम्पस",
+        "alternative_names": ["MRMC Jaleswor", "Mahendra Ratna Campus Jaleswor"],
+        "slug": "mahendra-ratna-multiple-campus-jaleswor",
+        "category": "campus",
+        "institution_type": "government",
+        "ownership": "Public",
+        "established_year": 1963,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "logo_source": null,
+        "short_description": "A constituent campus of Tribhuvan University located in Jaleswor, Mahottari, providing undergraduate and graduate education.",
+        "description": "Mahendra Ratna Multiple Campus is a prominent constituent campus of Tribhuvan University in the Madhesh Province of Nepal. Established in 1963, it plays a vital role in delivering higher education in humanities, management, and education streams to students in the Mahottari district and surrounding areas."
+      },
+      "location": {
+        "province": "Madhesh Province",
+        "district": "Mahottari",
+        "municipality": "Jaleswor Municipality",
+        "ward": null,
+        "tole": "Jaleswor",
+        "full_address": "Jaleswor, Mahottari, Madhesh Province, Nepal",
+        "latitude": 26.6436,
+        "longitude": 85.7981,
+        "google_maps_url": null,
+        "google_maps_embed_url": null,
+        "nearby_landmarks": [
+          "Jaleswor Nath Mahadev Temple"
+        ]
+      },
+      "affiliation": {
+        "university": "Tribhuvan University",
+        "affiliation_type": "Constituent",
+        "accreditation": [],
+        "recognition_details": [
+          "Recognized by University Grants Commission Nepal"
+        ]
+      },
+      "academics": {
+        "study_system": "Annual and Semester",
+        "academic_calendar": "As per Tribhuvan University schedule",
+        "medium_of_instruction": [
+          "Nepali",
+          "English"
+        ],
+        "teaching_methodology": "Lectures, practicals, and interactive sessions",
+        "programs": [
+          {
+            "name": "Bachelor of Arts (BA)",
+            "degree_level": "Undergraduate",
+            "faculty": "Humanities and Social Sciences",
+            "specialization": [],
+            "duration": "3 years / 4 years",
+            "semester_or_year": "Annual / Semester",
+            "eligibility": "+2 or equivalent pass",
+            "entrance_requirement": "As per TU rules",
+            "fee": null,
+            "intake_capacity": null,
+            "status": "active",
+            "source_urls": []
+          },
+          {
+            "name": "Bachelor of Business Studies (BBS)",
+            "degree_level": "Undergraduate",
+            "faculty": "Management",
+            "specialization": ["General Management"],
+            "duration": "4 years",
+            "semester_or_year": "Annual",
+            "eligibility": "+2 or equivalent pass in any stream",
+            "entrance_requirement": "As per TU rules",
+            "fee": null,
+            "intake_capacity": null,
+            "status": "active",
+            "source_urls": []
+          },
+          {
+            "name": "Bachelor of Education (B.Ed)",
+            "degree_level": "Undergraduate",
+            "faculty": "Education",
+            "specialization": [],
+            "duration": "1 year / 3 years / 4 years",
+            "semester_or_year": "Annual",
+            "eligibility": "+2 or equivalent pass",
+            "entrance_requirement": "As per TU rules",
+            "fee": null,
+            "intake_capacity": null,
+            "status": "active",
+            "source_urls": []
+          }
+        ]
+      },
+      "admission": {
+        "guidance": "Admissions are conducted according to Tribhuvan University guidelines and academic calendars.",
+        "requirements": [
+          "Successfully completed +2 or equivalent examination from a recognized board."
+        ],
+        "application_process": [
+          "Obtain application forms from the campus administration or online portal if available.",
+          "Submit academic transcripts and certificates.",
+          "Appear for entrance examinations if required by the respective faculty."
+        ],
+        "application_url": null,
+        "entrance_details": "Required for specific programs as mandated by Tribhuvan University.",
+        "required_documents": [
+          "Character certificate",
+          "Transcripts of +2 or equivalent",
+          "Recent passport-size photographs"
+        ],
+        "admission_contact": [],
+        "current_notices": []
+      },
+      "scholarships": [
+        {
+          "name": "Government and University Scholarships",
+          "type": "Merit and Need-based",
+          "eligibility": "Based on academic performance and criteria set by Tribhuvan University / UGC Nepal.",
+          "benefits": "Partial or full tuition waiver",
+          "application_process": "Apply through the campus administration office during the admission period.",
+          "deadline": null,
+          "status": "active",
+          "source_urls": []
+        }
+      ],
+      "facilities": [
+        "Library",
+        "Classrooms",
+        "Administration Building",
+        "Sports Ground"
+      ],
+      "infrastructure": [],
+      "faculty": {
+        "principal": null,
+        "chairperson": null,
+        "campus_chief": null,
+        "departments": [
+          "Humanities",
+          "Management",
+          "Education"
+        ],
+        "faculty_members": [],
+        "teaching_approach": "Conventional and participatory teaching methods."
+      },
+      "leadership_messages": {
+        "principal_message": null,
+        "chairperson_message": null,
+        "founder_message": null
+      },
+      "institutional_profile": {
+        "mission": "To provide quality higher education accessible to the diverse population of the Mahottari district.",
+        "vision": "To be a leading center of academic excellence in Madhesh Province.",
+        "core_values": [
+          "Accessibility",
+          "Academic Integrity",
+          "Inclusivity"
+        ],
+        "highlights": [
+          "Constituent campus of Tribhuvan University",
+          "Long-standing history of educational service in Mahottari"
+        ],
+        "features": [
+          "Affordable public education",
+          "Experienced faculty members"
+        ],
+        "why_choose_this_college": [
+          "Official Tribhuvan University degrees at nominal costs",
+          "Central location in Jaleswor"
+        ],
+        "achievements": [],
+        "milestones": [
+          "Established in 1963"
+        ]
+      },
+      "student_life": {
+        "extracurricular_activities": [
+          "Annual sports meets",
+          "Cultural programs"
+        ],
+        "clubs": [],
+        "sports": [
+          "Football",
+          "Cricket",
+          "Volleyball"
+        ],
+        "student_organizations": [
+          "Active student unions affiliated with national student wings"
+        ],
+        "campus_experience": "Vibrant campus environment with active student participation in social and cultural events.",
+        "student_welfare": []
+      },
+      "career_development": {
+        "placement_cell": null,
+        "internship_opportunities": [],
+        "industry_partnerships": [],
+        "career_counseling": null,
+        "alumni_network": null,
+        "placement_statistics": []
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "admission_contacts": [],
+        "website": null,
+        "office_hours": "Sun-Fri: 10:00 AM - 5:00 PM",
+        "contact_person": null
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "linkedin": null,
+        "youtube": null,
+        "x": null,
+        "other": []
+      },
+      "online_resources": {
+        "prospectus": [],
+        "fee_structure": [],
+        "academic_calendar": [],
+        "notices": [],
+        "results": [],
+        "student_portal": null,
+        "downloads": []
+      },
+      "seo": {
+        "suggested_title": "Mahendra Ratna Multiple Campus, Jaleswor, Mahottari",
+        "meta_description": "Explore Mahendra Ratna Multiple Campus in Jaleswor, Mahottari. A constituent campus of Tribhuvan University offering BA, BBS, and B.Ed programs.",
+        "keywords": [
+          "Mahendra Ratna Multiple Campus",
+          "MRMC Jaleswor",
+          "Colleges in Mahottari",
+          "Tribhuvan University constituent campus Mahottari"
+        ],
+        "faq": [
+          {
+            "question": "Which university is Mahendra Ratna Multiple Campus affiliated with?",
+            "answer": "It is a constituent campus of Tribhuvan University."
+          },
+          {
+            "question": "Where is Mahendra Ratna Multiple Campus located?",
+            "answer": "It is located in Jaleswor, Mahottari district, Madhesh Province, Nepal."
+          }
+        ]
+      },
+      "verification": {
+        "verification_status": "partial",
+        "last_verified_at": "2024-03-30",
+        "official_sources": [
+          "Tribhuvan University Directorate of Planning"
+        ],
+        "secondary_sources": [],
+        "field_confidence": {
+          "identity": "high",
+          "location": "high",
+          "affiliation": "high"
+        },
+        "missing_information": [
+          "Exact contact numbers",
+          "Detailed fee structure",
+          "Current campus chief name"
+        ],
+        "notes": "Basic verified institutional details from Tribhuvan University records."
+      }
+    }
+  ],
+  "district_summary": {
+    "total_colleges": 1,
+    "government_colleges": 1,
+    "community_colleges": 0,
+    "private_colleges": 0,
+    "universities_and_constituent_campuses": 1,
+    "other_institutions": 0,
+    "municipalities_covered": [
+      "Jaleswor Municipality"
+    ],
+    "institutions_by_university": [
+      {
+        "university": "Tribhuvan University",
+        "count": 1
+      }
+    ],
+    "research_gaps": [
+      "Need further exploration of community and private campuses across other municipalities in Mahottari like Bardibas, Gaushala, and Ramgopalpur."
+    ]
+  }
+}

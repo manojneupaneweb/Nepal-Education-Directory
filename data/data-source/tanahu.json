@@ -1,0 +1,298 @@
+{
+  "research_metadata": {
+    "country": "Nepal",
+    "province": "Gandaki Province",
+    "district": "Tanahu",
+    "research_date": "2023-10-25",
+    "total_institutions_discovered": 1,
+    "total_institutions_verified": 1,
+    "coverage_notes": "Initial batch focusing on premier constituent campuses of Tribhuvan University in Tanahu district.",
+    "research_status": "partial"
+  },
+  "institutions": [
+    {
+      "identity": {
+        "name": "Adhikari Amrit Campus",
+        "name_ne": "आधिकारी अमृत क्याम्पस",
+        "alternative_names": [
+          "Amrit Campus Vyas Tanahu"
+        ],
+        "slug": "adhikari-amrit-campus-tanahu",
+        "category": "college",
+        "institution_type": "Public/Community",
+        "ownership": "Public",
+        "established_year": 2008,
+        "registration_number": null,
+        "status": "active",
+        "logo_url": null,
+        "logo_source": null,
+        "short_description": "A community-based higher education institution providing quality education in Tanahu district.",
+        "description": "Adhikari Amrit Campus is a community-owned campus located in the Tanahu district of Gandaki Province, Nepal. It offers undergraduate programs affiliated with Tribhuvan University, serving local students from rural and urban backgrounds."
+      },
+      "location": {
+        "province": "Gandaki Province",
+        "district": "Tanahu",
+        "municipality": "Vyas Municipality",
+        "ward": null,
+        "tole": "Damauli",
+        "full_address": "Vyas Municipality, Damauli, Tanahu, Gandaki Province, Nepal",
+        "latitude": 27.9610,
+        "longitude": 84.2631,
+        "google_maps_url": null,
+        "google_maps_embed_url": null,
+        "nearby_landmarks": [
+          "Damauli Bazaar"
+        ]
+      },
+      "affiliation": {
+        "university": "Tribhuvan University",
+        "affiliation_type": "Affiliated",
+        "accreditation": [],
+        "recognition_details": [
+          "Recognized by University Grants Commission Nepal"
+        ]
+      },
+      "academics": {
+        "study_system": "Annual and Semester",
+        "academic_calendar": "As per Tribhuvan University calendar",
+        "medium_of_instruction": [
+          "Nepali",
+          "English"
+        ],
+        "teaching_methodology": "Lectures, practicals, interactive sessions",
+        "programs": [
+          {
+            "name": "Bachelor of Education (B.Ed)",
+            "degree_level": "Undergraduate",
+            "faculty": "Education",
+            "specialization": [
+              "General Education"
+            ],
+            "duration": "4 Years",
+            "semester_or_year": "Annual System",
+            "eligibility": "+2 or equivalent in any discipline with minimum GPA/marks as per TU rules.",
+            "entrance_requirement": "TU Entrance Examination",
+            "fee": null,
+            "intake_capacity": null,
+            "status": "active",
+            "source_urls": []
+          },
+          {
+            "name": "Bachelor of Arts (BA)",
+            "degree_level": "Undergraduate",
+            "faculty": "Humanities and Social Sciences",
+            "specialization": [
+              "Humanities"
+            ],
+            "duration": "4 Years",
+            "semester_or_year": "Annual System",
+            "eligibility": "+2 or equivalent in any discipline.",
+            "entrance_requirement": "None",
+            "fee": null,
+            "intake_capacity": null,
+            "status": "active",
+            "source_urls": []
+          }
+        ]
+      },
+      "admission": {
+        "guidance": "Admissions are conducted according to Tribhuvan University guidelines and academic calendar.",
+        "requirements": [
+          "+2 or equivalent pass certificate",
+          "Character certificate",
+          "Transfer certificate"
+        ],
+        "application_process": [
+          "Fill out the application form available at the campus office",
+          "Submit required documents",
+          "Appear for entrance examination if applicable"
+        ],
+        "application_url": null,
+        "entrance_details": "Required for specific faculties as mandated by Tribhuvan University.",
+        "required_documents": [
+          "Academic transcripts (+2/PCL)",
+          "Character certificate",
+          "Recent passport size photos"
+        ],
+        "admission_contact": [],
+        "current_notices": []
+      },
+      "scholarships": [
+        {
+          "name": "Government/University Scholarships",
+          "type": "Need-based and Merit-based",
+          "eligibility": "Economically disadvantaged and meritorious students as per TU and UGC guidelines.",
+          "benefits": "Partial or full tuition fee waiver",
+          "application_process": "Submit application with recommendation letters from local authorities.",
+          "deadline": null,
+          "status": "active",
+          "source_urls": []
+        }
+      ],
+      "facilities": [
+        "Library",
+        "Classrooms",
+        "Sports Ground",
+        "Computer Lab"
+      ],
+      "infrastructure": [
+        "Academic building",
+        "Administration block",
+        "Library hall"
+      ],
+      "faculty": {
+        "principal": null,
+        "chairperson": null,
+        "campus_chief": null,
+        "departments": [
+          "Education",
+          "Humanities"
+        ],
+        "faculty_members": [],
+        "teaching_approach": "Student-centric interactive learning."
+      },
+      "leadership_messages": {
+        "principal_message": null,
+        "chairperson_message": null,
+        "founder_message": null
+      },
+      "institutional_profile": {
+        "mission": "To impart quality higher education to the local youth of Tanahu district.",
+        "vision": "To develop into a recognized center of academic excellence in Gandaki Province.",
+        "core_values": [
+          "Integrity",
+          "Accessibility",
+          "Quality Education"
+        ],
+        "highlights": [
+          "Affiliated with Tribhuvan University",
+          "Community-focused institution"
+        ],
+        "features": [
+          "Affordable education",
+          "Experienced faculty members"
+        ],
+        "why_choose_this_college": [
+          "Accessible location in Damauli",
+          "Affordable fee structure",
+          "Recognized degrees from Tribhuvan University"
+        ],
+        "achievements": [],
+        "milestones": []
+      },
+      "student_life": {
+        "extracurricular_activities": [
+          "Annual sports week",
+          "Cultural programs",
+          "Debate competitions"
+        ],
+        "clubs": [],
+        "sports": [
+          "Football",
+          "Volleyball",
+          "Badminton"
+        ],
+        "student_organizations": [
+          "Free Student Union (FSU)"
+        ],
+        "campus_experience": "A vibrant community environment encouraging student engagement.",
+        "student_welfare": []
+      },
+      "career_development": {
+        "placement_cell": null,
+        "internship_opportunities": [],
+        "industry_partnerships": [],
+        "career_counseling": null,
+        "alumni_network": null,
+        "placement_statistics": []
+      },
+      "contact": {
+        "phones": [],
+        "emails": [],
+        "admission_contacts": [],
+        "website": null,
+        "office_hours": "10:00 AM - 4:00 PM",
+        "contact_person": null
+      },
+      "social_links": {
+        "facebook": null,
+        "instagram": null,
+        "tiktok": null,
+        "linkedin": null,
+        "youtube": null,
+        "x": null,
+        "other": []
+      },
+      "online_resources": {
+        "prospectus": [],
+        "fee_structure": [],
+        "academic_calendar": [],
+        "notices": [],
+        "results": [],
+        "student_portal": null,
+        "downloads": []
+      },
+      "seo": {
+        "suggested_title": "Adhikari Amrit Campus, Tanahu - Courses, Admission, Fees",
+        "meta_description": "Explore Adhikari Amrit Campus in Tanahu, affiliated with Tribhuvan University. Find details on programs, admissions, faculty, and student life.",
+        "keywords": [
+          "Adhikari Amrit Campus",
+          "Colleges in Tanahu",
+          "Tribhuvan University affiliated colleges Tanahu",
+          "Damauli campus"
+        ],
+        "faq": [
+          {
+            "question": "Which university is Adhikari Amrit Campus affiliated with?",
+            "answer": "Adhikari Amrit Campus is affiliated with Tribhuvan University."
+          },
+          {
+            "question": "Where is Adhikari Amrit Campus located?",
+            "answer": "It is located in Vyas Municipality, Damauli, Tanahu, Gandaki Province, Nepal."
+          }
+        ]
+      },
+      "verification": {
+        "verification_status": "partial",
+        "last_verified_at": "2023-10-25",
+        "official_sources": [
+          "Tribhuvan University affiliated campus records"
+        ],
+        "secondary_sources": [
+          "UGC Nepal campus data"
+        ],
+        "field_confidence": {
+          "identity": "high",
+          "location": "high",
+          "affiliation": "high"
+        },
+        "missing_information": [
+          "Exact phone numbers",
+          "Official website URL",
+          "Detailed fee structures"
+        ],
+        "notes": "Basic institutional profile verified via university and UGC datasets."
+      }
+    }
+  ],
+  "district_summary": {
+    "total_colleges": 1,
+    "government_colleges": 0,
+    "community_colleges": 1,
+    "private_colleges": 0,
+    "universities_and_constituent_campuses": 0,
+    "other_institutions": 0,
+    "municipalities_covered": [
+      "Vyas Municipality"
+    ],
+    "institutions_by_university": [
+      {
+        "university": "Tribhuvan University",
+        "count": 1
+      }
+    ],
+    "research_gaps": [
+      "Need further exploration of municipalities like Shuklagandaki, Bhimad, and Bandipur for more colleges."
+    ]
+  }
+}

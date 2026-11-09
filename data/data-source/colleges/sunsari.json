@@ -1,0 +1,3197 @@
+{
+    "research_metadata": {
+        "country": "Nepal",
+        "province": "Koshi Province",
+        "district": "Sunsari",
+        "research_date": "2026-11-08",
+        "total_institutions_discovered": 50,
+        "research_status": "completed",
+        "collection_mode": "responses"
+    },
+    "institutions": [
+        {
+            "overview": {
+                "name": "Aagaman Campus",
+                "name_ne": null,
+                "slug": "aagaman-campus",
+                "ownership": "private",
+                "established_year": 2013,
+                "university": "Tribhuvan University",
+                "municipality": "Duhabi",
+                "address": "Duhabi-3, Sunsari, Koshi Province, opposite Sunsari Samudayak Hospital",
+                "description": "Private campus established in 2070 BS. It runs National Examination Board plus-two programs and Tribhuvan University bachelor programs in management, education, hotel management, and general science.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://www.collegenp.com/college/aagaman-campus-sunsari"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Business Studies (BBS)",
+                    "level": "Bachelor",
+                    "duration": "4 Years",
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/aagaman-campus-sunsari-bachelor-of-business-studies-bbs"
+                },
+                {
+                    "name": "Bachelor of Education (B.Ed.)",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/aagaman-campus-sunsari"
+                },
+                {
+                    "name": "Bachelor of Hotel Management (BHM)",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/aagaman-campus-sunsari"
+                },
+                {
+                    "name": "B.Sc. (General)",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Science",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/aagaman-campus-sunsari"
+                }
+            ],
+            "facilities": [
+                "Classrooms",
+                "Library",
+                "Science lab",
+                "Computer lab",
+                "Cafeteria",
+                "Parking",
+                "Multimedia",
+                "Counseling",
+                "Sports",
+                "Transport",
+                "Internet"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-9814329861",
+                    "+977-9804448806"
+                ],
+                "emails": [
+                    "info@aagamancampus.edu.np"
+                ],
+                "website": "https://aagamancampus.edu.np",
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Adarsha College",
+                "name_ne": null,
+                "slug": "adarsha-college-itahari",
+                "ownership": "private",
+                "established_year": null,
+                "university": "Rajarshi Janak University",
+                "municipality": "Itahari",
+                "address": "Itahari, Sunsari",
+                "description": "Sister institution of Vishwa Adarsha Academy in Itahari. Edusanjal lists it as affiliated with Rajarshi Janak University. The college site describes work in management, law, IT, humanities, and social sciences.",
+                "mission": "To foster innovative pedagogies and research in diverse fields of knowledge including management, law, IT, humanities and social sciences.",
+                "vision": "To contribute to social development through quality education, research and innovation in multidisciplinary fields.",
+                "source_urls": [
+                    "https://edusanjal.com/college/district/sunsari/",
+                    "https://adarshacollegeitahari.edu.np/"
+                ]
+            },
+            "courses": [],
+            "facilities": [],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [],
+                "emails": [],
+                "website": "https://adarshacollegeitahari.edu.np",
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Alpine College",
+                "name_ne": null,
+                "slug": "alpine-college-dharan",
+                "ownership": "private",
+                "established_year": 2010,
+                "university": "Tribhuvan University",
+                "municipality": "Dharan",
+                "address": "College Road, Dharan, Sunsari",
+                "description": "Private college established in 2067 BS on College Road, Dharan, offering a Tribhuvan University Bachelor of Business Studies program.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://www.collegenp.com/college/alpine-college-sunsari",
+                    "https://en.wikipedia.org/wiki/List_of_educational_institutions_in_Dharan"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Business Studies (BBS)",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/alpine-college-sunsari"
+                }
+            ],
+            "facilities": [
+                "Cafeteria",
+                "Library",
+                "Sports",
+                "Counselling",
+                "Science lab",
+                "Computer lab",
+                "Classrooms",
+                "Parking",
+                "Conference",
+                "Tour",
+                "ECA",
+                "Multimedia"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-25-523159"
+                ],
+                "emails": [],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "B.P. Koirala Institute of Health Sciences",
+                "name_ne": null,
+                "slug": "bp-koirala-institute-of-health-sciences",
+                "ownership": "government",
+                "established_year": null,
+                "university": "B.P. Koirala Institute of Health Sciences",
+                "municipality": "Dharan",
+                "address": "Dharan Sub-Metropolitan City, Koshi Province, Nepal",
+                "description": "Health-sciences institute and teaching hospital in Dharan. Public pages describe undergraduate pathways in MBBS, BDS, BSc Nursing, and allied health, plus postgraduate and fellowship training.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://bpkihs.edu/",
+                    "https://bpkihs.edu/contact",
+                    "https://edusanjal.com/college/local_level/dharan/"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "MBBS",
+                    "level": "Undergraduate",
+                    "duration": null,
+                    "faculty": "Medicine",
+                    "fee": null,
+                    "source_url": "https://bpkihs.edu/"
+                },
+                {
+                    "name": "BDS",
+                    "level": "Undergraduate",
+                    "duration": null,
+                    "faculty": "Dentistry",
+                    "fee": null,
+                    "source_url": "https://bpkihs.edu/"
+                },
+                {
+                    "name": "BSc Nursing",
+                    "level": "Undergraduate",
+                    "duration": null,
+                    "faculty": "Nursing",
+                    "fee": null,
+                    "source_url": "https://bpkihs.edu/"
+                },
+                {
+                    "name": "Allied health courses",
+                    "level": "Undergraduate",
+                    "duration": null,
+                    "faculty": "Allied health",
+                    "fee": null,
+                    "source_url": "https://bpkihs.edu/"
+                }
+            ],
+            "facilities": [
+                "Teaching hospital"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [
+                {
+                    "title": "Result of Written Examination of Senior Resident/Lecturer",
+                    "date": "2026-11-04",
+                    "summary": "Notice listed on the BPKIHS homepage.",
+                    "source_url": "https://bpkihs.edu/"
+                },
+                {
+                    "title": "Notice of Written Examination for Senior Resident/Lecturer",
+                    "date": "2026-10-31",
+                    "summary": "Notice listed on the BPKIHS homepage.",
+                    "source_url": "https://bpkihs.edu/"
+                },
+                {
+                    "title": "Result of Staff Nurse",
+                    "date": "2026-10-23",
+                    "summary": "Notice listed on the BPKIHS homepage.",
+                    "source_url": "https://bpkihs.edu/"
+                },
+                {
+                    "title": "Notice regarding Students Admission at B.P. Koirala Institute of Health Sciences, Dharan",
+                    "date": "2026-10-13",
+                    "summary": "Admission notice listed on the BPKIHS homepage.",
+                    "source_url": "https://bpkihs.edu/"
+                },
+                {
+                    "title": "Vacancy Notice of Medical-Dental Officer",
+                    "date": "2026-10-07",
+                    "summary": "Vacancy notice listed on the BPKIHS homepage.",
+                    "source_url": "https://bpkihs.edu/"
+                }
+            ],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-25-525555"
+                ],
+                "emails": [],
+                "website": "https://bpkihs.edu",
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "TNK Balaha Multiple Campus",
+                "name_ne": null,
+                "slug": "balaha-multiple-campus",
+                "ownership": "community",
+                "established_year": null,
+                "university": "Tribhuvan University",
+                "municipality": "Inaruwa",
+                "address": "Inaruwa-9, Sunsari",
+                "description": "Community campus in Inaruwa listed by Edusanjal under Tribhuvan University. A public course page describes a four-year BBS program.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://edusanjal.com/college/district/sunsari/",
+                    "https://www.collegenp.com/course/balaha-multiple-campus-sunsari-bachelor-of-business-studies-bbs-bbs"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Business Studies (BBS)",
+                    "level": "Bachelor",
+                    "duration": "4 Years",
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/balaha-multiple-campus-sunsari-bachelor-of-business-studies-bbs-bbs"
+                }
+            ],
+            "facilities": [
+                "Library"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-9852044601",
+                    "+977-9842544821",
+                    "+977-9841448756"
+                ],
+                "emails": [
+                    "tnkbalahamultiplecampus@tnkbmc.com"
+                ],
+                "website": "https://tnkbmc.com",
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Bharabi Science College",
+                "name_ne": null,
+                "slug": "bharabi-science-college",
+                "ownership": "private",
+                "established_year": 2005,
+                "university": "Tribhuvan University",
+                "municipality": "Itahari",
+                "address": "Itahari, Sunsari; previously located in Dharan",
+                "description": "Private science campus established in 2062 BS. It shifted from Dharan to Itahari and offers Tribhuvan University BSc programs, including physics and microbiology.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://www.collegesnepal.com/bharabi-science-college/",
+                    "https://edusanjal.com/college/local_level/itahari/"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "BSc Physics",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Science",
+                    "fee": null,
+                    "source_url": "https://www.collegesnepal.com/bharabi-science-college/"
+                },
+                {
+                    "name": "BSc Microbiology",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Science",
+                    "fee": null,
+                    "source_url": "https://www.collegesnepal.com/bharabi-science-college/"
+                }
+            ],
+            "facilities": [
+                "Cafeteria",
+                "Library",
+                "Sports",
+                "Internet",
+                "Computer lab",
+                "Counseling",
+                "Classrooms"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-25-528436"
+                ],
+                "emails": [
+                    "aakashsabin93@gmail.com"
+                ],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Bhadgaun Sinuwari Multiple Campus",
+                "name_ne": "भादगाउँ सिनुवारी बहुमुखी क्याम्पस",
+                "slug": "bhadgaun-sinuwari-multiple-campus",
+                "ownership": "community",
+                "established_year": 2010,
+                "university": "Tribhuvan University",
+                "municipality": "Ramdhuni",
+                "address": "Ramdhuni-1, Jhumka, Sunsari",
+                "description": "Community campus established in 2067 BS at Jhumka, Ramdhuni. It is affiliated to Tribhuvan University for BBS and B.Ed.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://www.collegenp.com/college/bhadgaun-sinuwari-multiple-campus",
+                    "https://edusanjal.com/college/district/sunsari/"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Business Studies (BBS)",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/bhadgaun-sinuwari-multiple-campus"
+                },
+                {
+                    "name": "Bachelor of Education (B.Ed.)",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/bhadgaun-sinuwari-multiple-campus"
+                }
+            ],
+            "facilities": [
+                "Own building",
+                "Campus bus",
+                "Library",
+                "ICT class",
+                "Internal examination"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-9852055911",
+                    "+977-9842034660"
+                ],
+                "emails": [
+                    "info@bsmcramdhuni.edu.np"
+                ],
+                "website": "https://bsmcramdhuni.edu.np",
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Bijayapur Technical Institute",
+                "name_ne": null,
+                "slug": "bijayapur-technical-institute",
+                "ownership": "private",
+                "established_year": 2014,
+                "university": "CTEVT",
+                "municipality": "Dharan",
+                "address": "Prithivi Path, Dharan-1, Sunsari",
+                "description": "Private CTEVT technical institute established in 2071 BS. It offers PCL General Medicine, Diploma in Pharmacy, and Certificate in Medical Laboratory Technology.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://edusanjal.com/school/bijayapur-technical-institute/",
+                    "https://pharmainfonepal.com/list-of-diploma-pharmacy-colleges-in-nepal-ctevt/"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "PCL in General Medicine (Health Assistant)",
+                    "level": "Diploma",
+                    "duration": null,
+                    "faculty": "Health",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/school/bijayapur-technical-institute/"
+                },
+                {
+                    "name": "Diploma in Pharmacy",
+                    "level": "Diploma",
+                    "duration": null,
+                    "faculty": "Health",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/school/bijayapur-technical-institute/"
+                },
+                {
+                    "name": "Certificate in Medical Laboratory Technology (CMLT)",
+                    "level": "Certificate",
+                    "duration": null,
+                    "faculty": "Health",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/school/bijayapur-technical-institute/"
+                }
+            ],
+            "facilities": [
+                "Smart-board classrooms",
+                "Practical laboratories",
+                "Library"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-25-579490",
+                    "+977-9852049404"
+                ],
+                "emails": [],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Birendra Memorial College",
+                "name_ne": null,
+                "slug": "birendra-memorial-college",
+                "ownership": "private",
+                "established_year": 2003,
+                "university": "Tribhuvan University",
+                "municipality": "Dharan",
+                "address": "Bhupi Marga, Dharan, Sunsari",
+                "description": "Private Tribhuvan University college in Dharan, established in 2060 BS. Public pages list BSc CSIT, BSc Microbiology, BBS, and MBS.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://edusanjal.com/college/local_level/dharan/",
+                    "https://www.collegenp.com/college/birendra-memorial-college-sunsari"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "BSc CSIT",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Science and Technology",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/birendra-memorial-college-sunsari"
+                },
+                {
+                    "name": "BSc Microbiology",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Science",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/birendra-memorial-college-sunsari"
+                },
+                {
+                    "name": "Bachelor of Business Studies (BBS)",
+                    "level": "Bachelor",
+                    "duration": "4 Years",
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/birendra-memorial-college-sunsari"
+                },
+                {
+                    "name": "Master of Business Studies (MBS)",
+                    "level": "Master",
+                    "duration": null,
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/birendra-memorial-college-sunsari"
+                }
+            ],
+            "facilities": [
+                "Laboratories",
+                "Library",
+                "Academic building"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-25-527320"
+                ],
+                "emails": [],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Central Campus of Technology",
+                "name_ne": null,
+                "slug": "central-campus-of-technology",
+                "ownership": "constituent",
+                "established_year": 1972,
+                "university": "Tribhuvan University",
+                "municipality": "Dharan",
+                "address": "Hattisar, Dharan, Sunsari",
+                "description": "Constituent campus of Tribhuvan University in Hattisar, Dharan. It developed from the Institute of Applied Science and Technology established in Dharan in 1972 and offers science, food technology, nutrition, and IT programs.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://www.collegesnepal.com/central-campus-of-technology/",
+                    "https://cct.tu.edu.np/notices/9806",
+                    "https://edusanjal.com/college/local_level/dharan/"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "B.Tech Food Technology",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Technology",
+                    "fee": null,
+                    "source_url": "https://www.collegesnepal.com/central-campus-of-technology/"
+                },
+                {
+                    "name": "BSc Nutrition and Dietetics",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Science",
+                    "fee": null,
+                    "source_url": "https://www.collegesnepal.com/central-campus-of-technology/"
+                },
+                {
+                    "name": "BSc Microbiology",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Science",
+                    "fee": null,
+                    "source_url": "https://www.collegesnepal.com/central-campus-of-technology/"
+                },
+                {
+                    "name": "BSc Physics",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Science",
+                    "fee": null,
+                    "source_url": "https://www.collegesnepal.com/central-campus-of-technology/"
+                },
+                {
+                    "name": "BSc Geology",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Science",
+                    "fee": null,
+                    "source_url": "https://www.collegesnepal.com/central-campus-of-technology/"
+                },
+                {
+                    "name": "BSc CSIT",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Science and Technology",
+                    "fee": null,
+                    "source_url": "https://www.collegesnepal.com/central-campus-of-technology/"
+                },
+                {
+                    "name": "Bachelor of Information Technology (BIT)",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Science and Technology",
+                    "fee": null,
+                    "source_url": "https://www.collegesnepal.com/central-campus-of-technology/"
+                },
+                {
+                    "name": "MSc Microbiology",
+                    "level": "Master",
+                    "duration": null,
+                    "faculty": "Science",
+                    "fee": null,
+                    "source_url": "https://www.collegesnepal.com/central-campus-of-technology/"
+                }
+            ],
+            "facilities": [],
+            "gallery": [],
+            "videos": [],
+            "updates": [
+                {
+                    "title": "B.Sc. Nutrition and Dietetics Entrance - 2082 Notice",
+                    "date": "2025-11-17",
+                    "summary": "Entrance notice published on the Central Campus of Technology notices page.",
+                    "source_url": "https://cct.tu.edu.np/notices/9806"
+                }
+            ],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-25-570228",
+                    "+977-25-570530"
+                ],
+                "emails": [
+                    "info@cct.tu.edu.np"
+                ],
+                "website": "https://www.cctdharan.edu.np",
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "College of Nursing, B.P. Koirala Institute of Health Sciences",
+                "name_ne": null,
+                "slug": "college-of-nursing-bpkihs",
+                "ownership": "constituent",
+                "established_year": null,
+                "university": "B.P. Koirala Institute of Health Sciences",
+                "municipality": "Dharan",
+                "address": "Dharan, Sunsari",
+                "description": "Nursing college unit of B.P. Koirala Institute of Health Sciences in Dharan. The institute homepage lists BSc Nursing among undergraduate programs.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://edusanjal.com/college/district/sunsari/",
+                    "https://bpkihs.edu/"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "BSc Nursing",
+                    "level": "Undergraduate",
+                    "duration": null,
+                    "faculty": "Nursing",
+                    "fee": null,
+                    "source_url": "https://bpkihs.edu/"
+                }
+            ],
+            "facilities": [],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-25-525555"
+                ],
+                "emails": [],
+                "website": "https://bpkihs.edu",
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Depot Adarsha Multiple Campus",
+                "name_ne": null,
+                "slug": "depot-adarsha-multiple-campus",
+                "ownership": "private",
+                "established_year": 2014,
+                "university": "Tribhuvan University",
+                "municipality": "Dharan",
+                "address": "Ghopa Camp, Dharan, Sunsari",
+                "description": "Private campus established in 2071 BS at Ghopa Camp, Dharan, near BPKIHS. It offers a four-year Tribhuvan University BBS program.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://www.collegenp.com/college/depot-adarsha-multiple-campus-sunsari",
+                    "https://edusanjal.com/college/district/sunsari/"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Business Studies (BBS)",
+                    "level": "Bachelor",
+                    "duration": "4 Years",
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/depot-adarsha-multiple-campus-sunsari-bachelor-of-business-studies-bbs-bbs"
+                }
+            ],
+            "facilities": [
+                "Library",
+                "Science lab",
+                "Computer lab",
+                "Multimedia classrooms",
+                "Sports",
+                "ECA"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-25-521115"
+                ],
+                "emails": [],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Dharan City College",
+                "name_ne": null,
+                "slug": "dharan-city-college",
+                "ownership": "private",
+                "established_year": 2009,
+                "university": "Tribhuvan University",
+                "municipality": "Dharan",
+                "address": "Dharan, Sunsari",
+                "description": "Tribhuvan University-affiliated college in Dharan, described in a public college list as founded in 2009 by teachers of Dharan. Published programs include BA, BBS, and B.Ed.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://edusanjal.com/college/local_level/dharan/",
+                    "https://merostudent.com/list-of-bachelor-colleges-in-dharan/",
+                    "https://www.collegenp.com/course/dharan-city-college-sunsari-bachelor-of-business-studies-bbs-bbs"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Arts (BA)",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Humanities",
+                    "fee": null,
+                    "source_url": "https://merostudent.com/list-of-bachelor-colleges-in-dharan/"
+                },
+                {
+                    "name": "Bachelor of Business Studies (BBS)",
+                    "level": "Bachelor",
+                    "duration": "4 Years",
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/dharan-city-college-sunsari-bachelor-of-business-studies-bbs-bbs"
+                },
+                {
+                    "name": "Bachelor of Education (B.Ed.)",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://merostudent.com/list-of-bachelor-colleges-in-dharan/"
+                }
+            ],
+            "facilities": [],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-25-533604"
+                ],
+                "emails": [
+                    "dharancitycollege@gmail.com"
+                ],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Dharan College of Management",
+                "name_ne": null,
+                "slug": "dharan-college-of-management",
+                "ownership": "private",
+                "established_year": 2001,
+                "university": "Purbanchal University",
+                "municipality": "Dharan",
+                "address": "Bhupi Marg, Dharan-1, Sunsari",
+                "description": "Purbanchal University management college established in 2058 BS at Dharan-1. Public pages state that it runs BBA and MBA programs.",
+                "mission": null,
+                "vision": "Enhancing the capacity of individuals and institutions to contribute to the nation’s development.",
+                "source_urls": [
+                    "https://edusanjal.com/college/dharan-college-management/"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Business Administration (BBA)",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/college/dharan-college-management/"
+                },
+                {
+                    "name": "Master of Business Administration (MBA)",
+                    "level": "Master",
+                    "duration": null,
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/college/dharan-college-management/"
+                }
+            ],
+            "facilities": [],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [],
+                "emails": [],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Dharan Mega College",
+                "name_ne": null,
+                "slug": "dharan-mega-college",
+                "ownership": null,
+                "established_year": null,
+                "university": null,
+                "municipality": "Dharan",
+                "address": "Dharan-12, Sunsari",
+                "description": "Listed as a college in Dharan-12 on the Wikipedia list of educational institutions in Dharan. No public program, affiliation, or contact page was confirmed in this search.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://en.wikipedia.org/wiki/List_of_educational_institutions_in_Dharan"
+                ]
+            },
+            "courses": [],
+            "facilities": [],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [],
+                "emails": [],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Dharan Model College",
+                "name_ne": null,
+                "slug": "dharan-model-college",
+                "ownership": "private",
+                "established_year": 2009,
+                "university": "Tribhuvan University",
+                "municipality": "Dharan",
+                "address": "Siddhicharan Marga, Dharan-1, Sunsari",
+                "description": "Higher-education branch of Dharan Model Academy, established in 2066 BS. It runs Tribhuvan University bachelor programs in management, education, humanities, and social work.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://www.collegenp.com/college/dharan-model-college",
+                    "https://merostudent.com/list-of-bachelor-colleges-in-dharan/"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Business Studies (BBS)",
+                    "level": "Bachelor",
+                    "duration": "4 Years",
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/dharan-model-college"
+                },
+                {
+                    "name": "Bachelor of Arts (BA)",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Humanities",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/dharan-model-college"
+                },
+                {
+                    "name": "Bachelor of Education (B.Ed.)",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/dharan-model-college"
+                },
+                {
+                    "name": "Bachelor of Social Work (BSW)",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Humanities and Social Sciences",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/dharan-model-college"
+                }
+            ],
+            "facilities": [
+                "Library",
+                "E-library",
+                "Computer lab",
+                "Internet",
+                "Cafeteria"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-25-576789"
+                ],
+                "emails": [
+                    "dharanmodelcollege889@gmail.com"
+                ],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Dharan Multiple Campus",
+                "name_ne": null,
+                "slug": "dharan-multiple-campus",
+                "ownership": "private",
+                "established_year": 2011,
+                "university": "Tribhuvan University",
+                "municipality": "Dharan",
+                "address": "Bijuli Office Road, Dharan-16, Sunsari",
+                "description": "Private higher-education institution established in 2068 BS. A public directory states it is affiliated with Tribhuvan University for bachelor programs including B.Tech Food Technology.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://kaha6.com/company/dharan-multiple-campus-sunsari/",
+                    "https://edusanjal.com/college/district/sunsari/",
+                    "https://en.wikipedia.org/wiki/List_of_educational_institutions_in_Dharan"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "B.Tech Food Technology",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Technology",
+                    "fee": null,
+                    "source_url": "https://kaha6.com/company/dharan-multiple-campus-sunsari/"
+                }
+            ],
+            "facilities": [],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [],
+                "emails": [],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Edutek College",
+                "name_ne": null,
+                "slug": "edutek-college-itahari",
+                "ownership": "private",
+                "established_year": null,
+                "university": null,
+                "municipality": "Itahari",
+                "address": "Itahari-9, Biratnagar line (Gaisar Road), opposite Chintan Chautari, Sunsari",
+                "description": "College in Itahari publicly advertising plus-two streams and bachelor programs. Social listings mark some bachelor programs with an asterisk. A university affiliation was not confirmed on an official academic page in this search.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://www.glunis.com/NP/Sunsari/101287909247054/Edutek-College-Itahari",
+                    "https://www.facebook.com/reel/2643151135852093/"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Business Studies (BBS)",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://www.schoolandcollegelistings.com/NP/Sunsari/101287909247054/Edutek-College-Itahari"
+                },
+                {
+                    "name": "ACCA",
+                    "level": "Professional",
+                    "duration": null,
+                    "faculty": "Accounting",
+                    "fee": null,
+                    "source_url": "https://www.schoolandcollegelistings.com/NP/Sunsari/101287909247054/Edutek-College-Itahari"
+                }
+            ],
+            "facilities": [],
+            "gallery": [],
+            "videos": [],
+            "updates": [
+                {
+                    "title": "Regular classes resume",
+                    "date": "2026-09-06",
+                    "summary": "Public listing states that regular classes resume from the next day according to the published routine.",
+                    "source_url": "https://www.glunis.com/NP/Sunsari/101287909247054/Edutek-College-Itahari"
+                }
+            ],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-9852054978",
+                    "+977-9841592415",
+                    "+977-9852077440",
+                    "+977-9804326878",
+                    "+977-9842379013",
+                    "+977-9802752606"
+                ],
+                "emails": [
+                    "i.edutekcollege@gmail.com"
+                ],
+                "website": "https://www.edutek.edu.np",
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Godawari College",
+                "name_ne": null,
+                "slug": "godawari-college-itahari",
+                "ownership": "private",
+                "established_year": 1992,
+                "university": "Tribhuvan University",
+                "municipality": "Itahari",
+                "address": "Itahari, Sunsari",
+                "description": "Private college established in 2049 BS under Peace Foundation, which also operates Sushma Koirala Memorial Engineering College and Sushma Secondary School. Edusanjal lists TU BBS and BSc CSIT, and a KU BSW program commencing in 2025.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://edusanjal.com/college/sushma-godawari-college/"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Business Studies (BBS)",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/college/sushma-godawari-college/"
+                },
+                {
+                    "name": "BSc CSIT",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Science and Technology",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/college/sushma-godawari-college/"
+                },
+                {
+                    "name": "Bachelor of Social Work (BSW)",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Social Work",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/college/sushma-godawari-college/"
+                }
+            ],
+            "facilities": [
+                "Laboratory",
+                "Library",
+                "Internet"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [],
+                "emails": [],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Green Peace Lincoln College",
+                "name_ne": null,
+                "slug": "green-peace-lincoln-college",
+                "ownership": "private",
+                "established_year": 2014,
+                "university": "Lincoln University College",
+                "municipality": "Itahari",
+                "address": "People’s Marga, ISMT Chowk, Itahari-10, Sunsari; also published as Dipendra Chowk, Itahari",
+                "description": "Private college established in 2071 BS, affiliated with Lincoln University College, Malaysia. Its site lists BIT, BBA, and MBA.",
+                "mission": "To establish an ideal education center that offers a learning environment of global-standard from pre- to master’s level in various programs.",
+                "vision": "To be an acclaimed and respected academic institution committed towards innovation, entrepreneurship, ethics and competence based learning so as to develop integrated personality of the students.",
+                "source_urls": [
+                    "https://gplc.edu.np/",
+                    "https://edusanjal.com/college/green-peace-lincoln-college/",
+                    "https://www.collegenp.com/college/green-peace-lincoln-college-sunsari"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Information Technology (BIT)",
+                    "level": "Bachelor",
+                    "duration": "4 Years",
+                    "faculty": "Information Technology",
+                    "fee": null,
+                    "source_url": "https://gplc.edu.np/"
+                },
+                {
+                    "name": "Bachelor of Business Administration (BBA)",
+                    "level": "Bachelor",
+                    "duration": "4 Years",
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://gplc.edu.np/"
+                },
+                {
+                    "name": "Master of Business Administration (MBA)",
+                    "level": "Master",
+                    "duration": "2 Years",
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://gplc.edu.np/"
+                }
+            ],
+            "facilities": [],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-25-590826",
+                    "+977-9712037717",
+                    "+977-25-586701",
+                    "+977-25-588202"
+                ],
+                "emails": [
+                    "admission.itahari@ismt.edu.np"
+                ],
+                "website": "https://gplc.edu.np",
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Harinagara Multiple College",
+                "name_ne": "हरिनगरा बहुमुखी क्याम्पस",
+                "slug": "harinagara-multiple-college",
+                "ownership": "community",
+                "established_year": 2022,
+                "university": "Purbanchal University",
+                "municipality": "Harinagar",
+                "address": "Harinagar Rural Municipality-4, Harinagar, Sunsari",
+                "description": "Community campus established in 2079 BS and affiliated with Purbanchal University. It runs four-year B.Ed. and BBS programs, with 60 seats published for each.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://www.collegenp.com/college/harinagara-multiple-college-sunsari",
+                    "https://edusanjal.com/college/district/sunsari/"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Education (B.Ed.)",
+                    "level": "Bachelor",
+                    "duration": "4 Years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/harinagara-multiple-college-sunsari"
+                },
+                {
+                    "name": "Bachelor of Business Studies (BBS)",
+                    "level": "Bachelor",
+                    "duration": "4 Years",
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/harinagara-multiple-college-sunsari"
+                }
+            ],
+            "facilities": [
+                "Library"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-9807085127"
+                ],
+                "emails": [],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Ithari Global College",
+                "name_ne": null,
+                "slug": "ithari-global-college",
+                "ownership": "private",
+                "established_year": null,
+                "university": "Rajarshi Janak University",
+                "municipality": "Itahari",
+                "address": "Itahari, Sunsari",
+                "description": "Itahari college affiliated with Rajarshi Janak University. Edusanjal states that it offers BCA and BSc CSIT.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://edusanjal.com/college/ithari-global-college/"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Computer Application (BCA)",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Computer studies",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/college/ithari-global-college/"
+                },
+                {
+                    "name": "B.Sc. CSIT",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Computer studies",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/college/ithari-global-college/"
+                }
+            ],
+            "facilities": [],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [],
+                "emails": [],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Itahari Namuna College",
+                "name_ne": null,
+                "slug": "itahari-namuna-college",
+                "ownership": "private",
+                "established_year": 2013,
+                "university": "Tribhuvan University",
+                "municipality": "Itahari",
+                "address": "Itahari, Sunsari",
+                "description": "Private college established in 2070 BS in Itahari. Edusanjal lists TU programs in BHM, BCA, BSW, BBS, and BA. The college website also advertises BBM.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://edusanjal.com/college/itahari-namuna-college/",
+                    "https://namunacollege.edu.np/"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Hotel Management (BHM)",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/college/itahari-namuna-college/"
+                },
+                {
+                    "name": "Bachelor of Computer Application (BCA)",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Computer studies",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/college/itahari-namuna-college/"
+                },
+                {
+                    "name": "Bachelor of Social Work (BSW)",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Social Work",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/college/itahari-namuna-college/"
+                },
+                {
+                    "name": "Bachelor of Business Studies (BBS)",
+                    "level": "Bachelor",
+                    "duration": "4 Years",
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/itahari-namuna-college-sunsari-bachelor-of-business-studies-bbs-bbs"
+                },
+                {
+                    "name": "Bachelor of Arts (BA)",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Humanities",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/college/itahari-namuna-college/"
+                },
+                {
+                    "name": "Bachelor of Business Management (BBM)",
+                    "level": "Bachelor",
+                    "duration": "4 Years",
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://namunacollege.edu.np/"
+                }
+            ],
+            "facilities": [
+                "Labs",
+                "Digital library",
+                "Smart classrooms",
+                "Wi-Fi"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [],
+                "emails": [],
+                "website": "https://namunacollege.edu.np",
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Janata Multiple Campus",
+                "name_ne": null,
+                "slug": "janata-multiple-campus-itahari",
+                "ownership": "community",
+                "established_year": 1988,
+                "university": "Tribhuvan University",
+                "municipality": "Itahari",
+                "address": "Itahari, Sunsari",
+                "description": "Community campus established on 30 Ashad 2045 BS to provide university education in Itahari at moderate fees. It is affiliated with Tribhuvan University and was QAA-accredited by UGC Nepal on 30 November 2018.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://edusanjal.com/college/janata-multiple-campus/",
+                    "https://ugcnepal.edu.np/pages/qaa-receiving-heis-8/",
+                    "https://www.collegesnepal.com/janata-bahumukhi-campus/"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Business Studies (BBS)",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/college/janata-multiple-campus/"
+                },
+                {
+                    "name": "Bachelor of Arts (BA)",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Humanities",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/college/janata-multiple-campus/"
+                },
+                {
+                    "name": "Bachelor of Education (B.Ed.)",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/college/janata-multiple-campus/"
+                },
+                {
+                    "name": "Master of Business Studies (MBS)",
+                    "level": "Master",
+                    "duration": null,
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/college/janata-multiple-campus/"
+                },
+                {
+                    "name": "Master of Education (M.Ed.)",
+                    "level": "Master",
+                    "duration": null,
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/college/janata-multiple-campus/"
+                }
+            ],
+            "facilities": [
+                "Classrooms",
+                "Library",
+                "Administrative building"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [
+                {
+                    "title": "UGC QAA accreditation",
+                    "date": "2018-11-30",
+                    "summary": "UGC Nepal lists Janata Multiple Campus, Sunsari, as accredited on 30 November 2018, with the listed validity until 29 November 2023.",
+                    "source_url": "https://ugcnepal.edu.np/pages/qaa-receiving-heis-8/"
+                }
+            ],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-25-580064"
+                ],
+                "emails": [
+                    "jmcith@gmail.com"
+                ],
+                "website": "https://jantacampusith.edu.np",
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Jibika College of Agricultural Sciences",
+                "name_ne": null,
+                "slug": "jibika-college-of-agricultural-sciences",
+                "ownership": "private",
+                "established_year": null,
+                "university": "Agriculture and Forestry University",
+                "municipality": "Ramdhuni",
+                "address": "Ramdhuni, Sunsari; also listed as Itahari, Sunsari",
+                "description": "Cooperative-run college affiliated to Agriculture and Forestry University, Rampur. Public pages state that it runs a four-year B.Sc. Agriculture program.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://www.collegesnepal.com/jibika-college-agricultural-science/",
+                    "https://www.facebook.com/jcas.ith",
+                    "https://edusanjal.com/college/district/sunsari/"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "B.Sc. Agriculture",
+                    "level": "Bachelor",
+                    "duration": "4 Years",
+                    "faculty": "Agriculture",
+                    "fee": null,
+                    "source_url": "https://www.collegesnepal.com/jibika-college-agricultural-science/"
+                }
+            ],
+            "facilities": [
+                "Labs",
+                "Greenhouses",
+                "Agriculture machinery and equipment",
+                "Livestock facilities"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-9867144378",
+                    "+977-9852023604"
+                ],
+                "emails": [
+                    "jcas.lth@gmail.com",
+                    "jcas.ith@gmail.com"
+                ],
+                "website": "https://jibika.edu.np",
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Kasturi College",
+                "name_ne": null,
+                "slug": "kasturi-college-itahari",
+                "ownership": "private",
+                "established_year": null,
+                "university": "Purbanchal University",
+                "municipality": "Itahari",
+                "address": "Itahari, Sunsari",
+                "description": "Itahari college in the Kasturi group. Public pages state that it offers Purbanchal University BBA and BIT, and a course page lists 96 BBA seats.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://www.kasturicollege.com/",
+                    "https://www.collegenp.com/course/kasturi-college-achham-bachelor-of-business-administration-bba-bba",
+                    "https://www.collegenp.com/college/kasturi-secondary-school-sunsari"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Business Administration (BBA)",
+                    "level": "Bachelor",
+                    "duration": "4 Years",
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/kasturi-college-achham-bachelor-of-business-administration-bba-bba"
+                },
+                {
+                    "name": "Bachelor of Information Technology (BIT)",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Information Technology",
+                    "fee": null,
+                    "source_url": "https://www.kasturicollege.com/"
+                }
+            ],
+            "facilities": [],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-25-580550",
+                    "+977-25-583563",
+                    "+977-25-582050",
+                    "+977-25-585379"
+                ],
+                "emails": [],
+                "website": "https://www.kasturicollege.com",
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Kasturi College of Management",
+                "name_ne": null,
+                "slug": "kasturi-college-of-management",
+                "ownership": "private",
+                "established_year": null,
+                "university": "Tribhuvan University",
+                "municipality": "Itahari",
+                "address": "B.P. Chowk, Itahari-8, Sunsari",
+                "description": "Management wing of the Kasturi group at B.P. Chowk, Itahari. Public pages state that it offers Tribhuvan University BBS and MBS.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://edusanjal.com/college/local_level/itahari/",
+                    "https://www.kasturicollege.com/",
+                    "https://www.collegenp.com/course/kasturi-college-of-management-sunsari-bachelor-of-business-studies-bbs-bbs"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Business Studies (BBS)",
+                    "level": "Bachelor",
+                    "duration": "4 Years",
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/kasturi-college-of-management-sunsari-bachelor-of-business-studies-bbs-bbs"
+                },
+                {
+                    "name": "Master of Business Studies (MBS)",
+                    "level": "Master",
+                    "duration": null,
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/kasturi-secondary-school-sunsari"
+                }
+            ],
+            "facilities": [],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-25-580550"
+                ],
+                "emails": [],
+                "website": "https://www.kasturicollege.com",
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Kaushiki Campus",
+                "name_ne": null,
+                "slug": "kaushiki-campus",
+                "ownership": "community",
+                "established_year": 2003,
+                "university": "Tribhuvan University",
+                "municipality": "Dharan",
+                "address": "Mahananda Marga, Dharan-4, Sunsari",
+                "description": "Community campus established in 2060 BS and affiliated with Tribhuvan University. It focuses on teacher education, including four-year and one-year B.Ed. routes.",
+                "mission": "To expand access to quality, TU-standard teacher education for students in Dharan and surrounding districts through affordable programs and need-sensitive support.",
+                "vision": "To be a trusted community campus in Koshi Province for teacher preparation, known for affordability, academic integrity, and student support.",
+                "source_urls": [
+                    "https://www.collegenp.com/college/kaushiki-campus-sunsari"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Education (B.Ed.)",
+                    "level": "Bachelor",
+                    "duration": "4 Years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/kaushiki-campus-sunsari"
+                },
+                {
+                    "name": "One-Year Bachelor of Education (B.Ed.)",
+                    "level": "Bachelor",
+                    "duration": "1 Year",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/kaushiki-campus-sunsari"
+                }
+            ],
+            "facilities": [],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-25-526789",
+                    "+977-25-530099",
+                    "+977-9842038330",
+                    "+977-9852034566"
+                ],
+                "emails": [],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Koshi Saint James College",
+                "name_ne": null,
+                "slug": "koshi-saint-james-college",
+                "ownership": "private",
+                "established_year": 2007,
+                "university": "Tribhuvan University",
+                "municipality": "Itahari",
+                "address": "Itahari-9, Sunsari",
+                "description": "Private college founded in 2064 BS by academic professionals and managed by Koshi Academy. Its website states that it runs Tribhuvan University BBS and BCA programs in downtown Itahari.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://www.koshicollege.edu.np/",
+                    "https://edusanjal.com/college/district/sunsari/"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Business Studies (BBS)",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://www.koshicollege.edu.np/"
+                },
+                {
+                    "name": "Bachelor of Computer Application (BCA)",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Computer studies",
+                    "fee": null,
+                    "source_url": "https://www.koshicollege.edu.np/"
+                }
+            ],
+            "facilities": [],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-25-587004",
+                    "+977-9852054667",
+                    "+977-9852026563",
+                    "+977-9852048930"
+                ],
+                "emails": [
+                    "info@koshicollege.edu.np"
+                ],
+                "website": "https://koshicollege.edu.np",
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Mahendra Multiple Campus, Dharan",
+                "name_ne": null,
+                "slug": "mahendra-multiple-campus-dharan",
+                "ownership": "constituent",
+                "established_year": 1955,
+                "university": "Tribhuvan University",
+                "municipality": "Dharan",
+                "address": "College Road, Dharan-10, Sunsari",
+                "description": "Constituent campus of Tribhuvan University, established in 2012 BS. Edusanjal lists bachelor and master programs in humanities, law, management, and education. Another directory also lists additional management and arts programs.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://edusanjal.com/college/mahendra-multiple-campus-dharan/",
+                    "https://www.collegesnepal.com/mahendra-campus/",
+                    "https://www.facebook.com/mahendramultiplecampus"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Arts (BA)",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Humanities",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/college/mahendra-multiple-campus-dharan/"
+                },
+                {
+                    "name": "Bachelor of Business Studies (BBS)",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/college/mahendra-multiple-campus-dharan/"
+                },
+                {
+                    "name": "Bachelor of Laws (LLB)",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Law",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/college/mahendra-multiple-campus-dharan/"
+                },
+                {
+                    "name": "One-year Bachelor of Education (B.Ed.)",
+                    "level": "Bachelor",
+                    "duration": "1 Year",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/college/mahendra-multiple-campus-dharan/"
+                },
+                {
+                    "name": "Master of Arts (MA)",
+                    "level": "Master",
+                    "duration": null,
+                    "faculty": "Humanities",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/college/mahendra-multiple-campus-dharan/"
+                },
+                {
+                    "name": "Master of Business Studies (MBS)",
+                    "level": "Master",
+                    "duration": null,
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/college/mahendra-multiple-campus-dharan/"
+                },
+                {
+                    "name": "Master of Education (M.Ed.)",
+                    "level": "Master",
+                    "duration": null,
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/college/mahendra-multiple-campus-dharan/"
+                },
+                {
+                    "name": "Bachelor of Business Administration (BBA)",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://www.collegesnepal.com/mahendra-campus/"
+                },
+                {
+                    "name": "Bachelor of Business Management (BBM)",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://www.collegesnepal.com/mahendra-campus/"
+                }
+            ],
+            "facilities": [
+                "Library",
+                "Classrooms",
+                "Cafeteria",
+                "Auditorium",
+                "Computer lab",
+                "Sports"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-25-521546",
+                    "+977-25-521250"
+                ],
+                "emails": [
+                    "mmcdharan@gmail.com"
+                ],
+                "website": "https://mmcdharan.edu.np",
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Makalu Technical College",
+                "name_ne": null,
+                "slug": "makalu-technical-college",
+                "ownership": "private",
+                "established_year": 1996,
+                "university": "CTEVT",
+                "municipality": "Inaruwa",
+                "address": "Inaruwa, Sunsari",
+                "description": "Private CTEVT nursing college in Inaruwa, recognized by the Nepal Nursing Council. Public pages state that it offers three-year PCL Nursing with 40 seats.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://www.collegenp.com/college/makalu-technical-college-sunsari",
+                    "https://www.collegesnepal.com/makalu-technical-college/"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "PCL Nursing",
+                    "level": "Diploma",
+                    "duration": "3 Years",
+                    "faculty": "Nursing",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/makalu-technical-college-sunsari"
+                }
+            ],
+            "facilities": [
+                "Hostel",
+                "Cafeteria",
+                "Library",
+                "Sports",
+                "Science lab",
+                "Laboratories",
+                "Counseling"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [
+                {
+                    "title": "PCL Nursing Admission Open for Vacant Seats",
+                    "date": "2022-09-28",
+                    "summary": "College directory notice of vacant-seat admission for PCL Nursing.",
+                    "source_url": "https://www.collegenp.com/college/makalu-technical-college-sunsari"
+                }
+            ],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-25-566605",
+                    "+977-9842066650",
+                    "+977-9852038191",
+                    "+977-25-561605"
+                ],
+                "emails": [],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Nara Bahadur Karmacharya Memorial Polytechnic Institute",
+                "name_ne": null,
+                "slug": "nara-bahadur-karmacharya-memorial-polytechnic",
+                "ownership": "private",
+                "established_year": null,
+                "university": "CTEVT",
+                "municipality": "Itahari",
+                "address": "Hospital Road, Itahari, Sunsari",
+                "description": "Itahari technical institute affiliated with CTEVT. A national diploma-pharmacy listing names Nara Bahadur Karmacharya Polytechnic Institute, Itahari, among Koshi Province diploma pharmacy colleges.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://edusanjal.com/school/narabahadur-karmacharya-memorial-foundation/",
+                    "https://pharmainfonepal.com/list-of-diploma-pharmacy-colleges-in-nepal-ctevt/"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Diploma in Pharmacy",
+                    "level": "Diploma",
+                    "duration": null,
+                    "faculty": "Health",
+                    "fee": null,
+                    "source_url": "https://pharmainfonepal.com/list-of-diploma-pharmacy-colleges-in-nepal-ctevt/"
+                }
+            ],
+            "facilities": [
+                "Internet",
+                "Labs",
+                "Library"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [],
+                "emails": [],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "National Academy of Applied Science and Technology",
+                "name_ne": null,
+                "slug": "naast-college-dharan",
+                "ownership": "private",
+                "established_year": 1999,
+                "university": "CTEVT",
+                "municipality": "Dharan",
+                "address": "Dharan-16, Sunsari",
+                "description": "Described as a sister organization of Dharan Multiple Campus, operating since 1999. A public directory states that it runs National Examination Board plus-two programs and a CTEVT food or dairy development diploma.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://kaha6.com/company/dharan-multiple-campus-sunsari/",
+                    "https://en.wikipedia.org/wiki/List_of_educational_institutions_in_Dharan",
+                    "https://www.nepalyp.com/category/Colleges/city:Dharan"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Food or Dairy Development Diploma",
+                    "level": "Diploma",
+                    "duration": null,
+                    "faculty": "Technical",
+                    "fee": null,
+                    "source_url": "https://kaha6.com/company/dharan-multiple-campus-sunsari/"
+                }
+            ],
+            "facilities": [],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-25-525651"
+                ],
+                "emails": [],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "National College of Integrated Studies",
+                "name_ne": null,
+                "slug": "national-college-of-integrated-studies",
+                "ownership": "private",
+                "established_year": 2024,
+                "university": "Rajarshi Janak University",
+                "municipality": "Itahari",
+                "address": "Itahari, Sunsari",
+                "description": "Private college in Itahari, established in 2024 and affiliated with Rajarshi Janak University. Edusanjal states that it offers BBA and MBA.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://edusanjal.com/college/national-college-of-integrated-studies/"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Business Administration (BBA)",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/college/national-college-of-integrated-studies/"
+                },
+                {
+                    "name": "Master of Business Administration (MBA)",
+                    "level": "Master",
+                    "duration": null,
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/college/national-college-of-integrated-studies/"
+                }
+            ],
+            "facilities": [
+                "Smart classrooms"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [],
+                "emails": [],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "National Multiple College",
+                "name_ne": null,
+                "slug": "national-multiple-college-dharan",
+                "ownership": "private",
+                "established_year": 2005,
+                "university": "Purbanchal University",
+                "municipality": "Dharan",
+                "address": "Dharan-4, Sunsari",
+                "description": "Private college established in 2062 BS and affiliated with Purbanchal University. Public pages list Bachelor of Business Studies and Bachelor of Education.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://www.collegenp.com/college/national-multiple-college-dharan-sunsari",
+                    "https://www.collegesnepal.com/national-multiple-college/",
+                    "https://edusanjal.com/college/district/sunsari/"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Business Studies (BBS)",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://www.collegesnepal.com/national-multiple-college/"
+                },
+                {
+                    "name": "Bachelor of Education (B.Ed.)",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.collegesnepal.com/national-multiple-college/"
+                }
+            ],
+            "facilities": [
+                "Library",
+                "Classrooms",
+                "Sports",
+                "Conference",
+                "Multimedia"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-25-520130"
+                ],
+                "emails": [
+                    "info@nmcms.edu.np"
+                ],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Nilgiri College",
+                "name_ne": null,
+                "slug": "nilgiri-college-itahari",
+                "ownership": "private",
+                "established_year": 2013,
+                "university": "Tribhuvan University",
+                "municipality": "Itahari",
+                "address": "Itahari-5, Paschim Line, Sunsari",
+                "description": "Private food-technology college founded in 2069 BS by food-technology professionals. It offers a four-year Tribhuvan University B.Tech in Food Technology.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://www.collegenp.com/college/nilgiri-college-itahari",
+                    "https://edusanjal.com/college/nilgiri-college/"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "B.Tech Food Technology",
+                    "level": "Bachelor",
+                    "duration": "4 Years",
+                    "faculty": "Technology",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/nilgiri-college-itahari"
+                }
+            ],
+            "facilities": [
+                "Laboratories",
+                "Computer laboratory",
+                "Library"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-25-586092"
+                ],
+                "emails": [
+                    "nilgiri.college@yahoo.com"
+                ],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Peoples Multiple Health Institute",
+                "name_ne": null,
+                "slug": "peoples-multiple-health-institute",
+                "ownership": "private",
+                "established_year": 2003,
+                "university": "CTEVT",
+                "municipality": "Itahari",
+                "address": "Itahari, Sunsari",
+                "description": "Private health institute established in 2060 BS, affiliated to CTEVT and recognized by the Nepal Nursing Council. It offers PCL Nursing with 40 seats.",
+                "mission": "By providing nursing education in a good environment and educational facilities to produce competent nursing manpower.",
+                "vision": "To produce capable nursing manpower for the nation.",
+                "source_urls": [
+                    "https://www.collegenp.com/college/peoples-multiple-health-institute-sunsari/"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "PCL Nursing",
+                    "level": "Diploma",
+                    "duration": null,
+                    "faculty": "Nursing",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/peoples-multiple-health-institute-sunsari/"
+                }
+            ],
+            "facilities": [
+                "Hostel",
+                "Cafeteria",
+                "Library",
+                "Sports",
+                "Science lab",
+                "Multimedia"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-25-580009"
+                ],
+                "emails": [
+                    "ramesh.net.np@gmail.com"
+                ],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Pindeshwar Vidyapeeth",
+                "name_ne": "पिण्डेश्वर विद्यापीठ",
+                "slug": "pindeshwar-vidyapeeth",
+                "ownership": "public",
+                "established_year": null,
+                "university": "Nepal Sanskrit University",
+                "municipality": "Dharan",
+                "address": "Pindeshwar Temple premises, Dharan, Sunsari",
+                "description": "Sanskrit campus in the premises of Pindeshwar Temple. Edusanjal states that it runs as a branch of Nepal Sanskrit University and offers Prak Shastri, Shastri, and Acharya. Another directory lists Uttarmadhyama and Acharya.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://edusanjal.com/college/pindeshwar-vidyapeeth/",
+                    "https://www.collegenp.com/college/pindeshwor-vidyapeeth-sunsari"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Prak Shastri",
+                    "level": "Certificate",
+                    "duration": null,
+                    "faculty": "Sanskrit",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/college/pindeshwar-vidyapeeth/"
+                },
+                {
+                    "name": "Shastri",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Sanskrit",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/college/pindeshwar-vidyapeeth/"
+                },
+                {
+                    "name": "Acharya",
+                    "level": "Master",
+                    "duration": null,
+                    "faculty": "Sanskrit",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/college/pindeshwar-vidyapeeth/"
+                }
+            ],
+            "facilities": [
+                "Hostel",
+                "Library",
+                "Sports"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [
+                {
+                    "title": "Pindeshwor Vidyapeeth releases two issues of Shodh Sudha and holds research presentations",
+                    "date": "2026-10-11",
+                    "summary": "Directory notice about journal issues and research presentations.",
+                    "source_url": "https://www.collegenp.com/college/pindeshwor-vidyapeeth-sunsari"
+                }
+            ],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-25-520285"
+                ],
+                "emails": [
+                    "infopindeshwor@nsu.edu.np"
+                ],
+                "website": "https://pindeshwar.edu.np",
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Purwanchal Campus, Institute of Engineering",
+                "name_ne": "पूर्वाञ्चल क्याम्पस",
+                "slug": "purwanchal-campus-ioe",
+                "ownership": "constituent",
+                "established_year": 1977,
+                "university": "Tribhuvan University",
+                "municipality": "Dharan",
+                "address": "Gangalal Marg, Dharan-8, Sunsari",
+                "description": "Constituent engineering campus of Tribhuvan University Institute of Engineering, formerly Eastern Region Campus. The campus site states it was established in Poush 2034 BS under an Asian Development Bank loan agreement and lists bachelor programs in civil, agricultural, mechanical, electrical, computer, and electronics and communication engineering.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://www.ioepc.edu.np/about-us/",
+                    "https://www.ioepc.edu.np/",
+                    "https://edusanjal.com/college/eastern-region-campus/"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor in Civil Engineering",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Engineering",
+                    "fee": null,
+                    "source_url": "https://www.ioepc.edu.np/about-us/"
+                },
+                {
+                    "name": "Bachelor in Agricultural Engineering",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Engineering",
+                    "fee": null,
+                    "source_url": "https://www.ioepc.edu.np/about-us/"
+                },
+                {
+                    "name": "Bachelor in Mechanical Engineering",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Engineering",
+                    "fee": null,
+                    "source_url": "https://www.ioepc.edu.np/about-us/"
+                },
+                {
+                    "name": "Bachelor in Electrical Engineering",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Engineering",
+                    "fee": null,
+                    "source_url": "https://www.ioepc.edu.np/about-us/"
+                },
+                {
+                    "name": "Bachelor in Computer Engineering",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Engineering",
+                    "fee": null,
+                    "source_url": "https://www.ioepc.edu.np/about-us/"
+                },
+                {
+                    "name": "Bachelor in Electronics and Communication Engineering",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Engineering",
+                    "fee": null,
+                    "source_url": "https://www.ioepc.edu.np/about-us/"
+                }
+            ],
+            "facilities": [],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-25-520120",
+                    "+977-25-526304",
+                    "+977-25-526305"
+                ],
+                "emails": [
+                    "ioepcd@ioe.edu.np"
+                ],
+                "website": "https://www.ioepc.edu.np",
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Rastriya Janasahayog College",
+                "name_ne": null,
+                "slug": "rastriya-janasahayog-college",
+                "ownership": "community",
+                "established_year": 2009,
+                "university": "Tribhuvan University",
+                "municipality": "Itahari",
+                "address": "Itahari-20, Tarahara, Sunsari; also listed as Hansposa, Itahari",
+                "description": "Community college established in 2066 BS and affiliated with Tribhuvan University. A public profile lists BBS and B.Ed.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://www.collegenp.com/college/rastriya-janasahayog-college-sunsari",
+                    "https://edusanjal.com/college/local_level/itahari/"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Business Studies (BBS)",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/rastriya-janasahayog-college-sunsari"
+                },
+                {
+                    "name": "Bachelor of Education (B.Ed.)",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/rastriya-janasahayog-college-sunsari"
+                }
+            ],
+            "facilities": [
+                "Sports",
+                "Library",
+                "Counselling",
+                "Conference"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-25-475390",
+                    "+977-9842035405"
+                ],
+                "emails": [
+                    "rjctarahara@gmail.com"
+                ],
+                "website": "https://rjctarahara.edu.np",
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Sacred Heart College",
+                "name_ne": null,
+                "slug": "sacred-heart-college-itahari",
+                "ownership": "public",
+                "established_year": 2025,
+                "university": "Purbanchal University",
+                "municipality": "Itahari",
+                "address": "Itahari-7, Sunsari",
+                "description": "College in Itahari-7 established in 2025 and affiliated with Purbanchal University for BBA. Edusanjal classifies the institution as public.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://edusanjal.com/college/sacred-heart-college/"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Business Administration (BBA)",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/college/sacred-heart-college/"
+                }
+            ],
+            "facilities": [],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [],
+                "emails": [],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Sagarmatha College",
+                "name_ne": null,
+                "slug": "sagarmatha-college-sunsari",
+                "ownership": "private",
+                "established_year": null,
+                "university": "Tribhuvan University",
+                "municipality": "Dharan",
+                "address": "Mahananda Marga, Dharan, Sunsari; also indexed as Itahari, Sunsari",
+                "description": "Tribhuvan University college listed by Edusanjal at Mahananda Marga, Dharan/Itahari. A public course page describes a four-year BBS program and places the campus in Dharan-3.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://edusanjal.com/college/district/sunsari/",
+                    "https://www.collegenp.com/course/sagarmatha-college-dharan-sunsari-bachelor-of-business-studies-bbs-bbs"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Business Studies (BBS)",
+                    "level": "Bachelor",
+                    "duration": "4 Years",
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/sagarmatha-college-dharan-sunsari-bachelor-of-business-studies-bbs-bbs"
+                }
+            ],
+            "facilities": [
+                "Computer lab"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [],
+                "emails": [],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Saradha Balika Namuna Multiple Campus",
+                "name_ne": null,
+                "slug": "saradha-balika-namuna-multiple-campus",
+                "ownership": "public",
+                "established_year": null,
+                "university": "Tribhuvan University",
+                "municipality": "Dharan",
+                "address": "Dharan, Sunsari",
+                "description": "Dharan campus affiliated with Tribhuvan University. Edusanjal states that it offers BBS and classifies it as a public institution.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://edusanjal.com/college/saradha-balika-namuna-multiple-campus/",
+                    "https://www.educatenepal.com/institutions/detail/saradha-balika-namuna-multiple-campus"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Business Studies (BBS)",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/college/saradha-balika-namuna-multiple-campus/"
+                }
+            ],
+            "facilities": [],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [],
+                "emails": [],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Saptakoshi Multiple Campus",
+                "name_ne": null,
+                "slug": "saptakoshi-multiple-campus",
+                "ownership": "community",
+                "established_year": 2010,
+                "university": "Tribhuvan University",
+                "municipality": "Barahakshetra",
+                "address": "Barahakshetra-7, Chakragatthi, Sunsari",
+                "description": "Community campus established in 2067 BS. It received Tribhuvan University affiliation for BBS in 2067 BS and for the Faculty of Education in 2069 BS.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://www.collegenp.com/college/saptakoshi-multiple-campus"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Business Studies (BBS)",
+                    "level": "Bachelor",
+                    "duration": "4 Years",
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/saptakoshi-multiple-campus-bachelor-of-business-studies-bbs"
+                },
+                {
+                    "name": "Bachelor of Education (B.Ed.)",
+                    "level": "Bachelor",
+                    "duration": "4 Years",
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/saptakoshi-multiple-campus"
+                }
+            ],
+            "facilities": [
+                "Library"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-9852078887",
+                    "+977-9842400020"
+                ],
+                "emails": [
+                    "saptakoshimc900@gmail.com"
+                ],
+                "website": "https://saptakoshimcampus.edu.np",
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Sunsari Multiple Campus",
+                "name_ne": null,
+                "slug": "sunsari-multiple-campus",
+                "ownership": "community",
+                "established_year": 1980,
+                "university": "Tribhuvan University",
+                "municipality": "Inaruwa",
+                "address": "Inaruwa Municipality-4, Sunsari",
+                "description": "Community campus established in 2037 BS under local educationists, including parliamentarian Shyam Prasad Gupta. It is affiliated with Tribhuvan University and runs management, education, and humanities programs from bachelor to master level, alongside plus-two.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://smcampus.edu.np/about-us",
+                    "https://edusanjal.com/college/sunsari-multiple-campus/",
+                    "https://www.collegenp.com/college/sunsari-multiple-campus-sunsari"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Business Studies (BBS)",
+                    "level": "Bachelor",
+                    "duration": "4 Years",
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/sunsari-multiple-campus-sunsari-bachelor-of-business-studies-bbs-bbs"
+                },
+                {
+                    "name": "Bachelor of Arts (BA)",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Humanities",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/college/sunsari-multiple-campus/"
+                },
+                {
+                    "name": "Bachelor of Education (B.Ed.)",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/college/sunsari-multiple-campus/"
+                },
+                {
+                    "name": "Bachelor of Information Technology Management (BITM)",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/sunsari-multiple-campus-sunsari"
+                },
+                {
+                    "name": "Master of Business Studies (MBS)",
+                    "level": "Master",
+                    "duration": null,
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/college/sunsari-multiple-campus/"
+                },
+                {
+                    "name": "Master of Education (M.Ed.)",
+                    "level": "Master",
+                    "duration": null,
+                    "faculty": "Education",
+                    "fee": null,
+                    "source_url": "https://smcampus.edu.np/about-us"
+                }
+            ],
+            "facilities": [
+                "Library",
+                "Computer lab",
+                "Classrooms",
+                "Cafeteria",
+                "Sports ground"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-25-560009",
+                    "+977-25-565009"
+                ],
+                "emails": [
+                    "sunsarimultiple2037@gmail.com"
+                ],
+                "website": "https://smcampus.edu.np",
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Sunsari Technical College",
+                "name_ne": null,
+                "slug": "sunsari-technical-college",
+                "ownership": "private",
+                "established_year": 1995,
+                "university": "Tribhuvan University",
+                "municipality": "Dharan",
+                "address": "Laxmi Sadak, Dharan-1, Sunsari",
+                "description": "Technical college established in 2052 BS, formerly Sunsari Technical School. It is affiliated with Tribhuvan University and CTEVT and is described as recognized by Nepal Pharmacy Council, Nepal Health Professional Council, and Nepal Nursing Council.",
+                "mission": null,
+                "vision": "To be a world-class academic enterprise, striving for academic and professional excellence in technical education, research and development and service to the industry and society of the nation.",
+                "source_urls": [
+                    "https://edusanjal.com/college/sunsari-technical-college/",
+                    "https://www.collegesnepal.com/sunsari-technical-college/",
+                    "https://www.collegenp.com/college/sunsari-technical-college-sunsari/"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Pharmacy",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Pharmacy",
+                    "fee": null,
+                    "source_url": "https://www.collegesnepal.com/sunsari-technical-college/"
+                },
+                {
+                    "name": "B.Tech Food Technology",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Technology",
+                    "fee": null,
+                    "source_url": "https://www.collegesnepal.com/sunsari-technical-college/"
+                },
+                {
+                    "name": "Bachelor of Hotel Management (BHM)",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://www.collegesnepal.com/sunsari-technical-college/"
+                },
+                {
+                    "name": "Bachelor of Information Technology Management (BITM)",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://www.collegesnepal.com/sunsari-technical-college/"
+                },
+                {
+                    "name": "BSc",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Science",
+                    "fee": null,
+                    "source_url": "https://www.collegesnepal.com/sunsari-technical-college/"
+                },
+                {
+                    "name": "BSc Microbiology",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Science",
+                    "fee": null,
+                    "source_url": "https://www.collegesnepal.com/sunsari-technical-college/"
+                },
+                {
+                    "name": "MSc Microbiology",
+                    "level": "Master",
+                    "duration": null,
+                    "faculty": "Science",
+                    "fee": "NPR 731,500",
+                    "source_url": "https://edusanjal.com/college/sunsari-technical-college/"
+                },
+                {
+                    "name": "MSc Biotechnology",
+                    "level": "Master",
+                    "duration": null,
+                    "faculty": "Science",
+                    "fee": null,
+                    "source_url": "https://www.collegesnepal.com/sunsari-technical-college/"
+                },
+                {
+                    "name": "Diploma in Civil Engineering",
+                    "level": "Diploma",
+                    "duration": null,
+                    "faculty": "Engineering",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/college/sunsari-technical-college/"
+                },
+                {
+                    "name": "Diploma in Computer Engineering",
+                    "level": "Diploma",
+                    "duration": null,
+                    "faculty": "Engineering",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/college/sunsari-technical-college/"
+                },
+                {
+                    "name": "Diploma in Pharmacy",
+                    "level": "Diploma",
+                    "duration": null,
+                    "faculty": "Health",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/college/sunsari-technical-college/"
+                },
+                {
+                    "name": "PCL in General Medicine",
+                    "level": "Diploma",
+                    "duration": null,
+                    "faculty": "Health",
+                    "fee": null,
+                    "source_url": "https://www.collegesnepal.com/sunsari-technical-college/"
+                },
+                {
+                    "name": "Certificate in Diagnostic Radiography",
+                    "level": "Certificate",
+                    "duration": null,
+                    "faculty": "Health",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/college/sunsari-technical-college/"
+                }
+            ],
+            "facilities": [
+                "Computer lab",
+                "Library",
+                "Science lab",
+                "Hostel",
+                "Cafeteria",
+                "Counseling"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-25-523262",
+                    "+977-25-534013",
+                    "+977-25-533302",
+                    "+977-9842169808",
+                    "+977-9804336689",
+                    "+977-9841429713"
+                ],
+                "emails": [
+                    "info@stc.edu.np"
+                ],
+                "website": "https://stc.edu.np",
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Sushma Koirala Memorial Engineering College",
+                "name_ne": null,
+                "slug": "sushma-koirala-memorial-engineering-college",
+                "ownership": "private",
+                "established_year": 1998,
+                "university": "CTEVT",
+                "municipality": "Itahari",
+                "address": "Itahari, Sunsari",
+                "description": "Private CTEVT engineering college established in 2056 BS. Edusanjal states that it runs three-year diplomas in civil and computer engineering, with 48 seats in each. It is part of the same institutional group as Godawari College.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://edusanjal.com/school/susma-koirala-memorial-engineering-college/",
+                    "https://www.collegenp.com/college/sushma-koirala-memorial-engineering-college-sunsari"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Diploma in Civil Engineering",
+                    "level": "Diploma",
+                    "duration": "3 Years",
+                    "faculty": "Engineering",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/school/susma-koirala-memorial-engineering-college/"
+                },
+                {
+                    "name": "Diploma in Computer Engineering",
+                    "level": "Diploma",
+                    "duration": "3 Years",
+                    "faculty": "Engineering",
+                    "fee": null,
+                    "source_url": "https://edusanjal.com/school/susma-koirala-memorial-engineering-college/"
+                }
+            ],
+            "facilities": [
+                "Sports",
+                "Transport",
+                "Science lab",
+                "Computer lab"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-25-582712",
+                    "+977-25-581052",
+                    "+977-25-587410"
+                ],
+                "emails": [
+                    "info@sushmagodawari.edu.np"
+                ],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "United National College",
+                "name_ne": null,
+                "slug": "united-national-college-dharan",
+                "ownership": "private",
+                "established_year": 2014,
+                "university": "Tribhuvan University",
+                "municipality": "Dharan",
+                "address": "Annapurna Line, Dharan-16, Sunsari",
+                "description": "Private college in Dharan established in 2071 BS and affiliated with Tribhuvan University. Public pages list BBS and BHM.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://www.uncollege.edu.np/bachelor-in-business-studies",
+                    "https://www.collegenp.com/course/united-national-un-college-bachelor-of-hotel-management-bhm",
+                    "https://merostudent.com/list-of-bachelor-colleges-in-dharan/"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Business Studies (BBS)",
+                    "level": "Bachelor",
+                    "duration": "4 Years",
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://www.uncollege.edu.np/bachelor-in-business-studies"
+                },
+                {
+                    "name": "Bachelor of Hotel Management (BHM)",
+                    "level": "Bachelor",
+                    "duration": "4 Years",
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/course/united-national-un-college-bachelor-of-hotel-management-bhm"
+                }
+            ],
+            "facilities": [
+                "Hotel management laboratories"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-25-574104",
+                    "+977-25-574877",
+                    "+977-25-574666",
+                    "+977-9852073786"
+                ],
+                "emails": [
+                    "uncollegedharan@gmail.com",
+                    "mnoorkhan80@gmail.com"
+                ],
+                "website": "https://uncollege.edu.np",
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Vijayapur College",
+                "name_ne": null,
+                "slug": "vijayapur-college-dharan",
+                "ownership": "private",
+                "established_year": 1986,
+                "university": "Tribhuvan University",
+                "municipality": "Dharan",
+                "address": "Dharan-14, Sunsari",
+                "description": "Private college established in 2043 BS and affiliated with Tribhuvan University. A public profile states that it offers Bachelor of Business Studies.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://www.collegenp.com/college/vijayapur-college-sunsari",
+                    "https://edusanjal.com/college/district/sunsari/"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Business Studies (BBS)",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://www.collegenp.com/college/vijayapur-college-sunsari"
+                }
+            ],
+            "facilities": [
+                "Cafeteria",
+                "Library",
+                "Sports",
+                "Science lab",
+                "Multimedia",
+                "Classrooms"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-25-522745",
+                    "+977-25-525640",
+                    "+977-9852049468"
+                ],
+                "emails": [
+                    "vijayapur.secondary.school@gmail.com"
+                ],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        },
+        {
+            "overview": {
+                "name": "Vishwa Adarsha College",
+                "name_ne": null,
+                "slug": "vishwa-adarsha-college",
+                "ownership": "private",
+                "established_year": 1998,
+                "university": "Tribhuvan University",
+                "municipality": "Itahari",
+                "address": "Adarsha Path, Itahari, Sunsari",
+                "description": "Private college in Itahari established in 2055 BS and affiliated with Tribhuvan University. A public profile lists BCA, BBS, and MBS.",
+                "mission": null,
+                "vision": null,
+                "source_urls": [
+                    "https://www.collegesnepal.com/vishwa-adarsha-college/",
+                    "https://edusanjal.com/college/local_level/itahari/"
+                ]
+            },
+            "courses": [
+                {
+                    "name": "Bachelor of Computer Application (BCA)",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Computer studies",
+                    "fee": null,
+                    "source_url": "https://www.collegesnepal.com/vishwa-adarsha-college/"
+                },
+                {
+                    "name": "Bachelor of Business Studies (BBS)",
+                    "level": "Bachelor",
+                    "duration": null,
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://www.collegesnepal.com/vishwa-adarsha-college/"
+                },
+                {
+                    "name": "Master of Business Studies (MBS)",
+                    "level": "Master",
+                    "duration": null,
+                    "faculty": "Management",
+                    "fee": null,
+                    "source_url": "https://www.collegesnepal.com/vishwa-adarsha-college/"
+                }
+            ],
+            "facilities": [
+                "Laboratories",
+                "Library",
+                "Transportation",
+                "Sports"
+            ],
+            "gallery": [],
+            "videos": [],
+            "updates": [],
+            "faqs": [],
+            "contact": {
+                "phones": [
+                    "+977-25-586017"
+                ],
+                "emails": [
+                    "vaccollegeith@gmail.com"
+                ],
+                "website": null,
+                "map_url": null
+            },
+            "reviews": [],
+            "qa": []
+        }
+    ]
+}
