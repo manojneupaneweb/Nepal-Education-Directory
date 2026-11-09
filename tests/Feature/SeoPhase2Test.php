@@ -8,7 +8,7 @@ use App\Models\InstitutionType;
 use App\Models\Municipality;
 use App\Models\Province;
 use App\Models\University;
-use App\Services\Seo\SeoService;
+use App\Services\SEO\SeoService;
 use Illuminate\Foundation\Testing\RefreshDatabase;
 use Illuminate\Support\Facades\Cache;
 use Tests\TestCase;

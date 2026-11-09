@@ -7,7 +7,7 @@ use App\Models\Institution;
 use App\Models\ProjectError;
 use App\Models\SearchKeyword;
 use App\Observers\InstitutionSitemapObserver;
-use App\Services\Seo\SeoService;
+use App\Services\SEO\SeoService;
 use Illuminate\Support\Facades\View;
 use Illuminate\Support\ServiceProvider;
 
