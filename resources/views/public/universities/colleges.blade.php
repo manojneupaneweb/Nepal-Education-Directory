@@ -18,7 +18,7 @@
         </nav>
         <div class="mt-6 flex flex-col gap-5 sm:flex-row sm:items-center">
             @if ($university->logo_path)
-                <img src="{{ asset($university->logo_path) }}" alt="" class="h-24 w-24 shrink-0 rounded-2xl border border-white bg-white object-contain p-2 shadow-md">
+                <img src="{{ asset($university->logo_path) }}" alt="{{ $university->name }} logo" width="96" height="96" class="h-24 w-24 shrink-0 rounded-2xl border border-white bg-white object-contain p-2 shadow-md">
             @endif
             <div>
                 <h1 class="text-3xl font-extrabold tracking-tight sm:text-4xl">{{ $university->name }} campuses and colleges</h1>

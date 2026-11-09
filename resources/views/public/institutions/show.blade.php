@@ -175,7 +175,7 @@
                     <h2 class="flex items-center gap-3 text-xl font-bold text-slate-900"><span class="h-6 w-4 rounded bg-brand-700" aria-hidden="true"></span>Gallery</h2>
                     <div class="mt-3 grid grid-cols-2 gap-3 sm:grid-cols-3">
                         @foreach ($gallery as $image)
-                            <img src="{{ $image }}" alt="" class="h-28 w-full rounded-xl border border-slate-200 object-cover">
+                            <img src="{{ $image }}" alt="Gallery photo of {{ $institution->name }}" width="320" height="112" loading="lazy" decoding="async" class="h-28 w-full rounded-xl border border-slate-200 object-cover">
                         @endforeach
                     </div>
                 </section>
@@ -257,7 +257,7 @@
                             @endphp
                             <a href="{{ route('institutions.show', $college) }}" class="flex gap-3 rounded-2xl border border-slate-200 p-3 hover:border-brand-300">
                                 @if ($logo)
-                                    <img src="{{ $logo }}" alt="" class="h-12 w-12 shrink-0 rounded-xl border border-slate-200 bg-white object-contain p-1">
+                                    <img src="{{ $logo }}" alt="{{ $college->name }} logo" width="48" height="48" loading="lazy" decoding="async" class="h-12 w-12 shrink-0 rounded-xl border border-slate-200 bg-white object-contain p-1">
                                 @else
                                     <span class="flex h-12 w-12 shrink-0 items-center justify-center rounded-xl bg-brand-700 text-lg font-black text-white">{{ mb_strtoupper(mb_substr($college->name, 0, 1)) }}</span>
                                 @endif

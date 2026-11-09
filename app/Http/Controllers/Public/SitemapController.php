@@ -82,16 +82,20 @@ class SitemapController extends Controller
             return [];
         }
 
-        return Institution::query()
-            ->published()
+        $urls = [];
+        Institution::query()
+            ->indexable()
             ->where('institution_type_id', $typeId)
-            ->orderBy('id')
-            ->get(['slug', 'updated_at'])
-            ->map(fn (Institution $institution) => [
-                'loc' => route('institutions.show', $institution->slug),
-                'lastmod' => $institution->updated_at?->toDateString(),
-            ])
-            ->all();
+            ->select(['id', 'slug', 'updated_at'])
+            ->lazyById(200)
+            ->each(function (Institution $institution) use (&$urls): void {
+                $urls[] = [
+                    'loc' => route('institutions.show', $institution->slug),
+                    'lastmod' => $institution->updated_at?->toDateString(),
+                ];
+            });
+
+        return $urls;
     }
 
     /**
@@ -99,11 +103,15 @@ class SitemapController extends Controller
      */
     private function universityUrls(): array
     {
-        return University::query()->orderBy('id')->get(['slug', 'updated_at'])->flatMap(function (University $university) {
-            return [
+        return University::query()->withCount(['institutions as published_colleges_count' => fn ($query) => $query->published()])->orderBy('id')->get(['id', 'slug', 'updated_at'])->flatMap(function (University $university) {
+            $urls = [
                 ['loc' => route('universities.show', $university->slug), 'lastmod' => $university->updated_at?->toDateString()],
-                ['loc' => route('universities.colleges', $university->slug), 'lastmod' => $university->updated_at?->toDateString()],
             ];
+            if (($university->published_colleges_count ?? 0) > 0) {
+                $urls[] = ['loc' => route('universities.colleges', $university->slug), 'lastmod' => $university->updated_at?->toDateString()];
+            }
+
+            return $urls;
         })->all();
     }
 

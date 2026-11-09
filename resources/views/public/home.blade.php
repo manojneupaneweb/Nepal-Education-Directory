@@ -153,7 +153,7 @@
                 @endphp
                 <a href="{{ route('universities.show', $university) }}" class="card group p-5">
                     @if ($logo)
-                        <img src="{{ $logo }}" alt="" width="48" height="48" loading="lazy" decoding="async" class="h-12 w-12 rounded-xl border border-slate-200 bg-white object-contain p-1">
+                        <img src="{{ $logo }}" alt="{{ $university->name }} logo" width="48" height="48" loading="lazy" decoding="async" class="h-12 w-12 rounded-xl border border-slate-200 bg-white object-contain p-1">
                     @else
                         <span class="flex h-12 w-12 items-center justify-center rounded-xl bg-blue-50 text-sm font-bold text-blue-900">{{ strtoupper(substr($university->abbreviation ?: $university->name, 0, 1)) }}</span>
                     @endif
@@ -184,7 +184,7 @@
                     <a href="{{ route('institutions.show', $college) }}" class="card group flex flex-col p-4">
                         <span class="flex items-center gap-3">
                             @if ($logo)
-                                <img src="{{ $logo }}" alt="" width="48" height="48" loading="lazy" decoding="async" class="h-12 w-12 shrink-0 rounded-lg border border-slate-100 bg-white object-contain p-1">
+                                <img src="{{ $logo }}" alt="{{ $college->name }} logo" width="48" height="48" loading="lazy" decoding="async" class="h-12 w-12 shrink-0 rounded-lg border border-slate-100 bg-white object-contain p-1">
                             @else
                                 <span class="flex h-12 w-12 shrink-0 items-center justify-center rounded-lg bg-blue-50 text-sm font-bold text-blue-900">{{ strtoupper(substr($college->name, 0, 1)) }}</span>
                             @endif

@@ -49,7 +49,7 @@
         <div class="mt-6 rounded-2xl border border-slate-200 bg-white p-6 shadow-sm">
             <div class="flex flex-col gap-5 sm:flex-row sm:items-start">
                 @if ($university->logo_path)
-                    <img src="{{ asset($university->logo_path) }}" alt="" class="h-20 w-20 shrink-0 rounded-xl border border-slate-200 bg-white object-contain p-2">
+                    <img src="{{ asset($university->logo_path) }}" alt="{{ $university->name }} logo" width="80" height="80" class="h-20 w-20 shrink-0 rounded-xl border border-slate-200 bg-white object-contain p-2">
                 @else
                     <div class="flex h-20 w-20 shrink-0 items-center justify-center rounded-xl bg-brand-800 text-2xl font-bold text-white" aria-hidden="true">{{ mb_strtoupper(mb_substr($university->name, 0, 1)) }}</div>
                 @endif

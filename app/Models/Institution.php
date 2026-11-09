@@ -79,6 +79,28 @@ class Institution extends Model
         return $query->where('status', InstitutionStatus::Published);
     }
 
+    /**
+     * SQL form of SeoService::isIndexable for sitemap generation.
+     *
+     * @param  Builder<Institution>  $query
+     * @return Builder<Institution>
+     */
+    public function scopeIndexable(Builder $query): Builder
+    {
+        $minimum = (int) config('seo.quality.min_description_length', 80);
+
+        return $query->published()
+            ->where('name', '!=', '')
+            ->where(function (Builder $query) use ($minimum): void {
+                $query->whereRaw('char_length(trim(coalesce(description, ?))) >= ?', ['', $minimum])
+                    ->orWhere('official_website', 'like', 'http%')
+                    ->orWhereHas('contacts', fn (Builder $contacts) => $contacts->whereIn('contact_type', ['phone', 'email'])->where('contact_value', '!=', ''))
+                    ->orWhereHas('programs')
+                    ->orWhere('website_sections', 'like', '%"programs":["%')
+                    ->orWhere('website_sections', 'like', '%"programs":[{%');
+            });
+    }
+
     public function type(): BelongsTo
     {
         return $this->belongsTo(InstitutionType::class, 'institution_type_id');

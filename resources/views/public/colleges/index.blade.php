@@ -119,7 +119,7 @@
                 <article class="rounded-2xl border border-slate-200 bg-white p-4 shadow-sm sm:p-5">
                     <div class="flex gap-4">
                         @if ($logo)
-                            <img src="{{ $logo }}" alt="" class="h-16 w-16 shrink-0 rounded-full border border-slate-200 bg-white object-contain p-1">
+                            <img src="{{ $logo }}" alt="{{ $college->name }} logo" width="64" height="64" loading="lazy" decoding="async" class="h-16 w-16 shrink-0 rounded-full border border-slate-200 bg-white object-contain p-1">
                         @else
                             <span class="flex h-16 w-16 shrink-0 items-center justify-center rounded-full bg-blue-50 text-lg font-bold text-blue-900">{{ mb_strtoupper(mb_substr($college->name, 0, 1)) }}</span>
                         @endif

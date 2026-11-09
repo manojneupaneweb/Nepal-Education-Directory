@@ -6,6 +6,7 @@ use App\Models\ContactMessage;
 use App\Models\Institution;
 use App\Models\ProjectError;
 use App\Models\SearchKeyword;
+use App\Observers\InstitutionSitemapObserver;
 use App\Services\Seo\SeoService;
 use Illuminate\Support\Facades\View;
 use Illuminate\Support\ServiceProvider;
@@ -25,6 +26,8 @@ class AppServiceProvider extends ServiceProvider
      */
     public function boot(): void
     {
+        Institution::observe(InstitutionSitemapObserver::class);
+
         View::composer('layouts.public', function ($view): void {
             if ($view->offsetExists('seo')) {
                 return;

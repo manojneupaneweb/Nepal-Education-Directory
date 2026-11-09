@@ -2,6 +2,7 @@
 
 namespace App\Services\Seo;
 
+use App\Enums\InstitutionStatus;
 use App\Models\Institution;
 use App\Models\Program;
 use App\Models\University;
@@ -27,11 +28,17 @@ class SeoService
         }
 
         if ($route === 'universities.colleges' && isset($data['university']) && $data['university'] instanceof University) {
-            return $this->page(
+            $meta = $this->page(
                 'Colleges affiliated with '.$data['university']->name,
                 'Colleges connected to '.$data['university']->name.' in the Nepal education directory.',
                 route('universities.colleges', $data['university']),
             );
+            $total = isset($data['colleges']) && method_exists($data['colleges'], 'total') ? $data['colleges']->total() : 0;
+            if ($total === 0) {
+                $meta->robots = 'noindex, follow';
+            }
+
+            return $meta;
         }
 
         if ($route === 'university-programs.university' && isset($data['university']) && $data['university'] instanceof University) {
@@ -43,9 +50,16 @@ class SeoService
         }
 
         $meta = $this->staticPage($route, $data);
-        if ($this->listingHasFilters($request)) {
-            $meta->robots = 'noindex, follow';
-            $meta->canonical = $this->cleanListingUrl($request);
+        if (in_array($route, ['schools.index', 'colleges.index'], true)) {
+            $page = $request->integer('page');
+            if ($page > 1) {
+                $meta->robots = 'noindex, follow';
+                $meta->canonical = $request->url().'?page='.$page;
+            }
+            if ($this->listingHasFilters($request)) {
+                $meta->robots = 'noindex, follow';
+                $meta->canonical = $page > 1 ? $request->url().'?page='.$page : $request->url();
+            }
         }
 
         return $meta;
@@ -77,11 +91,20 @@ class SeoService
         };
         $url = route('institutions.show', $institution);
         $image = $this->absoluteImage($institution->logo_path);
+        $sameAs = $this->sameAs($institution);
+        $address = array_filter([
+            '@type' => 'PostalAddress',
+            'streetAddress' => $this->nullable($institution->address),
+            'addressLocality' => $this->nullable($institution->municipality?->name),
+            'addressRegion' => $this->nullable($institution->district?->name),
+            'addressCountry' => ($institution->address || $institution->municipality || $institution->district) ? 'NP' : null,
+        ], fn ($value) => $value !== null && $value !== '');
 
         return new SeoMeta(
             title: $title,
             description: $description,
             canonical: $url,
+            robots: $this->isIndexable($institution) ? 'index, follow' : 'noindex, follow',
             image: $image,
             breadcrumbs: array_values(array_filter([
                 ['name' => 'Home', 'url' => route('home')],
@@ -91,23 +114,53 @@ class SeoService
                 $institution->district ? ['name' => $institution->district->name, 'url' => route('districts.show', $institution->district)] : null,
                 ['name' => $institution->name, 'url' => $url],
             ])),
-            jsonLd: [[
+            jsonLd: [$this->prune([
                 '@context' => 'https://schema.org',
                 '@type' => $type,
                 'name' => $institution->name,
                 'url' => $url,
                 'description' => $description,
-                'address' => [
-                    '@type' => 'PostalAddress',
-                    'streetAddress' => $institution->address,
-                    'addressLocality' => $institution->municipality?->name,
-                    'addressRegion' => $institution->district?->name,
-                    'addressCountry' => 'NP',
-                ],
+                'address' => count($address) > 1 ? $address : null,
                 'logo' => $image,
-                'sameAs' => $institution->official_website,
-            ]],
+                'sameAs' => $sameAs !== [] ? $sameAs : null,
+            ])],
         );
+    }
+
+    /**
+     * A published named institution is indexable when it has one quality signal.
+     * A website is a signal, not a requirement. Name and address alone are not enough.
+     */
+    public function isIndexable(Institution $institution): bool
+    {
+        if ($institution->status !== InstitutionStatus::Published || trim($institution->name) === '') {
+            return false;
+        }
+
+        $minimum = (int) config('seo.quality.min_description_length', 80);
+        if (mb_strlen(trim((string) $institution->description)) >= $minimum) {
+            return true;
+        }
+
+        if ($this->absoluteHttp($institution->official_website) !== null) {
+            return true;
+        }
+
+        $contacts = $institution->relationLoaded('contacts')
+            ? $institution->contacts
+            : $institution->contacts()->get();
+        if ($contacts->contains(fn ($contact) => in_array($contact->contact_type->value, ['phone', 'email'], true) && trim((string) $contact->contact_value) !== '')) {
+            return true;
+        }
+
+        $programs = $institution->relationLoaded('programs') ? $institution->programs : $institution->programs()->get(['programs.id']);
+        if ($programs->isNotEmpty()) {
+            return true;
+        }
+
+        $stored = $institution->website_sections['programs'] ?? [];
+
+        return is_array($stored) && collect($stored)->filter(fn ($value) => trim((string) (is_array($value) ? ($value['program_name'] ?? $value['name'] ?? '') : $value)) !== '')->isNotEmpty();
     }
 
     public function forUniversity(University $university): SeoMeta
@@ -202,14 +255,24 @@ class SeoService
 
         if (isset($data['municipality']) && $route === 'municipalities.show') {
             $name = $data['municipality']->name;
+            $meta = $this->page('Schools and Colleges in '.$name, 'Educational institutions in '.$name.', Nepal.', route('municipalities.show', [$data['district'], $data['municipality']]));
+            $total = isset($data['institutions']) && method_exists($data['institutions'], 'total') ? $data['institutions']->total() : 0;
+            if ($total === 0) {
+                $meta->robots = 'noindex, follow';
+            }
 
-            return $this->page('Schools and Colleges in '.$name, 'Educational institutions in '.$name.', Nepal.', route('municipalities.show', [$data['district'], $data['municipality']]));
+            return $meta;
         }
 
         if (isset($data['type']) && $route === 'types.show') {
             $name = $data['type']->name;
+            $meta = $this->page($name.' in Nepal', 'Browse '.$name.' records in the Nepal education directory.', route('types.show', $data['type']));
+            if (in_array($data['type']->slug, ['school', 'college'], true)) {
+                $meta->canonical = route($data['type']->slug === 'school' ? 'schools.index' : 'colleges.index');
+                $meta->robots = 'noindex, follow';
+            }
 
-            return $this->page($name.' in Nepal', 'Browse '.$name.' records in the Nepal education directory.', route('types.show', $data['type']));
+            return $meta;
         }
 
         [$title, $description] = $pages[$route] ?? ['Nepal Education Directory', 'An education directory for schools, colleges, and universities in Nepal.'];
@@ -283,5 +346,63 @@ class SeoService
         }
 
         return str_starts_with($path, 'http') ? $path : asset($path);
+    }
+
+    /**
+     * @return list<string>
+     */
+    private function sameAs(Institution $institution): array
+    {
+        $urls = [$institution->official_website];
+        $contacts = $institution->relationLoaded('contacts') ? $institution->contacts : $institution->contacts()->get();
+        foreach ($contacts as $contact) {
+            if (in_array($contact->contact_type->value, ['website', 'facebook', 'instagram', 'youtube'], true)) {
+                $urls[] = $contact->contact_value;
+            }
+        }
+
+        return collect($urls)
+            ->map(fn ($url) => $this->absoluteHttp($url))
+            ->filter()
+            ->unique()
+            ->values()
+            ->all();
+    }
+
+    private function absoluteHttp(mixed $url): ?string
+    {
+        $url = trim((string) $url);
+
+        return filter_var($url, FILTER_VALIDATE_URL) && str_starts_with($url, 'http') ? $url : null;
+    }
+
+    private function nullable(mixed $value): ?string
+    {
+        $text = trim((string) $value);
+
+        return $text === '' ? null : $text;
+    }
+
+    /**
+     * @param  array<string, mixed>  $value
+     * @return array<string, mixed>
+     */
+    private function prune(array $value): array
+    {
+        $pruned = [];
+        foreach ($value as $key => $item) {
+            if (is_array($item)) {
+                $item = $this->prune($item);
+                if ($item === []) {
+                    continue;
+                }
+            }
+            if ($item === null || $item === '') {
+                continue;
+            }
+            $pruned[$key] = $item;
+        }
+
+        return $pruned;
     }
 }

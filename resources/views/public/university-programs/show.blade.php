@@ -25,7 +25,7 @@
         </nav>
         <div class="mt-6 flex flex-col gap-5 sm:flex-row sm:items-center">
             @if ($program->university->logo_path)
-                <img src="{{ asset($program->university->logo_path) }}" alt="" class="h-24 w-24 shrink-0 rounded-2xl border border-white bg-white object-contain p-2 shadow-md">
+                <img src="{{ asset($program->university->logo_path) }}" alt="{{ $program->university->name }} logo" width="96" height="96" class="h-24 w-24 shrink-0 rounded-2xl border border-white bg-white object-contain p-2 shadow-md">
             @endif
             <div>
                 <p class="text-sm font-semibold text-brand-100">{{ $program->university->name }}</p>

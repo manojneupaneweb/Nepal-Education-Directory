@@ -6,6 +6,7 @@ use App\Http\Controllers\Admin\DashboardController;
 use App\Http\Controllers\Admin\DeveloperController;
 use App\Http\Controllers\Admin\InstitutionController;
 use App\Http\Controllers\Admin\KeywordController;
+use App\Http\Controllers\Admin\SettingsController;
 use App\Http\Controllers\Admin\UniversityController as AdminUniversityController;
 use App\Http\Controllers\Auth\LoginController;
 use App\Http\Controllers\Public\DirectoryController;
