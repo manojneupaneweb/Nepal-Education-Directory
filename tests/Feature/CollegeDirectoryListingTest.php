@@ -13,7 +13,7 @@ class CollegeDirectoryListingTest extends TestCase
 {
     use RefreshDatabase;
 
-    public function test_college_index_lists_logo_colleges_and_search_includes_colleges_without_a_logo(): void
+    public function test_college_index_lists_colleges_with_and_without_a_logo(): void
     {
         $province = Province::factory()->create(['is_active' => true]);
         $type = InstitutionType::factory()->create(['slug' => 'college']);
@@ -38,7 +38,7 @@ class CollegeDirectoryListingTest extends TestCase
             ->assertOk()
             ->assertSee('2 colleges')
             ->assertSee($withLogo->name)
-            ->assertDontSee($withoutLogo->name);
+            ->assertSee($withoutLogo->name);
 
         $this->get(route('colleges.index', ['q' => 'Plain']))
             ->assertOk()

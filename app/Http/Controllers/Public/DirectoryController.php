@@ -148,15 +148,12 @@ class DirectoryController extends Controller
             $query->where('municipality_id', $municipality->id);
         }
 
-        $listing = clone $query;
         if ($term !== '') {
             $like = '%'.addcslashes($term, '%_\\').'%';
-            $listing->where('name', 'like', $like);
-        } else {
-            $listing->whereNotNull('logo_path')->where('logo_path', '!=', '');
+            $query->where('name', 'like', $like);
         }
 
-        $colleges = $listing
+        $colleges = (clone $query)
             ->with(['municipality', 'district', 'province', 'affiliations.university', 'programs'])
             ->orderBy('name')
             ->paginate(18)

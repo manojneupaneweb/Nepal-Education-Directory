@@ -156,7 +156,7 @@
                 </article>
             @endforeach
         </div>
-        <div class="mt-8">{{ $colleges->links('vendor.pagination.tailwind', ['displayTotal' => $term === '' ? $totalColleges : null]) }}</div>
+        <div class="mt-8">{{ $colleges->links() }}</div>
     @else
         <div class="rounded-2xl border border-dashed border-slate-300 bg-white px-6 py-14 text-center">
             <p class="text-lg font-bold text-slate-900">No colleges match this view</p>
