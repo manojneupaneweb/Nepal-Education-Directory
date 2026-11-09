@@ -3,13 +3,13 @@
 namespace App\Http\Controllers\Public;
 
 use App\Http\Controllers\Controller;
-use App\Models\CollegeStream;
 use App\Models\District;
 use App\Models\Institution;
 use App\Models\InstitutionType;
 use App\Models\Municipality;
 use App\Models\Province;
 use App\Models\University;
+use App\Services\SEO\DirectoryPerformance;
 use Illuminate\View\View;
 
 class HomeController extends Controller
@@ -17,7 +17,7 @@ class HomeController extends Controller
     public function index(): View
     {
         return view('public.home', [
-            'provinces' => Province::query()->active()->withDirectoryCounts()->orderBy('code')->get(),
+            'provinces' => DirectoryPerformance::provinces(),
             'types' => InstitutionType::query()->active()->orderBy('sort_order')->get(),
             'featuredTypes' => InstitutionType::query()
                 ->active()
@@ -57,10 +57,7 @@ class HomeController extends Controller
                 ->orderBy('name')
                 ->limit(8)
                 ->get(),
-            'collegeStreams' => CollegeStream::query()->active()->orderBy('sort_order')->get()
-                ->each(function (CollegeStream $stream): void {
-                    $stream->setAttribute('matched_colleges_count', $stream->matchingInstitutions()->count());
-                }),
+            'collegeStreams' => DirectoryPerformance::countedStreams(),
             'counts' => [
                 'provinces' => Province::query()->active()->count(),
                 'districts' => District::query()->active()->count(),

@@ -13,6 +13,7 @@ use App\Models\InstitutionType;
 use App\Models\Municipality;
 use App\Models\PageView;
 use App\Models\Province;
+use App\Services\SEO\DirectoryPerformance;
 use Illuminate\Contracts\Pagination\LengthAwarePaginator;
 use Illuminate\Http\RedirectResponse;
 use Illuminate\Http\Request;
@@ -75,8 +76,6 @@ class DirectoryController extends Controller
             ->paginate(18)
             ->withQueryString();
 
-        $totalSchools = (clone $query)->count();
-
         $categories = InstitutionCategory::query()
             ->active()
             ->whereIn('slug', ['government-school', 'private-school'])
@@ -88,11 +87,7 @@ class DirectoryController extends Controller
             }])
             ->get();
 
-        $provinces = Province::query()
-            ->active()
-            ->withDirectoryCounts()
-            ->orderBy('code')
-            ->get();
+        $provinces = DirectoryPerformance::provinces();
 
         $districts = District::query()
             ->active()
@@ -106,7 +101,7 @@ class DirectoryController extends Controller
 
         return view('public.schools.index', [
             'schools' => $schools,
-            'totalSchools' => $totalSchools,
+            'totalSchools' => $schools->total(),
             'schoolType' => $schoolType,
             'categories' => $categories,
             'provinces' => $provinces,
@@ -161,7 +156,7 @@ class DirectoryController extends Controller
 
         return view('public.colleges.index', [
             'colleges' => $colleges,
-            'totalColleges' => (clone $query)->count(),
+            'totalColleges' => $colleges->total(),
             'provinces' => Province::query()->active()->withCount([
                 'institutions as colleges_count' => fn ($count) => $count->published()
                     ->when($collegeType, fn ($inner) => $inner->where('institution_type_id', $collegeType->id)),

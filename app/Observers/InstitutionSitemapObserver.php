@@ -3,6 +3,7 @@
 namespace App\Observers;
 
 use App\Models\Institution;
+use App\Services\SEO\DirectoryPerformance;
 use Illuminate\Support\Facades\Cache;
 
 class InstitutionSitemapObserver
@@ -27,5 +28,7 @@ class InstitutionSitemapObserver
         foreach (['schools', 'colleges', 'locations'] as $section) {
             Cache::forget('seo.sitemap.'.$section);
         }
+
+        DirectoryPerformance::forgetPublicCounts();
     }
 }
