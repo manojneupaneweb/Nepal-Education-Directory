@@ -123,6 +123,24 @@ class SeoPhase2Test extends TestCase
             ->assertDontSee('/institutions/cached-school');
     }
 
+    public function test_university_sitemap_counts_published_colleges_when_affiliation_also_has_status(): void
+    {
+        $university = University::factory()->create(['slug' => 'counted-university']);
+        $college = Institution::factory()->create([
+            'status' => InstitutionStatus::Published,
+            'name' => 'Affiliated College',
+        ]);
+        $college->affiliations()->create([
+            'university_id' => $university->id,
+            'affiliation_type' => 'affiliated',
+            'status' => 'active',
+        ]);
+
+        $this->get(route('sitemap.section', 'universities'))
+            ->assertOk()
+            ->assertSee('/universities/counted-university/colleges', false);
+    }
+
     public function test_college_logo_has_an_alt_attribute(): void
     {
         $province = Province::factory()->create(['is_active' => true]);

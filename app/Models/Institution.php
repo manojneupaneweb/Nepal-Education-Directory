@@ -76,7 +76,7 @@ class Institution extends Model
      */
     public function scopePublished(Builder $query): Builder
     {
-        return $query->where('status', InstitutionStatus::Published);
+        return $query->where($query->qualifyColumn('status'), InstitutionStatus::Published);
     }
 
     /**
