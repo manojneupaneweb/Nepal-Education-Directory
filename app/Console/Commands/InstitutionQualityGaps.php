@@ -23,6 +23,7 @@ class InstitutionQualityGaps extends Command
         $published = Institution::query()->published();
         $schools = (clone $published)->when($schoolId, fn ($query) => $query->where('institution_type_id', $schoolId));
         $minimum = (int) config('seo.quality.min_description_length', 80);
+        $length = DB::connection()->getDriverName() === 'sqlite' ? 'length' : 'char_length';
 
         $duplicates = Institution::query()
             ->published()
@@ -48,7 +49,7 @@ class InstitutionQualityGaps extends Command
             'schools_missing_website' => (clone $schools)->where(function ($query): void {
                 $query->whereNull('official_website')->orWhere('official_website', 'not like', 'http%');
             })->count(),
-            'schools_missing_description' => (clone $schools)->whereRaw('char_length(trim(coalesce(description, ?))) < ?', ['', $minimum])->count(),
+            'schools_missing_description' => (clone $schools)->whereRaw($length.'(trim(coalesce(description, ?))) < ?', ['', $minimum])->count(),
             'same_municipality_name_groups' => $duplicates->count(),
         ];
 

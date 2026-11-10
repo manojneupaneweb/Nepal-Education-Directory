@@ -88,11 +88,12 @@ class Institution extends Model
     public function scopeIndexable(Builder $query): Builder
     {
         $minimum = (int) config('seo.quality.min_description_length', 80);
+        $length = $query->getConnection()->getDriverName() === 'sqlite' ? 'length' : 'char_length';
 
         return $query->published()
             ->where('name', '!=', '')
-            ->where(function (Builder $query) use ($minimum): void {
-                $query->whereRaw('char_length(trim(coalesce(description, ?))) >= ?', ['', $minimum])
+            ->where(function (Builder $query) use ($minimum, $length): void {
+                $query->whereRaw($length.'(trim(coalesce(description, ?))) >= ?', ['', $minimum])
                     ->orWhere('official_website', 'like', 'http%')
                     ->orWhereHas('contacts', fn (Builder $contacts) => $contacts->whereIn('contact_type', ['phone', 'email'])->where('contact_value', '!=', ''))
                     ->orWhereHas('programs')

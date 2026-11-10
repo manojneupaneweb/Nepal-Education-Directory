@@ -98,7 +98,7 @@ class SourceReviewController extends Controller
     {
         match ($gap) {
             'email' => $query->whereDoesntHave('contacts', fn ($contacts) => $contacts->where('contact_type', 'email')->where('contact_value', '!=', '')),
-            'description' => $query->whereRaw('char_length(trim(coalesce(description, ?))) < ?', ['', (int) config('seo.quality.min_description_length', 80)]),
+            'description' => $query->whereRaw(($query->getConnection()->getDriverName() === 'sqlite' ? 'length' : 'char_length').'(trim(coalesce(description, ?))) < ?', ['', (int) config('seo.quality.min_description_length', 80)]),
             default => $query->whereDoesntHave('contacts', fn ($contacts) => $contacts->where('contact_type', 'phone')->where('contact_value', '!=', '')->where(function ($contacts): void {
                 $contacts->whereNull('label')->orWhere('label', '!=', 'Named principal');
             })),
